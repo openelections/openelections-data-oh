@@ -1,0 +1,331 @@
+county,candidate,party,office,district,votes
+Hamilton,Al Gore,D,President,1,29842
+Hamilton,Bill Bradley,D,President,1,7711
+Hamilton,"Lyndon Larouche, Jr.",D,President,1,448
+Adams,Al Gore,D,President,2,1422
+Warren,Al Gore,D,President,2,2508
+Hamilton,Al Gore,D,President,2,10028
+Brown,Al Gore,D,President,2,2670
+Clermont,Al Gore,D,President,2,4449
+Adams,Bill Bradley,D,President,2,461
+Clermont,Bill Bradley,D,President,2,1402
+Brown,Bill Bradley,D,President,2,1257
+Hamilton,Bill Bradley,D,President,2,4431
+Warren,Bill Bradley,D,President,2,666
+Adams,"Lyndon Larouche, Jr.",D,President,2,65
+Clermont,"Lyndon Larouche, Jr.",D,President,2,80
+Brown,"Lyndon Larouche, Jr.",D,President,2,114
+Warren,"Lyndon Larouche, Jr.",D,President,2,46
+Hamilton,"Lyndon Larouche, Jr.",D,President,2,146
+Montgomery,Al Gore,D,President,3,36521
+Montgomery,Bill Bradley,D,President,3,8556
+Montgomery,"Lyndon Larouche, Jr.",D,President,3,499
+Allen,Al Gore,D,President,4,4484
+Hancock,Al Gore,D,President,4,1871
+Hardin,Al Gore,D,President,4,1247
+Richland,Al Gore,D,President,4,6632
+Auglaize,Al Gore,D,President,4,1375
+Wyandot,Al Gore,D,President,4,1038
+Morrow,Al Gore,D,President,4,1494
+Logan,Al Gore,D,President,4,752
+Marion,Al Gore,D,President,4,4002
+Knox,Al Gore,D,President,4,1001
+Crawford,Al Gore,D,President,4,2650
+Allen,Bill Bradley,D,President,4,1667
+Hancock,Bill Bradley,D,President,4,710
+Knox,Bill Bradley,D,President,4,384
+Auglaize,Bill Bradley,D,President,4,488
+Wyandot,Bill Bradley,D,President,4,406
+Richland,Bill Bradley,D,President,4,2379
+Morrow,Bill Bradley,D,President,4,526
+Marion,Bill Bradley,D,President,4,1501
+Logan,Bill Bradley,D,President,4,242
+Hardin,Bill Bradley,D,President,4,430
+Crawford,Bill Bradley,D,President,4,1010
+Allen,"Lyndon Larouche, Jr.",D,President,4,121
+Hancock,"Lyndon Larouche, Jr.",D,President,4,48
+Auglaize,"Lyndon Larouche, Jr.",D,President,4,49
+Wyandot,"Lyndon Larouche, Jr.",D,President,4,33
+Richland,"Lyndon Larouche, Jr.",D,President,4,176
+Morrow,"Lyndon Larouche, Jr.",D,President,4,79
+Marion,"Lyndon Larouche, Jr.",D,President,4,116
+Logan,"Lyndon Larouche, Jr.",D,President,4,18
+Knox,"Lyndon Larouche, Jr.",D,President,4,29
+Hardin,"Lyndon Larouche, Jr.",D,President,4,24
+Crawford,"Lyndon Larouche, Jr.",D,President,4,84
+Defiance,Al Gore,D,President,5,1510
+Erie,Al Gore,D,President,5,6638
+Wood,Al Gore,D,President,5,3329
+Williams,Al Gore,D,President,5,1090
+Van Wert,Al Gore,D,President,5,1382
+Seneca,Al Gore,D,President,5,3125
+Sandusky,Al Gore,D,President,5,3380
+Putnam,Al Gore,D,President,5,2124
+Paulding,Al Gore,D,President,5,1057
+Ottawa,Al Gore,D,President,5,1586
+Mercer,Al Gore,D,President,5,293
+Lorain,Al Gore,D,President,5,2483
+Huron,Al Gore,D,President,5,2307
+Henry,Al Gore,D,President,5,998
+Defiance,Bill Bradley,D,President,5,566
+Erie,Bill Bradley,D,President,5,2093
+Henry,Bill Bradley,D,President,5,330
+Lorain,Bill Bradley,D,President,5,1030
+Wood,Bill Bradley,D,President,5,1300
+Williams,Bill Bradley,D,President,5,369
+Van Wert,Bill Bradley,D,President,5,501
+Seneca,Bill Bradley,D,President,5,1308
+Sandusky,Bill Bradley,D,President,5,985
+Putnam,Bill Bradley,D,President,5,1205
+Paulding,Bill Bradley,D,President,5,424
+Ottawa,Bill Bradley,D,President,5,505
+Mercer,Bill Bradley,D,President,5,169
+Huron,Bill Bradley,D,President,5,861
+Defiance,"Lyndon Larouche, Jr.",D,President,5,47
+Erie,"Lyndon Larouche, Jr.",D,President,5,150
+Wood,"Lyndon Larouche, Jr.",D,President,5,56
+Williams,"Lyndon Larouche, Jr.",D,President,5,27
+Van Wert,"Lyndon Larouche, Jr.",D,President,5,46
+Seneca,"Lyndon Larouche, Jr.",D,President,5,101
+Sandusky,"Lyndon Larouche, Jr.",D,President,5,65
+Putnam,"Lyndon Larouche, Jr.",D,President,5,114
+Paulding,"Lyndon Larouche, Jr.",D,President,5,46
+Ottawa,"Lyndon Larouche, Jr.",D,President,5,24
+Mercer,"Lyndon Larouche, Jr.",D,President,5,10
+Lorain,"Lyndon Larouche, Jr.",D,President,5,73
+Huron,"Lyndon Larouche, Jr.",D,President,5,63
+Henry,"Lyndon Larouche, Jr.",D,President,5,17
+Athens,Al Gore,D,President,6,4012
+Washington,Al Gore,D,President,6,3510
+Warren,Al Gore,D,President,6,1758
+Vinton,Al Gore,D,President,6,1152
+Scioto,Al Gore,D,President,6,5091
+Ross,Al Gore,D,President,6,2408
+Pike,Al Gore,D,President,6,2006
+Meigs,Al Gore,D,President,6,1470
+Lawrence,Al Gore,D,President,6,3990
+Jackson,Al Gore,D,President,6,1276
+Hocking,Al Gore,D,President,6,1544
+Gallia,Al Gore,D,President,6,1624
+Highland,Al Gore,D,President,6,1493
+Clinton,Al Gore,D,President,6,1156
+Athens,Bill Bradley,D,President,6,2287
+Washington,Bill Bradley,D,President,6,1219
+Warren,Bill Bradley,D,President,6,617
+Vinton,Bill Bradley,D,President,6,355
+Scioto,Bill Bradley,D,President,6,1499
+Ross,Bill Bradley,D,President,6,687
+Pike,Bill Bradley,D,President,6,557
+Meigs,Bill Bradley,D,President,6,497
+Lawrence,Bill Bradley,D,President,6,1095
+Jackson,Bill Bradley,D,President,6,342
+Hocking,Bill Bradley,D,President,6,545
+Highland,Bill Bradley,D,President,6,430
+Gallia,Bill Bradley,D,President,6,603
+Clinton,Bill Bradley,D,President,6,370
+Athens,"Lyndon Larouche, Jr.",D,President,6,169
+Washington,"Lyndon Larouche, Jr.",D,President,6,95
+Warren,"Lyndon Larouche, Jr.",D,President,6,29
+Vinton,"Lyndon Larouche, Jr.",D,President,6,44
+Scioto,"Lyndon Larouche, Jr.",D,President,6,127
+Ross,"Lyndon Larouche, Jr.",D,President,6,35
+Pike,"Lyndon Larouche, Jr.",D,President,6,50
+Meigs,"Lyndon Larouche, Jr.",D,President,6,68
+Lawrence,"Lyndon Larouche, Jr.",D,President,6,104
+Jackson,"Lyndon Larouche, Jr.",D,President,6,40
+Hocking,"Lyndon Larouche, Jr.",D,President,6,69
+Highland,"Lyndon Larouche, Jr.",D,President,6,36
+Gallia,"Lyndon Larouche, Jr.",D,President,6,49
+Clinton,"Lyndon Larouche, Jr.",D,President,6,26
+Champaign,Al Gore,D,President,7,1763
+Union,Al Gore,D,President,7,1264
+Ross,Al Gore,D,President,7,1376
+Fairfield,Al Gore,D,President,7,5570
+Greene,Al Gore,D,President,7,6359
+Fayette,Al Gore,D,President,7,856
+Pickaway,Al Gore,D,President,7,1883
+Logan,Al Gore,D,President,7,619
+Clark,Al Gore,D,President,7,9601
+Champaign,Bill Bradley,D,President,7,554
+Greene,Bill Bradley,D,President,7,2046
+Union,Bill Bradley,D,President,7,422
+Ross,Bill Bradley,D,President,7,362
+Pickaway,Bill Bradley,D,President,7,606
+Logan,Bill Bradley,D,President,7,178
+Fayette,Bill Bradley,D,President,7,221
+Fairfield,Bill Bradley,D,President,7,1966
+Clark,Bill Bradley,D,President,7,2770
+Champaign,"Lyndon Larouche, Jr.",D,President,7,38
+Union,"Lyndon Larouche, Jr.",D,President,7,29
+Ross,"Lyndon Larouche, Jr.",D,President,7,16
+Pickaway,"Lyndon Larouche, Jr.",D,President,7,35
+Logan,"Lyndon Larouche, Jr.",D,President,7,26
+Greene,"Lyndon Larouche, Jr.",D,President,7,103
+Fayette,"Lyndon Larouche, Jr.",D,President,7,16
+Fairfield,"Lyndon Larouche, Jr.",D,President,7,132
+Clark,"Lyndon Larouche, Jr.",D,President,7,156
+Butler,Al Gore,D,President,8,10646
+Auglaize,Al Gore,D,President,8,427
+Shelby,Al Gore,D,President,8,3791
+Preble,Al Gore,D,President,8,1782
+Montgomery,Al Gore,D,President,8,181
+Miami,Al Gore,D,President,8,4340
+Mercer,Al Gore,D,President,8,1865
+Darke,Al Gore,D,President,8,2799
+Butler,Bill Bradley,D,President,8,3152
+Mercer,Bill Bradley,D,President,8,736
+Darke,Bill Bradley,D,President,8,917
+Miami,Bill Bradley,D,President,8,1276
+Auglaize,Bill Bradley,D,President,8,172
+Shelby,Bill Bradley,D,President,8,2030
+Preble,Bill Bradley,D,President,8,462
+Montgomery,Bill Bradley,D,President,8,65
+Butler,"Lyndon Larouche, Jr.",D,President,8,151
+Darke,"Lyndon Larouche, Jr.",D,President,8,95
+Mercer,"Lyndon Larouche, Jr.",D,President,8,509
+Shelby,"Lyndon Larouche, Jr.",D,President,8,163
+Auglaize,"Lyndon Larouche, Jr.",D,President,8,16
+Preble,"Lyndon Larouche, Jr.",D,President,8,51
+Montgomery,"Lyndon Larouche, Jr.",D,President,8,5
+Miami,"Lyndon Larouche, Jr.",D,President,8,104
+Fulton,Al Gore,D,President,9,1498
+Wood,Al Gore,D,President,9,2906
+Ottawa,Al Gore,D,President,9,966
+Lucas,Al Gore,D,President,9,30882
+Fulton,Bill Bradley,D,President,9,434
+Wood,Bill Bradley,D,President,9,809
+Ottawa,Bill Bradley,D,President,9,255
+Lucas,Bill Bradley,D,President,9,7761
+Fulton,"Lyndon Larouche, Jr.",D,President,9,23
+Lucas,"Lyndon Larouche, Jr.",D,President,9,334
+Ottawa,"Lyndon Larouche, Jr.",D,President,9,15
+Wood,"Lyndon Larouche, Jr.",D,President,9,39
+Cuyahoga,Al Gore,D,President,10,44526
+Cuyahoga,Bill Bradley,D,President,10,14919
+Cuyahoga,"Lyndon Larouche, Jr.",D,President,10,816
+Cuyahoga,Al Gore,D,President,11,61113
+Cuyahoga,Bill Bradley,D,President,11,13022
+Cuyahoga,"Lyndon Larouche, Jr.",D,President,11,678
+Delaware,Al Gore,D,President,12,3654
+Licking,Al Gore,D,President,12,4077
+Franklin,Al Gore,D,President,12,23558
+Delaware,Bill Bradley,D,President,12,1460
+Franklin,Bill Bradley,D,President,12,6089
+Licking,Bill Bradley,D,President,12,1456
+Delaware,"Lyndon Larouche, Jr.",D,President,12,67
+Franklin,"Lyndon Larouche, Jr.",D,President,12,287
+Licking,"Lyndon Larouche, Jr.",D,President,12,100
+Cuyahoga,Al Gore,D,President,13,1034
+Geauga,Al Gore,D,President,13,4543
+Lorain,Al Gore,D,President,13,18783
+Medina,Al Gore,D,President,13,7358
+Portage,Al Gore,D,President,13,3335
+Summit,Al Gore,D,President,13,3394
+Trumbull,Al Gore,D,President,13,2957
+Cuyahoga,Bill Bradley,D,President,13,339
+Geauga,Bill Bradley,D,President,13,1764
+Medina,Bill Bradley,D,President,13,2521
+Summit,Bill Bradley,D,President,13,909
+Trumbull,Bill Bradley,D,President,13,1089
+Portage,Bill Bradley,D,President,13,1351
+Lorain,Bill Bradley,D,President,13,6638
+Cuyahoga,"Lyndon Larouche, Jr.",D,President,13,17
+Trumbull,"Lyndon Larouche, Jr.",D,President,13,113
+Summit,"Lyndon Larouche, Jr.",D,President,13,34
+Portage,"Lyndon Larouche, Jr.",D,President,13,102
+Medina,"Lyndon Larouche, Jr.",D,President,13,131
+Lorain,"Lyndon Larouche, Jr.",D,President,13,414
+Geauga,"Lyndon Larouche, Jr.",D,President,13,103
+Portage,Al Gore,D,President,14,6099
+Stark,Al Gore,D,President,14,263
+Summit,Al Gore,D,President,14,33773
+Portage,Bill Bradley,D,President,14,2832
+Stark,Bill Bradley,D,President,14,101
+Summit,Bill Bradley,D,President,14,13077
+Portage,"Lyndon Larouche, Jr.",D,President,14,135
+Summit,"Lyndon Larouche, Jr.",D,President,14,643
+Stark,"Lyndon Larouche, Jr.",D,President,14,4
+Franklin,Al Gore,D,President,15,22757
+Madison,Al Gore,D,President,15,1375
+Pickaway,Al Gore,D,President,15,160
+Franklin,Bill Bradley,D,President,15,8693
+Madison,Bill Bradley,D,President,15,390
+Pickaway,Bill Bradley,D,President,15,54
+Franklin,"Lyndon Larouche, Jr.",D,President,15,248
+Pickaway,"Lyndon Larouche, Jr.",D,President,15,1
+Madison,"Lyndon Larouche, Jr.",D,President,15,24
+Ashland,Al Gore,D,President,16,2102
+Stark,Al Gore,D,President,16,31085
+Holmes,Al Gore,D,President,16,855
+Knox,Al Gore,D,President,16,1133
+Wayne,Al Gore,D,President,16,4271
+Ashland,Bill Bradley,D,President,16,732
+Knox,Bill Bradley,D,President,16,387
+Stark,Bill Bradley,D,President,16,9951
+Wayne,Bill Bradley,D,President,16,1718
+Holmes,Bill Bradley,D,President,16,396
+Ashland,"Lyndon Larouche, Jr.",D,President,16,92
+Knox,"Lyndon Larouche, Jr.",D,President,16,16
+Stark,"Lyndon Larouche, Jr.",D,President,16,841
+Wayne,"Lyndon Larouche, Jr.",D,President,16,127
+Holmes,"Lyndon Larouche, Jr.",D,President,16,36
+Columbiana,Al Gore,D,President,17,9133
+Mahoning,Al Gore,D,President,17,40992
+Trumbull,Al Gore,D,President,17,29143
+Columbiana,Bill Bradley,D,President,17,3557
+Mahoning,Bill Bradley,D,President,17,16568
+Trumbull,Bill Bradley,D,President,17,11446
+Columbiana,"Lyndon Larouche, Jr.",D,President,17,359
+Trumbull,"Lyndon Larouche, Jr.",D,President,17,939
+Mahoning,"Lyndon Larouche, Jr.",D,President,17,1191
+Belmont,Al Gore,D,President,18,8347
+Carroll,Al Gore,D,President,18,1860
+Tuscarawas,Al Gore,D,President,18,8097
+Perry,Al Gore,D,President,18,2112
+Noble,Al Gore,D,President,18,1219
+Muskingum,Al Gore,D,President,18,3476
+Morgan,Al Gore,D,President,18,690
+Monroe,Al Gore,D,President,18,2195
+Licking,Al Gore,D,President,18,3602
+Jefferson,Al Gore,D,President,18,8541
+Harrison,Al Gore,D,President,18,2230
+Guernsey,Al Gore,D,President,18,2239
+Coshocton,Al Gore,D,President,18,1610
+Columbiana,Al Gore,D,President,18,176
+Belmont,Bill Bradley,D,President,18,4969
+Coshocton,Bill Bradley,D,President,18,558
+Tuscarawas,Bill Bradley,D,President,18,4075
+Perry,Bill Bradley,D,President,18,666
+Noble,Bill Bradley,D,President,18,611
+Muskingum,Bill Bradley,D,President,18,1071
+Morgan,Bill Bradley,D,President,18,218
+Monroe,Bill Bradley,D,President,18,1321
+Licking,Bill Bradley,D,President,18,1104
+Jefferson,Bill Bradley,D,President,18,5527
+Harrison,Bill Bradley,D,President,18,1219
+Guernsey,Bill Bradley,D,President,18,834
+Carroll,Bill Bradley,D,President,18,646
+Columbiana,Bill Bradley,D,President,18,91
+Belmont,"Lyndon Larouche, Jr.",D,President,18,475
+Columbiana,"Lyndon Larouche, Jr.",D,President,18,17
+Tuscarawas,"Lyndon Larouche, Jr.",D,President,18,378
+Muskingum,"Lyndon Larouche, Jr.",D,President,18,94
+Morgan,"Lyndon Larouche, Jr.",D,President,18,19
+Monroe,"Lyndon Larouche, Jr.",D,President,18,165
+Licking,"Lyndon Larouche, Jr.",D,President,18,101
+Jefferson,"Lyndon Larouche, Jr.",D,President,18,443
+Harrison,"Lyndon Larouche, Jr.",D,President,18,118
+Guernsey,"Lyndon Larouche, Jr.",D,President,18,98
+Coshocton,"Lyndon Larouche, Jr.",D,President,18,41
+Carroll,"Lyndon Larouche, Jr.",D,President,18,69
+Perry,"Lyndon Larouche, Jr.",D,President,18,68
+Noble,"Lyndon Larouche, Jr.",D,President,18,74
+Ashtabula,Al Gore,D,President,19,7794
+Lake,Al Gore,D,President,19,13246
+Cuyahoga,Al Gore,D,President,19,22252
+Ashtabula,Bill Bradley,D,President,19,2157
+Lake,Bill Bradley,D,President,19,4207
+Cuyahoga,Bill Bradley,D,President,19,6785
+Ashtabula,"Lyndon Larouche, Jr.",D,President,19,249
+Cuyahoga,"Lyndon Larouche, Jr.",D,President,19,294
+Lake,"Lyndon Larouche, Jr.",D,President,19,281
