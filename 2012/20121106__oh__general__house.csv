@@ -1,0 +1,317 @@
+county,candidate,party,office,district,votes
+Hamilton,Jim Berns,Libertarian,U.S. House,1,6137
+Hamilton,Steve Chabot,Republican,U.S. House,1,125781
+Hamilton,Jeff Sinnard,Democratic,U.S. House,1,106526
+Hamilton,Rich Stevenson ,Green ,U.S. House,1,4942
+Warren,Jim Berns,Libertarian,U.S. House,1,3537
+Warren,Steve Chabot,Republican,U.S. House,1,76126
+Warren,Jeff Sinnard,Democratic,U.S. House,1,24964
+Warren,Rich Stevenson ,Green ,U.S. House,1,1703
+Adams,William Smith,Democratic,U.S. House,2,3900
+Adams,Brad Wenstrup ,Republican ,U.S. House,2,6598
+Brown,William Smith,Democratic,U.S. House,2,6612
+Brown,Brad Wenstrup ,Republican ,U.S. House,2,11660
+Clermont,William Smith,Democratic,U.S. House,2,25911
+Clermont,Brad Wenstrup ,Republican ,U.S. House,2,63023
+Hamilton,William Smith,Democratic,U.S. House,2,71969
+Hamilton,Brad Wenstrup ,Republican ,U.S. House,2,83391
+Highland,William Smith,Democratic,U.S. House,2,5686
+Highland,Brad Wenstrup ,Republican ,U.S. House,2,11248
+Pike,William Smith,Democratic,U.S. House,2,5986
+Pike,Brad Wenstrup ,Republican ,U.S. House,2,4856
+Ross,William Smith,Democratic,U.S. House,2,8307
+Ross,Brad Wenstrup ,Republican ,U.S. House,2,7487
+Scioto,William Smith,Democratic,U.S. House,2,8711
+Scioto,Brad Wenstrup ,Republican ,U.S. House,2,6036
+Franklin,Joyce Beatty,Democratic,U.S. House,3,201921
+Franklin,Jeff Brown,,U.S. House,3,5
+Franklin,Richard Ehrbar,Libertarian,U.S. House,3,9462
+Franklin,Bob Fitrakis,Green,U.S. House,3,6388
+Franklin,Chris Long ,Republican ,U.S. House,3,77903
+Allen,Jim Jordan,Republican,U.S. House,4,31072
+Allen,Chris Kalla,Libertarian,U.S. House,4,1594
+Allen,Jim Slone ,Democratic ,U.S. House,4,14233
+Auglaize,Jim Jordan,Republican,U.S. House,4,17330
+Auglaize,Chris Kalla,Libertarian,U.S. House,4,850
+Auglaize,Jim Slone ,Democratic ,U.S. House,4,4298
+Champaign,Jim Jordan,Republican,U.S. House,4,12188
+Champaign,Chris Kalla,Libertarian,U.S. House,4,700
+Champaign,Jim Slone ,Democratic ,U.S. House,4,5005
+Crawford,Jim Jordan,Republican,U.S. House,4,11059
+Crawford,Chris Kalla,Libertarian,U.S. House,4,1113
+Crawford,Jim Slone ,Democratic ,U.S. House,4,6439
+Erie,Jim Jordan,Republican,U.S. House,4,2932
+Erie,Chris Kalla,Libertarian,U.S. House,4,364
+Erie,Jim Slone ,Democratic ,U.S. House,4,2510
+Huron,Jim Jordan,Republican,U.S. House,4,6010
+Huron,Chris Kalla,Libertarian,U.S. House,4,832
+Huron,Jim Slone ,Democratic ,U.S. House,4,5498
+Logan,Jim Jordan,Republican,U.S. House,4,14472
+Logan,Chris Kalla,Libertarian,U.S. House,4,960
+Logan,Jim Slone ,Democratic ,U.S. House,4,5066
+Lorain,Jim Jordan,Republican,U.S. House,4,15874
+Lorain,Chris Kalla,Libertarian,U.S. House,4,2727
+Lorain,Jim Slone ,Democratic ,U.S. House,4,29468
+Marion,Jim Jordan,Republican,U.S. House,4,11818
+Marion,Chris Kalla,Libertarian,U.S. House,4,1167
+Marion,Jim Slone ,Democratic ,U.S. House,4,8781
+Mercer,Jim Jordan,Republican,U.S. House,4,1216
+Mercer,Chris Kalla,Libertarian,U.S. House,4,66
+Mercer,Jim Slone ,Democratic ,U.S. House,4,361
+Sandusky,Jim Jordan,Republican,U.S. House,4,12883
+Sandusky,Chris Kalla,Libertarian,U.S. House,4,1924
+Sandusky,Jim Slone ,Democratic ,U.S. House,4,11945
+Seneca,Jim Jordan,Republican,U.S. House,4,12639
+Seneca,Chris Kalla,Libertarian,U.S. House,4,1605
+Seneca,Jim Slone ,Democratic ,U.S. House,4,9306
+Shelby,Jim Jordan,Republican,U.S. House,4,17477
+Shelby,Chris Kalla,Libertarian,U.S. House,4,839
+Shelby,Jim Slone ,Democratic ,U.S. House,4,4540
+Union,Jim Jordan,Republican,U.S. House,4,15673
+Union,Chris Kalla,Libertarian,U.S. House,4,1400
+Union,Jim Slone ,Democratic ,U.S. House,4,6764
+Defiance,Eric Eberly,Libertarian,U.S. House,5,690
+Defiance,Bob Latta,Republican,U.S. House,5,10715
+Defiance,Angela Zimmann ,Democratic ,U.S. House,5,6550
+Fulton,Eric Eberly,Libertarian,U.S. House,5,695
+Fulton,Bob Latta,Republican,U.S. House,5,12713
+Fulton,Angela Zimmann ,Democratic ,U.S. House,5,7404
+Hancock,Eric Eberly,Libertarian,U.S. House,5,1285
+Hancock,Bob Latta,Republican,U.S. House,5,22894
+Hancock,Angela Zimmann ,Democratic ,U.S. House,5,10572
+Hardin,Eric Eberly,Libertarian,U.S. House,5,582
+Hardin,Bob Latta,Republican,U.S. House,5,7375
+Hardin,Angela Zimmann ,Democratic ,U.S. House,5,3969
+Henry,Eric Eberly,Libertarian,U.S. House,5,454
+Henry,Bob Latta,Republican,U.S. House,5,8986
+Henry,Angela Zimmann ,Democratic ,U.S. House,5,4605
+Lucas,Eric Eberly,Libertarian,U.S. House,5,3262
+Lucas,Bob Latta,Republican,U.S. House,5,48941
+Lucas,Angela Zimmann ,Democratic ,U.S. House,5,49575
+Mercer,Eric Eberly,Libertarian,U.S. House,5,409
+Mercer,Bob Latta,Republican,U.S. House,5,6716
+Mercer,Angela Zimmann ,Democratic ,U.S. House,5,2700
+Ottawa,Eric Eberly,Libertarian,U.S. House,5,317
+Ottawa,Bob Latta,Republican,U.S. House,5,5096
+Ottawa,Angela Zimmann ,Democratic ,U.S. House,5,4946
+Paulding,Eric Eberly,Libertarian,U.S. House,5,386
+Paulding,Bob Latta,Republican,U.S. House,5,5190
+Paulding,Angela Zimmann ,Democratic ,U.S. House,5,3406
+Putnam,Eric Eberly,Libertarian,U.S. House,5,430
+Putnam,Bob Latta,Republican,U.S. House,5,14039
+Putnam,Angela Zimmann ,Democratic ,U.S. House,5,3562
+Van Wert,Eric Eberly,Libertarian,U.S. House,5,522
+Van Wert,Bob Latta,Republican,U.S. House,5,9464
+Van Wert,Angela Zimmann ,Democratic ,U.S. House,5,3534
+Williams,Eric Eberly,Libertarian,U.S. House,5,675
+Williams,Bob Latta,Republican,U.S. House,5,10738
+Williams,Angela Zimmann ,Democratic ,U.S. House,5,5850
+Wood,Eric Eberly,Libertarian,U.S. House,5,2422
+Wood,Bob Latta,Republican,U.S. House,5,32128
+Wood,Angela Zimmann ,Democratic ,U.S. House,5,27744
+Wyandot,Eric Eberly,Libertarian,U.S. House,5,429
+Wyandot,Bob Latta,Republican,U.S. House,5,6519
+Wyandot,Angela Zimmann ,Democratic ,U.S. House,5,3389
+Athens,Bill Johnson,Republican,U.S. House,6,972
+Athens,Charlie Wilson ,Democratic ,U.S. House,6,739
+Belmont,Bill Johnson,Republican,U.S. House,6,15182
+Belmont,Charlie Wilson ,Democratic ,U.S. House,6,15637
+Carroll,Bill Johnson,Republican,U.S. House,6,6858
+Carroll,Charlie Wilson ,Democratic ,U.S. House,6,5815
+Columbiana,Bill Johnson,Republican,U.S. House,6,23903
+Columbiana,Charlie Wilson ,Democratic ,U.S. House,6,21127
+Gallia,Bill Johnson,Republican,U.S. House,6,6805
+Gallia,Charlie Wilson ,Democratic ,U.S. House,6,5345
+Guernsey,Bill Johnson,Republican,U.S. House,6,8925
+Guernsey,Charlie Wilson ,Democratic ,U.S. House,6,7052
+Harrison,Bill Johnson,Republican,U.S. House,6,3558
+Harrison,Charlie Wilson ,Democratic ,U.S. House,6,3443
+Jackson,Bill Johnson,Republican,U.S. House,6,7556
+Jackson,Charlie Wilson ,Democratic ,U.S. House,6,5204
+Jefferson,Bill Johnson,Republican,U.S. House,6,15888
+Jefferson,Charlie Wilson ,Democratic ,U.S. House,6,16296
+Lawrence,Bill Johnson,Republican,U.S. House,6,12562
+Lawrence,Charlie Wilson ,Democratic ,U.S. House,6,11848
+Mahoning,Bill Johnson,Republican,U.S. House,6,14572
+Mahoning,Charlie Wilson ,Democratic ,U.S. House,6,12576
+Meigs,Bill Johnson,Republican,U.S. House,6,5346
+Meigs,Charlie Wilson ,Democratic ,U.S. House,6,4433
+Monroe,Bill Johnson,Republican,U.S. House,6,3021
+Monroe,Charlie Wilson ,Democratic ,U.S. House,6,3630
+Muskingum,Bill Johnson,Republican,U.S. House,6,7445
+Muskingum,Charlie Wilson ,Democratic ,U.S. House,6,4329
+Noble,Bill Johnson,Republican,U.S. House,6,3345
+Noble,Charlie Wilson ,Democratic ,U.S. House,6,2382
+Scioto,Bill Johnson,Republican,U.S. House,6,7725
+Scioto,Charlie Wilson ,Democratic ,U.S. House,6,7191
+Tuscarawas,Bill Johnson,Republican,U.S. House,6,4221
+Tuscarawas,Charlie Wilson ,Democratic ,U.S. House,6,5552
+Washington,Bill Johnson,Republican,U.S. House,6,16652
+Washington,Charlie Wilson ,Democratic ,U.S. House,6,11845
+Ashland,Bob Gibbs,Republican,U.S. House,7,16015
+Ashland,Joyce Healy-Abrams ,Democratic ,U.S. House,7,7260
+Coshocton,Bob Gibbs,Republican,U.S. House,7,9317
+Coshocton,Joyce Healy-Abrams ,Democratic ,U.S. House,7,5842
+Holmes,Bob Gibbs,Republican,U.S. House,7,9443
+Holmes,Joyce Healy-Abrams ,Democratic ,U.S. House,7,1997
+Huron,Bob Gibbs,Republican,U.S. House,7,6595
+Huron,Joyce Healy-Abrams ,Democratic ,U.S. House,7,4119
+Knox,Bob Gibbs,Republican,U.S. House,7,17692
+Knox,Joyce Healy-Abrams ,Democratic ,U.S. House,7,9499
+Lorain,Bob Gibbs,Republican,U.S. House,7,21616
+Lorain,Joyce Healy-Abrams ,Democratic ,U.S. House,7,17975
+Medina,Bob Gibbs,Republican,U.S. House,7,16863
+Medina,Joyce Healy-Abrams ,Democratic ,U.S. House,7,12119
+Richland,Bob Gibbs,Republican,U.S. House,7,14918
+Richland,Joyce Healy-Abrams ,Democratic ,U.S. House,7,8336
+Stark,Bob Gibbs,Republican,U.S. House,7,47448
+Stark,Joyce Healy-Abrams ,Democratic ,U.S. House,7,58516
+Tuscarawas,Bob Gibbs,Republican,U.S. House,7,18197
+Tuscarawas,Joyce Healy-Abrams ,Democratic ,U.S. House,7,12045
+Butler,John Boehner,Republican,U.S. House,8,121373
+Butler,James Condit ,,U.S. House,8,0
+Clark,John Boehner,Republican,U.S. House,8,41477
+Clark,James Condit ,,U.S. House,8,0
+Darke,John Boehner,Republican,U.S. House,8,20496
+Darke,James Condit ,,U.S. House,8,38
+Mercer,John Boehner,Republican,U.S. House,8,8436
+Mercer,James Condit ,,U.S. House,8,2
+Miami,John Boehner,Republican,U.S. House,8,39751
+Miami,James Condit ,,U.S. House,8,0
+Preble,John Boehner,Republican,U.S. House,8,14847
+Preble,James Condit ,,U.S. House,8,22
+Cuyahoga,Marcy Kaptur,Democratic,U.S. House,9,75254
+Cuyahoga,Sean Stipe,Libertarian,U.S. House,9,5508
+Cuyahoga,Samuel Wurzelbacher ,Republican ,U.S. House,9,27423
+Erie,Marcy Kaptur,Democratic,U.S. House,9,21603
+Erie,Sean Stipe,Libertarian,U.S. House,9,1149
+Erie,Samuel Wurzelbacher ,Republican ,U.S. House,9,9367
+Lorain,Marcy Kaptur,Democratic,U.S. House,9,29042
+Lorain,Sean Stipe,Libertarian,U.S. House,9,2032
+Lorain,Samuel Wurzelbacher ,Republican ,U.S. House,9,12417
+Lucas,Marcy Kaptur,Democratic,U.S. House,9,84922
+Lucas,Sean Stipe,Libertarian,U.S. House,9,2648
+Lucas,Samuel Wurzelbacher ,Republican ,U.S. House,9,15038
+Ottawa,Marcy Kaptur,Democratic,U.S. House,9,6954
+Ottawa,Sean Stipe,Libertarian,U.S. House,9,388
+Ottawa,Samuel Wurzelbacher ,Republican ,U.S. House,9,4421
+Fayette,David Harlow,Libertarian,U.S. House,10,341
+Fayette,Sharen Neuhardt,Democratic,U.S. House,10,2806
+Fayette,Mike Turner ,Republican ,U.S. House,10,5037
+Greene,David Harlow,Libertarian,U.S. House,10,2832
+Greene,Sharen Neuhardt,Democratic,U.S. House,10,24991
+Greene,Mike Turner ,Republican ,U.S. House,10,53935
+Montgomery,David Harlow,Libertarian,U.S. House,10,7200
+Montgomery,Sharen Neuhardt,Democratic,U.S. House,10,103300
+Montgomery,Mike Turner ,Republican ,U.S. House,10,149229
+Cuyahoga,Marcia Fudge ,Democratic ,U.S. House,11,224209
+Summit,Marcia Fudge ,Democratic ,U.S. House,11,34169
+Delaware,Jim Reese,Democratic,U.S. House,12,27742
+Delaware,Pat Tiberi ,Republican ,U.S. House,12,68167
+Franklin,Jim Reese,Democratic,U.S. House,12,49741
+Franklin,Pat Tiberi ,Republican ,U.S. House,12,67936
+Licking,Jim Reese,Democratic,U.S. House,12,27099
+Licking,Pat Tiberi ,Republican ,U.S. House,12,52048
+Marion,Jim Reese,Democratic,U.S. House,12,1272
+Marion,Pat Tiberi ,Republican ,U.S. House,12,3124
+Morrow,Jim Reese,Democratic,U.S. House,12,4897
+Morrow,Pat Tiberi ,Republican ,U.S. House,12,10847
+Muskingum,Jim Reese,Democratic,U.S. House,12,10097
+Muskingum,Pat Tiberi ,Republican ,U.S. House,12,13850
+Richland,Jim Reese,Democratic,U.S. House,12,13766
+Richland,Pat Tiberi ,Republican ,U.S. House,12,17902
+Mahoning,Marisha Agana,Republican,U.S. House,13,18802
+Mahoning,Tim Ryan ,Democratic ,U.S. House,13,71780
+Portage,Marisha Agana,Republican,U.S. House,13,12062
+Portage,Tim Ryan ,Democratic ,U.S. House,13,25783
+Stark,Marisha Agana,Republican,U.S. House,13,3706
+Stark,Tim Ryan ,Democratic ,U.S. House,13,6282
+Summit,Marisha Agana,Republican,U.S. House,13,29451
+Summit,Tim Ryan ,Democratic ,U.S. House,13,65090
+Trumbull,Marisha Agana,Republican,U.S. House,13,24099
+Trumbull,Tim Ryan ,Democratic ,U.S. House,13,66557
+Ashtabula,Dale Blanchard,Democratic,U.S. House,14,19169
+Ashtabula,David Joyce,Republican,U.S. House,14,17706
+Ashtabula,David Macko,Libertarian,U.S. House,14,1781
+Ashtabula,Elaine Mastromatteo,Green,U.S. House,14,1752
+Ashtabula,Erick Robinson,,U.S. House,14,0
+Ashtabula,Steven Winfield,,U.S. House,14,0
+Ashtabula,Aaron Zurbrugg ,,U.S. House,14,2
+Cuyahoga,Dale Blanchard,Democratic,U.S. House,14,20923
+Cuyahoga,David Joyce,Republican,U.S. House,14,28640
+Cuyahoga,David Macko,Libertarian,U.S. House,14,1556
+Cuyahoga,Elaine Mastromatteo,Green,U.S. House,14,1708
+Cuyahoga,Erick Robinson,,U.S. House,14,0
+Cuyahoga,Steven Winfield,,U.S. House,14,0
+Cuyahoga,Aaron Zurbrugg ,,U.S. House,14,0
+Geauga,Dale Blanchard,Democratic,U.S. House,14,12309
+Geauga,David Joyce,Republican,U.S. House,14,32570
+Geauga,David Macko,Libertarian,U.S. House,14,1290
+Geauga,Elaine Mastromatteo,Green,U.S. House,14,1394
+Geauga,Erick Robinson,,U.S. House,14,0
+Geauga,Steven Winfield,,U.S. House,14,0
+Geauga,Aaron Zurbrugg ,,U.S. House,14,4
+Lake,Dale Blanchard,Democratic,U.S. House,14,42411
+Lake,David Joyce,Republican,U.S. House,14,55919
+Lake,David Macko,Libertarian,U.S. House,14,3538
+Lake,Elaine Mastromatteo,Green,U.S. House,14,4681
+Lake,Erick Robinson,,U.S. House,14,0
+Lake,Steven Winfield,,U.S. House,14,0
+Lake,Aaron Zurbrugg ,,U.S. House,14,0
+Portage,Dale Blanchard,Democratic,U.S. House,14,5966
+Portage,David Joyce,Republican,U.S. House,14,9871
+Portage,David Macko,Libertarian,U.S. House,14,744
+Portage,Elaine Mastromatteo,Green,U.S. House,14,677
+Portage,Erick Robinson,,U.S. House,14,0
+Portage,Steven Winfield,,U.S. House,14,0
+Portage,Aaron Zurbrugg ,,U.S. House,14,0
+Summit,Dale Blanchard,Democratic,U.S. House,14,27290
+Summit,David Joyce,Republican,U.S. House,14,34670
+Summit,David Macko,Libertarian,U.S. House,14,2251
+Summit,Elaine Mastromatteo,Green,U.S. House,14,2308
+Summit,Erick Robinson,,U.S. House,14,0
+Summit,Steven Winfield,,U.S. House,14,0
+Summit,Aaron Zurbrugg ,,U.S. House,14,0
+Trumbull,Dale Blanchard,Democratic,U.S. House,14,3570
+Trumbull,David Joyce,Republican,U.S. House,14,4284
+Trumbull,David Macko,Libertarian,U.S. House,14,376
+Trumbull,Elaine Mastromatteo,Green,U.S. House,14,518
+Trumbull,Erick Robinson,,U.S. House,14,0
+Trumbull,Steven Winfield,,U.S. House,14,0
+Trumbull,Aaron Zurbrugg ,,U.S. House,14,0
+Athens,Pat Lang,Democratic,U.S. House,15,16900
+Athens,Steve Stivers ,Republican ,U.S. House,15,7285
+Clinton,Pat Lang,Democratic,U.S. House,15,5136
+Clinton,Steve Stivers ,Republican ,U.S. House,15,12095
+Fairfield,Pat Lang,Democratic,U.S. House,15,23311
+Fairfield,Steve Stivers ,Republican ,U.S. House,15,46194
+Fayette,Pat Lang,Democratic,U.S. House,15,482
+Fayette,Steve Stivers ,Republican ,U.S. House,15,1602
+Franklin,Pat Lang,Democratic,U.S. House,15,50957
+Franklin,Steve Stivers ,Republican ,U.S. House,15,78780
+Hocking,Pat Lang,Democratic,U.S. House,15,4992
+Hocking,Steve Stivers ,Republican ,U.S. House,15,7264
+Madison,Pat Lang,Democratic,U.S. House,15,4541
+Madison,Steve Stivers ,Republican ,U.S. House,15,12065
+Morgan,Pat Lang,Democratic,U.S. House,15,2298
+Morgan,Steve Stivers ,Republican ,U.S. House,15,3592
+Perry,Pat Lang,Democratic,U.S. House,15,5583
+Perry,Steve Stivers ,Republican ,U.S. House,15,9022
+Pickaway,Pat Lang,Democratic,U.S. House,15,7041
+Pickaway,Steve Stivers ,Republican ,U.S. House,15,16373
+Ross,Pat Lang,Democratic,U.S. House,15,4696
+Ross,Steve Stivers ,Republican ,U.S. House,15,8087
+Vinton,Pat Lang,Democratic,U.S. House,15,2251
+Vinton,Steve Stivers ,Republican ,U.S. House,15,2918
+Cuyahoga,Jim Renacci,Republican,U.S. House,16,62303
+Cuyahoga,Betty Sutton ,Democratic ,U.S. House,16,70712
+Medina,Jim Renacci,Republican,U.S. House,16,30972
+Medina,Betty Sutton ,Democratic ,U.S. House,16,26286
+Portage,Jim Renacci,Republican,U.S. House,16,8243
+Portage,Betty Sutton ,Democratic ,U.S. House,16,8019
+Stark,Jim Renacci,Republican,U.S. House,16,33411
+Stark,Betty Sutton ,Democratic ,U.S. House,16,24342
+Summit,Jim Renacci,Republican,U.S. House,16,20562
+Summit,Betty Sutton ,Democratic ,U.S. House,16,21364
+Wayne,Jim Renacci,Republican,U.S. House,16,29676
+Wayne,Betty Sutton ,Democratic ,U.S. House,16,19881
