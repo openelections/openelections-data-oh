@@ -1,79 +1,79 @@
 county,candidate,party,office,district,votes
-Auglaize,Cliff Hite,Republican,Ohio Senate,1,4872
-Defiance,Cliff Hite,Republican,Ohio Senate,1,7975
-Fulton,Cliff Hite,Republican,Ohio Senate,1,2681
-Hancock,Cliff Hite,Republican,Ohio Senate,1,15921
-Hardin,Cliff Hite,Republican,Ohio Senate,1,5139
-Henry,Cliff Hite,Republican,Ohio Senate,1,6161
-Logan,Cliff Hite,Republican,Ohio Senate,1,1402
-Paulding,Cliff Hite,Republican,Ohio Senate,1,4224
-Putnam,Cliff Hite,Republican,Ohio Senate,1,8122
-Van Wert,Cliff Hite,Republican,Ohio Senate,1,5557
-Williams,Cliff Hite,Republican,Ohio Senate,1,7190
-Franklin,Kevin Bacon,Republican,Ohio Senate,3,51707
-Franklin,Star Johnson,Democratic,Ohio Senate,3,32877
-Darke,Bill Beagle,Republican,Ohio Senate,5,4496
-Darke,Dee Gillis,Democratic,Ohio Senate,5,1055
-Miami,Bill Beagle,Republican,Ohio Senate,5,23459
-Miami,Dee Gillis,Democratic,Ohio Senate,5,7435
-Montgomery,Bill Beagle,Republican,Ohio Senate,5,14599
-Montgomery,Dee Gillis,Democratic,Ohio Senate,5,27752
-Preble,Bill Beagle,Republican,Ohio Senate,5,8921
-Preble,Dee Gillis,Democratic,Ohio Senate,5,2539
-Butler,Shannon Jones,Republican,Ohio Senate,7,1541
-Hamilton,Shannon Jones,Republican,Ohio Senate,7,29531
-Warren,Shannon Jones,Republican,Ohio Senate,7,45740
-Hamilton,Cecil Thomas,Democratic,Ohio Senate,9,48839
-Hamilton,Charlie Winburn,Republican,Ohio Senate,9,36611
-Lucas,Edna Brown,Democratic,Ohio Senate,11,48838
-Lucas,Ernest D. McCarthy,Republican,Ohio Senate,11,27002
-Huron,Marcus Madison,Democratic,Ohio Senate,13,3902
-Huron,Gayle Manning,Republican,Ohio Senate,13,9909
-Lorain,Marcus Madison,Democratic,Ohio Senate,13,29126
-Lorain,Gayle Manning,Republican,Ohio Senate,13,47352
-Franklin,Joe Healy,Republican,Ohio Senate,15,16974
-Franklin,Charleta B. Tavares,Democratic,Ohio Senate,15,54942
-Clinton,Bob Peterson,Republican,Ohio Senate,17,7999
-Fayette,Bob Peterson,Republican,Ohio Senate,17,5158
-Gallia,Bob Peterson,Republican,Ohio Senate,17,5457
-Highland,Bob Peterson,Republican,Ohio Senate,17,7841
-Jackson,Bob Peterson,Republican,Ohio Senate,17,5084
-Lawrence,Bob Peterson,Republican,Ohio Senate,17,8326
-Pickaway,Bob Peterson,Republican,Ohio Senate,17,3842
-Pike,Bob Peterson,Republican,Ohio Senate,17,4606
-Ross,Bob Peterson,Republican,Ohio Senate,17,12004
-Vinton,Bob Peterson,Republican,Ohio Senate,17,1434
-Delaware,Kris Jordan,Republican,Ohio Senate,19,38584
-Delaware,Neil Patel,Democratic,Ohio Senate,19,18480
-Franklin,Kris Jordan,Republican,Ohio Senate,19,11130
-Franklin,Neil Patel,Democratic,Ohio Senate,19,15920
-Knox,Kris Jordan,Republican,Ohio Senate,19,11799
-Knox,Neil Patel,Democratic,Ohio Senate,19,4840
-Cuyahoga,Sikiru Kafaru,Republican,Ohio Senate,21,9938
-Cuyahoga,Sandra Williams,Democratic,Ohio Senate,21,64579
-Cuyahoga,Tom Haren,Republican,Ohio Senate,23,26684
-Cuyahoga,Michael J. Skindell,Democratic,Ohio Senate,23,44221
-Cuyahoga,Hasani A. Crider,Republican,Ohio Senate,25,9588
-Cuyahoga,Kenny Yuko,Democratic,Ohio Senate,25,51687
-Lake,Hasani A. Crider,Republican,Ohio Senate,25,12340
-Lake,Kenny Yuko,Democratic,Ohio Senate,25,15964
-Stark,Frank LaRose,Republican,Ohio Senate,27,6212
-Stark,George S. Rusiska,Democratic,Ohio Senate,27,3179
-Summit,Frank LaRose,Republican,Ohio Senate,27,38952
-Summit,George S. Rusiska,Democratic,Ohio Senate,27,20215
-Wayne,Frank LaRose,Republican,Ohio Senate,27,19095
-Wayne,George S. Rusiska,Democratic,Ohio Senate,27,7216
-Stark,Scott Oelslager,Republican,Ohio Senate,29,60743
-Stark,Connie Rubin,Democratic,Ohio Senate,29,30491
-Coshocton,John Carlisle,Democratic,Ohio Senate,31,3109
-Coshocton,Jay Hottinger,Republican,Ohio Senate,31,5728
-Holmes,John Carlisle,Democratic,Ohio Senate,31,644
-Holmes,Jay Hottinger,Republican,Ohio Senate,31,2924
-Licking,John Carlisle,Democratic,Ohio Senate,31,14290
-Licking,Jay Hottinger,Republican,Ohio Senate,31,32507
-Perry,John Carlisle,Democratic,Ohio Senate,31,3233
-Perry,Jay Hottinger,Republican,Ohio Senate,31,5559
-Tuscarawas,John Carlisle,Democratic,Ohio Senate,31,10490
-Tuscarawas,Jay Hottinger,Republican,Ohio Senate,31,12389
-Columbiana,Joseph L. Schiavoni,Democratic,Ohio Senate,33,16276
-Mahoning,Joseph L. Schiavoni,Democratic,Ohio Senate,33,48334
+Auglaize,Cliff Hite,Republican,State Senate,1,4872
+Defiance,Cliff Hite,Republican,State Senate,1,7975
+Fulton,Cliff Hite,Republican,State Senate,1,2681
+Hancock,Cliff Hite,Republican,State Senate,1,15921
+Hardin,Cliff Hite,Republican,State Senate,1,5139
+Henry,Cliff Hite,Republican,State Senate,1,6161
+Logan,Cliff Hite,Republican,State Senate,1,1402
+Paulding,Cliff Hite,Republican,State Senate,1,4224
+Putnam,Cliff Hite,Republican,State Senate,1,8122
+Van Wert,Cliff Hite,Republican,State Senate,1,5557
+Williams,Cliff Hite,Republican,State Senate,1,7190
+Franklin,Kevin Bacon,Republican,State Senate,3,51707
+Franklin,Star Johnson,Democratic,State Senate,3,32877
+Darke,Bill Beagle,Republican,State Senate,5,4496
+Darke,Dee Gillis,Democratic,State Senate,5,1055
+Miami,Bill Beagle,Republican,State Senate,5,23459
+Miami,Dee Gillis,Democratic,State Senate,5,7435
+Montgomery,Bill Beagle,Republican,State Senate,5,14599
+Montgomery,Dee Gillis,Democratic,State Senate,5,27752
+Preble,Bill Beagle,Republican,State Senate,5,8921
+Preble,Dee Gillis,Democratic,State Senate,5,2539
+Butler,Shannon Jones,Republican,State Senate,7,1541
+Hamilton,Shannon Jones,Republican,State Senate,7,29531
+Warren,Shannon Jones,Republican,State Senate,7,45740
+Hamilton,Cecil Thomas,Democratic,State Senate,9,48839
+Hamilton,Charlie Winburn,Republican,State Senate,9,36611
+Lucas,Edna Brown,Democratic,State Senate,11,48838
+Lucas,Ernest D. McCarthy,Republican,State Senate,11,27002
+Huron,Marcus Madison,Democratic,State Senate,13,3902
+Huron,Gayle Manning,Republican,State Senate,13,9909
+Lorain,Marcus Madison,Democratic,State Senate,13,29126
+Lorain,Gayle Manning,Republican,State Senate,13,47352
+Franklin,Joe Healy,Republican,State Senate,15,16974
+Franklin,Charleta B. Tavares,Democratic,State Senate,15,54942
+Clinton,Bob Peterson,Republican,State Senate,17,7999
+Fayette,Bob Peterson,Republican,State Senate,17,5158
+Gallia,Bob Peterson,Republican,State Senate,17,5457
+Highland,Bob Peterson,Republican,State Senate,17,7841
+Jackson,Bob Peterson,Republican,State Senate,17,5084
+Lawrence,Bob Peterson,Republican,State Senate,17,8326
+Pickaway,Bob Peterson,Republican,State Senate,17,3842
+Pike,Bob Peterson,Republican,State Senate,17,4606
+Ross,Bob Peterson,Republican,State Senate,17,12004
+Vinton,Bob Peterson,Republican,State Senate,17,1434
+Delaware,Kris Jordan,Republican,State Senate,19,38584
+Delaware,Neil Patel,Democratic,State Senate,19,18480
+Franklin,Kris Jordan,Republican,State Senate,19,11130
+Franklin,Neil Patel,Democratic,State Senate,19,15920
+Knox,Kris Jordan,Republican,State Senate,19,11799
+Knox,Neil Patel,Democratic,State Senate,19,4840
+Cuyahoga,Sikiru Kafaru,Republican,State Senate,21,9938
+Cuyahoga,Sandra Williams,Democratic,State Senate,21,64579
+Cuyahoga,Tom Haren,Republican,State Senate,23,26684
+Cuyahoga,Michael J. Skindell,Democratic,State Senate,23,44221
+Cuyahoga,Hasani A. Crider,Republican,State Senate,25,9588
+Cuyahoga,Kenny Yuko,Democratic,State Senate,25,51687
+Lake,Hasani A. Crider,Republican,State Senate,25,12340
+Lake,Kenny Yuko,Democratic,State Senate,25,15964
+Stark,Frank LaRose,Republican,State Senate,27,6212
+Stark,George S. Rusiska,Democratic,State Senate,27,3179
+Summit,Frank LaRose,Republican,State Senate,27,38952
+Summit,George S. Rusiska,Democratic,State Senate,27,20215
+Wayne,Frank LaRose,Republican,State Senate,27,19095
+Wayne,George S. Rusiska,Democratic,State Senate,27,7216
+Stark,Scott Oelslager,Republican,State Senate,29,60743
+Stark,Connie Rubin,Democratic,State Senate,29,30491
+Coshocton,John Carlisle,Democratic,State Senate,31,3109
+Coshocton,Jay Hottinger,Republican,State Senate,31,5728
+Holmes,John Carlisle,Democratic,State Senate,31,644
+Holmes,Jay Hottinger,Republican,State Senate,31,2924
+Licking,John Carlisle,Democratic,State Senate,31,14290
+Licking,Jay Hottinger,Republican,State Senate,31,32507
+Perry,John Carlisle,Democratic,State Senate,31,3233
+Perry,Jay Hottinger,Republican,State Senate,31,5559
+Tuscarawas,John Carlisle,Democratic,State Senate,31,10490
+Tuscarawas,Jay Hottinger,Republican,State Senate,31,12389
+Columbiana,Joseph L. Schiavoni,Democratic,State Senate,33,16276
+Mahoning,Joseph L. Schiavoni,Democratic,State Senate,33,48334
