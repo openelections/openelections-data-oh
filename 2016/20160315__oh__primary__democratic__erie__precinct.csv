@@ -1,0 +1,807 @@
+County Name,Precinct Name,Precinct Code,Region Name,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,President (at-large),,D,Hillary Clinton,87
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,President (at-large),,D,Bernie Sanders,73
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,U.S. Senator,,D,Kelli Prather,20
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,U.S. Senator,,D,P.G. Sittenfeld,41
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,U.S. Senator,,D,Ted Strickland,93
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,Representative to Congress,09,D,Marcy Kaptur,146
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,State Senator,02,D,Kirk W. Halliday,108
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,State Representative,89,D,Dannie K. Edmon,36
+Erie,PRECINCT HUR A,AAA,Northeast,Cleveland,996,533,State Representative,89,D,Lawrence D. Hartlaub,93
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,President (at-large),,D,Hillary Clinton,74
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,President (at-large),,D,Bernie Sanders,97
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,U.S. Senator,,D,Kelli Prather,23
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,U.S. Senator,,D,P.G. Sittenfeld,42
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,U.S. Senator,,D,Ted Strickland,95
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,Representative to Congress,09,D,Marcy Kaptur,140
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,State Senator,02,D,Kirk W. Halliday,110
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,State Representative,89,D,Dannie K. Edmon,48
+Erie,PRECINCT HUR B,AAB,Northeast,Cleveland,878,403,State Representative,89,D,Lawrence D. Hartlaub,75
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,President (at-large),,D,Hillary Clinton,69
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,President (at-large),,D,Bernie Sanders,53
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,U.S. Senator,,D,Kelli Prather,9
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,U.S. Senator,,D,P.G. Sittenfeld,38
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,U.S. Senator,,D,Ted Strickland,68
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,Representative to Congress,09,D,Marcy Kaptur,106
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,State Senator,02,D,Kirk W. Halliday,66
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,State Representative,89,D,Dannie K. Edmon,35
+Erie,PRECINCT HUR C,AAC,Northeast,Cleveland,740,391,State Representative,89,D,Lawrence D. Hartlaub,66
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,President (at-large),,D,Hillary Clinton,106
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,President (at-large),,D,Bernie Sanders,78
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,U.S. Senator,,D,Kelli Prather,23
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,U.S. Senator,,D,P.G. Sittenfeld,37
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,U.S. Senator,,D,Ted Strickland,105
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,Representative to Congress,09,D,Marcy Kaptur,146
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,State Senator,02,D,Kirk W. Halliday,113
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,State Representative,89,D,Dannie K. Edmon,54
+Erie,PRECINCT HUR F,AAE,Northeast,Cleveland,883,412,State Representative,89,D,Lawrence D. Hartlaub,86
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,President (at-large),,D,Hillary Clinton,72
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,President (at-large),,D,Bernie Sanders,62
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,U.S. Senator,,D,Kelli Prather,25
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,U.S. Senator,,D,P.G. Sittenfeld,30
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,U.S. Senator,,D,Ted Strickland,76
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,Representative to Congress,09,D,Marcy Kaptur,125
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,State Senator,02,D,Kirk W. Halliday,89
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,State Representative,89,D,Dannie K. Edmon,44
+Erie,PRECINCT HUR D,AAI,Northeast,Cleveland,681,349,State Representative,89,D,Lawrence D. Hartlaub,64
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,President (at-large),,D,Hillary Clinton,58
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,President (at-large),,D,Bernie Sanders,82
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,U.S. Senator,,D,Kelli Prather,14
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,U.S. Senator,,D,P.G. Sittenfeld,40
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,U.S. Senator,,D,Ted Strickland,79
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,Representative to Congress,09,D,Marcy Kaptur,123
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,State Senator,02,D,Kirk W. Halliday,88
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,State Representative,89,D,Dannie K. Edmon,29
+Erie,PRECINCT HUR E,AAJ,Northeast,Cleveland,900,492,State Representative,89,D,Lawrence D. Hartlaub,77
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,President (at-large),,D,Hillary Clinton,59
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,President (at-large),,D,Bernie Sanders,41
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,U.S. Senator,,D,Kelli Prather,9
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,U.S. Senator,,D,P.G. Sittenfeld,35
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,U.S. Senator,,D,Ted Strickland,43
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,Representative to Congress,09,D,Marcy Kaptur,84
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,State Senator,02,D,Kirk W. Halliday,61
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,State Representative,89,D,Dannie K. Edmon,21
+Erie,PRECINCT VER 1-A,ABV,Northeast,Cleveland,642,295,State Representative,89,D,Lawrence D. Hartlaub,42
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,President (at-large),,D,Hillary Clinton,75
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,President (at-large),,D,Bernie Sanders,56
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,U.S. Senator,,D,Kelli Prather,21
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,U.S. Senator,,D,P.G. Sittenfeld,23
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,U.S. Senator,,D,Ted Strickland,76
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,Representative to Congress,09,D,Marcy Kaptur,106
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,State Senator,02,D,Kirk W. Halliday,81
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,State Representative,89,D,Dannie K. Edmon,35
+Erie,PRECINCT VER 2-A,ABX,Northeast,Cleveland,548,264,State Representative,89,D,Lawrence D. Hartlaub,54
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,President (at-large),,D,Hillary Clinton,89
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,President (at-large),,D,Bernie Sanders,70
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,U.S. Senator,,D,Kelli Prather,24
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,U.S. Senator,,D,P.G. Sittenfeld,43
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,U.S. Senator,,D,Ted Strickland,83
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,Representative to Congress,09,D,Marcy Kaptur,137
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,State Senator,02,D,Kirk W. Halliday,101
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,State Representative,89,D,Dannie K. Edmon,52
+Erie,PRECINCT VER 2-B,ABY,Northeast,Cleveland,804,394,State Representative,89,D,Lawrence D. Hartlaub,66
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,President (at-large),,D,Hillary Clinton,67
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,President (at-large),,D,Bernie Sanders,72
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,U.S. Senator,,D,Kelli Prather,21
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,U.S. Senator,,D,P.G. Sittenfeld,31
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,U.S. Senator,,D,Ted Strickland,87
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,Representative to Congress,09,D,Marcy Kaptur,127
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,State Senator,02,D,Kirk W. Halliday,104
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,State Representative,89,D,Dannie K. Edmon,50
+Erie,PRECINCT VER 3-A,ACA,Northeast,Cleveland,637,333,State Representative,89,D,Lawrence D. Hartlaub,64
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,President (at-large),,D,Hillary Clinton,83
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,President (at-large),,D,Bernie Sanders,47
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,U.S. Senator,,D,Kelli Prather,18
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,U.S. Senator,,D,P.G. Sittenfeld,48
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,U.S. Senator,,D,Ted Strickland,61
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,Representative to Congress,09,D,Marcy Kaptur,112
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,State Senator,02,D,Kirk W. Halliday,91
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,State Representative,89,D,Dannie K. Edmon,38
+Erie,PRECINCT VER 3-B,ACB,Northeast,Cleveland,618,321,State Representative,89,D,Lawrence D. Hartlaub,65
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,President (at-large),,D,Hillary Clinton,45
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,President (at-large),,D,Bernie Sanders,38
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,U.S. Senator,,D,Kelli Prather,8
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,U.S. Senator,,D,P.G. Sittenfeld,30
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,U.S. Senator,,D,Ted Strickland,40
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,Representative to Congress,04,D,Norbert G. Dennerll Jr.,6
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,Representative to Congress,04,D,Janet Garrett,53
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,Representative to Congress,04,D,Daniel Johnson,6
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,State Senator,02,D,Kirk W. Halliday,53
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,State Representative,89,D,Dannie K. Edmon,25
+Erie,PRECINCT BER VILL,ACC,Northeast,Cleveland,453,205,State Representative,89,D,Lawrence D. Hartlaub,36
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,President (at-large),,D,Hillary Clinton,67
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,President (at-large),,D,Bernie Sanders,75
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,U.S. Senator,,D,Kelli Prather,28
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,U.S. Senator,,D,P.G. Sittenfeld,35
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,U.S. Senator,,D,Ted Strickland,71
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,Representative to Congress,04,D,Norbert G. Dennerll Jr.,14
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,Representative to Congress,04,D,Janet Garrett,71
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,Representative to Congress,04,D,Daniel Johnson,22
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,State Senator,02,D,Kirk W. Halliday,84
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,State Representative,89,D,Dannie K. Edmon,39
+Erie,PRECINCT BER TWP #2,ACD,Northeast,Cleveland,"1,063",475,State Representative,89,D,Lawrence D. Hartlaub,64
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,President (at-large),,D,Hillary Clinton,63
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,President (at-large),,D,"Roque ""Rocky"" De La Fuente",4
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,President (at-large),,D,Bernie Sanders,82
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,U.S. Senator,,D,Kelli Prather,9
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,U.S. Senator,,D,P.G. Sittenfeld,44
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,U.S. Senator,,D,Ted Strickland,83
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,Representative to Congress,04,D,Norbert G. Dennerll Jr.,6
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,Representative to Congress,04,D,Janet Garrett,43
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,Representative to Congress,04,D,Daniel Johnson,16
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,Representative to Congress,09,D,Marcy Kaptur,44
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,State Senator,02,D,Kirk W. Halliday,82
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,State Representative,89,D,Dannie K. Edmon,36
+Erie,PRECINCT BER TWP #1,ACF,Northeast,Cleveland,783,369,State Representative,89,D,Lawrence D. Hartlaub,74
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,President (at-large),,D,Hillary Clinton,78
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,President (at-large),,D,Bernie Sanders,69
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,U.S. Senator,,D,Kelli Prather,12
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,U.S. Senator,,D,P.G. Sittenfeld,39
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,U.S. Senator,,D,Ted Strickland,90
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,Representative to Congress,04,D,Norbert G. Dennerll Jr.,12
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,Representative to Congress,04,D,Janet Garrett,66
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,Representative to Congress,04,D,Daniel Johnson,29
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,State Senator,02,D,Kirk W. Halliday,84
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,State Representative,89,D,Dannie K. Edmon,37
+Erie,PRECINCT FLO TWP #1,ACG,Northeast,Cleveland,717,436,State Representative,89,D,Lawrence D. Hartlaub,60
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,President (at-large),,D,Hillary Clinton,107
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,President (at-large),,D,Bernie Sanders,78
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,U.S. Senator,,D,Kelli Prather,30
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,U.S. Senator,,D,P.G. Sittenfeld,39
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,U.S. Senator,,D,Ted Strickland,99
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,Representative to Congress,04,D,Norbert G. Dennerll Jr.,23
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,Representative to Congress,04,D,Janet Garrett,84
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,Representative to Congress,04,D,Daniel Johnson,34
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,State Senator,02,D,Kirk W. Halliday,109
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,State Representative,89,D,Dannie K. Edmon,54
+Erie,PRECINCT FLO TWP #2,ACH,Northeast,Cleveland,"1,025",554,State Representative,89,D,Lawrence D. Hartlaub,79
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,President (at-large),,D,Hillary Clinton,75
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,President (at-large),,D,Bernie Sanders,62
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,U.S. Senator,,D,Kelli Prather,22
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,U.S. Senator,,D,P.G. Sittenfeld,21
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,U.S. Senator,,D,Ted Strickland,88
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,Representative to Congress,04,D,Norbert G. Dennerll Jr.,11
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,Representative to Congress,04,D,Janet Garrett,71
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,Representative to Congress,04,D,Daniel Johnson,33
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,State Senator,02,D,Kirk W. Halliday,89
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,State Representative,89,D,Dannie K. Edmon,39
+Erie,PRECINCT GRO TWP,ACI,Northeast,Cleveland,896,457,State Representative,89,D,Lawrence D. Hartlaub,75
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,President (at-large),,D,Hillary Clinton,58
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,President (at-large),,D,Bernie Sanders,50
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,U.S. Senator,,D,Kelli Prather,9
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,U.S. Senator,,D,P.G. Sittenfeld,33
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,U.S. Senator,,D,Ted Strickland,61
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,Representative to Congress,09,D,Marcy Kaptur,97
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,State Senator,02,D,Kirk W. Halliday,71
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,State Representative,89,D,Dannie K. Edmon,29
+Erie,PRECINCT HUR TWP #1,ACK,Northeast,Cleveland,931,479,State Representative,89,D,Lawrence D. Hartlaub,51
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,President (at-large),,D,Hillary Clinton,82
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,President (at-large),,D,Bernie Sanders,58
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,U.S. Senator,,D,Kelli Prather,11
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,U.S. Senator,,D,P.G. Sittenfeld,37
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,U.S. Senator,,D,Ted Strickland,89
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,Representative to Congress,09,D,Marcy Kaptur,124
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,State Senator,02,D,Kirk W. Halliday,89
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,State Representative,89,D,Dannie K. Edmon,37
+Erie,PRECINCT HUR TWP #2,ACL,Northeast,Cleveland,892,448,State Representative,89,D,Lawrence D. Hartlaub,80
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,President (at-large),,D,Hillary Clinton,107
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,President (at-large),,D,Bernie Sanders,52
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,U.S. Senator,,D,Kelli Prather,19
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,U.S. Senator,,D,P.G. Sittenfeld,46
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,U.S. Senator,,D,Ted Strickland,87
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,Representative to Congress,09,D,Marcy Kaptur,153
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,State Senator,02,D,Kirk W. Halliday,96
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,State Representative,89,D,Dannie K. Edmon,40
+Erie,PRECINCT HUR TWP #3,ACM,Northeast,Cleveland,845,501,State Representative,89,D,Lawrence D. Hartlaub,90
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,President (at-large),,D,Hillary Clinton,32
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,President (at-large),,D,Bernie Sanders,25
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,U.S. Senator,,D,Kelli Prather,7
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,U.S. Senator,,D,P.G. Sittenfeld,19
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,U.S. Senator,,D,Ted Strickland,27
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,Representative to Congress,09,D,Marcy Kaptur,48
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,State Senator,02,D,Kirk W. Halliday,32
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,State Representative,89,D,Dannie K. Edmon,13
+Erie,PRECINCT KI VILL,ACN,Northeast,Cleveland,339,145,State Representative,89,D,Lawrence D. Hartlaub,29
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,President (at-large),,D,Hillary Clinton,47
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,President (at-large),,D,Bernie Sanders,47
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,U.S. Senator,,D,Kelli Prather,12
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,U.S. Senator,,D,P.G. Sittenfeld,21
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,U.S. Senator,,D,Ted Strickland,58
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,Representative to Congress,09,D,Marcy Kaptur,86
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,State Senator,02,D,Kirk W. Halliday,61
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,State Representative,89,D,Dannie K. Edmon,21
+Erie,PRECINCT BV VILL,ACO,Northeast,Cleveland,433,197,State Representative,89,D,Lawrence D. Hartlaub,53
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,President (at-large),,D,Hillary Clinton,48
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,President (at-large),,D,"Roque ""Rocky"" De La Fuente",6
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,President (at-large),,D,Bernie Sanders,44
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,U.S. Senator,,D,Kelli Prather,17
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,U.S. Senator,,D,P.G. Sittenfeld,26
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,U.S. Senator,,D,Ted Strickland,48
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,Representative to Congress,09,D,Marcy Kaptur,85
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,State Senator,02,D,Kirk W. Halliday,58
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,State Representative,89,D,Dannie K. Edmon,27
+Erie,PRECINCT CAST VILL,ACP,Northeast,Cleveland,535,244,State Representative,89,D,Lawrence D. Hartlaub,53
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,President (at-large),,D,Hillary Clinton,77
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,President (at-large),,D,Bernie Sanders,59
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,U.S. Senator,,D,Kelli Prather,13
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,U.S. Senator,,D,P.G. Sittenfeld,32
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,U.S. Senator,,D,Ted Strickland,82
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,Representative to Congress,09,D,Marcy Kaptur,109
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,State Senator,02,D,Kirk W. Halliday,86
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,State Representative,89,D,Dannie K. Edmon,33
+Erie,PRECINCT MAR TWP #1,ACQ,Northeast,Cleveland,867,424,State Representative,89,D,Lawrence D. Hartlaub,69
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,President (at-large),,D,Hillary Clinton,60
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,President (at-large),,D,Bernie Sanders,51
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,U.S. Senator,,D,Kelli Prather,14
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,U.S. Senator,,D,P.G. Sittenfeld,23
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,U.S. Senator,,D,Ted Strickland,69
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,Representative to Congress,09,D,Marcy Kaptur,99
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,State Senator,02,D,Kirk W. Halliday,64
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,State Representative,89,D,Dannie K. Edmon,19
+Erie,PRECINCT MAR TWP #2,ACR,Northeast,Cleveland,641,270,State Representative,89,D,Lawrence D. Hartlaub,64
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,President (at-large),,D,Hillary Clinton,97
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,President (at-large),,D,Bernie Sanders,74
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,U.S. Senator,,D,Kelli Prather,12
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,U.S. Senator,,D,P.G. Sittenfeld,47
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,U.S. Senator,,D,Ted Strickland,98
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,Representative to Congress,09,D,Marcy Kaptur,151
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,State Senator,02,D,Kirk W. Halliday,97
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,State Representative,89,D,Dannie K. Edmon,34
+Erie,PRECINCT MAR TWP #3,ACS,Northeast,Cleveland,888,383,State Representative,89,D,Lawrence D. Hartlaub,93
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,President (at-large),,D,Hillary Clinton,50
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,President (at-large),,D,Bernie Sanders,51
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,U.S. Senator,,D,Kelli Prather,13
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,U.S. Senator,,D,P.G. Sittenfeld,23
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,U.S. Senator,,D,Ted Strickland,64
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,Representative to Congress,09,D,Marcy Kaptur,89
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,State Senator,02,D,Kirk W. Halliday,55
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,State Representative,89,D,Dannie K. Edmon,31
+Erie,PRECINCT MAR TWP #4,ACT,Northeast,Cleveland,584,267,State Representative,89,D,Lawrence D. Hartlaub,52
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,President (at-large),,D,Hillary Clinton,47
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,President (at-large),,D,Bernie Sanders,57
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,U.S. Senator,,D,Kelli Prather,17
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,U.S. Senator,,D,P.G. Sittenfeld,30
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,U.S. Senator,,D,Ted Strickland,48
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,Representative to Congress,04,D,Norbert G. Dennerll Jr.,7
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,Representative to Congress,04,D,Janet Garrett,55
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,Representative to Congress,04,D,Daniel Johnson,12
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,State Senator,02,D,Kirk W. Halliday,61
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,State Representative,89,D,Dannie K. Edmon,31
+Erie,PRECINCT MIL TWP #1,ACW,Northeast,Cleveland,660,306,State Representative,89,D,Lawrence D. Hartlaub,47
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,President (at-large),,D,Hillary Clinton,57
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,President (at-large),,D,Bernie Sanders,79
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,U.S. Senator,,D,Kelli Prather,16
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,U.S. Senator,,D,P.G. Sittenfeld,41
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,U.S. Senator,,D,Ted Strickland,74
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,Representative to Congress,04,D,Norbert G. Dennerll Jr.,13
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,Representative to Congress,04,D,Janet Garrett,53
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,Representative to Congress,04,D,Daniel Johnson,35
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,State Senator,02,D,Kirk W. Halliday,83
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,State Representative,89,D,Dannie K. Edmon,29
+Erie,PRECINCT MIL TWP #2,ACX,Northeast,Cleveland,"1,143",530,State Representative,89,D,Lawrence D. Hartlaub,65
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,President (at-large),,D,Hillary Clinton,58
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,President (at-large),,D,Bernie Sanders,85
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,U.S. Senator,,D,Kelli Prather,16
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,U.S. Senator,,D,P.G. Sittenfeld,36
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,U.S. Senator,,D,Ted Strickland,85
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,Representative to Congress,04,D,Norbert G. Dennerll Jr.,10
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,Representative to Congress,04,D,Janet Garrett,69
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,Representative to Congress,04,D,Daniel Johnson,32
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,State Senator,02,D,Kirk W. Halliday,89
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,State Representative,89,D,Dannie K. Edmon,57
+Erie,PRECINCT OX TWP,ADA,Northeast,Cleveland,813,448,State Representative,89,D,Lawrence D. Hartlaub,55
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,President (at-large),,D,Hillary Clinton,148
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,President (at-large),,D,Bernie Sanders,94
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,U.S. Senator,,D,Kelli Prather,26
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,U.S. Senator,,D,P.G. Sittenfeld,64
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,U.S. Senator,,D,Ted Strickland,138
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,Representative to Congress,09,D,Marcy Kaptur,209
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,State Senator,02,D,Kirk W. Halliday,133
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,State Representative,89,D,Dannie K. Edmon,58
+Erie,PRECINCT PER TWP #2,ADB,Northeast,Cleveland,"1,233",710,State Representative,89,D,Lawrence D. Hartlaub,136
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,President (at-large),,D,Hillary Clinton,116
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,President (at-large),,D,Bernie Sanders,78
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,U.S. Senator,,D,Kelli Prather,27
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,U.S. Senator,,D,P.G. Sittenfeld,32
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,U.S. Senator,,D,Ted Strickland,129
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,Representative to Congress,09,D,Marcy Kaptur,180
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,State Senator,02,D,Kirk W. Halliday,125
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,State Representative,89,D,Dannie K. Edmon,75
+Erie,PRECINCT PER TWP #6,ADC,Northeast,Cleveland,883,521,State Representative,89,D,Lawrence D. Hartlaub,102
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,President (at-large),,D,Hillary Clinton,105
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,President (at-large),,D,"Roque ""Rocky"" De La Fuente",4
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,President (at-large),,D,Bernie Sanders,94
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,U.S. Senator,,D,Kelli Prather,26
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,U.S. Senator,,D,P.G. Sittenfeld,38
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,U.S. Senator,,D,Ted Strickland,115
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,Representative to Congress,09,D,Marcy Kaptur,165
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,State Senator,02,D,Kirk W. Halliday,116
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,State Representative,89,D,Dannie K. Edmon,36
+Erie,PRECINCT PER TWP #7,ADD,Northeast,Cleveland,851,510,State Representative,89,D,Lawrence D. Hartlaub,108
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,President (at-large),,D,Hillary Clinton,105
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,President (at-large),,D,Bernie Sanders,88
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,U.S. Senator,,D,Kelli Prather,23
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,U.S. Senator,,D,P.G. Sittenfeld,43
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,U.S. Senator,,D,Ted Strickland,109
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,Representative to Congress,09,D,Marcy Kaptur,158
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,State Senator,02,D,Kirk W. Halliday,114
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,State Representative,89,D,Dannie K. Edmon,71
+Erie,PRECINCT PER TWP #4,ADE,Northeast,Cleveland,762,381,State Representative,89,D,Lawrence D. Hartlaub,76
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,President (at-large),,D,Hillary Clinton,149
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,President (at-large),,D,Bernie Sanders,88
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,U.S. Senator,,D,Kelli Prather,32
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,U.S. Senator,,D,P.G. Sittenfeld,70
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,U.S. Senator,,D,Ted Strickland,119
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,Representative to Congress,09,D,Marcy Kaptur,196
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,State Senator,02,D,Kirk W. Halliday,122
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,State Representative,89,D,Dannie K. Edmon,66
+Erie,PRECINCT PER TWP #1,ADF,Northeast,Cleveland,"1,032",488,State Representative,89,D,Lawrence D. Hartlaub,119
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,President (at-large),,D,Hillary Clinton,133
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,President (at-large),,D,Bernie Sanders,92
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,U.S. Senator,,D,Kelli Prather,25
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,U.S. Senator,,D,P.G. Sittenfeld,55
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,U.S. Senator,,D,Ted Strickland,127
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,Representative to Congress,09,D,Marcy Kaptur,187
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,State Senator,02,D,Kirk W. Halliday,119
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,State Representative,89,D,Dannie K. Edmon,64
+Erie,PRECINCT PER TWP #8,ADH,Northeast,Cleveland,995,622,State Representative,89,D,Lawrence D. Hartlaub,100
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,President (at-large),,D,Hillary Clinton,104
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,President (at-large),,D,Bernie Sanders,63
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,U.S. Senator,,D,Kelli Prather,18
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,U.S. Senator,,D,P.G. Sittenfeld,35
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,U.S. Senator,,D,Ted Strickland,106
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,Representative to Congress,09,D,Marcy Kaptur,151
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,State Senator,02,D,Kirk W. Halliday,99
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,State Representative,89,D,Dannie K. Edmon,50
+Erie,PRECINCT PER TWP #9,ADJ,Northeast,Cleveland,717,428,State Representative,89,D,Lawrence D. Hartlaub,90
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,President (at-large),,D,Hillary Clinton,122
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,President (at-large),,D,Bernie Sanders,54
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,U.S. Senator,,D,Kelli Prather,19
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,U.S. Senator,,D,P.G. Sittenfeld,55
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,U.S. Senator,,D,Ted Strickland,99
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,Representative to Congress,09,D,Marcy Kaptur,161
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,State Senator,02,D,Kirk W. Halliday,116
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,State Representative,89,D,Dannie K. Edmon,53
+Erie,PRECINCT PER TWP #3,ADM,Northeast,Cleveland,808,515,State Representative,89,D,Lawrence D. Hartlaub,95
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,President (at-large),,D,Hillary Clinton,34
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,President (at-large),,D,Bernie Sanders,18
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,U.S. Senator,,D,Kelli Prather,2
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,U.S. Senator,,D,P.G. Sittenfeld,15
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,U.S. Senator,,D,Ted Strickland,33
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,Representative to Congress,09,D,Marcy Kaptur,44
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,State Senator,02,D,Kirk W. Halliday,31
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,State Representative,89,D,Dannie K. Edmon,15
+Erie,PRECINCT PER TWP #5,ADN,Northeast,Cleveland,228,137,State Representative,89,D,Lawrence D. Hartlaub,21
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,President (at-large),,D,Hillary Clinton,140
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,President (at-large),,D,"Roque ""Rocky"" De La Fuente",5
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,President (at-large),,D,Bernie Sanders,118
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,U.S. Senator,,D,Kelli Prather,25
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,U.S. Senator,,D,P.G. Sittenfeld,44
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,U.S. Senator,,D,Ted Strickland,172
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,Representative to Congress,09,D,Marcy Kaptur,218
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,State Senator,02,D,Kirk W. Halliday,150
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,State Representative,89,D,Dannie K. Edmon,72
+Erie,PRECINCT PER TWP #10,ADO,Northeast,Cleveland,"1,134",732,State Representative,89,D,Lawrence D. Hartlaub,122
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,President (at-large),,D,Hillary Clinton,58
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,President (at-large),,D,Bernie Sanders,60
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,U.S. Senator,,D,Kelli Prather,17
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,U.S. Senator,,D,P.G. Sittenfeld,34
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,U.S. Senator,,D,Ted Strickland,59
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,Representative to Congress,09,D,Marcy Kaptur,102
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,State Senator,02,D,Kirk W. Halliday,84
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,State Representative,89,D,Dannie K. Edmon,28
+Erie,PRECINCT VER TWP #5,ADS,Northeast,Cleveland,590,303,State Representative,89,D,Lawrence D. Hartlaub,57
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,President (at-large),,D,Hillary Clinton,107
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,President (at-large),,D,"Roque ""Rocky"" De La Fuente",6
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,President (at-large),,D,Bernie Sanders,106
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,U.S. Senator,,D,Kelli Prather,30
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,U.S. Senator,,D,P.G. Sittenfeld,69
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,U.S. Senator,,D,Ted Strickland,108
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,Representative to Congress,09,D,Marcy Kaptur,184
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,State Senator,02,D,Kirk W. Halliday,133
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,State Representative,89,D,Dannie K. Edmon,54
+Erie,PRECINCT VER TWP #1,ADT,Northeast,Cleveland,"1,045",526,State Representative,89,D,Lawrence D. Hartlaub,96
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,President (at-large),,D,Hillary Clinton,47
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,President (at-large),,D,"Roque ""Rocky"" De La Fuente",4
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,President (at-large),,D,Bernie Sanders,71
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,U.S. Senator,,D,Kelli Prather,14
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,U.S. Senator,,D,P.G. Sittenfeld,36
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,U.S. Senator,,D,Ted Strickland,67
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,Representative to Congress,09,D,Marcy Kaptur,106
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,State Senator,02,D,Kirk W. Halliday,90
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,State Representative,89,D,Dannie K. Edmon,35
+Erie,PRECINCT VER TWP #2,ADU,Northeast,Cleveland,661,325,State Representative,89,D,Lawrence D. Hartlaub,65
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,President (at-large),,D,Hillary Clinton,39
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,President (at-large),,D,Bernie Sanders,44
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,U.S. Senator,,D,Kelli Prather,14
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,U.S. Senator,,D,P.G. Sittenfeld,16
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,U.S. Senator,,D,Ted Strickland,48
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,Representative to Congress,09,D,Marcy Kaptur,64
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,State Senator,02,D,Kirk W. Halliday,57
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,State Representative,89,D,Dannie K. Edmon,27
+Erie,PRECINCT VER TWP #4,ADV,Northeast,Cleveland,574,218,State Representative,89,D,Lawrence D. Hartlaub,40
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,President (at-large),,D,Hillary Clinton,74
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,President (at-large),,D,Bernie Sanders,66
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,U.S. Senator,,D,Kelli Prather,24
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,U.S. Senator,,D,P.G. Sittenfeld,42
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,U.S. Senator,,D,Ted Strickland,72
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,Representative to Congress,09,D,Marcy Kaptur,118
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,State Senator,02,D,Kirk W. Halliday,86
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,State Representative,89,D,Dannie K. Edmon,46
+Erie,PRECINCT VER TWP #3,ADW,Northeast,Cleveland,602,319,State Representative,89,D,Lawrence D. Hartlaub,55
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,President (at-large),,D,Hillary Clinton,45
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,President (at-large),,D,Bernie Sanders,25
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,U.S. Senator,,D,Kelli Prather,8
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,U.S. Senator,,D,P.G. Sittenfeld,21
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,U.S. Senator,,D,Ted Strickland,38
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,Representative to Congress,09,D,Marcy Kaptur,58
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,State Senator,02,D,Kirk W. Halliday,39
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,State Representative,89,D,Dannie K. Edmon,18
+Erie,PRECINCT SAN A,ADX,Northeast,Cleveland,413,239,State Representative,89,D,Lawrence D. Hartlaub,29
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,President (at-large),,D,Hillary Clinton,160
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,President (at-large),,D,Bernie Sanders,101
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,U.S. Senator,,D,Kelli Prather,25
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,U.S. Senator,,D,P.G. Sittenfeld,58
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,U.S. Senator,,D,Ted Strickland,160
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,Representative to Congress,09,D,Marcy Kaptur,224
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,State Senator,02,D,Kirk W. Halliday,166
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,State Representative,89,D,Dannie K. Edmon,161
+Erie,PRECINCT SAN B,ADY,Northeast,Cleveland,"1,142",392,State Representative,89,D,Lawrence D. Hartlaub,71
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,President (at-large),,D,Hillary Clinton,141
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,President (at-large),,D,Bernie Sanders,63
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,U.S. Senator,,D,Kelli Prather,19
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,U.S. Senator,,D,P.G. Sittenfeld,20
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,U.S. Senator,,D,Ted Strickland,148
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,Representative to Congress,09,D,Marcy Kaptur,161
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,State Senator,02,D,Kirk W. Halliday,109
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,State Representative,89,D,Dannie K. Edmon,142
+Erie,PRECINCT SAN C,ADZ,Northeast,Cleveland,930,304,State Representative,89,D,Lawrence D. Hartlaub,38
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,President (at-large),,D,Hillary Clinton,107
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,President (at-large),,D,Bernie Sanders,81
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,U.S. Senator,,D,Kelli Prather,30
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,U.S. Senator,,D,P.G. Sittenfeld,37
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,U.S. Senator,,D,Ted Strickland,108
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,Representative to Congress,09,D,Marcy Kaptur,167
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,State Senator,02,D,Kirk W. Halliday,120
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,State Representative,89,D,Dannie K. Edmon,67
+Erie,PRECINCT SAN D,AEA,Northeast,Cleveland,806,346,State Representative,89,D,Lawrence D. Hartlaub,92
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,President (at-large),,D,Hillary Clinton,135
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,President (at-large),,D,"Roque ""Rocky"" De La Fuente",5
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,President (at-large),,D,Bernie Sanders,110
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,U.S. Senator,,D,Kelli Prather,37
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,U.S. Senator,,D,P.G. Sittenfeld,51
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,U.S. Senator,,D,Ted Strickland,145
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,Representative to Congress,09,D,Marcy Kaptur,203
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,State Senator,02,D,Kirk W. Halliday,154
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,State Representative,89,D,Dannie K. Edmon,131
+Erie,PRECINCT SAN E,AEB,Northeast,Cleveland,"1,173",393,State Representative,89,D,Lawrence D. Hartlaub,77
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,President (at-large),,D,Hillary Clinton,145
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,President (at-large),,D,Bernie Sanders,87
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,U.S. Senator,,D,Kelli Prather,36
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,U.S. Senator,,D,P.G. Sittenfeld,48
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,U.S. Senator,,D,Ted Strickland,134
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,Representative to Congress,09,D,Marcy Kaptur,197
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,State Senator,02,D,Kirk W. Halliday,146
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,State Representative,89,D,Dannie K. Edmon,96
+Erie,PRECINCT SAN F,AEC,Northeast,Cleveland,973,395,State Representative,89,D,Lawrence D. Hartlaub,107
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,President (at-large),,D,Hillary Clinton,147
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,President (at-large),,D,Bernie Sanders,119
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,U.S. Senator,,D,Kelli Prather,43
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,U.S. Senator,,D,P.G. Sittenfeld,52
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,U.S. Senator,,D,Ted Strickland,157
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,Representative to Congress,09,D,Marcy Kaptur,220
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,State Senator,02,D,Kirk W. Halliday,151
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,State Representative,89,D,Dannie K. Edmon,130
+Erie,PRECINCT SAN G,AED,Northeast,Cleveland,"1,314",427,State Representative,89,D,Lawrence D. Hartlaub,94
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,President (at-large),,D,Hillary Clinton,109
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,President (at-large),,D,Bernie Sanders,107
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,U.S. Senator,,D,Kelli Prather,26
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,U.S. Senator,,D,P.G. Sittenfeld,53
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,U.S. Senator,,D,Ted Strickland,130
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,Representative to Congress,09,D,Marcy Kaptur,194
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,State Senator,02,D,Kirk W. Halliday,151
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,State Representative,89,D,Dannie K. Edmon,97
+Erie,PRECINCT SAN H,AEE,Northeast,Cleveland,"1,123",343,State Representative,89,D,Lawrence D. Hartlaub,96
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,President (at-large),,D,Hillary Clinton,119
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,President (at-large),,D,Bernie Sanders,101
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,U.S. Senator,,D,Kelli Prather,25
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,U.S. Senator,,D,P.G. Sittenfeld,56
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,U.S. Senator,,D,Ted Strickland,125
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,Representative to Congress,09,D,Marcy Kaptur,177
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,State Senator,02,D,Kirk W. Halliday,132
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,State Representative,89,D,Dannie K. Edmon,99
+Erie,PRECINCT SAN I,AEF,Northeast,Cleveland,"1,128",412,State Representative,89,D,Lawrence D. Hartlaub,84
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,President (at-large),,D,Hillary Clinton,154
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,President (at-large),,D,Bernie Sanders,69
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,U.S. Senator,,D,Kelli Prather,20
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,U.S. Senator,,D,P.G. Sittenfeld,43
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,U.S. Senator,,D,Ted Strickland,140
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,Representative to Congress,09,D,Marcy Kaptur,181
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,State Senator,02,D,Kirk W. Halliday,123
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,State Representative,89,D,Dannie K. Edmon,119
+Erie,PRECINCT SAN J,AEG,Northeast,Cleveland,903,325,State Representative,89,D,Lawrence D. Hartlaub,68
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,President (at-large),,D,Hillary Clinton,111
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,President (at-large),,D,Bernie Sanders,91
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,U.S. Senator,,D,Kelli Prather,37
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,U.S. Senator,,D,P.G. Sittenfeld,41
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,U.S. Senator,,D,Ted Strickland,110
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,Representative to Congress,09,D,Marcy Kaptur,165
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,State Senator,02,D,Kirk W. Halliday,127
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,State Representative,89,D,Dannie K. Edmon,87
+Erie,PRECINCT SAN K,AEH,Northeast,Cleveland,"1,207",359,State Representative,89,D,Lawrence D. Hartlaub,89
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,President (at-large),,D,Hillary Clinton,87
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,President (at-large),,D,Bernie Sanders,90
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,U.S. Senator,,D,Kelli Prather,26
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,U.S. Senator,,D,P.G. Sittenfeld,24
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,U.S. Senator,,D,Ted Strickland,118
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,Representative to Congress,09,D,Marcy Kaptur,150
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,State Senator,02,D,Kirk W. Halliday,114
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,State Representative,89,D,Dannie K. Edmon,95
+Erie,PRECINCT SAN L,AEI,Northeast,Cleveland,793,272,State Representative,89,D,Lawrence D. Hartlaub,65
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,President (at-large),,D,Hillary Clinton,98
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,President (at-large),,D,Bernie Sanders,87
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,U.S. Senator,,D,Kelli Prather,38
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,U.S. Senator,,D,P.G. Sittenfeld,38
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,U.S. Senator,,D,Ted Strickland,96
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,Representative to Congress,09,D,Marcy Kaptur,155
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,State Senator,02,D,Kirk W. Halliday,113
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,State Representative,89,D,Dannie K. Edmon,77
+Erie,PRECINCT SAN M,AEJ,Northeast,Cleveland,850,292,State Representative,89,D,Lawrence D. Hartlaub,76
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,President (at-large),,D,Hillary Clinton,125
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,President (at-large),,D,Bernie Sanders,67
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,U.S. Senator,,D,Kelli Prather,21
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,U.S. Senator,,D,P.G. Sittenfeld,38
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,U.S. Senator,,D,Ted Strickland,120
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,Representative to Congress,09,D,Marcy Kaptur,169
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,State Senator,02,D,Kirk W. Halliday,108
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,State Representative,89,D,Dannie K. Edmon,105
+Erie,PRECINCT SAN N,AEK,Northeast,Cleveland,937,281,State Representative,89,D,Lawrence D. Hartlaub,58
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,President (at-large),,D,Hillary Clinton,111
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,President (at-large),,D,Bernie Sanders,79
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,U.S. Senator,,D,Kelli Prather,23
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,U.S. Senator,,D,P.G. Sittenfeld,36
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,U.S. Senator,,D,Ted Strickland,124
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,Representative to Congress,09,D,Marcy Kaptur,167
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,State Senator,02,D,Kirk W. Halliday,118
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,State Representative,89,D,Dannie K. Edmon,67
+Erie,PRECINCT SAN O,AEL,Northeast,Cleveland,977,335,State Representative,89,D,Lawrence D. Hartlaub,92
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,President (at-large),,D,Hillary Clinton,146
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,President (at-large),,D,"Roque ""Rocky"" De La Fuente",6
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,President (at-large),,D,Bernie Sanders,93
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,U.S. Senator,,D,Kelli Prather,16
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,U.S. Senator,,D,P.G. Sittenfeld,64
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,U.S. Senator,,D,Ted Strickland,148
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,Representative to Congress,04,D,Norbert G. Dennerll Jr.,0
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,Representative to Congress,04,D,Janet Garrett,0
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,Representative to Congress,04,D,Daniel Johnson,0
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,Representative to Congress,09,D,Marcy Kaptur,212
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,State Senator,02,D,Kirk W. Halliday,128
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,State Representative,89,D,Dannie K. Edmon,88
+Erie,PRECINCT SAN P,AEM,Northeast,Cleveland,"1,253",538,State Representative,89,D,Lawrence D. Hartlaub,118
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,President (at-large),,D,Hillary Clinton,53
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,President (at-large),,D,Bernie Sanders,55
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,U.S. Senator,,D,Kelli Prather,20
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,U.S. Senator,,D,P.G. Sittenfeld,26
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,U.S. Senator,,D,Ted Strickland,56
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,Representative to Congress,04,D,Norbert G. Dennerll Jr.,4
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,Representative to Congress,04,D,Janet Garrett,66
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,Representative to Congress,04,D,Daniel Johnson,15
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,Representative to Congress,09,D,Marcy Kaptur,0
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,State Senator,02,D,Kirk W. Halliday,62
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,State Representative,89,D,Dannie K. Edmon,28
+Erie,PRECINCT MIL VILL,AEN,Northeast,Cleveland,665,324,State Representative,89,D,Lawrence D. Hartlaub,49

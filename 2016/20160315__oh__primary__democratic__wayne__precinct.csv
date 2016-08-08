@@ -1,0 +1,470 @@
+County Name,Precinct Name,Precinct Code,Region Name,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Wayne,ORRVILLE CITY 1,AAA,Northeast,Cleveland,"1,170",466,President (at-large),,D,Hillary Clinton,74
+Wayne,ORRVILLE CITY 1,AAA,Northeast,Cleveland,"1,170",466,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,ORRVILLE CITY 1,AAA,Northeast,Cleveland,"1,170",466,President (at-large),,D,Bernie Sanders,65
+Wayne,ORRVILLE CITY 1,AAA,Northeast,Cleveland,"1,170",466,U.S. Senator,,D,Kelli Prather,19
+Wayne,ORRVILLE CITY 1,AAA,Northeast,Cleveland,"1,170",466,U.S. Senator,,D,P.G. Sittenfeld,27
+Wayne,ORRVILLE CITY 1,AAA,Northeast,Cleveland,"1,170",466,U.S. Senator,,D,Ted Strickland,83
+Wayne,ORRVILLE CITY 1,AAA,Northeast,Cleveland,"1,170",466,Representative to Congress,16,D,Keith Mundy,113
+Wayne,ORRVILLE CITY 2,AAC,Northeast,Cleveland,"1,105",381,President (at-large),,D,Hillary Clinton,54
+Wayne,ORRVILLE CITY 2,AAC,Northeast,Cleveland,"1,105",381,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,ORRVILLE CITY 2,AAC,Northeast,Cleveland,"1,105",381,President (at-large),,D,Bernie Sanders,73
+Wayne,ORRVILLE CITY 2,AAC,Northeast,Cleveland,"1,105",381,U.S. Senator,,D,Kelli Prather,26
+Wayne,ORRVILLE CITY 2,AAC,Northeast,Cleveland,"1,105",381,U.S. Senator,,D,P.G. Sittenfeld,22
+Wayne,ORRVILLE CITY 2,AAC,Northeast,Cleveland,"1,105",381,U.S. Senator,,D,Ted Strickland,71
+Wayne,ORRVILLE CITY 2,AAC,Northeast,Cleveland,"1,105",381,Representative to Congress,16,D,Keith Mundy,99
+Wayne,ORRVILLE CITY 3,AAE,Northeast,Cleveland,"1,388",635,President (at-large),,D,Hillary Clinton,79
+Wayne,ORRVILLE CITY 3,AAE,Northeast,Cleveland,"1,388",635,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,ORRVILLE CITY 3,AAE,Northeast,Cleveland,"1,388",635,President (at-large),,D,Bernie Sanders,82
+Wayne,ORRVILLE CITY 3,AAE,Northeast,Cleveland,"1,388",635,U.S. Senator,,D,Kelli Prather,20
+Wayne,ORRVILLE CITY 3,AAE,Northeast,Cleveland,"1,388",635,U.S. Senator,,D,P.G. Sittenfeld,46
+Wayne,ORRVILLE CITY 3,AAE,Northeast,Cleveland,"1,388",635,U.S. Senator,,D,Ted Strickland,82
+Wayne,ORRVILLE CITY 3,AAE,Northeast,Cleveland,"1,388",635,Representative to Congress,16,D,Keith Mundy,119
+Wayne,ORRVILLE CITY 4-A,AAG,Northeast,Cleveland,764,351,President (at-large),,D,Hillary Clinton,41
+Wayne,ORRVILLE CITY 4-A,AAG,Northeast,Cleveland,764,351,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,ORRVILLE CITY 4-A,AAG,Northeast,Cleveland,764,351,President (at-large),,D,Bernie Sanders,32
+Wayne,ORRVILLE CITY 4-A,AAG,Northeast,Cleveland,764,351,U.S. Senator,,D,Kelli Prather,5
+Wayne,ORRVILLE CITY 4-A,AAG,Northeast,Cleveland,764,351,U.S. Senator,,D,P.G. Sittenfeld,18
+Wayne,ORRVILLE CITY 4-A,AAG,Northeast,Cleveland,764,351,U.S. Senator,,D,Ted Strickland,42
+Wayne,ORRVILLE CITY 4-A,AAG,Northeast,Cleveland,764,351,Representative to Congress,16,D,Keith Mundy,54
+Wayne,ORRVILLE CITY 4-B,AAH,Northeast,Cleveland,670,337,President (at-large),,D,Hillary Clinton,60
+Wayne,ORRVILLE CITY 4-B,AAH,Northeast,Cleveland,670,337,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,ORRVILLE CITY 4-B,AAH,Northeast,Cleveland,670,337,President (at-large),,D,Bernie Sanders,51
+Wayne,ORRVILLE CITY 4-B,AAH,Northeast,Cleveland,670,337,U.S. Senator,,D,Kelli Prather,9
+Wayne,ORRVILLE CITY 4-B,AAH,Northeast,Cleveland,670,337,U.S. Senator,,D,P.G. Sittenfeld,36
+Wayne,ORRVILLE CITY 4-B,AAH,Northeast,Cleveland,670,337,U.S. Senator,,D,Ted Strickland,57
+Wayne,ORRVILLE CITY 4-B,AAH,Northeast,Cleveland,670,337,Representative to Congress,16,D,Keith Mundy,87
+Wayne,RITTMAN CITY 1,AAJ,Northeast,Cleveland,918,252,President (at-large),,D,Hillary Clinton,45
+Wayne,RITTMAN CITY 1,AAJ,Northeast,Cleveland,918,252,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Wayne,RITTMAN CITY 1,AAJ,Northeast,Cleveland,918,252,President (at-large),,D,Bernie Sanders,53
+Wayne,RITTMAN CITY 1,AAJ,Northeast,Cleveland,918,252,U.S. Senator,,D,Kelli Prather,15
+Wayne,RITTMAN CITY 1,AAJ,Northeast,Cleveland,918,252,U.S. Senator,,D,P.G. Sittenfeld,23
+Wayne,RITTMAN CITY 1,AAJ,Northeast,Cleveland,918,252,U.S. Senator,,D,Ted Strickland,54
+Wayne,RITTMAN CITY 1,AAJ,Northeast,Cleveland,918,252,Representative to Congress,16,D,Keith Mundy,77
+Wayne,RITTMAN CITY 2,AAK,Northeast,Cleveland,901,293,President (at-large),,D,Hillary Clinton,64
+Wayne,RITTMAN CITY 2,AAK,Northeast,Cleveland,901,293,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,RITTMAN CITY 2,AAK,Northeast,Cleveland,901,293,President (at-large),,D,Bernie Sanders,43
+Wayne,RITTMAN CITY 2,AAK,Northeast,Cleveland,901,293,U.S. Senator,,D,Kelli Prather,14
+Wayne,RITTMAN CITY 2,AAK,Northeast,Cleveland,901,293,U.S. Senator,,D,P.G. Sittenfeld,29
+Wayne,RITTMAN CITY 2,AAK,Northeast,Cleveland,901,293,U.S. Senator,,D,Ted Strickland,59
+Wayne,RITTMAN CITY 2,AAK,Northeast,Cleveland,901,293,Representative to Congress,16,D,Keith Mundy,79
+Wayne,RITTMAN CITY 3,AAL,Northeast,Cleveland,"1,307",537,President (at-large),,D,Hillary Clinton,57
+Wayne,RITTMAN CITY 3,AAL,Northeast,Cleveland,"1,307",537,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Wayne,RITTMAN CITY 3,AAL,Northeast,Cleveland,"1,307",537,President (at-large),,D,Bernie Sanders,69
+Wayne,RITTMAN CITY 3,AAL,Northeast,Cleveland,"1,307",537,U.S. Senator,,D,Kelli Prather,11
+Wayne,RITTMAN CITY 3,AAL,Northeast,Cleveland,"1,307",537,U.S. Senator,,D,P.G. Sittenfeld,41
+Wayne,RITTMAN CITY 3,AAL,Northeast,Cleveland,"1,307",537,U.S. Senator,,D,Ted Strickland,71
+Wayne,RITTMAN CITY 3,AAL,Northeast,Cleveland,"1,307",537,Representative to Congress,16,D,Keith Mundy,94
+Wayne,RITTMAN CITY 4,AAM,Northeast,Cleveland,733,236,President (at-large),,D,Hillary Clinton,40
+Wayne,RITTMAN CITY 4,AAM,Northeast,Cleveland,733,236,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,RITTMAN CITY 4,AAM,Northeast,Cleveland,733,236,President (at-large),,D,Bernie Sanders,33
+Wayne,RITTMAN CITY 4,AAM,Northeast,Cleveland,733,236,U.S. Senator,,D,Kelli Prather,8
+Wayne,RITTMAN CITY 4,AAM,Northeast,Cleveland,733,236,U.S. Senator,,D,P.G. Sittenfeld,15
+Wayne,RITTMAN CITY 4,AAM,Northeast,Cleveland,733,236,U.S. Senator,,D,Ted Strickland,47
+Wayne,RITTMAN CITY 4,AAM,Northeast,Cleveland,733,236,Representative to Congress,16,D,Keith Mundy,61
+Wayne,WOOSTER CITY 1-A,AAO,Northeast,Cleveland,"1,572",343,President (at-large),,D,Hillary Clinton,67
+Wayne,WOOSTER CITY 1-A,AAO,Northeast,Cleveland,"1,572",343,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Wayne,WOOSTER CITY 1-A,AAO,Northeast,Cleveland,"1,572",343,President (at-large),,D,Bernie Sanders,73
+Wayne,WOOSTER CITY 1-A,AAO,Northeast,Cleveland,"1,572",343,U.S. Senator,,D,Kelli Prather,24
+Wayne,WOOSTER CITY 1-A,AAO,Northeast,Cleveland,"1,572",343,U.S. Senator,,D,P.G. Sittenfeld,24
+Wayne,WOOSTER CITY 1-A,AAO,Northeast,Cleveland,"1,572",343,U.S. Senator,,D,Ted Strickland,84
+Wayne,WOOSTER CITY 1-A,AAO,Northeast,Cleveland,"1,572",343,Representative to Congress,16,D,Keith Mundy,94
+Wayne,WOOSTER CITY 1-B,AAP,Northeast,Cleveland,803,229,President (at-large),,D,Hillary Clinton,26
+Wayne,WOOSTER CITY 1-B,AAP,Northeast,Cleveland,803,229,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Wayne,WOOSTER CITY 1-B,AAP,Northeast,Cleveland,803,229,President (at-large),,D,Bernie Sanders,61
+Wayne,WOOSTER CITY 1-B,AAP,Northeast,Cleveland,803,229,U.S. Senator,,D,Kelli Prather,17
+Wayne,WOOSTER CITY 1-B,AAP,Northeast,Cleveland,803,229,U.S. Senator,,D,P.G. Sittenfeld,13
+Wayne,WOOSTER CITY 1-B,AAP,Northeast,Cleveland,803,229,U.S. Senator,,D,Ted Strickland,54
+Wayne,WOOSTER CITY 1-B,AAP,Northeast,Cleveland,803,229,Representative to Congress,16,D,Keith Mundy,69
+Wayne,WOOSTER CITY 1-C,AAR,Northeast,Cleveland,"1,309",306,President (at-large),,D,Hillary Clinton,46
+Wayne,WOOSTER CITY 1-C,AAR,Northeast,Cleveland,"1,309",306,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,WOOSTER CITY 1-C,AAR,Northeast,Cleveland,"1,309",306,President (at-large),,D,Bernie Sanders,89
+Wayne,WOOSTER CITY 1-C,AAR,Northeast,Cleveland,"1,309",306,U.S. Senator,,D,Kelli Prather,17
+Wayne,WOOSTER CITY 1-C,AAR,Northeast,Cleveland,"1,309",306,U.S. Senator,,D,P.G. Sittenfeld,29
+Wayne,WOOSTER CITY 1-C,AAR,Northeast,Cleveland,"1,309",306,U.S. Senator,,D,Ted Strickland,70
+Wayne,WOOSTER CITY 1-C,AAR,Northeast,Cleveland,"1,309",306,Representative to Congress,16,D,Keith Mundy,93
+Wayne,WOOSTER CITY 2-A,AAU,Northeast,Cleveland,"1,181",448,President (at-large),,D,Hillary Clinton,74
+Wayne,WOOSTER CITY 2-A,AAU,Northeast,Cleveland,"1,181",448,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,WOOSTER CITY 2-A,AAU,Northeast,Cleveland,"1,181",448,President (at-large),,D,Bernie Sanders,63
+Wayne,WOOSTER CITY 2-A,AAU,Northeast,Cleveland,"1,181",448,U.S. Senator,,D,Kelli Prather,23
+Wayne,WOOSTER CITY 2-A,AAU,Northeast,Cleveland,"1,181",448,U.S. Senator,,D,P.G. Sittenfeld,23
+Wayne,WOOSTER CITY 2-A,AAU,Northeast,Cleveland,"1,181",448,U.S. Senator,,D,Ted Strickland,80
+Wayne,WOOSTER CITY 2-A,AAU,Northeast,Cleveland,"1,181",448,Representative to Congress,16,D,Keith Mundy,97
+Wayne,WOOSTER CITY 2-B,AAV,Northeast,Cleveland,"1,578",182,President (at-large),,D,Hillary Clinton,23
+Wayne,WOOSTER CITY 2-B,AAV,Northeast,Cleveland,"1,578",182,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WOOSTER CITY 2-B,AAV,Northeast,Cleveland,"1,578",182,President (at-large),,D,Bernie Sanders,71
+Wayne,WOOSTER CITY 2-B,AAV,Northeast,Cleveland,"1,578",182,U.S. Senator,,D,Kelli Prather,20
+Wayne,WOOSTER CITY 2-B,AAV,Northeast,Cleveland,"1,578",182,U.S. Senator,,D,P.G. Sittenfeld,21
+Wayne,WOOSTER CITY 2-B,AAV,Northeast,Cleveland,"1,578",182,U.S. Senator,,D,Ted Strickland,38
+Wayne,WOOSTER CITY 2-B,AAV,Northeast,Cleveland,"1,578",182,Representative to Congress,16,D,Keith Mundy,63
+Wayne,WOOSTER CITY 2-C,AAW,Northeast,Cleveland,703,239,President (at-large),,D,Hillary Clinton,49
+Wayne,WOOSTER CITY 2-C,AAW,Northeast,Cleveland,703,239,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WOOSTER CITY 2-C,AAW,Northeast,Cleveland,703,239,President (at-large),,D,Bernie Sanders,40
+Wayne,WOOSTER CITY 2-C,AAW,Northeast,Cleveland,703,239,U.S. Senator,,D,Kelli Prather,11
+Wayne,WOOSTER CITY 2-C,AAW,Northeast,Cleveland,703,239,U.S. Senator,,D,P.G. Sittenfeld,18
+Wayne,WOOSTER CITY 2-C,AAW,Northeast,Cleveland,703,239,U.S. Senator,,D,Ted Strickland,52
+Wayne,WOOSTER CITY 2-C,AAW,Northeast,Cleveland,703,239,Representative to Congress,16,D,Keith Mundy,63
+Wayne,WOOSTER CITY 2-D,AAX,Northeast,Cleveland,"1,453",425,President (at-large),,D,Hillary Clinton,71
+Wayne,WOOSTER CITY 2-D,AAX,Northeast,Cleveland,"1,453",425,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Wayne,WOOSTER CITY 2-D,AAX,Northeast,Cleveland,"1,453",425,President (at-large),,D,Bernie Sanders,82
+Wayne,WOOSTER CITY 2-D,AAX,Northeast,Cleveland,"1,453",425,U.S. Senator,,D,Kelli Prather,20
+Wayne,WOOSTER CITY 2-D,AAX,Northeast,Cleveland,"1,453",425,U.S. Senator,,D,P.G. Sittenfeld,35
+Wayne,WOOSTER CITY 2-D,AAX,Northeast,Cleveland,"1,453",425,U.S. Senator,,D,Ted Strickland,72
+Wayne,WOOSTER CITY 2-D,AAX,Northeast,Cleveland,"1,453",425,Representative to Congress,16,D,Keith Mundy,106
+Wayne,WOOSTER CITY 3-A,AAZ,Northeast,Cleveland,"1,029",457,President (at-large),,D,Hillary Clinton,86
+Wayne,WOOSTER CITY 3-A,AAZ,Northeast,Cleveland,"1,029",457,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,WOOSTER CITY 3-A,AAZ,Northeast,Cleveland,"1,029",457,President (at-large),,D,Bernie Sanders,56
+Wayne,WOOSTER CITY 3-A,AAZ,Northeast,Cleveland,"1,029",457,U.S. Senator,,D,Kelli Prather,9
+Wayne,WOOSTER CITY 3-A,AAZ,Northeast,Cleveland,"1,029",457,U.S. Senator,,D,P.G. Sittenfeld,51
+Wayne,WOOSTER CITY 3-A,AAZ,Northeast,Cleveland,"1,029",457,U.S. Senator,,D,Ted Strickland,67
+Wayne,WOOSTER CITY 3-A,AAZ,Northeast,Cleveland,"1,029",457,Representative to Congress,16,D,Keith Mundy,90
+Wayne,WOOSTER CITY 3-B,ABA,Northeast,Cleveland,"1,125",401,President (at-large),,D,Hillary Clinton,56
+Wayne,WOOSTER CITY 3-B,ABA,Northeast,Cleveland,"1,125",401,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WOOSTER CITY 3-B,ABA,Northeast,Cleveland,"1,125",401,President (at-large),,D,Bernie Sanders,46
+Wayne,WOOSTER CITY 3-B,ABA,Northeast,Cleveland,"1,125",401,U.S. Senator,,D,Kelli Prather,10
+Wayne,WOOSTER CITY 3-B,ABA,Northeast,Cleveland,"1,125",401,U.S. Senator,,D,P.G. Sittenfeld,29
+Wayne,WOOSTER CITY 3-B,ABA,Northeast,Cleveland,"1,125",401,U.S. Senator,,D,Ted Strickland,58
+Wayne,WOOSTER CITY 3-B,ABA,Northeast,Cleveland,"1,125",401,Representative to Congress,16,D,Keith Mundy,80
+Wayne,WOOSTER CITY 3-C,ABB,Northeast,Cleveland,"1,353",577,President (at-large),,D,Hillary Clinton,86
+Wayne,WOOSTER CITY 3-C,ABB,Northeast,Cleveland,"1,353",577,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,WOOSTER CITY 3-C,ABB,Northeast,Cleveland,"1,353",577,President (at-large),,D,Bernie Sanders,55
+Wayne,WOOSTER CITY 3-C,ABB,Northeast,Cleveland,"1,353",577,U.S. Senator,,D,Kelli Prather,10
+Wayne,WOOSTER CITY 3-C,ABB,Northeast,Cleveland,"1,353",577,U.S. Senator,,D,P.G. Sittenfeld,36
+Wayne,WOOSTER CITY 3-C,ABB,Northeast,Cleveland,"1,353",577,U.S. Senator,,D,Ted Strickland,88
+Wayne,WOOSTER CITY 3-C,ABB,Northeast,Cleveland,"1,353",577,Representative to Congress,16,D,Keith Mundy,96
+Wayne,WOOSTER CITY 3-D,ABC,Northeast,Cleveland,776,320,President (at-large),,D,Hillary Clinton,56
+Wayne,WOOSTER CITY 3-D,ABC,Northeast,Cleveland,776,320,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WOOSTER CITY 3-D,ABC,Northeast,Cleveland,776,320,President (at-large),,D,Bernie Sanders,63
+Wayne,WOOSTER CITY 3-D,ABC,Northeast,Cleveland,776,320,U.S. Senator,,D,Kelli Prather,12
+Wayne,WOOSTER CITY 3-D,ABC,Northeast,Cleveland,776,320,U.S. Senator,,D,P.G. Sittenfeld,33
+Wayne,WOOSTER CITY 3-D,ABC,Northeast,Cleveland,776,320,U.S. Senator,,D,Ted Strickland,67
+Wayne,WOOSTER CITY 3-D,ABC,Northeast,Cleveland,776,320,Representative to Congress,16,D,Keith Mundy,78
+Wayne,WOOSTER CITY 3-E,ABD,Northeast,Cleveland,"1,001",466,President (at-large),,D,Hillary Clinton,75
+Wayne,WOOSTER CITY 3-E,ABD,Northeast,Cleveland,"1,001",466,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WOOSTER CITY 3-E,ABD,Northeast,Cleveland,"1,001",466,President (at-large),,D,Bernie Sanders,69
+Wayne,WOOSTER CITY 3-E,ABD,Northeast,Cleveland,"1,001",466,U.S. Senator,,D,Kelli Prather,16
+Wayne,WOOSTER CITY 3-E,ABD,Northeast,Cleveland,"1,001",466,U.S. Senator,,D,P.G. Sittenfeld,37
+Wayne,WOOSTER CITY 3-E,ABD,Northeast,Cleveland,"1,001",466,U.S. Senator,,D,Ted Strickland,83
+Wayne,WOOSTER CITY 3-E,ABD,Northeast,Cleveland,"1,001",466,Representative to Congress,16,D,Keith Mundy,105
+Wayne,WOOSTER CITY 4-A,ABH,Northeast,Cleveland,"1,167",514,President (at-large),,D,Hillary Clinton,93
+Wayne,WOOSTER CITY 4-A,ABH,Northeast,Cleveland,"1,167",514,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WOOSTER CITY 4-A,ABH,Northeast,Cleveland,"1,167",514,President (at-large),,D,Bernie Sanders,79
+Wayne,WOOSTER CITY 4-A,ABH,Northeast,Cleveland,"1,167",514,U.S. Senator,,D,Kelli Prather,26
+Wayne,WOOSTER CITY 4-A,ABH,Northeast,Cleveland,"1,167",514,U.S. Senator,,D,P.G. Sittenfeld,30
+Wayne,WOOSTER CITY 4-A,ABH,Northeast,Cleveland,"1,167",514,U.S. Senator,,D,Ted Strickland,100
+Wayne,WOOSTER CITY 4-A,ABH,Northeast,Cleveland,"1,167",514,Representative to Congress,16,D,Keith Mundy,111
+Wayne,WOOSTER CITY 4-B,ABJ,Northeast,Cleveland,"1,013",439,President (at-large),,D,Hillary Clinton,68
+Wayne,WOOSTER CITY 4-B,ABJ,Northeast,Cleveland,"1,013",439,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,WOOSTER CITY 4-B,ABJ,Northeast,Cleveland,"1,013",439,President (at-large),,D,Bernie Sanders,56
+Wayne,WOOSTER CITY 4-B,ABJ,Northeast,Cleveland,"1,013",439,U.S. Senator,,D,Kelli Prather,12
+Wayne,WOOSTER CITY 4-B,ABJ,Northeast,Cleveland,"1,013",439,U.S. Senator,,D,P.G. Sittenfeld,31
+Wayne,WOOSTER CITY 4-B,ABJ,Northeast,Cleveland,"1,013",439,U.S. Senator,,D,Ted Strickland,72
+Wayne,WOOSTER CITY 4-B,ABJ,Northeast,Cleveland,"1,013",439,Representative to Congress,16,D,Keith Mundy,94
+Wayne,WOOSTER CITY 4-C,ABM,Northeast,Cleveland,"1,457",579,President (at-large),,D,Hillary Clinton,77
+Wayne,WOOSTER CITY 4-C,ABM,Northeast,Cleveland,"1,457",579,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Wayne,WOOSTER CITY 4-C,ABM,Northeast,Cleveland,"1,457",579,President (at-large),,D,Bernie Sanders,84
+Wayne,WOOSTER CITY 4-C,ABM,Northeast,Cleveland,"1,457",579,U.S. Senator,,D,Kelli Prather,24
+Wayne,WOOSTER CITY 4-C,ABM,Northeast,Cleveland,"1,457",579,U.S. Senator,,D,P.G. Sittenfeld,36
+Wayne,WOOSTER CITY 4-C,ABM,Northeast,Cleveland,"1,457",579,U.S. Senator,,D,Ted Strickland,86
+Wayne,WOOSTER CITY 4-C,ABM,Northeast,Cleveland,"1,457",579,Representative to Congress,16,D,Keith Mundy,119
+Wayne,WOOSTER CITY 4-D,ABN,Northeast,Cleveland,"1,331",610,President (at-large),,D,Hillary Clinton,93
+Wayne,WOOSTER CITY 4-D,ABN,Northeast,Cleveland,"1,331",610,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WOOSTER CITY 4-D,ABN,Northeast,Cleveland,"1,331",610,President (at-large),,D,Bernie Sanders,92
+Wayne,WOOSTER CITY 4-D,ABN,Northeast,Cleveland,"1,331",610,U.S. Senator,,D,Kelli Prather,15
+Wayne,WOOSTER CITY 4-D,ABN,Northeast,Cleveland,"1,331",610,U.S. Senator,,D,P.G. Sittenfeld,37
+Wayne,WOOSTER CITY 4-D,ABN,Northeast,Cleveland,"1,331",610,U.S. Senator,,D,Ted Strickland,117
+Wayne,WOOSTER CITY 4-D,ABN,Northeast,Cleveland,"1,331",610,Representative to Congress,16,D,Keith Mundy,133
+Wayne,BAUGHMAN TWP 1,ABP,Northeast,Cleveland,"1,037",497,President (at-large),,D,Hillary Clinton,42
+Wayne,BAUGHMAN TWP 1,ABP,Northeast,Cleveland,"1,037",497,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Wayne,BAUGHMAN TWP 1,ABP,Northeast,Cleveland,"1,037",497,President (at-large),,D,Bernie Sanders,38
+Wayne,BAUGHMAN TWP 1,ABP,Northeast,Cleveland,"1,037",497,U.S. Senator,,D,Kelli Prather,14
+Wayne,BAUGHMAN TWP 1,ABP,Northeast,Cleveland,"1,037",497,U.S. Senator,,D,P.G. Sittenfeld,22
+Wayne,BAUGHMAN TWP 1,ABP,Northeast,Cleveland,"1,037",497,U.S. Senator,,D,Ted Strickland,44
+Wayne,BAUGHMAN TWP 1,ABP,Northeast,Cleveland,"1,037",497,Representative to Congress,16,D,Keith Mundy,61
+Wayne,BAUGHMAN TWP 2,ABQ,Northeast,Cleveland,"1,258",520,President (at-large),,D,Hillary Clinton,52
+Wayne,BAUGHMAN TWP 2,ABQ,Northeast,Cleveland,"1,258",520,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,BAUGHMAN TWP 2,ABQ,Northeast,Cleveland,"1,258",520,President (at-large),,D,Bernie Sanders,47
+Wayne,BAUGHMAN TWP 2,ABQ,Northeast,Cleveland,"1,258",520,U.S. Senator,,D,Kelli Prather,9
+Wayne,BAUGHMAN TWP 2,ABQ,Northeast,Cleveland,"1,258",520,U.S. Senator,,D,P.G. Sittenfeld,18
+Wayne,BAUGHMAN TWP 2,ABQ,Northeast,Cleveland,"1,258",520,U.S. Senator,,D,Ted Strickland,64
+Wayne,BAUGHMAN TWP 2,ABQ,Northeast,Cleveland,"1,258",520,Representative to Congress,16,D,Keith Mundy,73
+Wayne,CANAAN TWP 3,ABT,Northeast,Cleveland,753,309,President (at-large),,D,Hillary Clinton,26
+Wayne,CANAAN TWP 3,ABT,Northeast,Cleveland,753,309,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Wayne,CANAAN TWP 3,ABT,Northeast,Cleveland,753,309,President (at-large),,D,Bernie Sanders,24
+Wayne,CANAAN TWP 3,ABT,Northeast,Cleveland,753,309,U.S. Senator,,D,Kelli Prather,8
+Wayne,CANAAN TWP 3,ABT,Northeast,Cleveland,753,309,U.S. Senator,,D,P.G. Sittenfeld,8
+Wayne,CANAAN TWP 3,ABT,Northeast,Cleveland,753,309,U.S. Senator,,D,Ted Strickland,32
+Wayne,CANAAN TWP 3,ABT,Northeast,Cleveland,753,309,Representative to Congress,16,D,Keith Mundy,39
+Wayne,CANAAN TWP 1,ABU,Northeast,Cleveland,"1,186",464,President (at-large),,D,Hillary Clinton,53
+Wayne,CANAAN TWP 1,ABU,Northeast,Cleveland,"1,186",464,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Wayne,CANAAN TWP 1,ABU,Northeast,Cleveland,"1,186",464,President (at-large),,D,Bernie Sanders,45
+Wayne,CANAAN TWP 1,ABU,Northeast,Cleveland,"1,186",464,U.S. Senator,,D,Kelli Prather,10
+Wayne,CANAAN TWP 1,ABU,Northeast,Cleveland,"1,186",464,U.S. Senator,,D,P.G. Sittenfeld,30
+Wayne,CANAAN TWP 1,ABU,Northeast,Cleveland,"1,186",464,U.S. Senator,,D,Ted Strickland,53
+Wayne,CANAAN TWP 1,ABU,Northeast,Cleveland,"1,186",464,Representative to Congress,16,D,Keith Mundy,74
+Wayne,CANAAN TWP 2 CRESTON,ABV,Northeast,Cleveland,"1,294",460,President (at-large),,D,Hillary Clinton,58
+Wayne,CANAAN TWP 2 CRESTON,ABV,Northeast,Cleveland,"1,294",460,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,CANAAN TWP 2 CRESTON,ABV,Northeast,Cleveland,"1,294",460,President (at-large),,D,Bernie Sanders,50
+Wayne,CANAAN TWP 2 CRESTON,ABV,Northeast,Cleveland,"1,294",460,U.S. Senator,,D,Kelli Prather,13
+Wayne,CANAAN TWP 2 CRESTON,ABV,Northeast,Cleveland,"1,294",460,U.S. Senator,,D,P.G. Sittenfeld,21
+Wayne,CANAAN TWP 2 CRESTON,ABV,Northeast,Cleveland,"1,294",460,U.S. Senator,,D,Ted Strickland,67
+Wayne,CANAAN TWP 2 CRESTON,ABV,Northeast,Cleveland,"1,294",460,Representative to Congress,16,D,Keith Mundy,84
+Wayne,CHESTER TWP 1,ABX,Northeast,Cleveland,"1,279",574,President (at-large),,D,Hillary Clinton,50
+Wayne,CHESTER TWP 1,ABX,Northeast,Cleveland,"1,279",574,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,CHESTER TWP 1,ABX,Northeast,Cleveland,"1,279",574,President (at-large),,D,Bernie Sanders,39
+Wayne,CHESTER TWP 1,ABX,Northeast,Cleveland,"1,279",574,U.S. Senator,,D,Kelli Prather,8
+Wayne,CHESTER TWP 1,ABX,Northeast,Cleveland,"1,279",574,U.S. Senator,,D,P.G. Sittenfeld,30
+Wayne,CHESTER TWP 1,ABX,Northeast,Cleveland,"1,279",574,U.S. Senator,,D,Ted Strickland,48
+Wayne,CHESTER TWP 1,ABX,Northeast,Cleveland,"1,279",574,Representative to Congress,16,D,Keith Mundy,66
+Wayne,CHESTER TWP 2,ABZ,Northeast,Cleveland,703,294,President (at-large),,D,Hillary Clinton,17
+Wayne,CHESTER TWP 2,ABZ,Northeast,Cleveland,703,294,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,CHESTER TWP 2,ABZ,Northeast,Cleveland,703,294,President (at-large),,D,Bernie Sanders,25
+Wayne,CHESTER TWP 2,ABZ,Northeast,Cleveland,703,294,U.S. Senator,,D,Kelli Prather,3
+Wayne,CHESTER TWP 2,ABZ,Northeast,Cleveland,703,294,U.S. Senator,,D,P.G. Sittenfeld,7
+Wayne,CHESTER TWP 2,ABZ,Northeast,Cleveland,703,294,U.S. Senator,,D,Ted Strickland,29
+Wayne,CHESTER TWP 2,ABZ,Northeast,Cleveland,703,294,Representative to Congress,16,D,Keith Mundy,33
+Wayne,CHIPPEWA TWP 1,ACA,Northeast,Cleveland,"1,229",534,President (at-large),,D,Hillary Clinton,78
+Wayne,CHIPPEWA TWP 1,ACA,Northeast,Cleveland,"1,229",534,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Wayne,CHIPPEWA TWP 1,ACA,Northeast,Cleveland,"1,229",534,President (at-large),,D,Bernie Sanders,35
+Wayne,CHIPPEWA TWP 1,ACA,Northeast,Cleveland,"1,229",534,U.S. Senator,,D,Kelli Prather,12
+Wayne,CHIPPEWA TWP 1,ACA,Northeast,Cleveland,"1,229",534,U.S. Senator,,D,P.G. Sittenfeld,25
+Wayne,CHIPPEWA TWP 1,ACA,Northeast,Cleveland,"1,229",534,U.S. Senator,,D,Ted Strickland,72
+Wayne,CHIPPEWA TWP 1,ACA,Northeast,Cleveland,"1,229",534,Representative to Congress,16,D,Keith Mundy,73
+Wayne,CHIPPEWA TWP 2,ACC,Northeast,Cleveland,"1,223",527,President (at-large),,D,Hillary Clinton,74
+Wayne,CHIPPEWA TWP 2,ACC,Northeast,Cleveland,"1,223",527,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,CHIPPEWA TWP 2,ACC,Northeast,Cleveland,"1,223",527,President (at-large),,D,Bernie Sanders,72
+Wayne,CHIPPEWA TWP 2,ACC,Northeast,Cleveland,"1,223",527,U.S. Senator,,D,Kelli Prather,18
+Wayne,CHIPPEWA TWP 2,ACC,Northeast,Cleveland,"1,223",527,U.S. Senator,,D,P.G. Sittenfeld,35
+Wayne,CHIPPEWA TWP 2,ACC,Northeast,Cleveland,"1,223",527,U.S. Senator,,D,Ted Strickland,77
+Wayne,CHIPPEWA TWP 2,ACC,Northeast,Cleveland,"1,223",527,Representative to Congress,16,D,Keith Mundy,104
+Wayne,CHIPPEWA TWP 3,ACE,Northeast,Cleveland,"1,346",542,President (at-large),,D,Hillary Clinton,85
+Wayne,CHIPPEWA TWP 3,ACE,Northeast,Cleveland,"1,346",542,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Wayne,CHIPPEWA TWP 3,ACE,Northeast,Cleveland,"1,346",542,President (at-large),,D,Bernie Sanders,87
+Wayne,CHIPPEWA TWP 3,ACE,Northeast,Cleveland,"1,346",542,U.S. Senator,,D,Kelli Prather,19
+Wayne,CHIPPEWA TWP 3,ACE,Northeast,Cleveland,"1,346",542,U.S. Senator,,D,P.G. Sittenfeld,54
+Wayne,CHIPPEWA TWP 3,ACE,Northeast,Cleveland,"1,346",542,U.S. Senator,,D,Ted Strickland,95
+Wayne,CHIPPEWA TWP 3,ACE,Northeast,Cleveland,"1,346",542,Representative to Congress,16,D,Keith Mundy,122
+Wayne,CHIPPEWA TWP 6,ACF,Northeast,Cleveland,"1,203",585,President (at-large),,D,Hillary Clinton,67
+Wayne,CHIPPEWA TWP 6,ACF,Northeast,Cleveland,"1,203",585,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,CHIPPEWA TWP 6,ACF,Northeast,Cleveland,"1,203",585,President (at-large),,D,Bernie Sanders,66
+Wayne,CHIPPEWA TWP 6,ACF,Northeast,Cleveland,"1,203",585,U.S. Senator,,D,Kelli Prather,11
+Wayne,CHIPPEWA TWP 6,ACF,Northeast,Cleveland,"1,203",585,U.S. Senator,,D,P.G. Sittenfeld,32
+Wayne,CHIPPEWA TWP 6,ACF,Northeast,Cleveland,"1,203",585,U.S. Senator,,D,Ted Strickland,79
+Wayne,CHIPPEWA TWP 6,ACF,Northeast,Cleveland,"1,203",585,Representative to Congress,16,D,Keith Mundy,89
+Wayne,CHIPPEWA TWP 4 DOY/TOWN,ACH,Northeast,Cleveland,"1,183",540,President (at-large),,D,Hillary Clinton,90
+Wayne,CHIPPEWA TWP 4 DOY/TOWN,ACH,Northeast,Cleveland,"1,183",540,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,CHIPPEWA TWP 4 DOY/TOWN,ACH,Northeast,Cleveland,"1,183",540,President (at-large),,D,Bernie Sanders,84
+Wayne,CHIPPEWA TWP 4 DOY/TOWN,ACH,Northeast,Cleveland,"1,183",540,U.S. Senator,,D,Kelli Prather,26
+Wayne,CHIPPEWA TWP 4 DOY/TOWN,ACH,Northeast,Cleveland,"1,183",540,U.S. Senator,,D,P.G. Sittenfeld,45
+Wayne,CHIPPEWA TWP 4 DOY/TOWN,ACH,Northeast,Cleveland,"1,183",540,U.S. Senator,,D,Ted Strickland,97
+Wayne,CHIPPEWA TWP 4 DOY/TOWN,ACH,Northeast,Cleveland,"1,183",540,Representative to Congress,16,D,Keith Mundy,127
+Wayne,CHIPPEWA TWP 5 DOY/TOWN,ACI,Northeast,Cleveland,952,496,President (at-large),,D,Hillary Clinton,65
+Wayne,CHIPPEWA TWP 5 DOY/TOWN,ACI,Northeast,Cleveland,952,496,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,CHIPPEWA TWP 5 DOY/TOWN,ACI,Northeast,Cleveland,952,496,President (at-large),,D,Bernie Sanders,64
+Wayne,CHIPPEWA TWP 5 DOY/TOWN,ACI,Northeast,Cleveland,952,496,U.S. Senator,,D,Kelli Prather,19
+Wayne,CHIPPEWA TWP 5 DOY/TOWN,ACI,Northeast,Cleveland,952,496,U.S. Senator,,D,P.G. Sittenfeld,36
+Wayne,CHIPPEWA TWP 5 DOY/TOWN,ACI,Northeast,Cleveland,952,496,U.S. Senator,,D,Ted Strickland,60
+Wayne,CHIPPEWA TWP 5 DOY/TOWN,ACI,Northeast,Cleveland,952,496,Representative to Congress,16,D,Keith Mundy,98
+Wayne,CLINTON TWP 1,ACJ,Northeast,Cleveland,"1,076",525,President (at-large),,D,Hillary Clinton,54
+Wayne,CLINTON TWP 1,ACJ,Northeast,Cleveland,"1,076",525,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,CLINTON TWP 1,ACJ,Northeast,Cleveland,"1,076",525,President (at-large),,D,Bernie Sanders,43
+Wayne,CLINTON TWP 1,ACJ,Northeast,Cleveland,"1,076",525,U.S. Senator,,D,Kelli Prather,7
+Wayne,CLINTON TWP 1,ACJ,Northeast,Cleveland,"1,076",525,U.S. Senator,,D,P.G. Sittenfeld,25
+Wayne,CLINTON TWP 1,ACJ,Northeast,Cleveland,"1,076",525,U.S. Senator,,D,Ted Strickland,57
+Wayne,CLINTON TWP 1,ACJ,Northeast,Cleveland,"1,076",525,Representative to Congress,16,D,Keith Mundy,60
+Wayne,CLINTON TWP 2 SHREVE,ACM,Northeast,Cleveland,960,333,President (at-large),,D,Hillary Clinton,38
+Wayne,CLINTON TWP 2 SHREVE,ACM,Northeast,Cleveland,960,333,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,CLINTON TWP 2 SHREVE,ACM,Northeast,Cleveland,960,333,President (at-large),,D,Bernie Sanders,35
+Wayne,CLINTON TWP 2 SHREVE,ACM,Northeast,Cleveland,960,333,U.S. Senator,,D,Kelli Prather,13
+Wayne,CLINTON TWP 2 SHREVE,ACM,Northeast,Cleveland,960,333,U.S. Senator,,D,P.G. Sittenfeld,21
+Wayne,CLINTON TWP 2 SHREVE,ACM,Northeast,Cleveland,960,333,U.S. Senator,,D,Ted Strickland,38
+Wayne,CLINTON TWP 2 SHREVE,ACM,Northeast,Cleveland,960,333,Representative to Congress,16,D,Keith Mundy,53
+Wayne,CONGRESS TWP 1 W SALEM,ACN,Northeast,Cleveland,923,301,President (at-large),,D,Hillary Clinton,37
+Wayne,CONGRESS TWP 1 W SALEM,ACN,Northeast,Cleveland,923,301,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Wayne,CONGRESS TWP 1 W SALEM,ACN,Northeast,Cleveland,923,301,President (at-large),,D,Bernie Sanders,38
+Wayne,CONGRESS TWP 1 W SALEM,ACN,Northeast,Cleveland,923,301,U.S. Senator,,D,Kelli Prather,13
+Wayne,CONGRESS TWP 1 W SALEM,ACN,Northeast,Cleveland,923,301,U.S. Senator,,D,P.G. Sittenfeld,21
+Wayne,CONGRESS TWP 1 W SALEM,ACN,Northeast,Cleveland,923,301,U.S. Senator,,D,Ted Strickland,38
+Wayne,CONGRESS TWP 1 W SALEM,ACN,Northeast,Cleveland,923,301,Representative to Congress,16,D,Keith Mundy,62
+Wayne,CONGRESS TWP 2,ACO,Northeast,Cleveland,"1,208",516,President (at-large),,D,Hillary Clinton,45
+Wayne,CONGRESS TWP 2,ACO,Northeast,Cleveland,"1,208",516,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,CONGRESS TWP 2,ACO,Northeast,Cleveland,"1,208",516,President (at-large),,D,Bernie Sanders,54
+Wayne,CONGRESS TWP 2,ACO,Northeast,Cleveland,"1,208",516,U.S. Senator,,D,Kelli Prather,14
+Wayne,CONGRESS TWP 2,ACO,Northeast,Cleveland,"1,208",516,U.S. Senator,,D,P.G. Sittenfeld,28
+Wayne,CONGRESS TWP 2,ACO,Northeast,Cleveland,"1,208",516,U.S. Senator,,D,Ted Strickland,54
+Wayne,CONGRESS TWP 2,ACO,Northeast,Cleveland,"1,208",516,Representative to Congress,16,D,Keith Mundy,68
+Wayne,CONGRESS TWP 3,ACP,Northeast,Cleveland,839,323,President (at-large),,D,Hillary Clinton,17
+Wayne,CONGRESS TWP 3,ACP,Northeast,Cleveland,839,323,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,CONGRESS TWP 3,ACP,Northeast,Cleveland,839,323,President (at-large),,D,Bernie Sanders,23
+Wayne,CONGRESS TWP 3,ACP,Northeast,Cleveland,839,323,U.S. Senator,,D,Kelli Prather,5
+Wayne,CONGRESS TWP 3,ACP,Northeast,Cleveland,839,323,U.S. Senator,,D,P.G. Sittenfeld,14
+Wayne,CONGRESS TWP 3,ACP,Northeast,Cleveland,839,323,U.S. Senator,,D,Ted Strickland,19
+Wayne,CONGRESS TWP 3,ACP,Northeast,Cleveland,839,323,Representative to Congress,16,D,Keith Mundy,30
+Wayne,EAST UNION TWP 1,ACQ,Northeast,Cleveland,"1,115",357,President (at-large),,D,Hillary Clinton,28
+Wayne,EAST UNION TWP 1,ACQ,Northeast,Cleveland,"1,115",357,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,EAST UNION TWP 1,ACQ,Northeast,Cleveland,"1,115",357,President (at-large),,D,Bernie Sanders,32
+Wayne,EAST UNION TWP 1,ACQ,Northeast,Cleveland,"1,115",357,U.S. Senator,,D,Kelli Prather,4
+Wayne,EAST UNION TWP 1,ACQ,Northeast,Cleveland,"1,115",357,U.S. Senator,,D,P.G. Sittenfeld,12
+Wayne,EAST UNION TWP 1,ACQ,Northeast,Cleveland,"1,115",357,U.S. Senator,,D,Ted Strickland,38
+Wayne,EAST UNION TWP 1,ACQ,Northeast,Cleveland,"1,115",357,Representative to Congress,16,D,Keith Mundy,42
+Wayne,EAST UNION TWP 2,ACR,Northeast,Cleveland,633,177,President (at-large),,D,Hillary Clinton,15
+Wayne,EAST UNION TWP 2,ACR,Northeast,Cleveland,633,177,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,EAST UNION TWP 2,ACR,Northeast,Cleveland,633,177,President (at-large),,D,Bernie Sanders,13
+Wayne,EAST UNION TWP 2,ACR,Northeast,Cleveland,633,177,U.S. Senator,,D,Kelli Prather,7
+Wayne,EAST UNION TWP 2,ACR,Northeast,Cleveland,633,177,U.S. Senator,,D,P.G. Sittenfeld,6
+Wayne,EAST UNION TWP 2,ACR,Northeast,Cleveland,633,177,U.S. Senator,,D,Ted Strickland,15
+Wayne,EAST UNION TWP 2,ACR,Northeast,Cleveland,633,177,Representative to Congress,16,D,Keith Mundy,21
+Wayne,EAST UNION TWP 4,ACS,Northeast,Cleveland,987,388,President (at-large),,D,Hillary Clinton,32
+Wayne,EAST UNION TWP 4,ACS,Northeast,Cleveland,987,388,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,EAST UNION TWP 4,ACS,Northeast,Cleveland,987,388,President (at-large),,D,Bernie Sanders,36
+Wayne,EAST UNION TWP 4,ACS,Northeast,Cleveland,987,388,U.S. Senator,,D,Kelli Prather,7
+Wayne,EAST UNION TWP 4,ACS,Northeast,Cleveland,987,388,U.S. Senator,,D,P.G. Sittenfeld,13
+Wayne,EAST UNION TWP 4,ACS,Northeast,Cleveland,987,388,U.S. Senator,,D,Ted Strickland,39
+Wayne,EAST UNION TWP 4,ACS,Northeast,Cleveland,987,388,Representative to Congress,16,D,Keith Mundy,48
+Wayne,EAST UNION TWP 3 APL CRK,ACT,Northeast,Cleveland,724,309,President (at-large),,D,Hillary Clinton,27
+Wayne,EAST UNION TWP 3 APL CRK,ACT,Northeast,Cleveland,724,309,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,EAST UNION TWP 3 APL CRK,ACT,Northeast,Cleveland,724,309,President (at-large),,D,Bernie Sanders,28
+Wayne,EAST UNION TWP 3 APL CRK,ACT,Northeast,Cleveland,724,309,U.S. Senator,,D,Kelli Prather,8
+Wayne,EAST UNION TWP 3 APL CRK,ACT,Northeast,Cleveland,724,309,U.S. Senator,,D,P.G. Sittenfeld,13
+Wayne,EAST UNION TWP 3 APL CRK,ACT,Northeast,Cleveland,724,309,U.S. Senator,,D,Ted Strickland,32
+Wayne,EAST UNION TWP 3 APL CRK,ACT,Northeast,Cleveland,724,309,Representative to Congress,16,D,Keith Mundy,44
+Wayne,FRANKLIN TWP 1,ACU,Northeast,Cleveland,"1,225",504,President (at-large),,D,Hillary Clinton,42
+Wayne,FRANKLIN TWP 1,ACU,Northeast,Cleveland,"1,225",504,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,FRANKLIN TWP 1,ACU,Northeast,Cleveland,"1,225",504,President (at-large),,D,Bernie Sanders,37
+Wayne,FRANKLIN TWP 1,ACU,Northeast,Cleveland,"1,225",504,U.S. Senator,,D,Kelli Prather,10
+Wayne,FRANKLIN TWP 1,ACU,Northeast,Cleveland,"1,225",504,U.S. Senator,,D,P.G. Sittenfeld,19
+Wayne,FRANKLIN TWP 1,ACU,Northeast,Cleveland,"1,225",504,U.S. Senator,,D,Ted Strickland,43
+Wayne,FRANKLIN TWP 1,ACU,Northeast,Cleveland,"1,225",504,Representative to Congress,16,D,Keith Mundy,56
+Wayne,FRANKLIN TWP 2,ACV,Northeast,Cleveland,"1,111",500,President (at-large),,D,Hillary Clinton,40
+Wayne,FRANKLIN TWP 2,ACV,Northeast,Cleveland,"1,111",500,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,FRANKLIN TWP 2,ACV,Northeast,Cleveland,"1,111",500,President (at-large),,D,Bernie Sanders,37
+Wayne,FRANKLIN TWP 2,ACV,Northeast,Cleveland,"1,111",500,U.S. Senator,,D,Kelli Prather,7
+Wayne,FRANKLIN TWP 2,ACV,Northeast,Cleveland,"1,111",500,U.S. Senator,,D,P.G. Sittenfeld,22
+Wayne,FRANKLIN TWP 2,ACV,Northeast,Cleveland,"1,111",500,U.S. Senator,,D,Ted Strickland,46
+Wayne,FRANKLIN TWP 2,ACV,Northeast,Cleveland,"1,111",500,Representative to Congress,16,D,Keith Mundy,53
+Wayne,GREEN TWP 1,ACW,Northeast,Cleveland,"1,176",525,President (at-large),,D,Hillary Clinton,27
+Wayne,GREEN TWP 1,ACW,Northeast,Cleveland,"1,176",525,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,GREEN TWP 1,ACW,Northeast,Cleveland,"1,176",525,President (at-large),,D,Bernie Sanders,39
+Wayne,GREEN TWP 1,ACW,Northeast,Cleveland,"1,176",525,U.S. Senator,,D,Kelli Prather,8
+Wayne,GREEN TWP 1,ACW,Northeast,Cleveland,"1,176",525,U.S. Senator,,D,P.G. Sittenfeld,17
+Wayne,GREEN TWP 1,ACW,Northeast,Cleveland,"1,176",525,U.S. Senator,,D,Ted Strickland,35
+Wayne,GREEN TWP 1,ACW,Northeast,Cleveland,"1,176",525,Representative to Congress,16,D,Keith Mundy,49
+Wayne,GREEN TWP 2,ACX,Northeast,Cleveland,"1,128",544,President (at-large),,D,Hillary Clinton,43
+Wayne,GREEN TWP 2,ACX,Northeast,Cleveland,"1,128",544,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,GREEN TWP 2,ACX,Northeast,Cleveland,"1,128",544,President (at-large),,D,Bernie Sanders,51
+Wayne,GREEN TWP 2,ACX,Northeast,Cleveland,"1,128",544,U.S. Senator,,D,Kelli Prather,10
+Wayne,GREEN TWP 2,ACX,Northeast,Cleveland,"1,128",544,U.S. Senator,,D,P.G. Sittenfeld,16
+Wayne,GREEN TWP 2,ACX,Northeast,Cleveland,"1,128",544,U.S. Senator,,D,Ted Strickland,63
+Wayne,GREEN TWP 2,ACX,Northeast,Cleveland,"1,128",544,Representative to Congress,16,D,Keith Mundy,70
+Wayne,GREEN TWP 3 SMITHVILLE,ACZ,Northeast,Cleveland,921,470,President (at-large),,D,Hillary Clinton,45
+Wayne,GREEN TWP 3 SMITHVILLE,ACZ,Northeast,Cleveland,921,470,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,GREEN TWP 3 SMITHVILLE,ACZ,Northeast,Cleveland,921,470,President (at-large),,D,Bernie Sanders,29
+Wayne,GREEN TWP 3 SMITHVILLE,ACZ,Northeast,Cleveland,921,470,U.S. Senator,,D,Kelli Prather,7
+Wayne,GREEN TWP 3 SMITHVILLE,ACZ,Northeast,Cleveland,921,470,U.S. Senator,,D,P.G. Sittenfeld,24
+Wayne,GREEN TWP 3 SMITHVILLE,ACZ,Northeast,Cleveland,921,470,U.S. Senator,,D,Ted Strickland,41
+Wayne,GREEN TWP 3 SMITHVILLE,ACZ,Northeast,Cleveland,921,470,Representative to Congress,16,D,Keith Mundy,57
+Wayne,MILTON TWP 1,ADB,Northeast,Cleveland,"1,015",498,President (at-large),,D,Hillary Clinton,30
+Wayne,MILTON TWP 1,ADB,Northeast,Cleveland,"1,015",498,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,MILTON TWP 1,ADB,Northeast,Cleveland,"1,015",498,President (at-large),,D,Bernie Sanders,20
+Wayne,MILTON TWP 1,ADB,Northeast,Cleveland,"1,015",498,U.S. Senator,,D,Kelli Prather,5
+Wayne,MILTON TWP 1,ADB,Northeast,Cleveland,"1,015",498,U.S. Senator,,D,P.G. Sittenfeld,14
+Wayne,MILTON TWP 1,ADB,Northeast,Cleveland,"1,015",498,U.S. Senator,,D,Ted Strickland,29
+Wayne,MILTON TWP 1,ADB,Northeast,Cleveland,"1,015",498,Representative to Congress,16,D,Keith Mundy,36
+Wayne,MILTON TWP 2,ADD,Northeast,Cleveland,967,390,President (at-large),,D,Hillary Clinton,37
+Wayne,MILTON TWP 2,ADD,Northeast,Cleveland,967,390,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,MILTON TWP 2,ADD,Northeast,Cleveland,967,390,President (at-large),,D,Bernie Sanders,28
+Wayne,MILTON TWP 2,ADD,Northeast,Cleveland,967,390,U.S. Senator,,D,Kelli Prather,11
+Wayne,MILTON TWP 2,ADD,Northeast,Cleveland,967,390,U.S. Senator,,D,P.G. Sittenfeld,15
+Wayne,MILTON TWP 2,ADD,Northeast,Cleveland,967,390,U.S. Senator,,D,Ted Strickland,30
+Wayne,MILTON TWP 2,ADD,Northeast,Cleveland,967,390,Representative to Congress,16,D,Keith Mundy,47
+Wayne,PAINT TWP 1,ADE,Northeast,Cleveland,"1,047",250,President (at-large),,D,Hillary Clinton,13
+Wayne,PAINT TWP 1,ADE,Northeast,Cleveland,"1,047",250,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,PAINT TWP 1,ADE,Northeast,Cleveland,"1,047",250,President (at-large),,D,Bernie Sanders,6
+Wayne,PAINT TWP 1,ADE,Northeast,Cleveland,"1,047",250,U.S. Senator,,D,Kelli Prather,3
+Wayne,PAINT TWP 1,ADE,Northeast,Cleveland,"1,047",250,U.S. Senator,,D,P.G. Sittenfeld,7
+Wayne,PAINT TWP 1,ADE,Northeast,Cleveland,"1,047",250,U.S. Senator,,D,Ted Strickland,8
+Wayne,PAINT TWP 1,ADE,Northeast,Cleveland,"1,047",250,Representative to Congress,16,D,Keith Mundy,9
+Wayne,PLAIN TWP 1,ADF,Northeast,Cleveland,"1,047",471,President (at-large),,D,Hillary Clinton,43
+Wayne,PLAIN TWP 1,ADF,Northeast,Cleveland,"1,047",471,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,PLAIN TWP 1,ADF,Northeast,Cleveland,"1,047",471,President (at-large),,D,Bernie Sanders,42
+Wayne,PLAIN TWP 1,ADF,Northeast,Cleveland,"1,047",471,U.S. Senator,,D,Kelli Prather,11
+Wayne,PLAIN TWP 1,ADF,Northeast,Cleveland,"1,047",471,U.S. Senator,,D,P.G. Sittenfeld,20
+Wayne,PLAIN TWP 1,ADF,Northeast,Cleveland,"1,047",471,U.S. Senator,,D,Ted Strickland,47
+Wayne,PLAIN TWP 1,ADF,Northeast,Cleveland,"1,047",471,Representative to Congress,16,D,Keith Mundy,58
+Wayne,PLAIN TWP 2,ADG,Northeast,Cleveland,963,483,President (at-large),,D,Hillary Clinton,63
+Wayne,PLAIN TWP 2,ADG,Northeast,Cleveland,963,483,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,PLAIN TWP 2,ADG,Northeast,Cleveland,963,483,President (at-large),,D,Bernie Sanders,40
+Wayne,PLAIN TWP 2,ADG,Northeast,Cleveland,963,483,U.S. Senator,,D,Kelli Prather,12
+Wayne,PLAIN TWP 2,ADG,Northeast,Cleveland,963,483,U.S. Senator,,D,P.G. Sittenfeld,20
+Wayne,PLAIN TWP 2,ADG,Northeast,Cleveland,963,483,U.S. Senator,,D,Ted Strickland,67
+Wayne,PLAIN TWP 2,ADG,Northeast,Cleveland,963,483,Representative to Congress,16,D,Keith Mundy,73
+Wayne,SALT CREEK TWP 1,ADH,Northeast,Cleveland,"1,337",294,President (at-large),,D,Hillary Clinton,24
+Wayne,SALT CREEK TWP 1,ADH,Northeast,Cleveland,"1,337",294,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,SALT CREEK TWP 1,ADH,Northeast,Cleveland,"1,337",294,President (at-large),,D,Bernie Sanders,26
+Wayne,SALT CREEK TWP 1,ADH,Northeast,Cleveland,"1,337",294,U.S. Senator,,D,Kelli Prather,8
+Wayne,SALT CREEK TWP 1,ADH,Northeast,Cleveland,"1,337",294,U.S. Senator,,D,P.G. Sittenfeld,13
+Wayne,SALT CREEK TWP 1,ADH,Northeast,Cleveland,"1,337",294,U.S. Senator,,D,Ted Strickland,24
+Wayne,SALT CREEK TWP 1,ADH,Northeast,Cleveland,"1,337",294,Representative to Congress,16,D,Keith Mundy,41
+Wayne,SUGAR CREEK TWP 1,ADI,Northeast,Cleveland,"1,327",578,President (at-large),,D,Hillary Clinton,38
+Wayne,SUGAR CREEK TWP 1,ADI,Northeast,Cleveland,"1,327",578,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,SUGAR CREEK TWP 1,ADI,Northeast,Cleveland,"1,327",578,President (at-large),,D,Bernie Sanders,41
+Wayne,SUGAR CREEK TWP 1,ADI,Northeast,Cleveland,"1,327",578,U.S. Senator,,D,Kelli Prather,10
+Wayne,SUGAR CREEK TWP 1,ADI,Northeast,Cleveland,"1,327",578,U.S. Senator,,D,P.G. Sittenfeld,18
+Wayne,SUGAR CREEK TWP 1,ADI,Northeast,Cleveland,"1,327",578,U.S. Senator,,D,Ted Strickland,43
+Wayne,SUGAR CREEK TWP 1,ADI,Northeast,Cleveland,"1,327",578,Representative to Congress,16,D,Keith Mundy,54
+Wayne,SUGAR CREEK TWP 2,ADK,Northeast,Cleveland,"1,311",634,President (at-large),,D,Hillary Clinton,46
+Wayne,SUGAR CREEK TWP 2,ADK,Northeast,Cleveland,"1,311",634,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,SUGAR CREEK TWP 2,ADK,Northeast,Cleveland,"1,311",634,President (at-large),,D,Bernie Sanders,47
+Wayne,SUGAR CREEK TWP 2,ADK,Northeast,Cleveland,"1,311",634,U.S. Senator,,D,Kelli Prather,14
+Wayne,SUGAR CREEK TWP 2,ADK,Northeast,Cleveland,"1,311",634,U.S. Senator,,D,P.G. Sittenfeld,20
+Wayne,SUGAR CREEK TWP 2,ADK,Northeast,Cleveland,"1,311",634,U.S. Senator,,D,Ted Strickland,53
+Wayne,SUGAR CREEK TWP 2,ADK,Northeast,Cleveland,"1,311",634,Representative to Congress,16,D,Keith Mundy,65
+Wayne,SUGAR CREEK TWP 3 DALTON,ADM,Northeast,Cleveland,"1,248",607,President (at-large),,D,Hillary Clinton,69
+Wayne,SUGAR CREEK TWP 3 DALTON,ADM,Northeast,Cleveland,"1,248",607,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,SUGAR CREEK TWP 3 DALTON,ADM,Northeast,Cleveland,"1,248",607,President (at-large),,D,Bernie Sanders,50
+Wayne,SUGAR CREEK TWP 3 DALTON,ADM,Northeast,Cleveland,"1,248",607,U.S. Senator,,D,Kelli Prather,19
+Wayne,SUGAR CREEK TWP 3 DALTON,ADM,Northeast,Cleveland,"1,248",607,U.S. Senator,,D,P.G. Sittenfeld,28
+Wayne,SUGAR CREEK TWP 3 DALTON,ADM,Northeast,Cleveland,"1,248",607,U.S. Senator,,D,Ted Strickland,67
+Wayne,SUGAR CREEK TWP 3 DALTON,ADM,Northeast,Cleveland,"1,248",607,Representative to Congress,16,D,Keith Mundy,89
+Wayne,WAYNE TWP 1,ADN,Northeast,Cleveland,"1,353",610,President (at-large),,D,Hillary Clinton,77
+Wayne,WAYNE TWP 1,ADN,Northeast,Cleveland,"1,353",610,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WAYNE TWP 1,ADN,Northeast,Cleveland,"1,353",610,President (at-large),,D,Bernie Sanders,57
+Wayne,WAYNE TWP 1,ADN,Northeast,Cleveland,"1,353",610,U.S. Senator,,D,Kelli Prather,14
+Wayne,WAYNE TWP 1,ADN,Northeast,Cleveland,"1,353",610,U.S. Senator,,D,P.G. Sittenfeld,29
+Wayne,WAYNE TWP 1,ADN,Northeast,Cleveland,"1,353",610,U.S. Senator,,D,Ted Strickland,86
+Wayne,WAYNE TWP 1,ADN,Northeast,Cleveland,"1,353",610,Representative to Congress,16,D,Keith Mundy,110
+Wayne,WAYNE TWP 2,ADP,Northeast,Cleveland,659,306,President (at-large),,D,Hillary Clinton,33
+Wayne,WAYNE TWP 2,ADP,Northeast,Cleveland,659,306,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WAYNE TWP 2,ADP,Northeast,Cleveland,659,306,President (at-large),,D,Bernie Sanders,42
+Wayne,WAYNE TWP 2,ADP,Northeast,Cleveland,659,306,U.S. Senator,,D,Kelli Prather,5
+Wayne,WAYNE TWP 2,ADP,Northeast,Cleveland,659,306,U.S. Senator,,D,P.G. Sittenfeld,18
+Wayne,WAYNE TWP 2,ADP,Northeast,Cleveland,659,306,U.S. Senator,,D,Ted Strickland,50
+Wayne,WAYNE TWP 2,ADP,Northeast,Cleveland,659,306,Representative to Congress,16,D,Keith Mundy,57
+Wayne,WAYNE TWP 3,ADQ,Northeast,Cleveland,930,411,President (at-large),,D,Hillary Clinton,39
+Wayne,WAYNE TWP 3,ADQ,Northeast,Cleveland,930,411,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WAYNE TWP 3,ADQ,Northeast,Cleveland,930,411,President (at-large),,D,Bernie Sanders,34
+Wayne,WAYNE TWP 3,ADQ,Northeast,Cleveland,930,411,U.S. Senator,,D,Kelli Prather,4
+Wayne,WAYNE TWP 3,ADQ,Northeast,Cleveland,930,411,U.S. Senator,,D,P.G. Sittenfeld,15
+Wayne,WAYNE TWP 3,ADQ,Northeast,Cleveland,930,411,U.S. Senator,,D,Ted Strickland,47
+Wayne,WAYNE TWP 3,ADQ,Northeast,Cleveland,930,411,Representative to Congress,16,D,Keith Mundy,57
+Wayne,WOOSTER TWP 1,ADS,Northeast,Cleveland,987,391,President (at-large),,D,Hillary Clinton,56
+Wayne,WOOSTER TWP 1,ADS,Northeast,Cleveland,987,391,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Wayne,WOOSTER TWP 1,ADS,Northeast,Cleveland,987,391,President (at-large),,D,Bernie Sanders,44
+Wayne,WOOSTER TWP 1,ADS,Northeast,Cleveland,987,391,U.S. Senator,,D,Kelli Prather,7
+Wayne,WOOSTER TWP 1,ADS,Northeast,Cleveland,987,391,U.S. Senator,,D,P.G. Sittenfeld,26
+Wayne,WOOSTER TWP 1,ADS,Northeast,Cleveland,987,391,U.S. Senator,,D,Ted Strickland,63
+Wayne,WOOSTER TWP 1,ADS,Northeast,Cleveland,987,391,Representative to Congress,16,D,Keith Mundy,73
+Wayne,WOOSTER TWP 2,ADT,Northeast,Cleveland,"1,240",590,President (at-large),,D,Hillary Clinton,52
+Wayne,WOOSTER TWP 2,ADT,Northeast,Cleveland,"1,240",590,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,WOOSTER TWP 2,ADT,Northeast,Cleveland,"1,240",590,President (at-large),,D,Bernie Sanders,57
+Wayne,WOOSTER TWP 2,ADT,Northeast,Cleveland,"1,240",590,U.S. Senator,,D,Kelli Prather,8
+Wayne,WOOSTER TWP 2,ADT,Northeast,Cleveland,"1,240",590,U.S. Senator,,D,P.G. Sittenfeld,27
+Wayne,WOOSTER TWP 2,ADT,Northeast,Cleveland,"1,240",590,U.S. Senator,,D,Ted Strickland,61
+Wayne,WOOSTER TWP 2,ADT,Northeast,Cleveland,"1,240",590,Representative to Congress,16,D,Keith Mundy,74
+Wayne,WOOSTER TWP 3,ADU,Northeast,Cleveland,"1,154",485,President (at-large),,D,Hillary Clinton,54
+Wayne,WOOSTER TWP 3,ADU,Northeast,Cleveland,"1,154",485,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Wayne,WOOSTER TWP 3,ADU,Northeast,Cleveland,"1,154",485,President (at-large),,D,Bernie Sanders,47
+Wayne,WOOSTER TWP 3,ADU,Northeast,Cleveland,"1,154",485,U.S. Senator,,D,Kelli Prather,8
+Wayne,WOOSTER TWP 3,ADU,Northeast,Cleveland,"1,154",485,U.S. Senator,,D,P.G. Sittenfeld,29
+Wayne,WOOSTER TWP 3,ADU,Northeast,Cleveland,"1,154",485,U.S. Senator,,D,Ted Strickland,56
+Wayne,WOOSTER TWP 3,ADU,Northeast,Cleveland,"1,154",485,Representative to Congress,16,D,Keith Mundy,67

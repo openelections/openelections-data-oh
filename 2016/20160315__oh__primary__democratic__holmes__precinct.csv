@@ -1,0 +1,154 @@
+County Name,Precinct Name,Precinct Code,Region Name,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,President (at-large),,D,Hillary Clinton,8
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,President (at-large),,D,Bernie Sanders,9
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,U.S. Senator,,D,Kelli Prather,2
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,U.S. Senator,,D,P.G. Sittenfeld,5
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,U.S. Senator,,D,Ted Strickland,9
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,Representative to Congress,07,D,Roy Rich,10
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT BERLIN NORTH,AAA,Northeast,Cleveland,849,342,State Representative,98,D,Jeremiah M. Johnson,10
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,President (at-large),,D,Hillary Clinton,15
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,President (at-large),,D,Bernie Sanders,8
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,U.S. Senator,,D,Kelli Prather,3
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,U.S. Senator,,D,P.G. Sittenfeld,3
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,U.S. Senator,,D,Ted Strickland,17
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,Representative to Congress,07,D,Roy Rich,12
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT BERLIN SOUTH,AAB,Northeast,Cleveland,731,270,State Representative,98,D,Jeremiah M. Johnson,10
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,President (at-large),,D,Hillary Clinton,4
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,President (at-large),,D,Bernie Sanders,3
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,U.S. Senator,,D,Kelli Prather,2
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,U.S. Senator,,D,P.G. Sittenfeld,1
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,U.S. Senator,,D,Ted Strickland,5
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,Representative to Congress,07,D,Roy Rich,6
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT CLARK TOWNSHIP,AAC,Northeast,Cleveland,"1,052",153,State Representative,98,D,Jeremiah M. Johnson,5
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,President (at-large),,D,Hillary Clinton,48
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,President (at-large),,D,Bernie Sanders,54
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,U.S. Senator,,D,Kelli Prather,20
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,U.S. Senator,,D,P.G. Sittenfeld,20
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,U.S. Senator,,D,Ted Strickland,55
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,Representative to Congress,07,D,Roy Rich,72
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,State Senator,22,D,Christopher King,71
+Holmes,PRECINCT HARDY TOWNSHIP,AAD,Northeast,Cleveland,"1,299",704,State Representative,98,D,Jeremiah M. Johnson,0
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,President (at-large),,D,Hillary Clinton,83
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,President (at-large),,D,Bernie Sanders,79
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,U.S. Senator,,D,Kelli Prather,27
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,U.S. Senator,,D,P.G. Sittenfeld,35
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,U.S. Senator,,D,Ted Strickland,91
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,Representative to Congress,07,D,Roy Rich,117
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,State Senator,22,D,Christopher King,116
+Holmes,PRECINCT MILLERSBURG EAST,AAF,Northeast,Cleveland,"1,264",636,State Representative,98,D,Jeremiah M. Johnson,0
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,President (at-large),,D,Hillary Clinton,30
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,President (at-large),,D,Bernie Sanders,38
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,U.S. Senator,,D,Kelli Prather,6
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,U.S. Senator,,D,P.G. Sittenfeld,12
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,U.S. Senator,,D,Ted Strickland,44
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,Representative to Congress,07,D,Roy Rich,46
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,State Senator,22,D,Christopher King,47
+Holmes,PRECINCT MILLERSBURG WEST,AAH,Northeast,Cleveland,670,254,State Representative,98,D,Jeremiah M. Johnson,0
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,President (at-large),,D,Hillary Clinton,53
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,President (at-large),,D,Bernie Sanders,56
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,U.S. Senator,,D,Kelli Prather,19
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,U.S. Senator,,D,P.G. Sittenfeld,22
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,U.S. Senator,,D,Ted Strickland,66
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,Representative to Congress,07,D,Roy Rich,71
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT KILLBUCK TOWNSHIP,AAJ,Northeast,Cleveland,"1,177",556,State Representative,98,D,Jeremiah M. Johnson,74
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,President (at-large),,D,Hillary Clinton,33
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,President (at-large),,D,Bernie Sanders,38
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,U.S. Senator,,D,Kelli Prather,5
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,U.S. Senator,,D,P.G. Sittenfeld,19
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,U.S. Senator,,D,Ted Strickland,46
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,Representative to Congress,07,D,Roy Rich,45
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT KNOX TOWNSHIP,AAL,Northeast,Cleveland,719,381,State Representative,98,D,Jeremiah M. Johnson,48
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,President (at-large),,D,Hillary Clinton,41
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,President (at-large),,D,Bernie Sanders,46
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,U.S. Senator,,D,Kelli Prather,16
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,U.S. Senator,,D,P.G. Sittenfeld,16
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,U.S. Senator,,D,Ted Strickland,51
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,Representative to Congress,07,D,Roy Rich,51
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT MECHANIC TOWNSHIP,AAM,Northeast,Cleveland,"1,253",483,State Representative,98,D,Jeremiah M. Johnson,57
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,President (at-large),,D,Hillary Clinton,47
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,President (at-large),,D,"Roque ""Rocky"" De La Fuente",4
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,President (at-large),,D,Bernie Sanders,47
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,U.S. Senator,,D,Kelli Prather,10
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,U.S. Senator,,D,P.G. Sittenfeld,28
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,U.S. Senator,,D,Ted Strickland,55
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,Representative to Congress,07,D,Roy Rich,69
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT MONROE TOWNSHIP,AAO,Northeast,Cleveland,925,515,State Representative,98,D,Jeremiah M. Johnson,70
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,President (at-large),,D,Hillary Clinton,10
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,President (at-large),,D,Bernie Sanders,9
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,U.S. Senator,,D,Kelli Prather,1
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,U.S. Senator,,D,P.G. Sittenfeld,4
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,U.S. Senator,,D,Ted Strickland,11
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,Representative to Congress,07,D,Roy Rich,11
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT PAINT TOWNSHIP,AAP,Northeast,Cleveland,"1,349",264,State Representative,98,D,Jeremiah M. Johnson,11
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,President (at-large),,D,Hillary Clinton,25
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,President (at-large),,D,"Roque ""Rocky"" De La Fuente",2
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,President (at-large),,D,Bernie Sanders,41
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,U.S. Senator,,D,Kelli Prather,6
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,U.S. Senator,,D,P.G. Sittenfeld,26
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,U.S. Senator,,D,Ted Strickland,34
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,Representative to Congress,07,D,Roy Rich,46
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,State Senator,22,D,Christopher King,46
+Holmes,PRECINCT PRAIRIE TOWNSHIP,AAR,Northeast,Cleveland,"1,141",454,State Representative,98,D,Jeremiah M. Johnson,0
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,President (at-large),,D,Hillary Clinton,19
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,President (at-large),,D,"Roque ""Rocky"" De La Fuente",1
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,President (at-large),,D,Bernie Sanders,34
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,U.S. Senator,,D,Kelli Prather,1
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,U.S. Senator,,D,P.G. Sittenfeld,13
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,U.S. Senator,,D,Ted Strickland,36
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,Representative to Congress,07,D,Roy Rich,36
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT RICHLAND TOWNSHIP,AAT,Northeast,Cleveland,590,272,State Representative,98,D,Jeremiah M. Johnson,36
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,President (at-large),,D,Hillary Clinton,59
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,President (at-large),,D,"Roque ""Rocky"" De La Fuente",7
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,President (at-large),,D,Bernie Sanders,47
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,U.S. Senator,,D,Kelli Prather,20
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,U.S. Senator,,D,P.G. Sittenfeld,27
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,U.S. Senator,,D,Ted Strickland,62
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,Representative to Congress,07,D,Roy Rich,73
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,State Senator,22,D,Christopher King,78
+Holmes,PRECINCT RIPLEY TOWNSHIP,AAU,Northeast,Cleveland,"1,076",554,State Representative,98,D,Jeremiah M. Johnson,0
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,President (at-large),,D,Hillary Clinton,11
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,President (at-large),,D,Bernie Sanders,4
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,U.S. Senator,,D,Kelli Prather,1
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,U.S. Senator,,D,P.G. Sittenfeld,4
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,U.S. Senator,,D,Ted Strickland,6
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,Representative to Congress,07,D,Roy Rich,7
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT SALTCREEK TOWNSHIP,AAW,Northeast,Cleveland,"1,177",273,State Representative,98,D,Jeremiah M. Johnson,8
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,President (at-large),,D,Hillary Clinton,22
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,President (at-large),,D,"Roque ""Rocky"" De La Fuente",0
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,President (at-large),,D,Bernie Sanders,15
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,U.S. Senator,,D,Kelli Prather,4
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,U.S. Senator,,D,P.G. Sittenfeld,8
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,U.S. Senator,,D,Ted Strickland,20
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,Representative to Congress,07,D,Roy Rich,27
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,State Senator,22,D,Christopher King,0
+Holmes,PRECINCT WALNUT CREEK TOWNSHIP,AAX,Northeast,Cleveland,"1,204",476,State Representative,98,D,Jeremiah M. Johnson,29
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,President (at-large),,D,Hillary Clinton,53
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,President (at-large),,D,"Roque ""Rocky"" De La Fuente",3
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,President (at-large),,D,Bernie Sanders,45
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,U.S. Senator,,D,Kelli Prather,12
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,U.S. Senator,,D,P.G. Sittenfeld,23
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,U.S. Senator,,D,Ted Strickland,65
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,Representative to Congress,07,D,Roy Rich,59
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,State Senator,22,D,Christopher King,60
+Holmes,PRECINCT WASHINGTON TOWNSHIP,AAY,Northeast,Cleveland,"1,008",500,State Representative,98,D,Jeremiah M. Johnson,0

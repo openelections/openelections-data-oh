@@ -1,0 +1,521 @@
+County Name,Precinct Name,Precinct Code,Region Name,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Ben Carson,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Chris Christie,1
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Ted Cruz,9
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,John R. Kasich,12
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Marco Rubio,5
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (at-large),,R,Donald J. Trump,26
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Ben Carson,1
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Ted Cruz,10
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,John R. Kasich,12
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Marco Rubio,4
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,President (district),15,R,Donald J. Trump,26
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,U.S. Senator,,R,Don Elijah Eckhart,11
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,U.S. Senator,,R,Rob Portman,33
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,Representative to Congress,15,R,Steve Stivers,37
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,State Senator,30,R,Frank Hoagland,26
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT BROWN TOWNSHIP,AAA,Southeast,Charleston,198,81,State Representative,94,R,Jay Edwards,31
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Ben Carson,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Chris Christie,1
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Ted Cruz,17
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Carly Fiorina,1
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Mike Huckabee,2
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,John R. Kasich,50
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Marco Rubio,10
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (at-large),,R,Donald J. Trump,92
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Ben Carson,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Ted Cruz,22
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Mike Huckabee,4
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,John R. Kasich,49
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Marco Rubio,10
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,President (district),15,R,Donald J. Trump,87
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,U.S. Senator,,R,Don Elijah Eckhart,32
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,U.S. Senator,,R,Rob Portman,107
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,Representative to Congress,15,R,Steve Stivers,122
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,State Senator,30,R,Frank Hoagland,99
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT CLINTON TOWNSHIP,AAB,Southeast,Charleston,632,279,State Representative,94,R,Jay Edwards,103
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Ben Carson,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Ted Cruz,12
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,John R. Kasich,8
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Marco Rubio,2
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (at-large),,R,Donald J. Trump,33
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Ben Carson,1
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Ted Cruz,13
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Mike Huckabee,1
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,John R. Kasich,7
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Marco Rubio,2
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,President (district),15,R,Donald J. Trump,31
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,U.S. Senator,,R,Don Elijah Eckhart,16
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,U.S. Senator,,R,Rob Portman,34
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,Representative to Congress,15,R,Steve Stivers,46
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,State Senator,30,R,Frank Hoagland,39
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT HAMDEN NORTH,AAD,Southeast,Charleston,288,103,State Representative,94,R,Jay Edwards,42
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Jeb Bush,1
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Ben Carson,2
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Ted Cruz,8
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,John R. Kasich,18
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Marco Rubio,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (at-large),,R,Donald J. Trump,18
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Jeb Bush,1
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Ben Carson,1
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Ted Cruz,9
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,John R. Kasich,19
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Marco Rubio,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,President (district),15,R,Donald J. Trump,17
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,U.S. Senator,,R,Don Elijah Eckhart,4
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,U.S. Senator,,R,Rob Portman,38
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,Representative to Congress,15,R,Steve Stivers,33
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,State Senator,30,R,Frank Hoagland,34
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT HAMDEN SOUTH,AAE,Southeast,Charleston,193,79,State Representative,94,R,Jay Edwards,33
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Ben Carson,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Ted Cruz,13
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,John R. Kasich,17
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Marco Rubio,1
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (at-large),,R,Donald J. Trump,47
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Ben Carson,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Ted Cruz,13
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,John R. Kasich,18
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Marco Rubio,1
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,President (district),15,R,Donald J. Trump,47
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,U.S. Senator,,R,Don Elijah Eckhart,12
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,U.S. Senator,,R,Rob Portman,50
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,Representative to Congress,15,R,Steve Stivers,56
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,State Representative,93,R,Ryan Smith,51
+Vinton,PRECINCT EAGLE TOWNSHIP,AAF,Southeast,Charleston,386,117,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Jeb Bush,2
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Ben Carson,7
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Chris Christie,2
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Ted Cruz,35
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Carly Fiorina,3
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Mike Huckabee,1
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,John R. Kasich,88
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Marco Rubio,10
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (at-large),,R,Donald J. Trump,121
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Jeb Bush,1
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Ben Carson,5
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Chris Christie,1
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Ted Cruz,37
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Carly Fiorina,4
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,John R. Kasich,89
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Marco Rubio,9
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Rick Santorum,1
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,President (district),15,R,Donald J. Trump,123
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,U.S. Senator,,R,Don Elijah Eckhart,38
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,U.S. Senator,,R,Rob Portman,190
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,Representative to Congress,15,R,Steve Stivers,192
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,State Representative,93,R,Ryan Smith,196
+Vinton,PRECINCT ELK TOWNSHIP,AAG,Southeast,Charleston,888,381,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Ben Carson,1
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Chris Christie,1
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Ted Cruz,10
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Mike Huckabee,1
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,John R. Kasich,28
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Marco Rubio,3
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (at-large),,R,Donald J. Trump,45
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Jeb Bush,1
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Ben Carson,0
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Chris Christie,1
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Ted Cruz,11
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Mike Huckabee,1
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,John R. Kasich,30
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Marco Rubio,3
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,President (district),15,R,Donald J. Trump,41
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,U.S. Senator,,R,Don Elijah Eckhart,8
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,U.S. Senator,,R,Rob Portman,61
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,Representative to Congress,15,R,Steve Stivers,59
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,State Representative,93,R,Ryan Smith,62
+Vinton,PRECINCT MCARTHUR EAST,AAH,Southeast,Charleston,469,175,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Ben Carson,1
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Ted Cruz,19
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,John R. Kasich,52
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Marco Rubio,4
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (at-large),,R,Donald J. Trump,42
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Jeb Bush,1
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Ben Carson,1
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Ted Cruz,15
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,John R. Kasich,53
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Marco Rubio,5
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,President (district),15,R,Donald J. Trump,41
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,U.S. Senator,,R,Don Elijah Eckhart,11
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,U.S. Senator,,R,Rob Portman,92
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,Representative to Congress,15,R,Steve Stivers,95
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,State Representative,93,R,Ryan Smith,95
+Vinton,PRECINCT MCARTHUR NORTHWEST,AAI,Southeast,Charleston,401,178,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Ben Carson,1
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Chris Christie,1
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Ted Cruz,9
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,John R. Kasich,21
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Marco Rubio,2
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (at-large),,R,Donald J. Trump,27
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Ben Carson,1
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Chris Christie,1
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Ted Cruz,10
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,John R. Kasich,19
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Marco Rubio,2
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,President (district),15,R,Donald J. Trump,27
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,U.S. Senator,,R,Don Elijah Eckhart,15
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,U.S. Senator,,R,Rob Portman,38
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,Representative to Congress,15,R,Steve Stivers,45
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,State Representative,93,R,Ryan Smith,47
+Vinton,PRECINCT MCARTHUR SOUTHWEST,AAJ,Southeast,Charleston,254,91,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Jeb Bush,1
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Ben Carson,3
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Ted Cruz,37
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Mike Huckabee,1
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,John R. Kasich,68
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Marco Rubio,6
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (at-large),,R,Donald J. Trump,97
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Ben Carson,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Chris Christie,1
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Ted Cruz,37
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,John R. Kasich,73
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Marco Rubio,8
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,President (district),15,R,Donald J. Trump,96
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,U.S. Senator,,R,Don Elijah Eckhart,51
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,U.S. Senator,,R,Rob Portman,124
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,Representative to Congress,15,R,Steve Stivers,137
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,State Representative,93,R,Ryan Smith,134
+Vinton,PRECINCT HARRISON TOWNSHIP,AAK,Southeast,Charleston,694,293,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Ben Carson,4
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Ted Cruz,37
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Mike Huckabee,1
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,John R. Kasich,36
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Marco Rubio,3
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (at-large),,R,Donald J. Trump,54
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Ben Carson,4
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Ted Cruz,37
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Mike Huckabee,1
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,John R. Kasich,36
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Marco Rubio,4
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,President (district),15,R,Donald J. Trump,56
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,U.S. Senator,,R,Don Elijah Eckhart,33
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,U.S. Senator,,R,Rob Portman,88
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,Representative to Congress,15,R,Steve Stivers,111
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,State Representative,93,R,Ryan Smith,106
+Vinton,PRECINCT JACKSON TOWNSHIP,AAL,Southeast,Charleston,467,203,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Ben Carson,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Ted Cruz,18
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,John R. Kasich,26
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Marco Rubio,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (at-large),,R,Donald J. Trump,44
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Jeb Bush,1
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Ben Carson,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Ted Cruz,19
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,John R. Kasich,24
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Marco Rubio,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,President (district),15,R,Donald J. Trump,44
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,U.S. Senator,,R,Don Elijah Eckhart,18
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,U.S. Senator,,R,Rob Portman,59
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,Representative to Congress,15,R,Steve Stivers,62
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,State Senator,30,R,Frank Hoagland,51
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT KNOX TOWNSHIP,AAM,Southeast,Charleston,365,162,State Representative,94,R,Jay Edwards,62
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Ben Carson,1
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Ted Cruz,15
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,John R. Kasich,14
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Marco Rubio,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (at-large),,R,Donald J. Trump,31
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Ben Carson,1
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Ted Cruz,15
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,John R. Kasich,17
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Marco Rubio,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,President (district),15,R,Donald J. Trump,29
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,U.S. Senator,,R,Don Elijah Eckhart,17
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,U.S. Senator,,R,Rob Portman,38
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,Representative to Congress,15,R,Steve Stivers,47
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,State Senator,30,R,Frank Hoagland,46
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT MADISON TOWNSHIP,AAN,Southeast,Charleston,199,115,State Representative,94,R,Jay Edwards,44
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Jeb Bush,1
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Ben Carson,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Ted Cruz,1
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,John R. Kasich,17
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Marco Rubio,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (at-large),,R,Donald J. Trump,20
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Jeb Bush,2
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Ben Carson,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Ted Cruz,3
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,John R. Kasich,14
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Marco Rubio,1
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,President (district),15,R,Donald J. Trump,19
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,U.S. Senator,,R,Don Elijah Eckhart,9
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,U.S. Senator,,R,Rob Portman,27
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,Representative to Congress,15,R,Steve Stivers,35
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,State Senator,30,R,Frank Hoagland,28
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT ZALESKI CORP,AAO,Southeast,Charleston,185,80,State Representative,94,R,Jay Edwards,32
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Ben Carson,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Ted Cruz,32
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,John R. Kasich,29
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Marco Rubio,3
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (at-large),,R,Donald J. Trump,79
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Ben Carson,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Ted Cruz,32
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Mike Huckabee,1
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,John R. Kasich,26
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Marco Rubio,4
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,President (district),15,R,Donald J. Trump,80
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,U.S. Senator,,R,Don Elijah Eckhart,36
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,U.S. Senator,,R,Rob Portman,81
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,Representative to Congress,15,R,Steve Stivers,95
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,State Representative,93,R,Ryan Smith,96
+Vinton,PRECINCT RICHLAND NORTHWEST,AAP,Southeast,Charleston,569,214,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Ben Carson,5
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Ted Cruz,21
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,John R. Kasich,27
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Marco Rubio,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (at-large),,R,Donald J. Trump,53
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Ben Carson,6
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Ted Cruz,22
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Mike Huckabee,1
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,John R. Kasich,29
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Marco Rubio,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,President (district),15,R,Donald J. Trump,49
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,U.S. Senator,,R,Don Elijah Eckhart,28
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,U.S. Senator,,R,Rob Portman,69
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,Representative to Congress,15,R,Steve Stivers,83
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,State Representative,93,R,Ryan Smith,78
+Vinton,PRECINCT RICHLAND SOUTHEAST,AAQ,Southeast,Charleston,486,180,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Jeb Bush,1
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Ben Carson,3
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Chris Christie,2
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Ted Cruz,28
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Mike Huckabee,1
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,John R. Kasich,47
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Marco Rubio,8
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (at-large),,R,Donald J. Trump,90
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Ben Carson,2
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Chris Christie,1
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Ted Cruz,27
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Mike Huckabee,2
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,John R. Kasich,49
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Marco Rubio,11
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,President (district),15,R,Donald J. Trump,88
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,U.S. Senator,,R,Don Elijah Eckhart,27
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,U.S. Senator,,R,Rob Portman,119
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,Representative to Congress,15,R,Steve Stivers,132
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,State Senator,30,R,Frank Hoagland,0
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,State Representative,93,R,Ryan Smith,130
+Vinton,PRECINCT SWAN TOWNSHIP,AAR,Southeast,Charleston,605,268,State Representative,94,R,Jay Edwards,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Jeb Bush,1
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Ben Carson,1
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Ted Cruz,14
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Carly Fiorina,1
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,John R. Kasich,25
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Marco Rubio,1
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (at-large),,R,Donald J. Trump,47
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Ben Carson,1
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Ted Cruz,13
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,John R. Kasich,28
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Marco Rubio,2
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,President (district),15,R,Donald J. Trump,46
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,U.S. Senator,,R,Don Elijah Eckhart,22
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,U.S. Senator,,R,Rob Portman,58
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,Representative to Congress,15,R,Steve Stivers,68
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,State Senator,30,R,Frank Hoagland,60
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT VINTON TOWNSHIP,AAS,Southeast,Charleston,358,154,State Representative,94,R,Jay Edwards,61
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Ben Carson,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Chris Christie,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Ted Cruz,13
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,John R. Kasich,42
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Marco Rubio,3
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (at-large),,R,Donald J. Trump,62
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Ben Carson,2
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Chris Christie,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Ted Cruz,13
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Mike Huckabee,1
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,John R. Kasich,43
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Marco Rubio,4
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Rick Santorum,1
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,President (district),15,R,Donald J. Trump,56
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,U.S. Senator,,R,Don Elijah Eckhart,23
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,U.S. Senator,,R,Rob Portman,78
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,Representative to Congress,15,R,Steve Stivers,88
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,State Senator,30,R,Frank Hoagland,68
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT WILKESVILLE TOWNSHIP,AAU,Southeast,Charleston,456,194,State Representative,94,R,Jay Edwards,78
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Jeb Bush,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Ben Carson,1
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Chris Christie,1
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Ted Cruz,3
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Carly Fiorina,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Mike Huckabee,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,John R. Kasich,6
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Marco Rubio,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Rick Santorum,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (at-large),,R,Donald J. Trump,13
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Jeb Bush,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Ben Carson,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Chris Christie,1
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Ted Cruz,3
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Carly Fiorina,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Mike Huckabee,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,John R. Kasich,6
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Marco Rubio,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Rick Santorum,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,President (district),15,R,Donald J. Trump,13
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,U.S. Senator,,R,Don Elijah Eckhart,9
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,U.S. Senator,,R,Rob Portman,12
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,Representative to Congress,15,R,Steve Stivers,16
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,State Senator,30,R,Frank Hoagland,15
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,State Representative,93,R,Ryan Smith,0
+Vinton,PRECINCT WILKESVILLE CORP,AAW,Southeast,Charleston,84,39,State Representative,94,R,Jay Edwards,16

@@ -1,0 +1,530 @@
+County Name,Precinct Name,Precinct Code,Region Name,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Jeb Bush,3
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Ben Carson,2
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Chris Christie,0
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Ted Cruz,28
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Carly Fiorina,0
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Mike Huckabee,0
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,John R. Kasich,68
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Marco Rubio,6
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Rick Santorum,0
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (at-large),,R,Donald J. Trump,56
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,Jeb Bush,2
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,Ben Carson,4
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,Chris Christie,0
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,Ted Cruz,29
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,Carly Fiorina,0
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,John R. Kasich,57
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,Marco Rubio,6
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,Rick Santorum,0
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,President (district),05,R,Donald J. Trump,48
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,U.S. Senator,,R,Don Elijah Eckhart,26
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,U.S. Senator,,R,Rob Portman,86
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,Representative to Congress,05,R,Bob Latta,138
+Henry,NAPOLEON CITY 1.0,AAA,Northwest,Toledo,814,269,State Representative,81,R,Robert McColley,136
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Jeb Bush,1
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Ben Carson,5
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Chris Christie,0
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Ted Cruz,25
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Carly Fiorina,0
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Mike Huckabee,2
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,John R. Kasich,108
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Marco Rubio,7
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Rick Santorum,0
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (at-large),,R,Donald J. Trump,50
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,Jeb Bush,4
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,Ben Carson,8
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,Chris Christie,0
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,Ted Cruz,20
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,Carly Fiorina,2
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,John R. Kasich,97
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,Marco Rubio,7
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,Rick Santorum,0
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,President (district),05,R,Donald J. Trump,45
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,U.S. Senator,,R,Don Elijah Eckhart,21
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,U.S. Senator,,R,Rob Portman,118
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,Representative to Congress,05,R,Bob Latta,173
+Henry,NAPOLEON CITY 2.0,AAB,Northwest,Toledo,701,285,State Representative,81,R,Robert McColley,160
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Jeb Bush,2
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Ben Carson,8
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Chris Christie,0
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Ted Cruz,54
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Carly Fiorina,0
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Mike Huckabee,0
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,John R. Kasich,217
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Marco Rubio,8
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Rick Santorum,0
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (at-large),,R,Donald J. Trump,111
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,Jeb Bush,2
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,Ben Carson,10
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,Chris Christie,0
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,Ted Cruz,53
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,Carly Fiorina,0
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,John R. Kasich,202
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,Marco Rubio,8
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,Rick Santorum,0
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,President (district),05,R,Donald J. Trump,102
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,U.S. Senator,,R,Don Elijah Eckhart,32
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,U.S. Senator,,R,Rob Portman,242
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,Representative to Congress,05,R,Bob Latta,337
+Henry,NAPOLEON CITY 3.0,AAC,Northwest,Toledo,"1,073",552,State Representative,81,R,Robert McColley,331
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Jeb Bush,3
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Ben Carson,4
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Chris Christie,1
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Ted Cruz,40
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Carly Fiorina,1
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Mike Huckabee,0
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,John R. Kasich,168
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Marco Rubio,5
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Rick Santorum,0
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (at-large),,R,Donald J. Trump,101
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,Jeb Bush,2
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,Ben Carson,6
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,Chris Christie,1
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,Ted Cruz,36
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,Carly Fiorina,3
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,John R. Kasich,158
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,Marco Rubio,5
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,Rick Santorum,0
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,President (district),05,R,Donald J. Trump,90
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,U.S. Senator,,R,Don Elijah Eckhart,24
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,U.S. Senator,,R,Rob Portman,190
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,Representative to Congress,05,R,Bob Latta,272
+Henry,NAPOLEON CITY 4.0,AAE,Northwest,Toledo,"1,348",490,State Representative,81,R,Robert McColley,246
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Jeb Bush,2
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Ben Carson,3
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Chris Christie,1
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Ted Cruz,50
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Carly Fiorina,2
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Mike Huckabee,4
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,John R. Kasich,155
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Marco Rubio,7
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Rick Santorum,0
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (at-large),,R,Donald J. Trump,94
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,Jeb Bush,5
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,Ben Carson,8
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,Chris Christie,1
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,Ted Cruz,46
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,Carly Fiorina,2
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,John R. Kasich,144
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,Marco Rubio,8
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,Rick Santorum,0
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,President (district),05,R,Donald J. Trump,87
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,U.S. Senator,,R,Don Elijah Eckhart,27
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,U.S. Senator,,R,Rob Portman,180
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,Representative to Congress,05,R,Bob Latta,272
+Henry,NAPOLEON CITY 5.0,AAH,Northwest,Toledo,"1,168",480,State Representative,81,R,Robert McColley,256
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Jeb Bush,1
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Ben Carson,7
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Chris Christie,0
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Ted Cruz,21
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Carly Fiorina,0
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Mike Huckabee,0
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,John R. Kasich,199
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Marco Rubio,12
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Rick Santorum,0
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (at-large),,R,Donald J. Trump,104
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,Jeb Bush,1
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,Ben Carson,6
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,Chris Christie,1
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,Ted Cruz,24
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,Carly Fiorina,1
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,John R. Kasich,198
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,Marco Rubio,13
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,Rick Santorum,0
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,President (district),05,R,Donald J. Trump,92
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,U.S. Senator,,R,Don Elijah Eckhart,28
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,U.S. Senator,,R,Rob Portman,208
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,Representative to Congress,05,R,Bob Latta,286
+Henry,NAPOLEON CITY 6.0,AAI,Northwest,Toledo,766,439,State Representative,81,R,Robert McColley,285
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Jeb Bush,1
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Ben Carson,1
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Chris Christie,0
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Ted Cruz,26
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Carly Fiorina,0
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Mike Huckabee,0
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,John R. Kasich,111
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Marco Rubio,3
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Rick Santorum,0
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (at-large),,R,Donald J. Trump,50
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,Jeb Bush,3
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,Ben Carson,3
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,Chris Christie,0
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,Ted Cruz,22
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,Carly Fiorina,1
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,John R. Kasich,104
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,Marco Rubio,4
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,Rick Santorum,0
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,President (district),05,R,Donald J. Trump,48
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,U.S. Senator,,R,Don Elijah Eckhart,15
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,U.S. Senator,,R,Rob Portman,127
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,Representative to Congress,05,R,Bob Latta,173
+Henry,BARTLOW TWP 8.0,AAJ,Northwest,Toledo,432,221,State Representative,81,R,Robert McColley,145
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Jeb Bush,1
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Ben Carson,2
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Chris Christie,0
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Ted Cruz,55
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Carly Fiorina,0
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Mike Huckabee,1
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,John R. Kasich,184
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Marco Rubio,8
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Rick Santorum,0
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (at-large),,R,Donald J. Trump,132
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,Jeb Bush,1
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,Ben Carson,4
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,Chris Christie,1
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,Ted Cruz,53
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,Carly Fiorina,1
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,John R. Kasich,168
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,Marco Rubio,7
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,Rick Santorum,0
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,President (district),05,R,Donald J. Trump,124
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,U.S. Senator,,R,Don Elijah Eckhart,46
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,U.S. Senator,,R,Rob Portman,227
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,Representative to Congress,05,R,Bob Latta,325
+Henry,DAMASCUS TWP 9.0,AAK,Northwest,Toledo,"1,146",516,State Representative,81,R,Robert McColley,274
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Jeb Bush,3
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Ben Carson,2
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Chris Christie,1
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Ted Cruz,36
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Carly Fiorina,0
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Mike Huckabee,0
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,John R. Kasich,194
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Marco Rubio,2
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Rick Santorum,0
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (at-large),,R,Donald J. Trump,113
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,Jeb Bush,7
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,Ben Carson,4
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,Chris Christie,1
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,Ted Cruz,40
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,Carly Fiorina,0
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,John R. Kasich,167
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,Marco Rubio,7
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,Rick Santorum,0
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,President (district),05,R,Donald J. Trump,105
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,U.S. Senator,,R,Don Elijah Eckhart,28
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,U.S. Senator,,R,Rob Portman,198
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,Representative to Congress,05,R,Bob Latta,305
+Henry,DESHLER VILLAGE 7.0,AAL,Northwest,Toledo,"1,087",466,State Representative,81,R,Robert McColley,257
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Jeb Bush,1
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Ben Carson,2
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Chris Christie,1
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Ted Cruz,51
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Carly Fiorina,0
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Mike Huckabee,0
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,John R. Kasich,174
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Marco Rubio,6
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Rick Santorum,1
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (at-large),,R,Donald J. Trump,115
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,Jeb Bush,2
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,Ben Carson,4
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,Chris Christie,2
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,Ted Cruz,49
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,Carly Fiorina,1
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,John R. Kasich,159
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,Marco Rubio,9
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,Rick Santorum,0
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,President (district),05,R,Donald J. Trump,106
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,U.S. Senator,,R,Don Elijah Eckhart,38
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,U.S. Senator,,R,Rob Portman,219
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,Representative to Congress,05,R,Bob Latta,304
+Henry,FLATROCK TWP 10.0,AAO,Northwest,Toledo,851,470,State Representative,81,R,Robert McColley,260
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Jeb Bush,1
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Ben Carson,0
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Chris Christie,0
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Ted Cruz,37
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Carly Fiorina,0
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Mike Huckabee,0
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,John R. Kasich,187
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Marco Rubio,6
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Rick Santorum,0
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (at-large),,R,Donald J. Trump,62
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,Jeb Bush,1
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,Ben Carson,2
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,Chris Christie,2
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,Ted Cruz,44
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,Carly Fiorina,0
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,John R. Kasich,171
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,Marco Rubio,5
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,Rick Santorum,0
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,President (district),05,R,Donald J. Trump,48
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,U.S. Senator,,R,Don Elijah Eckhart,25
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,U.S. Senator,,R,Rob Portman,186
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,Representative to Congress,05,R,Bob Latta,256
+Henry,FREEDOM TWP 11.0,AAP,Northwest,Toledo,650,360,State Representative,81,R,Robert McColley,245
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Jeb Bush,1
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Ben Carson,3
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Chris Christie,1
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Ted Cruz,39
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Carly Fiorina,0
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Mike Huckabee,2
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,John R. Kasich,164
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Marco Rubio,4
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Rick Santorum,1
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (at-large),,R,Donald J. Trump,113
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,Jeb Bush,7
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,Ben Carson,7
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,Chris Christie,2
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,Ted Cruz,35
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,Carly Fiorina,0
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,John R. Kasich,148
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,Marco Rubio,7
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,Rick Santorum,0
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,President (district),05,R,Donald J. Trump,108
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,U.S. Senator,,R,Don Elijah Eckhart,44
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,U.S. Senator,,R,Rob Portman,204
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,Representative to Congress,05,R,Bob Latta,281
+Henry,HARRISON TWP 12.0,AAQ,Northwest,Toledo,722,407,State Representative,81,R,Robert McColley,260
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Jeb Bush,0
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Ben Carson,3
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Chris Christie,1
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Ted Cruz,31
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Carly Fiorina,0
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Mike Huckabee,2
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,John R. Kasich,74
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Marco Rubio,9
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Rick Santorum,1
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (at-large),,R,Donald J. Trump,44
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,Jeb Bush,2
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,Ben Carson,3
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,Chris Christie,2
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,Ted Cruz,31
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,Carly Fiorina,0
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,John R. Kasich,67
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,Marco Rubio,4
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,Rick Santorum,1
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,President (district),05,R,Donald J. Trump,40
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,U.S. Senator,,R,Don Elijah Eckhart,29
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,U.S. Senator,,R,Rob Portman,95
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,Representative to Congress,05,R,Bob Latta,146
+Henry,HOLGATE VILLAGE 19.0,AAS,Northwest,Toledo,678,268,State Representative,81,R,Robert McColley,128
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Jeb Bush,2
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Ben Carson,5
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Chris Christie,0
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Ted Cruz,64
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Carly Fiorina,0
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Mike Huckabee,3
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,John R. Kasich,198
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Marco Rubio,17
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Rick Santorum,0
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (at-large),,R,Donald J. Trump,77
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,Jeb Bush,6
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,Ben Carson,8
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,Chris Christie,1
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,Ted Cruz,58
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,Carly Fiorina,0
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,John R. Kasich,186
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,Marco Rubio,15
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,Rick Santorum,0
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,President (district),05,R,Donald J. Trump,73
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,U.S. Senator,,R,Don Elijah Eckhart,28
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,U.S. Senator,,R,Rob Portman,199
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,Representative to Congress,05,R,Bob Latta,310
+Henry,LIBERTY TWP 14.0,AAT,Northwest,Toledo,937,460,State Representative,81,R,Robert McColley,284
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Jeb Bush,2
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Ben Carson,5
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Chris Christie,1
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Ted Cruz,27
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Carly Fiorina,0
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Mike Huckabee,0
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,John R. Kasich,100
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Marco Rubio,3
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Rick Santorum,0
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (at-large),,R,Donald J. Trump,85
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,Jeb Bush,5
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,Ben Carson,5
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,Chris Christie,1
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,Ted Cruz,29
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,Carly Fiorina,0
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,John R. Kasich,89
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,Marco Rubio,5
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,Rick Santorum,0
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,President (district),05,R,Donald J. Trump,82
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,U.S. Senator,,R,Don Elijah Eckhart,30
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,U.S. Senator,,R,Rob Portman,112
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,Representative to Congress,05,R,Bob Latta,190
+Henry,LIBERTY CENTER VILLAGE 13.0,AAV,Northwest,Toledo,722,327,State Representative,81,R,Robert McColley,172
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Jeb Bush,3
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Ben Carson,4
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Chris Christie,1
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Ted Cruz,71
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Carly Fiorina,0
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Mike Huckabee,0
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,John R. Kasich,181
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Marco Rubio,9
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Rick Santorum,0
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (at-large),,R,Donald J. Trump,96
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,Jeb Bush,3
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,Ben Carson,7
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,Chris Christie,2
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,Ted Cruz,65
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,Carly Fiorina,2
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,John R. Kasich,169
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,Marco Rubio,15
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,Rick Santorum,1
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,President (district),05,R,Donald J. Trump,86
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,U.S. Senator,,R,Don Elijah Eckhart,45
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,U.S. Senator,,R,Rob Portman,213
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,Representative to Congress,05,R,Bob Latta,331
+Henry,MARION TWP 15.0,AAW,Northwest,Toledo,921,462,State Representative,81,R,Robert McColley,292
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Jeb Bush,1
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Ben Carson,6
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Chris Christie,0
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Ted Cruz,54
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Carly Fiorina,1
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Mike Huckabee,0
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,John R. Kasich,172
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Marco Rubio,12
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Rick Santorum,0
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (at-large),,R,Donald J. Trump,94
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,Jeb Bush,4
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,Ben Carson,2
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,Chris Christie,1
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,Ted Cruz,50
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,Carly Fiorina,2
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,John R. Kasich,165
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,Marco Rubio,14
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,Rick Santorum,1
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,President (district),05,R,Donald J. Trump,88
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,U.S. Senator,,R,Don Elijah Eckhart,19
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,U.S. Senator,,R,Rob Portman,215
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,Representative to Congress,05,R,Bob Latta,300
+Henry,MONROE TWP 16.0,AAY,Northwest,Toledo,778,426,State Representative,81,R,Robert McColley,258
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Jeb Bush,1
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Ben Carson,3
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Chris Christie,1
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Ted Cruz,24
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Carly Fiorina,0
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Mike Huckabee,2
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,John R. Kasich,98
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Marco Rubio,2
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Rick Santorum,0
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (at-large),,R,Donald J. Trump,52
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,Jeb Bush,3
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,Ben Carson,5
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,Chris Christie,0
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,Ted Cruz,23
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,Carly Fiorina,2
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,John R. Kasich,91
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,Marco Rubio,4
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,Rick Santorum,0
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,President (district),05,R,Donald J. Trump,48
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,U.S. Senator,,R,Don Elijah Eckhart,18
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,U.S. Senator,,R,Rob Portman,116
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,Representative to Congress,05,R,Bob Latta,154
+Henry,NAPOLEON EAST TWP 17.0,ABA,Northwest,Toledo,419,244,State Representative,81,R,Robert McColley,153
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Jeb Bush,2
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Ben Carson,1
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Chris Christie,0
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Ted Cruz,39
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Carly Fiorina,0
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Mike Huckabee,0
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,John R. Kasich,188
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Marco Rubio,6
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Rick Santorum,0
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (at-large),,R,Donald J. Trump,94
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,Jeb Bush,3
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,Ben Carson,6
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,Chris Christie,2
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,Ted Cruz,37
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,Carly Fiorina,2
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,John R. Kasich,159
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,Marco Rubio,9
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,Rick Santorum,2
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,President (district),05,R,Donald J. Trump,86
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,U.S. Senator,,R,Don Elijah Eckhart,24
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,U.S. Senator,,R,Rob Portman,209
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,Representative to Congress,05,R,Bob Latta,281
+Henry,NAPOLEON WEST TWP 18.0,ABB,Northwest,Toledo,645,385,State Representative,81,R,Robert McColley,268
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Jeb Bush,4
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Ben Carson,3
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Chris Christie,0
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Ted Cruz,37
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Carly Fiorina,1
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Mike Huckabee,1
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,John R. Kasich,152
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Marco Rubio,7
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Rick Santorum,1
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (at-large),,R,Donald J. Trump,81
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,Jeb Bush,3
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,Ben Carson,2
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,Chris Christie,0
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,Ted Cruz,38
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,Carly Fiorina,1
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,John R. Kasich,141
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,Marco Rubio,10
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,Rick Santorum,0
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,President (district),05,R,Donald J. Trump,78
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,U.S. Senator,,R,Don Elijah Eckhart,33
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,U.S. Senator,,R,Rob Portman,179
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,Representative to Congress,05,R,Bob Latta,254
+Henry,PLEASANT TWP 20.0,ABC,Northwest,Toledo,630,361,State Representative,81,R,Robert McColley,223
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Jeb Bush,0
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Ben Carson,5
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Chris Christie,0
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Ted Cruz,24
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Carly Fiorina,0
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Mike Huckabee,2
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,John R. Kasich,108
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Marco Rubio,6
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Rick Santorum,1
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (at-large),,R,Donald J. Trump,43
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,Jeb Bush,0
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,Ben Carson,6
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,Chris Christie,1
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,Ted Cruz,24
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,Carly Fiorina,0
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,John R. Kasich,105
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,Marco Rubio,6
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,Rick Santorum,0
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,President (district),05,R,Donald J. Trump,42
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,U.S. Senator,,R,Don Elijah Eckhart,19
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,U.S. Senator,,R,Rob Portman,109
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,Representative to Congress,05,R,Bob Latta,165
+Henry,RICHFIELD TWP 21.0,ABD,Northwest,Toledo,459,230,State Representative,81,R,Robert McColley,136
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Jeb Bush,0
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Ben Carson,1
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Chris Christie,0
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Ted Cruz,56
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Carly Fiorina,0
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Mike Huckabee,0
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,John R. Kasich,201
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Marco Rubio,7
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Rick Santorum,0
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (at-large),,R,Donald J. Trump,81
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,Jeb Bush,1
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,Ben Carson,15
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,Chris Christie,6
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,Ted Cruz,57
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,Carly Fiorina,0
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,John R. Kasich,176
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,Marco Rubio,8
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,Rick Santorum,0
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,President (district),05,R,Donald J. Trump,59
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,U.S. Senator,,R,Don Elijah Eckhart,26
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,U.S. Senator,,R,Rob Portman,209
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,Representative to Congress,05,R,Bob Latta,300
+Henry,RIDGEVILLE TWP 22.0,ABE,Northwest,Toledo,781,411,State Representative,81,R,Robert McColley,256
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Jeb Bush,2
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Ben Carson,9
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Chris Christie,2
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Ted Cruz,68
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Carly Fiorina,0
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Mike Huckabee,1
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,John R. Kasich,148
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Marco Rubio,5
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Rick Santorum,0
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (at-large),,R,Donald J. Trump,165
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,Jeb Bush,1
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,Ben Carson,5
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,Chris Christie,3
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,Ted Cruz,67
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,Carly Fiorina,1
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,John R. Kasich,140
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,Marco Rubio,9
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,Rick Santorum,2
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,President (district),05,R,Donald J. Trump,146
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,U.S. Senator,,R,Don Elijah Eckhart,46
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,U.S. Senator,,R,Rob Portman,225
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,Representative to Congress,05,R,Bob Latta,318
+Henry,WASHINGTON TWP 23.0,ABF,Northwest,Toledo,"1,206",569,State Representative,81,R,Robert McColley,275
