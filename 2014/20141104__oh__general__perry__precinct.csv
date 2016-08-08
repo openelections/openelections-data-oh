@@ -1,0 +1,628 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Governor/Lieutenant Governor,,D,Edward FitzGerald,102
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Governor/Lieutenant Governor,,R,John Kasich,257
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Governor/Lieutenant Governor,,G,Anita Rios,12
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Attorney General,,R,Mike DeWine,250
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Attorney General,,D,David Pepper,124
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Auditor of State,,L,Bob Bridges,18
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Auditor of State,,D,John Patrick Carney,121
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Auditor of State,,R,Dave Yost,233
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Secretary of State,,R,Jon Husted,236
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Secretary of State,,L,Kevin Knedler,19
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Secretary of State,,D,Nina Turner,116
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Treasurer of State,,R,Josh Mandel,242
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,Treasurer of State,,D,Connie Pillich,133
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,U.S. House of Representatives,15,R,Steve Stivers,254
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,U.S. House of Representatives,15,D,Scott Wharton,117
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,State Senate,31,D,John Carlisle,128
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,State Senate,31,R,Jay Hottinger,239
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,State House of Representatives,72,D,Janee L. Bowman,126
+Perry,AAA,BEARFIELD EAST/WEST,Central,Columbus,895,387,State House of Representatives,72,R,Bill Hayes,244
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Governor/Lieutenant Governor,,D,Edward FitzGerald,67
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Governor/Lieutenant Governor,,R,John Kasich,291
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Governor/Lieutenant Governor,,G,Anita Rios,10
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Attorney General,,R,Mike DeWine,264
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Attorney General,,D,David Pepper,97
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Auditor of State,,L,Bob Bridges,14
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Auditor of State,,D,John Patrick Carney,77
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Auditor of State,,R,Dave Yost,275
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Secretary of State,,R,Jon Husted,280
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Secretary of State,,L,Kevin Knedler,10
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Secretary of State,,D,Nina Turner,72
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Treasurer of State,,R,Josh Mandel,253
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,Treasurer of State,,D,Connie Pillich,113
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,U.S. House of Representatives,15,R,Steve Stivers,292
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,U.S. House of Representatives,15,D,Scott Wharton,78
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,State Senate,31,D,John Carlisle,79
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,State Senate,31,R,Jay Hottinger,291
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,State House of Representatives,72,D,Janee L. Bowman,89
+Perry,ABT,BUCKEYE LAKE,Central,Columbus,744,376,State House of Representatives,72,R,Bill Hayes,274
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Governor/Lieutenant Governor,,D,Edward FitzGerald,134
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Governor/Lieutenant Governor,,R,John Kasich,192
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Governor/Lieutenant Governor,,G,Anita Rios,12
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Attorney General,,R,Mike DeWine,200
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Attorney General,,D,David Pepper,136
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Auditor of State,,L,Bob Bridges,11
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Auditor of State,,D,John Patrick Carney,155
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Auditor of State,,R,Dave Yost,154
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Secretary of State,,R,Jon Husted,172
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Secretary of State,,L,Kevin Knedler,18
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Secretary of State,,D,Nina Turner,131
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Treasurer of State,,R,Josh Mandel,164
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,Treasurer of State,,D,Connie Pillich,169
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,U.S. House of Representatives,15,R,Steve Stivers,184
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,U.S. House of Representatives,15,D,Scott Wharton,140
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,State Senate,31,D,John Carlisle,161
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,State Senate,31,R,Jay Hottinger,158
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,State House of Representatives,72,D,Janee L. Bowman,159
+Perry,AAV,CORNING/RENDVILLE/MONROE,Central,Columbus,871,350,State House of Representatives,72,R,Bill Hayes,164
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Governor/Lieutenant Governor,,D,Edward FitzGerald,111
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Governor/Lieutenant Governor,,R,John Kasich,158
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Governor/Lieutenant Governor,,G,Anita Rios,8
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Attorney General,,R,Mike DeWine,158
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Attorney General,,D,David Pepper,116
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Auditor of State,,L,Bob Bridges,7
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Auditor of State,,D,John Patrick Carney,128
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Auditor of State,,R,Dave Yost,139
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Secretary of State,,R,Jon Husted,150
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Secretary of State,,L,Kevin Knedler,6
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Secretary of State,,D,Nina Turner,120
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Treasurer of State,,R,Josh Mandel,149
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,Treasurer of State,,D,Connie Pillich,130
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,U.S. House of Representatives,15,R,Steve Stivers,164
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,U.S. House of Representatives,15,D,Scott Wharton,116
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,State Senate,31,D,John Carlisle,135
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,State Senate,31,R,Jay Hottinger,141
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,State House of Representatives,72,D,Janee L. Bowman,133
+Perry,AAK,CROOKSVILLE A/B/C/D,Central,Columbus,890,286,State House of Representatives,72,R,Bill Hayes,142
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Governor/Lieutenant Governor,,D,Edward FitzGerald,66
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Governor/Lieutenant Governor,,R,John Kasich,82
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Governor/Lieutenant Governor,,G,Anita Rios,4
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Attorney General,,R,Mike DeWine,69
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Attorney General,,D,David Pepper,79
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Auditor of State,,L,Bob Bridges,9
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Auditor of State,,D,John Patrick Carney,82
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Auditor of State,,R,Dave Yost,66
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Secretary of State,,R,Jon Husted,76
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Secretary of State,,L,Kevin Knedler,4
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Secretary of State,,D,Nina Turner,75
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Treasurer of State,,R,Josh Mandel,63
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,Treasurer of State,,D,Connie Pillich,92
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,U.S. House of Representatives,15,R,Steve Stivers,78
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,U.S. House of Representatives,15,D,Scott Wharton,77
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,State Senate,31,D,John Carlisle,81
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,State Senate,31,R,Jay Hottinger,74
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,State House of Representatives,72,D,Janee L. Bowman,84
+Perry,AAL,CROOKSVILLE E/F,Central,Columbus,505,161,State House of Representatives,72,R,Bill Hayes,70
+Perry,AAI,HARRISON,Central,Columbus,488,204,Governor/Lieutenant Governor,,D,Edward FitzGerald,72
+Perry,AAI,HARRISON,Central,Columbus,488,204,Governor/Lieutenant Governor,,R,John Kasich,118
+Perry,AAI,HARRISON,Central,Columbus,488,204,Governor/Lieutenant Governor,,G,Anita Rios,6
+Perry,AAI,HARRISON,Central,Columbus,488,204,Attorney General,,R,Mike DeWine,118
+Perry,AAI,HARRISON,Central,Columbus,488,204,Attorney General,,D,David Pepper,74
+Perry,AAI,HARRISON,Central,Columbus,488,204,Auditor of State,,L,Bob Bridges,3
+Perry,AAI,HARRISON,Central,Columbus,488,204,Auditor of State,,D,John Patrick Carney,78
+Perry,AAI,HARRISON,Central,Columbus,488,204,Auditor of State,,R,Dave Yost,115
+Perry,AAI,HARRISON,Central,Columbus,488,204,Secretary of State,,R,Jon Husted,118
+Perry,AAI,HARRISON,Central,Columbus,488,204,Secretary of State,,L,Kevin Knedler,5
+Perry,AAI,HARRISON,Central,Columbus,488,204,Secretary of State,,D,Nina Turner,74
+Perry,AAI,HARRISON,Central,Columbus,488,204,Treasurer of State,,R,Josh Mandel,114
+Perry,AAI,HARRISON,Central,Columbus,488,204,Treasurer of State,,D,Connie Pillich,82
+Perry,AAI,HARRISON,Central,Columbus,488,204,U.S. House of Representatives,15,R,Steve Stivers,126
+Perry,AAI,HARRISON,Central,Columbus,488,204,U.S. House of Representatives,15,D,Scott Wharton,73
+Perry,AAI,HARRISON,Central,Columbus,488,204,State Senate,31,D,John Carlisle,82
+Perry,AAI,HARRISON,Central,Columbus,488,204,State Senate,31,R,Jay Hottinger,115
+Perry,AAI,HARRISON,Central,Columbus,488,204,State House of Representatives,72,D,Janee L. Bowman,79
+Perry,AAI,HARRISON,Central,Columbus,488,204,State House of Representatives,72,R,Bill Hayes,117
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Governor/Lieutenant Governor,,D,Edward FitzGerald,150
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Governor/Lieutenant Governor,,R,John Kasich,152
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Governor/Lieutenant Governor,,G,Anita Rios,12
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Attorney General,,R,Mike DeWine,154
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Attorney General,,D,David Pepper,153
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Auditor of State,,L,Bob Bridges,16
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Auditor of State,,D,John Patrick Carney,167
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Auditor of State,,R,Dave Yost,128
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Secretary of State,,R,Jon Husted,135
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Secretary of State,,L,Kevin Knedler,22
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Secretary of State,,D,Nina Turner,153
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Treasurer of State,,R,Josh Mandel,132
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,Treasurer of State,,D,Connie Pillich,182
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,U.S. House of Representatives,15,R,Steve Stivers,150
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,U.S. House of Representatives,15,D,Scott Wharton,166
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,State Senate,31,D,John Carlisle,177
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,State Senate,31,R,Jay Hottinger,130
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,State House of Representatives,72,D,Janee L. Bowman,165
+Perry,ABH,HEMLOCK/SHAWNEE/SALTLICK,Central,Columbus,741,327,State House of Representatives,72,R,Bill Hayes,147
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Governor/Lieutenant Governor,,D,Edward FitzGerald,64
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Governor/Lieutenant Governor,,R,John Kasich,201
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Governor/Lieutenant Governor,,G,Anita Rios,5
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Attorney General,,R,Mike DeWine,201
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Attorney General,,D,David Pepper,71
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Auditor of State,,L,Bob Bridges,9
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Auditor of State,,D,John Patrick Carney,61
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Auditor of State,,R,Dave Yost,201
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Secretary of State,,R,Jon Husted,204
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Secretary of State,,L,Kevin Knedler,9
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Secretary of State,,D,Nina Turner,62
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Treasurer of State,,R,Josh Mandel,181
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,Treasurer of State,,D,Connie Pillich,96
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,U.S. House of Representatives,15,R,Steve Stivers,204
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,U.S. House of Representatives,15,D,Scott Wharton,73
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,State Senate,31,D,John Carlisle,69
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,State Senate,31,R,Jay Hottinger,201
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,State House of Representatives,72,D,Janee L. Bowman,72
+Perry,AAM,HOPEWELL EAST/GLENFORD,Central,Columbus,637,282,State House of Representatives,72,R,Bill Hayes,201
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Governor/Lieutenant Governor,,D,Edward FitzGerald,95
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Governor/Lieutenant Governor,,R,John Kasich,289
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Governor/Lieutenant Governor,,G,Anita Rios,5
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Attorney General,,R,Mike DeWine,283
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Attorney General,,D,David Pepper,109
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Auditor of State,,L,Bob Bridges,13
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Auditor of State,,D,John Patrick Carney,103
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Auditor of State,,R,Dave Yost,272
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Secretary of State,,R,Jon Husted,279
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Secretary of State,,L,Kevin Knedler,15
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Secretary of State,,D,Nina Turner,97
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Treasurer of State,,R,Josh Mandel,266
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,Treasurer of State,,D,Connie Pillich,131
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,U.S. House of Representatives,15,R,Steve Stivers,296
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,U.S. House of Representatives,15,D,Scott Wharton,104
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,State Senate,31,D,John Carlisle,106
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,State Senate,31,R,Jay Hottinger,290
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,State House of Representatives,72,D,Janee L. Bowman,107
+Perry,AAO,HOPEWELL WEST,Central,Columbus,881,414,State House of Representatives,72,R,Bill Hayes,286
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Governor/Lieutenant Governor,,D,Edward FitzGerald,89
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Governor/Lieutenant Governor,,R,John Kasich,173
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Governor/Lieutenant Governor,,G,Anita Rios,4
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Attorney General,,R,Mike DeWine,167
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Attorney General,,D,David Pepper,99
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Auditor of State,,L,Bob Bridges,11
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Auditor of State,,D,John Patrick Carney,97
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Auditor of State,,R,Dave Yost,161
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Secretary of State,,R,Jon Husted,167
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Secretary of State,,L,Kevin Knedler,14
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Secretary of State,,D,Nina Turner,83
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Treasurer of State,,R,Josh Mandel,163
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,Treasurer of State,,D,Connie Pillich,105
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,U.S. House of Representatives,15,R,Steve Stivers,177
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,U.S. House of Representatives,15,D,Scott Wharton,94
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,State Senate,31,D,John Carlisle,91
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,State Senate,31,R,Jay Hottinger,176
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,State House of Representatives,72,D,Janee L. Bowman,100
+Perry,AAP,JACKSON EAST,Central,Columbus,607,280,State House of Representatives,72,R,Bill Hayes,166
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Governor/Lieutenant Governor,,D,Edward FitzGerald,74
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Governor/Lieutenant Governor,,R,John Kasich,203
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Governor/Lieutenant Governor,,G,Anita Rios,6
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Attorney General,,R,Mike DeWine,200
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Attorney General,,D,David Pepper,80
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Auditor of State,,L,Bob Bridges,10
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Auditor of State,,D,John Patrick Carney,70
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Auditor of State,,R,Dave Yost,196
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Secretary of State,,R,Jon Husted,209
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Secretary of State,,L,Kevin Knedler,10
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Secretary of State,,D,Nina Turner,60
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Treasurer of State,,R,Josh Mandel,196
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,Treasurer of State,,D,Connie Pillich,84
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,U.S. House of Representatives,15,R,Steve Stivers,210
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,U.S. House of Representatives,15,D,Scott Wharton,70
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,State Senate,31,D,John Carlisle,72
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,State Senate,31,R,Jay Hottinger,206
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,State House of Representatives,72,D,Janee L. Bowman,74
+Perry,AAR,JACKSON WEST,Central,Columbus,631,284,State House of Representatives,72,R,Bill Hayes,206
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Governor/Lieutenant Governor,,D,Edward FitzGerald,68
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Governor/Lieutenant Governor,,R,John Kasich,98
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Governor/Lieutenant Governor,,G,Anita Rios,4
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Attorney General,,R,Mike DeWine,98
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Attorney General,,D,David Pepper,67
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Auditor of State,,L,Bob Bridges,8
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Auditor of State,,D,John Patrick Carney,70
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Auditor of State,,R,Dave Yost,87
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Secretary of State,,R,Jon Husted,98
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Secretary of State,,L,Kevin Knedler,4
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Secretary of State,,D,Nina Turner,60
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Treasurer of State,,R,Josh Mandel,82
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,Treasurer of State,,D,Connie Pillich,83
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,U.S. House of Representatives,15,R,Steve Stivers,103
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,U.S. House of Representatives,15,D,Scott Wharton,66
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,State Senate,31,D,John Carlisle,72
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,State Senate,31,R,Jay Hottinger,92
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,State House of Representatives,72,D,Janee L. Bowman,70
+Perry,AAQ,JUNCTION CITY,Central,Columbus,482,173,State House of Representatives,72,R,Bill Hayes,93
+Perry,AAS,MADISON,Central,Columbus,776,300,Governor/Lieutenant Governor,,D,Edward FitzGerald,70
+Perry,AAS,MADISON,Central,Columbus,776,300,Governor/Lieutenant Governor,,R,John Kasich,211
+Perry,AAS,MADISON,Central,Columbus,776,300,Governor/Lieutenant Governor,,G,Anita Rios,9
+Perry,AAS,MADISON,Central,Columbus,776,300,Attorney General,,R,Mike DeWine,204
+Perry,AAS,MADISON,Central,Columbus,776,300,Attorney General,,D,David Pepper,84
+Perry,AAS,MADISON,Central,Columbus,776,300,Auditor of State,,L,Bob Bridges,20
+Perry,AAS,MADISON,Central,Columbus,776,300,Auditor of State,,D,John Patrick Carney,69
+Perry,AAS,MADISON,Central,Columbus,776,300,Auditor of State,,R,Dave Yost,200
+Perry,AAS,MADISON,Central,Columbus,776,300,Secretary of State,,R,Jon Husted,207
+Perry,AAS,MADISON,Central,Columbus,776,300,Secretary of State,,L,Kevin Knedler,21
+Perry,AAS,MADISON,Central,Columbus,776,300,Secretary of State,,D,Nina Turner,64
+Perry,AAS,MADISON,Central,Columbus,776,300,Treasurer of State,,R,Josh Mandel,196
+Perry,AAS,MADISON,Central,Columbus,776,300,Treasurer of State,,D,Connie Pillich,90
+Perry,AAS,MADISON,Central,Columbus,776,300,U.S. House of Representatives,15,R,Steve Stivers,216
+Perry,AAS,MADISON,Central,Columbus,776,300,U.S. House of Representatives,15,D,Scott Wharton,71
+Perry,AAS,MADISON,Central,Columbus,776,300,State Senate,31,D,John Carlisle,70
+Perry,AAS,MADISON,Central,Columbus,776,300,State Senate,31,R,Jay Hottinger,217
+Perry,AAS,MADISON,Central,Columbus,776,300,State House of Representatives,72,D,Janee L. Bowman,71
+Perry,AAS,MADISON,Central,Columbus,776,300,State House of Representatives,72,R,Bill Hayes,213
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Governor/Lieutenant Governor,,D,Edward FitzGerald,83
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Governor/Lieutenant Governor,,R,John Kasich,129
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Governor/Lieutenant Governor,,G,Anita Rios,6
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Attorney General,,R,Mike DeWine,128
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Attorney General,,D,David Pepper,91
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Auditor of State,,L,Bob Bridges,7
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Auditor of State,,D,John Patrick Carney,87
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Auditor of State,,R,Dave Yost,121
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Secretary of State,,R,Jon Husted,130
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Secretary of State,,L,Kevin Knedler,11
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Secretary of State,,D,Nina Turner,76
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Treasurer of State,,R,Josh Mandel,123
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,Treasurer of State,,D,Connie Pillich,96
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,U.S. House of Representatives,15,R,Steve Stivers,138
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,U.S. House of Representatives,15,D,Scott Wharton,82
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,State Senate,31,D,John Carlisle,89
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,State Senate,31,R,Jay Hottinger,126
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,State House of Representatives,72,D,Janee L. Bowman,81
+Perry,AAG,MCLUNEY,Central,Columbus,542,223,State House of Representatives,72,R,Bill Hayes,134
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Governor/Lieutenant Governor,,D,Edward FitzGerald,37
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Governor/Lieutenant Governor,,R,John Kasich,122
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Governor/Lieutenant Governor,,G,Anita Rios,9
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Attorney General,,R,Mike DeWine,127
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Attorney General,,D,David Pepper,40
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Auditor of State,,L,Bob Bridges,9
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Auditor of State,,D,John Patrick Carney,43
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Auditor of State,,R,Dave Yost,115
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Secretary of State,,R,Jon Husted,117
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Secretary of State,,L,Kevin Knedler,8
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Secretary of State,,D,Nina Turner,41
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Treasurer of State,,R,Josh Mandel,119
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,Treasurer of State,,D,Connie Pillich,49
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,U.S. House of Representatives,15,R,Steve Stivers,120
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,U.S. House of Representatives,15,D,Scott Wharton,48
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,State Senate,31,D,John Carlisle,48
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,State Senate,31,R,Jay Hottinger,119
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,State House of Representatives,72,D,Janee L. Bowman,53
+Perry,AAT,MONDAY CREEK,Central,Columbus,439,171,State House of Representatives,72,R,Bill Hayes,111
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Governor/Lieutenant Governor,,D,Edward FitzGerald,55
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Governor/Lieutenant Governor,,R,John Kasich,71
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Governor/Lieutenant Governor,,G,Anita Rios,7
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Attorney General,,R,Mike DeWine,72
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Attorney General,,D,David Pepper,62
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Auditor of State,,L,Bob Bridges,7
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Auditor of State,,D,John Patrick Carney,66
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Auditor of State,,R,Dave Yost,60
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Secretary of State,,R,Jon Husted,62
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Secretary of State,,L,Kevin Knedler,11
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Secretary of State,,D,Nina Turner,60
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Treasurer of State,,R,Josh Mandel,62
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,Treasurer of State,,D,Connie Pillich,70
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,U.S. House of Representatives,15,R,Steve Stivers,69
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,U.S. House of Representatives,15,D,Scott Wharton,64
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,State Senate,31,D,John Carlisle,75
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,State Senate,31,R,Jay Hottinger,57
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,State House of Representatives,72,D,Janee L. Bowman,72
+Perry,ABM,NEW LEXINGTON A/B,Central,Columbus,624,137,State House of Representatives,72,R,Bill Hayes,62
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Governor/Lieutenant Governor,,D,Edward FitzGerald,71
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Governor/Lieutenant Governor,,R,John Kasich,133
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Governor/Lieutenant Governor,,G,Anita Rios,2
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Attorney General,,R,Mike DeWine,124
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Attorney General,,D,David Pepper,83
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Auditor of State,,L,Bob Bridges,6
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Auditor of State,,D,John Patrick Carney,90
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Auditor of State,,R,Dave Yost,110
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Secretary of State,,R,Jon Husted,118
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Secretary of State,,L,Kevin Knedler,5
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Secretary of State,,D,Nina Turner,83
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Treasurer of State,,R,Josh Mandel,110
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,Treasurer of State,,D,Connie Pillich,101
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,U.S. House of Representatives,15,R,Steve Stivers,121
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,U.S. House of Representatives,15,D,Scott Wharton,84
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,State Senate,31,D,John Carlisle,91
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,State Senate,31,R,Jay Hottinger,112
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,State House of Representatives,72,D,Janee L. Bowman,91
+Perry,ABN,NEW LEXINGTON C/E/F,Central,Columbus,655,220,State House of Representatives,72,R,Bill Hayes,115
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Governor/Lieutenant Governor,,D,Edward FitzGerald,53
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Governor/Lieutenant Governor,,R,John Kasich,104
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Governor/Lieutenant Governor,,G,Anita Rios,4
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Attorney General,,R,Mike DeWine,102
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Attorney General,,D,David Pepper,58
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Auditor of State,,L,Bob Bridges,6
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Auditor of State,,D,John Patrick Carney,64
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Auditor of State,,R,Dave Yost,86
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Secretary of State,,R,Jon Husted,85
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Secretary of State,,L,Kevin Knedler,6
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Secretary of State,,D,Nina Turner,58
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Treasurer of State,,R,Josh Mandel,100
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,Treasurer of State,,D,Connie Pillich,60
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,U.S. House of Representatives,15,R,Steve Stivers,104
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,U.S. House of Representatives,15,D,Scott Wharton,60
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,State Senate,31,D,John Carlisle,62
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,State Senate,31,R,Jay Hottinger,93
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,State House of Representatives,72,D,Janee L. Bowman,70
+Perry,ABO,NEW LEXINGTON D,Central,Columbus,495,174,State House of Representatives,72,R,Bill Hayes,87
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Governor/Lieutenant Governor,,D,Edward FitzGerald,168
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Governor/Lieutenant Governor,,R,John Kasich,239
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Governor/Lieutenant Governor,,G,Anita Rios,8
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Attorney General,,R,Mike DeWine,238
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Attorney General,,D,David Pepper,171
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Auditor of State,,L,Bob Bridges,22
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Auditor of State,,D,John Patrick Carney,177
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Auditor of State,,R,Dave Yost,200
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Secretary of State,,R,Jon Husted,220
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Secretary of State,,L,Kevin Knedler,18
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Secretary of State,,D,Nina Turner,158
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Treasurer of State,,R,Josh Mandel,196
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,Treasurer of State,,D,Connie Pillich,211
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,U.S. House of Representatives,15,R,Steve Stivers,245
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,U.S. House of Representatives,15,D,Scott Wharton,166
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,State Senate,31,D,John Carlisle,192
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,State Senate,31,R,Jay Hottinger,205
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,State House of Representatives,72,D,Janee L. Bowman,192
+Perry,ABR,NEW LEXINGTON G/H/I,Central,Columbus,964,434,State House of Representatives,72,R,Bill Hayes,208
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Governor/Lieutenant Governor,,D,Edward FitzGerald,86
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Governor/Lieutenant Governor,,R,John Kasich,96
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Governor/Lieutenant Governor,,G,Anita Rios,8
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Attorney General,,R,Mike DeWine,98
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Attorney General,,D,David Pepper,88
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Auditor of State,,L,Bob Bridges,13
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Auditor of State,,D,John Patrick Carney,80
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Auditor of State,,R,Dave Yost,90
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Secretary of State,,R,Jon Husted,97
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Secretary of State,,L,Kevin Knedler,11
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Secretary of State,,D,Nina Turner,77
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Treasurer of State,,R,Josh Mandel,94
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,Treasurer of State,,D,Connie Pillich,90
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,U.S. House of Representatives,15,R,Steve Stivers,99
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,U.S. House of Representatives,15,D,Scott Wharton,87
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,State Senate,31,D,John Carlisle,93
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,State Senate,31,R,Jay Hottinger,87
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,State House of Representatives,72,D,Janee L. Bowman,84
+Perry,AAF,NEW STRAITSVILLE/COAL,Central,Columbus,644,199,State House of Representatives,72,R,Bill Hayes,94
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Governor/Lieutenant Governor,,D,Edward FitzGerald,92
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Governor/Lieutenant Governor,,R,John Kasich,121
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Governor/Lieutenant Governor,,G,Anita Rios,11
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Attorney General,,R,Mike DeWine,135
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Attorney General,,D,David Pepper,94
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Auditor of State,,L,Bob Bridges,12
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Auditor of State,,D,John Patrick Carney,98
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Auditor of State,,R,Dave Yost,119
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Secretary of State,,R,Jon Husted,124
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Secretary of State,,L,Kevin Knedler,16
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Secretary of State,,D,Nina Turner,82
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Treasurer of State,,R,Josh Mandel,114
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,Treasurer of State,,D,Connie Pillich,110
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,U.S. House of Representatives,15,R,Steve Stivers,138
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,U.S. House of Representatives,15,D,Scott Wharton,92
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,State Senate,31,D,John Carlisle,101
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,State Senate,31,R,Jay Hottinger,123
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,State House of Representatives,72,D,Janee L. Bowman,104
+Perry,AAX,PIKE SOUTH,Central,Columbus,571,239,State House of Representatives,72,R,Bill Hayes,119
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Governor/Lieutenant Governor,,D,Edward FitzGerald,164
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Governor/Lieutenant Governor,,R,John Kasich,274
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Governor/Lieutenant Governor,,G,Anita Rios,9
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Attorney General,,R,Mike DeWine,270
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Attorney General,,D,David Pepper,177
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Auditor of State,,L,Bob Bridges,9
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Auditor of State,,D,John Patrick Carney,177
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Auditor of State,,R,Dave Yost,256
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Secretary of State,,R,Jon Husted,265
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Secretary of State,,L,Kevin Knedler,18
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Secretary of State,,D,Nina Turner,162
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Treasurer of State,,R,Josh Mandel,252
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,Treasurer of State,,D,Connie Pillich,199
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,U.S. House of Representatives,15,R,Steve Stivers,287
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,U.S. House of Representatives,15,D,Scott Wharton,166
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,State Senate,31,D,John Carlisle,188
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,State Senate,31,R,Jay Hottinger,262
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,State House of Representatives,72,D,Janee L. Bowman,184
+Perry,AAY,PIKE WEST,Central,Columbus,927,466,State House of Representatives,72,R,Bill Hayes,261
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Governor/Lieutenant Governor,,D,Edward FitzGerald,98
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Governor/Lieutenant Governor,,R,John Kasich,179
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Governor/Lieutenant Governor,,G,Anita Rios,13
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Attorney General,,R,Mike DeWine,187
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Attorney General,,D,David Pepper,104
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Auditor of State,,L,Bob Bridges,13
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Auditor of State,,D,John Patrick Carney,109
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Auditor of State,,R,Dave Yost,159
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Secretary of State,,R,Jon Husted,165
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Secretary of State,,L,Kevin Knedler,12
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Secretary of State,,D,Nina Turner,104
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Treasurer of State,,R,Josh Mandel,157
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,Treasurer of State,,D,Connie Pillich,134
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,U.S. House of Representatives,15,R,Steve Stivers,175
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,U.S. House of Representatives,15,D,Scott Wharton,116
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,State Senate,31,D,John Carlisle,121
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,State Senate,31,R,Jay Hottinger,160
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,State House of Representatives,72,D,Janee L. Bowman,128
+Perry,AAZ,PLEASANT,Central,Columbus,604,305,State House of Representatives,72,R,Bill Hayes,151
+Perry,ABA,READING EAST,Central,Columbus,552,290,Governor/Lieutenant Governor,,D,Edward FitzGerald,86
+Perry,ABA,READING EAST,Central,Columbus,552,290,Governor/Lieutenant Governor,,R,John Kasich,189
+Perry,ABA,READING EAST,Central,Columbus,552,290,Governor/Lieutenant Governor,,G,Anita Rios,7
+Perry,ABA,READING EAST,Central,Columbus,552,290,Attorney General,,R,Mike DeWine,187
+Perry,ABA,READING EAST,Central,Columbus,552,290,Attorney General,,D,David Pepper,94
+Perry,ABA,READING EAST,Central,Columbus,552,290,Auditor of State,,L,Bob Bridges,9
+Perry,ABA,READING EAST,Central,Columbus,552,290,Auditor of State,,D,John Patrick Carney,90
+Perry,ABA,READING EAST,Central,Columbus,552,290,Auditor of State,,R,Dave Yost,173
+Perry,ABA,READING EAST,Central,Columbus,552,290,Secretary of State,,R,Jon Husted,185
+Perry,ABA,READING EAST,Central,Columbus,552,290,Secretary of State,,L,Kevin Knedler,17
+Perry,ABA,READING EAST,Central,Columbus,552,290,Secretary of State,,D,Nina Turner,75
+Perry,ABA,READING EAST,Central,Columbus,552,290,Treasurer of State,,R,Josh Mandel,166
+Perry,ABA,READING EAST,Central,Columbus,552,290,Treasurer of State,,D,Connie Pillich,115
+Perry,ABA,READING EAST,Central,Columbus,552,290,U.S. House of Representatives,15,R,Steve Stivers,188
+Perry,ABA,READING EAST,Central,Columbus,552,290,U.S. House of Representatives,15,D,Scott Wharton,95
+Perry,ABA,READING EAST,Central,Columbus,552,290,State Senate,31,D,John Carlisle,93
+Perry,ABA,READING EAST,Central,Columbus,552,290,State Senate,31,R,Jay Hottinger,184
+Perry,ABA,READING EAST,Central,Columbus,552,290,State House of Representatives,72,D,Janee L. Bowman,95
+Perry,ABA,READING EAST,Central,Columbus,552,290,State House of Representatives,72,R,Bill Hayes,184
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Governor/Lieutenant Governor,,D,Edward FitzGerald,57
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Governor/Lieutenant Governor,,R,John Kasich,199
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Governor/Lieutenant Governor,,G,Anita Rios,9
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Attorney General,,R,Mike DeWine,183
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Attorney General,,D,David Pepper,76
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Auditor of State,,L,Bob Bridges,11
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Auditor of State,,D,John Patrick Carney,67
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Auditor of State,,R,Dave Yost,184
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Secretary of State,,R,Jon Husted,188
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Secretary of State,,L,Kevin Knedler,12
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Secretary of State,,D,Nina Turner,62
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Treasurer of State,,R,Josh Mandel,172
+Perry,ABB,READING NORTH,Central,Columbus,592,268,Treasurer of State,,D,Connie Pillich,95
+Perry,ABB,READING NORTH,Central,Columbus,592,268,U.S. House of Representatives,15,R,Steve Stivers,196
+Perry,ABB,READING NORTH,Central,Columbus,592,268,U.S. House of Representatives,15,D,Scott Wharton,69
+Perry,ABB,READING NORTH,Central,Columbus,592,268,State Senate,31,D,John Carlisle,67
+Perry,ABB,READING NORTH,Central,Columbus,592,268,State Senate,31,R,Jay Hottinger,196
+Perry,ABB,READING NORTH,Central,Columbus,592,268,State House of Representatives,72,D,Janee L. Bowman,78
+Perry,ABB,READING NORTH,Central,Columbus,592,268,State House of Representatives,72,R,Bill Hayes,185
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Governor/Lieutenant Governor,,D,Edward FitzGerald,67
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Governor/Lieutenant Governor,,R,John Kasich,236
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Governor/Lieutenant Governor,,G,Anita Rios,8
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Attorney General,,R,Mike DeWine,239
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Attorney General,,D,David Pepper,72
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Auditor of State,,L,Bob Bridges,15
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Auditor of State,,D,John Patrick Carney,70
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Auditor of State,,R,Dave Yost,217
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Secretary of State,,R,Jon Husted,229
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Secretary of State,,L,Kevin Knedler,14
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Secretary of State,,D,Nina Turner,63
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Treasurer of State,,R,Josh Mandel,207
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,Treasurer of State,,D,Connie Pillich,101
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,U.S. House of Representatives,15,R,Steve Stivers,238
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,U.S. House of Representatives,15,D,Scott Wharton,70
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,State Senate,31,D,John Carlisle,80
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,State Senate,31,R,Jay Hottinger,224
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,State House of Representatives,72,D,Janee L. Bowman,81
+Perry,ABC,READING SOUTH,Central,Columbus,753,319,State House of Representatives,72,R,Bill Hayes,221
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Governor/Lieutenant Governor,,D,Edward FitzGerald,107
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Governor/Lieutenant Governor,,R,John Kasich,243
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Governor/Lieutenant Governor,,G,Anita Rios,17
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Attorney General,,R,Mike DeWine,231
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Attorney General,,D,David Pepper,135
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Auditor of State,,L,Bob Bridges,18
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Auditor of State,,D,John Patrick Carney,129
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Auditor of State,,R,Dave Yost,226
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Secretary of State,,R,Jon Husted,249
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Secretary of State,,L,Kevin Knedler,16
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Secretary of State,,D,Nina Turner,105
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Treasurer of State,,R,Josh Mandel,228
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,Treasurer of State,,D,Connie Pillich,148
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,U.S. House of Representatives,15,R,Steve Stivers,260
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,U.S. House of Representatives,15,D,Scott Wharton,114
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,State Senate,31,D,John Carlisle,125
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,State Senate,31,R,Jay Hottinger,242
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,State House of Representatives,72,D,Janee L. Bowman,129
+Perry,AAC,REDFIELD/REHOBOTH,Central,Columbus,957,396,State House of Representatives,72,R,Bill Hayes,243
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Governor/Lieutenant Governor,,D,Edward FitzGerald,64
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Governor/Lieutenant Governor,,R,John Kasich,85
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Governor/Lieutenant Governor,,G,Anita Rios,9
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Attorney General,,R,Mike DeWine,93
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Attorney General,,D,David Pepper,66
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Auditor of State,,L,Bob Bridges,11
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Auditor of State,,D,John Patrick Carney,61
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Auditor of State,,R,Dave Yost,86
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Secretary of State,,R,Jon Husted,94
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Secretary of State,,L,Kevin Knedler,11
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Secretary of State,,D,Nina Turner,53
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Treasurer of State,,R,Josh Mandel,94
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,Treasurer of State,,D,Connie Pillich,65
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,U.S. House of Representatives,15,R,Steve Stivers,99
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,U.S. House of Representatives,15,D,Scott Wharton,59
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,State Senate,31,D,John Carlisle,66
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,State Senate,31,R,Jay Hottinger,88
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,State House of Representatives,72,D,Janee L. Bowman,64
+Perry,AAH,ROSEVILLE,Central,Columbus,526,164,State House of Representatives,72,R,Bill Hayes,91
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Governor/Lieutenant Governor,,D,Edward FitzGerald,102
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Governor/Lieutenant Governor,,R,John Kasich,273
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Governor/Lieutenant Governor,,G,Anita Rios,16
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Attorney General,,R,Mike DeWine,260
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Attorney General,,D,David Pepper,120
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Auditor of State,,L,Bob Bridges,11
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Auditor of State,,D,John Patrick Carney,137
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Auditor of State,,R,Dave Yost,234
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Secretary of State,,R,Jon Husted,262
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Secretary of State,,L,Kevin Knedler,17
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Secretary of State,,D,Nina Turner,100
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Treasurer of State,,R,Josh Mandel,246
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,Treasurer of State,,D,Connie Pillich,144
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,U.S. House of Representatives,15,R,Steve Stivers,258
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,U.S. House of Representatives,15,D,Scott Wharton,132
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,State Senate,31,D,John Carlisle,131
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,State Senate,31,R,Jay Hottinger,248
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,State House of Representatives,72,D,Janee L. Bowman,128
+Perry,ABE,SOMERSET NORTH/SOUTH,Central,Columbus,935,402,State House of Representatives,72,R,Bill Hayes,259
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Governor/Lieutenant Governor,,D,Edward FitzGerald,74
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Governor/Lieutenant Governor,,R,John Kasich,239
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Governor/Lieutenant Governor,,G,Anita Rios,6
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Attorney General,,R,Mike DeWine,241
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Attorney General,,D,David Pepper,78
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Auditor of State,,L,Bob Bridges,17
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Auditor of State,,D,John Patrick Carney,86
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Auditor of State,,R,Dave Yost,214
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Secretary of State,,R,Jon Husted,231
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Secretary of State,,L,Kevin Knedler,16
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Secretary of State,,D,Nina Turner,71
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Treasurer of State,,R,Josh Mandel,218
+Perry,ABI,THORN EAST,Central,Columbus,681,329,Treasurer of State,,D,Connie Pillich,100
+Perry,ABI,THORN EAST,Central,Columbus,681,329,U.S. House of Representatives,15,R,Steve Stivers,239
+Perry,ABI,THORN EAST,Central,Columbus,681,329,U.S. House of Representatives,15,D,Scott Wharton,78
+Perry,ABI,THORN EAST,Central,Columbus,681,329,State Senate,31,D,John Carlisle,82
+Perry,ABI,THORN EAST,Central,Columbus,681,329,State Senate,31,R,Jay Hottinger,241
+Perry,ABI,THORN EAST,Central,Columbus,681,329,State House of Representatives,72,D,Janee L. Bowman,91
+Perry,ABI,THORN EAST,Central,Columbus,681,329,State House of Representatives,72,R,Bill Hayes,225
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Governor/Lieutenant Governor,,D,Edward FitzGerald,44
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Governor/Lieutenant Governor,,R,John Kasich,152
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Governor/Lieutenant Governor,,G,Anita Rios,6
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Attorney General,,R,Mike DeWine,133
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Attorney General,,D,David Pepper,66
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Auditor of State,,L,Bob Bridges,10
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Auditor of State,,D,John Patrick Carney,58
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Auditor of State,,R,Dave Yost,131
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Secretary of State,,R,Jon Husted,146
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Secretary of State,,L,Kevin Knedler,9
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Secretary of State,,D,Nina Turner,43
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Treasurer of State,,R,Josh Mandel,128
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,Treasurer of State,,D,Connie Pillich,71
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,U.S. House of Representatives,15,R,Steve Stivers,151
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,U.S. House of Representatives,15,D,Scott Wharton,48
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,State Senate,31,D,John Carlisle,61
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,State Senate,31,R,Jay Hottinger,137
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,State House of Representatives,72,D,Janee L. Bowman,61
+Perry,ABU,THORN SOUTH,Central,Columbus,421,206,State House of Representatives,72,R,Bill Hayes,138
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Governor/Lieutenant Governor,,D,Edward FitzGerald,42
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Governor/Lieutenant Governor,,R,John Kasich,126
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Governor/Lieutenant Governor,,G,Anita Rios,11
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Attorney General,,R,Mike DeWine,116
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Attorney General,,D,David Pepper,61
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Auditor of State,,L,Bob Bridges,8
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Auditor of State,,D,John Patrick Carney,60
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Auditor of State,,R,Dave Yost,110
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Secretary of State,,R,Jon Husted,116
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Secretary of State,,L,Kevin Knedler,9
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Secretary of State,,D,Nina Turner,52
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Treasurer of State,,R,Josh Mandel,111
+Perry,ABK,THORN WEST,Central,Columbus,462,185,Treasurer of State,,D,Connie Pillich,70
+Perry,ABK,THORN WEST,Central,Columbus,462,185,U.S. House of Representatives,15,R,Steve Stivers,119
+Perry,ABK,THORN WEST,Central,Columbus,462,185,U.S. House of Representatives,15,D,Scott Wharton,61
+Perry,ABK,THORN WEST,Central,Columbus,462,185,State Senate,31,D,John Carlisle,67
+Perry,ABK,THORN WEST,Central,Columbus,462,185,State Senate,31,R,Jay Hottinger,111
+Perry,ABK,THORN WEST,Central,Columbus,462,185,State House of Representatives,72,D,Janee L. Bowman,70
+Perry,ABK,THORN WEST,Central,Columbus,462,185,State House of Representatives,72,R,Bill Hayes,105
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Governor/Lieutenant Governor,,D,Edward FitzGerald,76
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Governor/Lieutenant Governor,,R,John Kasich,205
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Governor/Lieutenant Governor,,G,Anita Rios,8
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Attorney General,,R,Mike DeWine,212
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Attorney General,,D,David Pepper,75
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Auditor of State,,L,Bob Bridges,13
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Auditor of State,,D,John Patrick Carney,77
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Auditor of State,,R,Dave Yost,194
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Secretary of State,,R,Jon Husted,210
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Secretary of State,,L,Kevin Knedler,15
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Secretary of State,,D,Nina Turner,62
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Treasurer of State,,R,Josh Mandel,189
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,Treasurer of State,,D,Connie Pillich,98
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,U.S. House of Representatives,15,R,Steve Stivers,215
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,U.S. House of Representatives,15,D,Scott Wharton,78
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,State Senate,31,D,John Carlisle,78
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,State Senate,31,R,Jay Hottinger,214
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,State House of Representatives,72,D,Janee L. Bowman,81
+Perry,ABJ,THORNVILLE,Central,Columbus,738,296,State House of Representatives,72,R,Bill Hayes,203

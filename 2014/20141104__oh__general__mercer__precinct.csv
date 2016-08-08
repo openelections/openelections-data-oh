@@ -1,0 +1,793 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Governor/Lieutenant Governor,,D,Edward FitzGerald,32
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Governor/Lieutenant Governor,,R,John Kasich,116
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Governor/Lieutenant Governor,,G,Anita Rios,4
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Attorney General,,R,Mike DeWine,123
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Attorney General,,D,David Pepper,30
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Auditor of State,,L,Bob Bridges,9
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Auditor of State,,D,John Patrick Carney,32
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Auditor of State,,R,Dave Yost,110
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Secretary of State,,R,Jon Husted,113
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Secretary of State,,L,Kevin Knedler,6
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Secretary of State,,D,Nina Turner,33
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Treasurer of State,,R,Josh Mandel,112
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,Treasurer of State,,D,Connie Pillich,40
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,U.S. House of Representatives,05,L,Eric Eberly,7
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,U.S. House of Representatives,05,D,Robert Fry,24
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,U.S. House of Representatives,05,R,Bob Latta,122
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAK,BLACKCREEK TOWNSHIP,West,Dayton,399,153,State House of Representatives,84,R,Jim Buchy,131
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Governor/Lieutenant Governor,,D,Edward FitzGerald,30
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Governor/Lieutenant Governor,,R,John Kasich,288
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Governor/Lieutenant Governor,,G,Anita Rios,3
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Attorney General,,R,Mike DeWine,286
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Attorney General,,D,David Pepper,38
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Auditor of State,,L,Bob Bridges,9
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Auditor of State,,D,John Patrick Carney,30
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Auditor of State,,R,Dave Yost,277
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Secretary of State,,R,Jon Husted,282
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Secretary of State,,L,Kevin Knedler,6
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Secretary of State,,D,Nina Turner,30
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Treasurer of State,,R,Josh Mandel,282
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,Treasurer of State,,D,Connie Pillich,40
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,U.S. House of Representatives,08,R,John A. Boehner,281
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,U.S. House of Representatives,08,C,James J. Condit Jr.,19
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,U.S. House of Representatives,08,D,Tom Poetter,24
+Mercer,AAL,BUTLER EAST,West,Dayton,664,331,State House of Representatives,84,R,Jim Buchy,294
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Governor/Lieutenant Governor,,D,Edward FitzGerald,35
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Governor/Lieutenant Governor,,R,John Kasich,334
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Governor/Lieutenant Governor,,G,Anita Rios,3
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Attorney General,,R,Mike DeWine,325
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Attorney General,,D,David Pepper,48
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Auditor of State,,L,Bob Bridges,17
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Auditor of State,,D,John Patrick Carney,38
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Auditor of State,,R,Dave Yost,308
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Secretary of State,,R,Jon Husted,329
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Secretary of State,,L,Kevin Knedler,8
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Secretary of State,,D,Nina Turner,31
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Treasurer of State,,R,Josh Mandel,316
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,Treasurer of State,,D,Connie Pillich,54
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,U.S. House of Representatives,05,L,Eric Eberly,1
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,U.S. House of Representatives,05,D,Robert Fry,4
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,U.S. House of Representatives,05,R,Bob Latta,33
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,U.S. House of Representatives,08,R,John A. Boehner,290
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,U.S. House of Representatives,08,C,James J. Condit Jr.,13
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,U.S. House of Representatives,08,D,Tom Poetter,34
+Mercer,AAM,BUTLER WEST,West,Dayton,783,382,State House of Representatives,84,R,Jim Buchy,343
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Governor/Lieutenant Governor,,D,Edward FitzGerald,99
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Governor/Lieutenant Governor,,R,John Kasich,380
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Governor/Lieutenant Governor,,G,Anita Rios,9
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Attorney General,,R,Mike DeWine,361
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Attorney General,,D,David Pepper,122
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Auditor of State,,L,Bob Bridges,29
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Auditor of State,,D,John Patrick Carney,102
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Auditor of State,,R,Dave Yost,341
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Secretary of State,,R,Jon Husted,359
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Secretary of State,,L,Kevin Knedler,26
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Secretary of State,,D,Nina Turner,96
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Treasurer of State,,R,Josh Mandel,363
+Mercer,AAA,CELINA A,West,Dayton,1061,492,Treasurer of State,,D,Connie Pillich,121
+Mercer,AAA,CELINA A,West,Dayton,1061,492,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAA,CELINA A,West,Dayton,1061,492,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAA,CELINA A,West,Dayton,1061,492,U.S. House of Representatives,05,L,Eric Eberly,24
+Mercer,AAA,CELINA A,West,Dayton,1061,492,U.S. House of Representatives,05,D,Robert Fry,97
+Mercer,AAA,CELINA A,West,Dayton,1061,492,U.S. House of Representatives,05,R,Bob Latta,358
+Mercer,AAA,CELINA A,West,Dayton,1061,492,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAA,CELINA A,West,Dayton,1061,492,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAA,CELINA A,West,Dayton,1061,492,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAA,CELINA A,West,Dayton,1061,492,State House of Representatives,84,R,Jim Buchy,393
+Mercer,AAD,CELINA B,West,Dayton,947,380,Governor/Lieutenant Governor,,D,Edward FitzGerald,82
+Mercer,AAD,CELINA B,West,Dayton,947,380,Governor/Lieutenant Governor,,R,John Kasich,283
+Mercer,AAD,CELINA B,West,Dayton,947,380,Governor/Lieutenant Governor,,G,Anita Rios,2
+Mercer,AAD,CELINA B,West,Dayton,947,380,Attorney General,,R,Mike DeWine,271
+Mercer,AAD,CELINA B,West,Dayton,947,380,Attorney General,,D,David Pepper,95
+Mercer,AAD,CELINA B,West,Dayton,947,380,Auditor of State,,L,Bob Bridges,9
+Mercer,AAD,CELINA B,West,Dayton,947,380,Auditor of State,,D,John Patrick Carney,104
+Mercer,AAD,CELINA B,West,Dayton,947,380,Auditor of State,,R,Dave Yost,249
+Mercer,AAD,CELINA B,West,Dayton,947,380,Secretary of State,,R,Jon Husted,273
+Mercer,AAD,CELINA B,West,Dayton,947,380,Secretary of State,,L,Kevin Knedler,10
+Mercer,AAD,CELINA B,West,Dayton,947,380,Secretary of State,,D,Nina Turner,81
+Mercer,AAD,CELINA B,West,Dayton,947,380,Treasurer of State,,R,Josh Mandel,256
+Mercer,AAD,CELINA B,West,Dayton,947,380,Treasurer of State,,D,Connie Pillich,112
+Mercer,AAD,CELINA B,West,Dayton,947,380,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAD,CELINA B,West,Dayton,947,380,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAD,CELINA B,West,Dayton,947,380,U.S. House of Representatives,05,L,Eric Eberly,11
+Mercer,AAD,CELINA B,West,Dayton,947,380,U.S. House of Representatives,05,D,Robert Fry,86
+Mercer,AAD,CELINA B,West,Dayton,947,380,U.S. House of Representatives,05,R,Bob Latta,268
+Mercer,AAD,CELINA B,West,Dayton,947,380,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAD,CELINA B,West,Dayton,947,380,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAD,CELINA B,West,Dayton,947,380,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAD,CELINA B,West,Dayton,947,380,State House of Representatives,84,R,Jim Buchy,304
+Mercer,AAE,CELINA C,West,Dayton,847,387,Governor/Lieutenant Governor,,D,Edward FitzGerald,68
+Mercer,AAE,CELINA C,West,Dayton,847,387,Governor/Lieutenant Governor,,R,John Kasich,309
+Mercer,AAE,CELINA C,West,Dayton,847,387,Governor/Lieutenant Governor,,G,Anita Rios,7
+Mercer,AAE,CELINA C,West,Dayton,847,387,Attorney General,,R,Mike DeWine,293
+Mercer,AAE,CELINA C,West,Dayton,847,387,Attorney General,,D,David Pepper,80
+Mercer,AAE,CELINA C,West,Dayton,847,387,Auditor of State,,L,Bob Bridges,15
+Mercer,AAE,CELINA C,West,Dayton,847,387,Auditor of State,,D,John Patrick Carney,80
+Mercer,AAE,CELINA C,West,Dayton,847,387,Auditor of State,,R,Dave Yost,274
+Mercer,AAE,CELINA C,West,Dayton,847,387,Secretary of State,,R,Jon Husted,294
+Mercer,AAE,CELINA C,West,Dayton,847,387,Secretary of State,,L,Kevin Knedler,10
+Mercer,AAE,CELINA C,West,Dayton,847,387,Secretary of State,,D,Nina Turner,75
+Mercer,AAE,CELINA C,West,Dayton,847,387,Treasurer of State,,R,Josh Mandel,273
+Mercer,AAE,CELINA C,West,Dayton,847,387,Treasurer of State,,D,Connie Pillich,100
+Mercer,AAE,CELINA C,West,Dayton,847,387,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAE,CELINA C,West,Dayton,847,387,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAE,CELINA C,West,Dayton,847,387,U.S. House of Representatives,05,L,Eric Eberly,5
+Mercer,AAE,CELINA C,West,Dayton,847,387,U.S. House of Representatives,05,D,Robert Fry,78
+Mercer,AAE,CELINA C,West,Dayton,847,387,U.S. House of Representatives,05,R,Bob Latta,297
+Mercer,AAE,CELINA C,West,Dayton,847,387,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAE,CELINA C,West,Dayton,847,387,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAE,CELINA C,West,Dayton,847,387,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAE,CELINA C,West,Dayton,847,387,State House of Representatives,84,R,Jim Buchy,324
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Governor/Lieutenant Governor,,D,Edward FitzGerald,71
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Governor/Lieutenant Governor,,R,John Kasich,201
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Governor/Lieutenant Governor,,G,Anita Rios,5
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Attorney General,,R,Mike DeWine,184
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Attorney General,,D,David Pepper,93
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Auditor of State,,L,Bob Bridges,22
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Auditor of State,,D,John Patrick Carney,77
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Auditor of State,,R,Dave Yost,172
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Secretary of State,,R,Jon Husted,190
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Secretary of State,,L,Kevin Knedler,17
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Secretary of State,,D,Nina Turner,68
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Treasurer of State,,R,Josh Mandel,184
+Mercer,AAF,CELINA D,West,Dayton,1047,281,Treasurer of State,,D,Connie Pillich,93
+Mercer,AAF,CELINA D,West,Dayton,1047,281,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAF,CELINA D,West,Dayton,1047,281,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAF,CELINA D,West,Dayton,1047,281,U.S. House of Representatives,05,L,Eric Eberly,11
+Mercer,AAF,CELINA D,West,Dayton,1047,281,U.S. House of Representatives,05,D,Robert Fry,84
+Mercer,AAF,CELINA D,West,Dayton,1047,281,U.S. House of Representatives,05,R,Bob Latta,180
+Mercer,AAF,CELINA D,West,Dayton,1047,281,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAF,CELINA D,West,Dayton,1047,281,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAF,CELINA D,West,Dayton,1047,281,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAF,CELINA D,West,Dayton,1047,281,State House of Representatives,84,R,Jim Buchy,213
+Mercer,AAG,CELINA E,West,Dayton,820,215,Governor/Lieutenant Governor,,D,Edward FitzGerald,58
+Mercer,AAG,CELINA E,West,Dayton,820,215,Governor/Lieutenant Governor,,R,John Kasich,149
+Mercer,AAG,CELINA E,West,Dayton,820,215,Governor/Lieutenant Governor,,G,Anita Rios,4
+Mercer,AAG,CELINA E,West,Dayton,820,215,Attorney General,,R,Mike DeWine,140
+Mercer,AAG,CELINA E,West,Dayton,820,215,Attorney General,,D,David Pepper,72
+Mercer,AAG,CELINA E,West,Dayton,820,215,Auditor of State,,L,Bob Bridges,14
+Mercer,AAG,CELINA E,West,Dayton,820,215,Auditor of State,,D,John Patrick Carney,62
+Mercer,AAG,CELINA E,West,Dayton,820,215,Auditor of State,,R,Dave Yost,128
+Mercer,AAG,CELINA E,West,Dayton,820,215,Secretary of State,,R,Jon Husted,137
+Mercer,AAG,CELINA E,West,Dayton,820,215,Secretary of State,,L,Kevin Knedler,8
+Mercer,AAG,CELINA E,West,Dayton,820,215,Secretary of State,,D,Nina Turner,61
+Mercer,AAG,CELINA E,West,Dayton,820,215,Treasurer of State,,R,Josh Mandel,136
+Mercer,AAG,CELINA E,West,Dayton,820,215,Treasurer of State,,D,Connie Pillich,77
+Mercer,AAG,CELINA E,West,Dayton,820,215,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAG,CELINA E,West,Dayton,820,215,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAG,CELINA E,West,Dayton,820,215,U.S. House of Representatives,05,L,Eric Eberly,9
+Mercer,AAG,CELINA E,West,Dayton,820,215,U.S. House of Representatives,05,D,Robert Fry,65
+Mercer,AAG,CELINA E,West,Dayton,820,215,U.S. House of Representatives,05,R,Bob Latta,131
+Mercer,AAG,CELINA E,West,Dayton,820,215,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAG,CELINA E,West,Dayton,820,215,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAG,CELINA E,West,Dayton,820,215,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAG,CELINA E,West,Dayton,820,215,State House of Representatives,84,R,Jim Buchy,169
+Mercer,AAH,CELINA F,West,Dayton,919,251,Governor/Lieutenant Governor,,D,Edward FitzGerald,65
+Mercer,AAH,CELINA F,West,Dayton,919,251,Governor/Lieutenant Governor,,R,John Kasich,169
+Mercer,AAH,CELINA F,West,Dayton,919,251,Governor/Lieutenant Governor,,G,Anita Rios,11
+Mercer,AAH,CELINA F,West,Dayton,919,251,Attorney General,,R,Mike DeWine,168
+Mercer,AAH,CELINA F,West,Dayton,919,251,Attorney General,,D,David Pepper,68
+Mercer,AAH,CELINA F,West,Dayton,919,251,Auditor of State,,L,Bob Bridges,12
+Mercer,AAH,CELINA F,West,Dayton,919,251,Auditor of State,,D,John Patrick Carney,75
+Mercer,AAH,CELINA F,West,Dayton,919,251,Auditor of State,,R,Dave Yost,153
+Mercer,AAH,CELINA F,West,Dayton,919,251,Secretary of State,,R,Jon Husted,162
+Mercer,AAH,CELINA F,West,Dayton,919,251,Secretary of State,,L,Kevin Knedler,14
+Mercer,AAH,CELINA F,West,Dayton,919,251,Secretary of State,,D,Nina Turner,66
+Mercer,AAH,CELINA F,West,Dayton,919,251,Treasurer of State,,R,Josh Mandel,160
+Mercer,AAH,CELINA F,West,Dayton,919,251,Treasurer of State,,D,Connie Pillich,81
+Mercer,AAH,CELINA F,West,Dayton,919,251,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAH,CELINA F,West,Dayton,919,251,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAH,CELINA F,West,Dayton,919,251,U.S. House of Representatives,05,L,Eric Eberly,15
+Mercer,AAH,CELINA F,West,Dayton,919,251,U.S. House of Representatives,05,D,Robert Fry,72
+Mercer,AAH,CELINA F,West,Dayton,919,251,U.S. House of Representatives,05,R,Bob Latta,157
+Mercer,AAH,CELINA F,West,Dayton,919,251,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAH,CELINA F,West,Dayton,919,251,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAH,CELINA F,West,Dayton,919,251,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAH,CELINA F,West,Dayton,919,251,State House of Representatives,84,R,Jim Buchy,199
+Mercer,AAI,CELINA G,West,Dayton,983,261,Governor/Lieutenant Governor,,D,Edward FitzGerald,72
+Mercer,AAI,CELINA G,West,Dayton,983,261,Governor/Lieutenant Governor,,R,John Kasich,173
+Mercer,AAI,CELINA G,West,Dayton,983,261,Governor/Lieutenant Governor,,G,Anita Rios,11
+Mercer,AAI,CELINA G,West,Dayton,983,261,Attorney General,,R,Mike DeWine,172
+Mercer,AAI,CELINA G,West,Dayton,983,261,Attorney General,,D,David Pepper,78
+Mercer,AAI,CELINA G,West,Dayton,983,261,Auditor of State,,L,Bob Bridges,34
+Mercer,AAI,CELINA G,West,Dayton,983,261,Auditor of State,,D,John Patrick Carney,73
+Mercer,AAI,CELINA G,West,Dayton,983,261,Auditor of State,,R,Dave Yost,143
+Mercer,AAI,CELINA G,West,Dayton,983,261,Secretary of State,,R,Jon Husted,144
+Mercer,AAI,CELINA G,West,Dayton,983,261,Secretary of State,,L,Kevin Knedler,31
+Mercer,AAI,CELINA G,West,Dayton,983,261,Secretary of State,,D,Nina Turner,75
+Mercer,AAI,CELINA G,West,Dayton,983,261,Treasurer of State,,R,Josh Mandel,163
+Mercer,AAI,CELINA G,West,Dayton,983,261,Treasurer of State,,D,Connie Pillich,91
+Mercer,AAI,CELINA G,West,Dayton,983,261,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAI,CELINA G,West,Dayton,983,261,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAI,CELINA G,West,Dayton,983,261,U.S. House of Representatives,05,L,Eric Eberly,25
+Mercer,AAI,CELINA G,West,Dayton,983,261,U.S. House of Representatives,05,D,Robert Fry,80
+Mercer,AAI,CELINA G,West,Dayton,983,261,U.S. House of Representatives,05,R,Bob Latta,148
+Mercer,AAI,CELINA G,West,Dayton,983,261,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAI,CELINA G,West,Dayton,983,261,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAI,CELINA G,West,Dayton,983,261,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAI,CELINA G,West,Dayton,983,261,State House of Representatives,84,R,Jim Buchy,203
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Governor/Lieutenant Governor,,D,Edward FitzGerald,51
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Governor/Lieutenant Governor,,R,John Kasich,237
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Governor/Lieutenant Governor,,G,Anita Rios,4
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Attorney General,,R,Mike DeWine,229
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Attorney General,,D,David Pepper,64
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Auditor of State,,L,Bob Bridges,8
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Auditor of State,,D,John Patrick Carney,65
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Auditor of State,,R,Dave Yost,214
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Secretary of State,,R,Jon Husted,223
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Secretary of State,,L,Kevin Knedler,5
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Secretary of State,,D,Nina Turner,63
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Treasurer of State,,R,Josh Mandel,201
+Mercer,AAJ,CELINA H,West,Dayton,647,299,Treasurer of State,,D,Connie Pillich,88
+Mercer,AAJ,CELINA H,West,Dayton,647,299,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAJ,CELINA H,West,Dayton,647,299,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAJ,CELINA H,West,Dayton,647,299,U.S. House of Representatives,05,L,Eric Eberly,4
+Mercer,AAJ,CELINA H,West,Dayton,647,299,U.S. House of Representatives,05,D,Robert Fry,60
+Mercer,AAJ,CELINA H,West,Dayton,647,299,U.S. House of Representatives,05,R,Bob Latta,226
+Mercer,AAJ,CELINA H,West,Dayton,647,299,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAJ,CELINA H,West,Dayton,647,299,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAJ,CELINA H,West,Dayton,647,299,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAJ,CELINA H,West,Dayton,647,299,State House of Representatives,84,R,Jim Buchy,251
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Governor/Lieutenant Governor,,D,Edward FitzGerald,45
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Governor/Lieutenant Governor,,R,John Kasich,258
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Governor/Lieutenant Governor,,G,Anita Rios,5
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Attorney General,,R,Mike DeWine,257
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Attorney General,,D,David Pepper,50
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Auditor of State,,L,Bob Bridges,20
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Auditor of State,,D,John Patrick Carney,51
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Auditor of State,,R,Dave Yost,230
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Secretary of State,,R,Jon Husted,248
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Secretary of State,,L,Kevin Knedler,10
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Secretary of State,,D,Nina Turner,47
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Treasurer of State,,R,Josh Mandel,247
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,Treasurer of State,,D,Connie Pillich,60
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,U.S. House of Representatives,05,L,Eric Eberly,15
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,U.S. House of Representatives,05,D,Robert Fry,40
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,U.S. House of Representatives,05,R,Bob Latta,255
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAS,CENTER TOWNSHIP,West,Dayton,788,311,State House of Representatives,84,R,Jim Buchy,268
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Governor/Lieutenant Governor,,D,Edward FitzGerald,63
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Governor/Lieutenant Governor,,R,John Kasich,299
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Governor/Lieutenant Governor,,G,Anita Rios,2
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Attorney General,,R,Mike DeWine,291
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Attorney General,,D,David Pepper,77
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Auditor of State,,L,Bob Bridges,16
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Auditor of State,,D,John Patrick Carney,70
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Auditor of State,,R,Dave Yost,267
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Secretary of State,,R,Jon Husted,279
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Secretary of State,,L,Kevin Knedler,13
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Secretary of State,,D,Nina Turner,71
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Treasurer of State,,R,Josh Mandel,275
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,Treasurer of State,,D,Connie Pillich,92
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,U.S. House of Representatives,08,R,John A. Boehner,286
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,U.S. House of Representatives,08,C,James J. Condit Jr.,16
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,U.S. House of Representatives,08,D,Tom Poetter,67
+Mercer,AAN,COLDWATER CENTRAL,West,Dayton,816,378,State House of Representatives,84,R,Jim Buchy,324
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Governor/Lieutenant Governor,,D,Edward FitzGerald,51
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Governor/Lieutenant Governor,,R,John Kasich,235
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Governor/Lieutenant Governor,,G,Anita Rios,1
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Attorney General,,R,Mike DeWine,219
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Attorney General,,D,David Pepper,59
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Auditor of State,,L,Bob Bridges,12
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Auditor of State,,D,John Patrick Carney,52
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Auditor of State,,R,Dave Yost,212
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Secretary of State,,R,Jon Husted,215
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Secretary of State,,L,Kevin Knedler,11
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Secretary of State,,D,Nina Turner,53
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Treasurer of State,,R,Josh Mandel,216
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,Treasurer of State,,D,Connie Pillich,68
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,U.S. House of Representatives,08,R,John A. Boehner,218
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,U.S. House of Representatives,08,C,James J. Condit Jr.,14
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,U.S. House of Representatives,08,D,Tom Poetter,56
+Mercer,AAO,COLDWATER NORTHEAST,West,Dayton,674,293,State House of Representatives,84,R,Jim Buchy,244
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Governor/Lieutenant Governor,,D,Edward FitzGerald,69
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Governor/Lieutenant Governor,,R,John Kasich,270
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Governor/Lieutenant Governor,,G,Anita Rios,8
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Attorney General,,R,Mike DeWine,264
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Attorney General,,D,David Pepper,78
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Auditor of State,,L,Bob Bridges,27
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Auditor of State,,D,John Patrick Carney,81
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Auditor of State,,R,Dave Yost,230
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Secretary of State,,R,Jon Husted,248
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Secretary of State,,L,Kevin Knedler,24
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Secretary of State,,D,Nina Turner,70
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Treasurer of State,,R,Josh Mandel,242
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,Treasurer of State,,D,Connie Pillich,101
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,U.S. House of Representatives,08,R,John A. Boehner,244
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,U.S. House of Representatives,08,C,James J. Condit Jr.,24
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,U.S. House of Representatives,08,D,Tom Poetter,77
+Mercer,AAQ,COLDWATER SOUTHEAST,West,Dayton,832,356,State House of Representatives,84,R,Jim Buchy,298
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Governor/Lieutenant Governor,,D,Edward FitzGerald,73
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Governor/Lieutenant Governor,,R,John Kasich,408
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Governor/Lieutenant Governor,,G,Anita Rios,1
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Attorney General,,R,Mike DeWine,368
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Attorney General,,D,David Pepper,104
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Auditor of State,,L,Bob Bridges,17
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Auditor of State,,D,John Patrick Carney,92
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Auditor of State,,R,Dave Yost,348
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Secretary of State,,R,Jon Husted,381
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Secretary of State,,L,Kevin Knedler,16
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Secretary of State,,D,Nina Turner,73
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Treasurer of State,,R,Josh Mandel,358
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,Treasurer of State,,D,Connie Pillich,116
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,U.S. House of Representatives,08,R,John A. Boehner,367
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,U.S. House of Representatives,08,C,James J. Condit Jr.,17
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,U.S. House of Representatives,08,D,Tom Poetter,93
+Mercer,ABT,COLDWATER WEST,West,Dayton,899,492,State House of Representatives,84,R,Jim Buchy,392
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Governor/Lieutenant Governor,,D,Edward FitzGerald,71
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Governor/Lieutenant Governor,,R,John Kasich,294
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Governor/Lieutenant Governor,,G,Anita Rios,11
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Attorney General,,R,Mike DeWine,297
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Attorney General,,D,David Pepper,75
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Auditor of State,,L,Bob Bridges,24
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Auditor of State,,D,John Patrick Carney,65
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Auditor of State,,R,Dave Yost,280
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Secretary of State,,R,Jon Husted,282
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Secretary of State,,L,Kevin Knedler,23
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Secretary of State,,D,Nina Turner,69
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Treasurer of State,,R,Josh Mandel,295
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,Treasurer of State,,D,Connie Pillich,82
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,U.S. House of Representatives,05,L,Eric Eberly,18
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,U.S. House of Representatives,05,D,Robert Fry,62
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,U.S. House of Representatives,05,R,Bob Latta,298
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAT,DUBLIN TOWNSHIP,West,Dayton,725,381,State House of Representatives,84,R,Jim Buchy,332
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Governor/Lieutenant Governor,,D,Edward FitzGerald,32
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Governor/Lieutenant Governor,,R,John Kasich,171
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Governor/Lieutenant Governor,,G,Anita Rios,0
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Attorney General,,R,Mike DeWine,159
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Attorney General,,D,David Pepper,44
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Auditor of State,,L,Bob Bridges,12
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Auditor of State,,D,John Patrick Carney,29
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Auditor of State,,R,Dave Yost,160
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Secretary of State,,R,Jon Husted,156
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Secretary of State,,L,Kevin Knedler,10
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Secretary of State,,D,Nina Turner,35
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Treasurer of State,,R,Josh Mandel,161
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,Treasurer of State,,D,Connie Pillich,39
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,U.S. House of Representatives,04,D,Janet Garrett,32
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,U.S. House of Representatives,04,R,Jim Jordan,150
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,U.S. House of Representatives,05,R,Bob Latta,20
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,ABF,EAST JEFFERSON NORTH,West,Dayton,580,205,State House of Representatives,84,R,Jim Buchy,175
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Governor/Lieutenant Governor,,D,Edward FitzGerald,63
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Governor/Lieutenant Governor,,R,John Kasich,212
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Governor/Lieutenant Governor,,G,Anita Rios,2
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Attorney General,,R,Mike DeWine,203
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Attorney General,,D,David Pepper,76
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Auditor of State,,L,Bob Bridges,8
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Auditor of State,,D,John Patrick Carney,73
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Auditor of State,,R,Dave Yost,192
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Secretary of State,,R,Jon Husted,200
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Secretary of State,,L,Kevin Knedler,7
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Secretary of State,,D,Nina Turner,71
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Treasurer of State,,R,Josh Mandel,187
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,Treasurer of State,,D,Connie Pillich,91
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,U.S. House of Representatives,05,L,Eric Eberly,8
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,U.S. House of Representatives,05,D,Robert Fry,70
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,U.S. House of Representatives,05,R,Bob Latta,195
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,ABG,EAST JEFFERSON SOUTH,West,Dayton,650,280,State House of Representatives,84,R,Jim Buchy,226
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Governor/Lieutenant Governor,,D,Edward FitzGerald,70
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Governor/Lieutenant Governor,,R,John Kasich,328
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Governor/Lieutenant Governor,,G,Anita Rios,8
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Attorney General,,R,Mike DeWine,323
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Attorney General,,D,David Pepper,87
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Auditor of State,,L,Bob Bridges,19
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Auditor of State,,D,John Patrick Carney,89
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Auditor of State,,R,Dave Yost,297
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Secretary of State,,R,Jon Husted,308
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Secretary of State,,L,Kevin Knedler,18
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Secretary of State,,D,Nina Turner,81
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Treasurer of State,,R,Josh Mandel,305
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,Treasurer of State,,D,Connie Pillich,105
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,U.S. House of Representatives,04,D,Janet Garrett,96
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,U.S. House of Representatives,04,R,Jim Jordan,311
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAW,FRANKLIN EAST,West,Dayton,912,415,State House of Representatives,84,R,Jim Buchy,332
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Governor/Lieutenant Governor,,D,Edward FitzGerald,60
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Governor/Lieutenant Governor,,R,John Kasich,338
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Governor/Lieutenant Governor,,G,Anita Rios,8
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Attorney General,,R,Mike DeWine,316
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Attorney General,,D,David Pepper,89
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Auditor of State,,L,Bob Bridges,21
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Auditor of State,,D,John Patrick Carney,83
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Auditor of State,,R,Dave Yost,291
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Secretary of State,,R,Jon Husted,315
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Secretary of State,,L,Kevin Knedler,18
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Secretary of State,,D,Nina Turner,63
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Treasurer of State,,R,Josh Mandel,298
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,Treasurer of State,,D,Connie Pillich,103
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,U.S. House of Representatives,04,D,Janet Garrett,85
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,U.S. House of Representatives,04,R,Jim Jordan,314
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAX,FRANKLIN WEST,West,Dayton,955,412,State House of Representatives,84,R,Jim Buchy,349
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Governor/Lieutenant Governor,,D,Edward FitzGerald,46
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Governor/Lieutenant Governor,,R,John Kasich,363
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Governor/Lieutenant Governor,,G,Anita Rios,9
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Attorney General,,R,Mike DeWine,346
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Attorney General,,D,David Pepper,69
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Auditor of State,,L,Bob Bridges,14
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Auditor of State,,D,John Patrick Carney,66
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Auditor of State,,R,Dave Yost,329
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Secretary of State,,R,Jon Husted,345
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Secretary of State,,L,Kevin Knedler,12
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Secretary of State,,D,Nina Turner,60
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Treasurer of State,,R,Josh Mandel,338
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,Treasurer of State,,D,Connie Pillich,82
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,U.S. House of Representatives,08,R,John A. Boehner,344
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,U.S. House of Representatives,08,C,James J. Condit Jr.,12
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,U.S. House of Representatives,08,D,Tom Poetter,59
+Mercer,ABN,FT. RECOVERY VILLAGE,West,Dayton,1035,424,State House of Representatives,84,R,Jim Buchy,381
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Governor/Lieutenant Governor,,D,Edward FitzGerald,24
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Governor/Lieutenant Governor,,R,John Kasich,308
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Governor/Lieutenant Governor,,G,Anita Rios,2
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Attorney General,,R,Mike DeWine,305
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Attorney General,,D,David Pepper,30
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Auditor of State,,L,Bob Bridges,14
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Auditor of State,,D,John Patrick Carney,26
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Auditor of State,,R,Dave Yost,291
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Secretary of State,,R,Jon Husted,295
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Secretary of State,,L,Kevin Knedler,15
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Secretary of State,,D,Nina Turner,22
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Treasurer of State,,R,Josh Mandel,304
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,Treasurer of State,,D,Connie Pillich,31
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,U.S. House of Representatives,08,R,John A. Boehner,300
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,U.S. House of Representatives,08,C,James J. Condit Jr.,13
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,U.S. House of Representatives,08,D,Tom Poetter,26
+Mercer,AAY,GIBSON TOWNSHIP,West,Dayton,706,340,State House of Representatives,84,R,Jim Buchy,317
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Governor/Lieutenant Governor,,D,Edward FitzGerald,24
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Governor/Lieutenant Governor,,R,John Kasich,214
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Governor/Lieutenant Governor,,G,Anita Rios,3
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Attorney General,,R,Mike DeWine,209
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Attorney General,,D,David Pepper,35
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Auditor of State,,L,Bob Bridges,13
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Auditor of State,,D,John Patrick Carney,21
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Auditor of State,,R,Dave Yost,197
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Secretary of State,,R,Jon Husted,199
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Secretary of State,,L,Kevin Knedler,11
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Secretary of State,,D,Nina Turner,25
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Treasurer of State,,R,Josh Mandel,201
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,Treasurer of State,,D,Connie Pillich,35
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,U.S. House of Representatives,08,R,John A. Boehner,201
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,U.S. House of Representatives,08,C,James J. Condit Jr.,14
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,U.S. House of Representatives,08,D,Tom Poetter,23
+Mercer,AAZ,GRANVILLE TOWNSHIP EAST,West,Dayton,518,245,State House of Representatives,84,R,Jim Buchy,218
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Governor/Lieutenant Governor,,D,Edward FitzGerald,23
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Governor/Lieutenant Governor,,R,John Kasich,281
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Governor/Lieutenant Governor,,G,Anita Rios,2
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Attorney General,,R,Mike DeWine,279
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Attorney General,,D,David Pepper,32
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Auditor of State,,L,Bob Bridges,18
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Auditor of State,,D,John Patrick Carney,22
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Auditor of State,,R,Dave Yost,258
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Secretary of State,,R,Jon Husted,270
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Secretary of State,,L,Kevin Knedler,9
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Secretary of State,,D,Nina Turner,22
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Treasurer of State,,R,Josh Mandel,267
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,Treasurer of State,,D,Connie Pillich,34
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,U.S. House of Representatives,08,R,John A. Boehner,276
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,U.S. House of Representatives,08,C,James J. Condit Jr.,14
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,U.S. House of Representatives,08,D,Tom Poetter,12
+Mercer,ABU,GRANVILLE TOWNSHIP WEST,West,Dayton,620,312,State House of Representatives,84,R,Jim Buchy,279
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Governor/Lieutenant Governor,,D,Edward FitzGerald,50
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Governor/Lieutenant Governor,,R,John Kasich,226
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Governor/Lieutenant Governor,,G,Anita Rios,4
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Attorney General,,R,Mike DeWine,223
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Attorney General,,D,David Pepper,59
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Auditor of State,,L,Bob Bridges,17
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Auditor of State,,D,John Patrick Carney,73
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Auditor of State,,R,Dave Yost,183
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Secretary of State,,R,Jon Husted,221
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Secretary of State,,L,Kevin Knedler,11
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Secretary of State,,D,Nina Turner,49
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Treasurer of State,,R,Josh Mandel,213
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,Treasurer of State,,D,Connie Pillich,72
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,U.S. House of Representatives,05,L,Eric Eberly,11
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,U.S. House of Representatives,05,D,Robert Fry,68
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,U.S. House of Representatives,05,R,Bob Latta,206
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,ABE,HOPEWELL TOWNSHIP,West,Dayton,728,289,State House of Representatives,84,R,Jim Buchy,227
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Governor/Lieutenant Governor,,D,Edward FitzGerald,63
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Governor/Lieutenant Governor,,R,John Kasich,173
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Governor/Lieutenant Governor,,G,Anita Rios,4
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Attorney General,,R,Mike DeWine,183
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Attorney General,,D,David Pepper,56
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Auditor of State,,L,Bob Bridges,10
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Auditor of State,,D,John Patrick Carney,63
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Auditor of State,,R,Dave Yost,165
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Secretary of State,,R,Jon Husted,169
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Secretary of State,,L,Kevin Knedler,7
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Secretary of State,,D,Nina Turner,62
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Treasurer of State,,R,Josh Mandel,174
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,Treasurer of State,,D,Connie Pillich,63
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,U.S. House of Representatives,05,L,Eric Eberly,6
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,U.S. House of Representatives,05,D,Robert Fry,53
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,U.S. House of Representatives,05,R,Bob Latta,175
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,ABI,LIBERTY TOWNSHIP,West,Dayton,633,241,State House of Representatives,84,R,Jim Buchy,201
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Governor/Lieutenant Governor,,D,Edward FitzGerald,65
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Governor/Lieutenant Governor,,R,John Kasich,482
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Governor/Lieutenant Governor,,G,Anita Rios,5
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Attorney General,,R,Mike DeWine,466
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Attorney General,,D,David Pepper,84
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Auditor of State,,L,Bob Bridges,13
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Auditor of State,,D,John Patrick Carney,88
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Auditor of State,,R,Dave Yost,428
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Secretary of State,,R,Jon Husted,451
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Secretary of State,,L,Kevin Knedler,19
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Secretary of State,,D,Nina Turner,74
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Treasurer of State,,R,Josh Mandel,449
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,Treasurer of State,,D,Connie Pillich,101
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,U.S. House of Representatives,08,R,John A. Boehner,454
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,U.S. House of Representatives,08,C,James J. Condit Jr.,24
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,U.S. House of Representatives,08,D,Tom Poetter,77
+Mercer,ABL,MARION EAST,West,Dayton,1024,565,State House of Representatives,84,R,Jim Buchy,496
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Governor/Lieutenant Governor,,D,Edward FitzGerald,42
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Governor/Lieutenant Governor,,R,John Kasich,527
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Governor/Lieutenant Governor,,G,Anita Rios,2
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Attorney General,,R,Mike DeWine,516
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Attorney General,,D,David Pepper,57
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Auditor of State,,L,Bob Bridges,26
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Auditor of State,,D,John Patrick Carney,55
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Auditor of State,,R,Dave Yost,484
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Secretary of State,,R,Jon Husted,504
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Secretary of State,,L,Kevin Knedler,19
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Secretary of State,,D,Nina Turner,45
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Treasurer of State,,R,Josh Mandel,497
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,Treasurer of State,,D,Connie Pillich,74
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,U.S. House of Representatives,08,R,John A. Boehner,509
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,U.S. House of Representatives,08,C,James J. Condit Jr.,14
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,U.S. House of Representatives,08,D,Tom Poetter,45
+Mercer,ABM,MARION WEST,West,Dayton,1160,589,State House of Representatives,84,R,Jim Buchy,530
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Governor/Lieutenant Governor,,D,Edward FitzGerald,54
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Governor/Lieutenant Governor,,R,John Kasich,280
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Governor/Lieutenant Governor,,G,Anita Rios,15
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Attorney General,,R,Mike DeWine,275
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Attorney General,,D,David Pepper,64
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Auditor of State,,L,Bob Bridges,25
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Auditor of State,,D,John Patrick Carney,62
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Auditor of State,,R,Dave Yost,250
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Secretary of State,,R,Jon Husted,263
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Secretary of State,,L,Kevin Knedler,27
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Secretary of State,,D,Nina Turner,54
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Treasurer of State,,R,Josh Mandel,278
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,Treasurer of State,,D,Connie Pillich,69
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,U.S. House of Representatives,05,L,Eric Eberly,17
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,U.S. House of Representatives,05,D,Robert Fry,60
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,U.S. House of Representatives,05,R,Bob Latta,271
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,ABQ,MENDON/UNION,West,Dayton,981,352,State House of Representatives,84,R,Jim Buchy,308
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Governor/Lieutenant Governor,,D,Edward FitzGerald,20
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Governor/Lieutenant Governor,,R,John Kasich,389
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Governor/Lieutenant Governor,,G,Anita Rios,8
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Attorney General,,R,Mike DeWine,385
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Attorney General,,D,David Pepper,28
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Auditor of State,,L,Bob Bridges,21
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Auditor of State,,D,John Patrick Carney,30
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Auditor of State,,R,Dave Yost,362
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Secretary of State,,R,Jon Husted,375
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Secretary of State,,L,Kevin Knedler,16
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Secretary of State,,D,Nina Turner,26
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Treasurer of State,,R,Josh Mandel,379
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,Treasurer of State,,D,Connie Pillich,41
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,U.S. House of Representatives,08,R,John A. Boehner,372
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,U.S. House of Representatives,08,C,James J. Condit Jr.,26
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,U.S. House of Representatives,08,D,Tom Poetter,22
+Mercer,ABO,RECOVERY TOWNSHIP,West,Dayton,870,427,State House of Representatives,84,R,Jim Buchy,397
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Governor/Lieutenant Governor,,D,Edward FitzGerald,52
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Governor/Lieutenant Governor,,R,John Kasich,190
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Governor/Lieutenant Governor,,G,Anita Rios,5
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Attorney General,,R,Mike DeWine,187
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Attorney General,,D,David Pepper,58
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Auditor of State,,L,Bob Bridges,9
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Auditor of State,,D,John Patrick Carney,55
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Auditor of State,,R,Dave Yost,174
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Secretary of State,,R,Jon Husted,180
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Secretary of State,,L,Kevin Knedler,9
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Secretary of State,,D,Nina Turner,53
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Treasurer of State,,R,Josh Mandel,183
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,Treasurer of State,,D,Connie Pillich,62
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,U.S. House of Representatives,05,L,Eric Eberly,8
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,U.S. House of Representatives,05,D,Robert Fry,50
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,U.S. House of Representatives,05,R,Bob Latta,188
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,AAU,ROCKFORD VILLAGE,West,Dayton,781,257,State House of Representatives,84,R,Jim Buchy,216
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Governor/Lieutenant Governor,,D,Edward FitzGerald,60
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Governor/Lieutenant Governor,,R,John Kasich,418
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Governor/Lieutenant Governor,,G,Anita Rios,2
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Attorney General,,R,Mike DeWine,411
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Attorney General,,D,David Pepper,67
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Auditor of State,,L,Bob Bridges,19
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Auditor of State,,D,John Patrick Carney,66
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Auditor of State,,R,Dave Yost,385
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Secretary of State,,R,Jon Husted,406
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Secretary of State,,L,Kevin Knedler,19
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Secretary of State,,D,Nina Turner,52
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Treasurer of State,,R,Josh Mandel,396
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,Treasurer of State,,D,Connie Pillich,82
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,U.S. House of Representatives,08,R,John A. Boehner,405
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,U.S. House of Representatives,08,C,James J. Condit Jr.,18
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,U.S. House of Representatives,08,D,Tom Poetter,56
+Mercer,ABC,ST. HENRY NORTH,West,Dayton,1046,490,State House of Representatives,84,R,Jim Buchy,442
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Governor/Lieutenant Governor,,D,Edward FitzGerald,45
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Governor/Lieutenant Governor,,R,John Kasich,283
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Governor/Lieutenant Governor,,G,Anita Rios,2
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Attorney General,,R,Mike DeWine,268
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Attorney General,,D,David Pepper,61
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Auditor of State,,L,Bob Bridges,9
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Auditor of State,,D,John Patrick Carney,53
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Auditor of State,,R,Dave Yost,255
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Secretary of State,,R,Jon Husted,271
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Secretary of State,,L,Kevin Knedler,7
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Secretary of State,,D,Nina Turner,43
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Treasurer of State,,R,Josh Mandel,259
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,Treasurer of State,,D,Connie Pillich,68
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,U.S. House of Representatives,05,L,Eric Eberly,0
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,U.S. House of Representatives,05,D,Robert Fry,0
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,U.S. House of Representatives,05,R,Bob Latta,0
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,U.S. House of Representatives,08,R,John A. Boehner,269
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,U.S. House of Representatives,08,C,James J. Condit Jr.,7
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,U.S. House of Representatives,08,D,Tom Poetter,50
+Mercer,ABD,ST. HENRY SOUTH,West,Dayton,762,333,State House of Representatives,84,R,Jim Buchy,293
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Governor/Lieutenant Governor,,D,Edward FitzGerald,33
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Governor/Lieutenant Governor,,R,John Kasich,288
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Governor/Lieutenant Governor,,G,Anita Rios,5
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Attorney General,,R,Mike DeWine,294
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Attorney General,,D,David Pepper,38
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Auditor of State,,L,Bob Bridges,15
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Auditor of State,,D,John Patrick Carney,38
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Auditor of State,,R,Dave Yost,273
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Secretary of State,,R,Jon Husted,286
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Secretary of State,,L,Kevin Knedler,9
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Secretary of State,,D,Nina Turner,33
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Treasurer of State,,R,Josh Mandel,275
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,Treasurer of State,,D,Connie Pillich,54
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,U.S. House of Representatives,05,L,Eric Eberly,15
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,U.S. House of Representatives,05,D,Robert Fry,33
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,U.S. House of Representatives,05,R,Bob Latta,284
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,ABS,WASHINGTON TOWNSHIP,West,Dayton,773,337,State House of Representatives,84,R,Jim Buchy,302
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Governor/Lieutenant Governor,,D,Edward FitzGerald,53
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Governor/Lieutenant Governor,,R,John Kasich,281
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Governor/Lieutenant Governor,,G,Anita Rios,7
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Attorney General,,R,Mike DeWine,265
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Attorney General,,D,David Pepper,75
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Auditor of State,,L,Bob Bridges,16
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Auditor of State,,D,John Patrick Carney,66
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Auditor of State,,R,Dave Yost,249
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Secretary of State,,R,Jon Husted,260
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Secretary of State,,L,Kevin Knedler,10
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Secretary of State,,D,Nina Turner,60
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Treasurer of State,,R,Josh Mandel,260
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,Treasurer of State,,D,Connie Pillich,77
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,U.S. House of Representatives,04,D,Janet Garrett,0
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,U.S. House of Representatives,04,R,Jim Jordan,0
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,U.S. House of Representatives,05,L,Eric Eberly,12
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,U.S. House of Representatives,05,D,Robert Fry,70
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,U.S. House of Representatives,05,R,Bob Latta,258
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,U.S. House of Representatives,08,R,John A. Boehner,0
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,U.S. House of Representatives,08,C,James J. Condit Jr.,0
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,U.S. House of Representatives,08,D,Tom Poetter,0
+Mercer,ABH,WEST JEFFERSON,West,Dayton,819,346,State House of Representatives,84,R,Jim Buchy,292

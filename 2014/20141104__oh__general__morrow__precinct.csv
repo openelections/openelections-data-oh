@@ -1,0 +1,595 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Governor/Lieutenant Governor,,D,Edward FitzGerald,93
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Governor/Lieutenant Governor,,R,John Kasich,269
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Governor/Lieutenant Governor,,G,Anita Rios,7
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Attorney General,,R,Mike DeWine,262
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Attorney General,,D,David Pepper,108
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Auditor of State,,L,Bob Bridges,24
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Auditor of State,,D,John Patrick Carney,84
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Auditor of State,,R,Dave Yost,257
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Secretary of State,,R,Jon Husted,263
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Secretary of State,,L,Kevin Knedler,24
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Secretary of State,,D,Nina Turner,74
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Treasurer of State,,R,Josh Mandel,251
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,Treasurer of State,,D,Connie Pillich,114
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,U.S. House of Representatives,12,G,Bob Hart,16
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,U.S. House of Representatives,12,D,David Arthur Tibbs,77
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,U.S. House of Representatives,12,R,Pat Tiberi,270
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,State House of Representatives,87,D,Jeffrey A. Lehart,102
+Morrow,AAA,BENNINGTON TWP EAST,Central,Columbus,915,375,State House of Representatives,87,R,Jeff McClain,251
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Governor/Lieutenant Governor,,D,Edward FitzGerald,97
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Governor/Lieutenant Governor,,R,John Kasich,348
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Governor/Lieutenant Governor,,G,Anita Rios,17
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Attorney General,,R,Mike DeWine,333
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Attorney General,,D,David Pepper,131
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Auditor of State,,L,Bob Bridges,30
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Auditor of State,,D,John Patrick Carney,106
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Auditor of State,,R,Dave Yost,323
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Secretary of State,,R,Jon Husted,342
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Secretary of State,,L,Kevin Knedler,31
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Secretary of State,,D,Nina Turner,87
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Treasurer of State,,R,Josh Mandel,319
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,Treasurer of State,,D,Connie Pillich,142
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,U.S. House of Representatives,12,G,Bob Hart,30
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,U.S. House of Representatives,12,D,David Arthur Tibbs,90
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,U.S. House of Representatives,12,R,Pat Tiberi,344
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,State House of Representatives,87,D,Jeffrey A. Lehart,120
+Morrow,AAC,BENNINGTON TWP WEST,Central,Columbus,1235,475,State House of Representatives,87,R,Jeff McClain,328
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Governor/Lieutenant Governor,,D,Edward FitzGerald,75
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Governor/Lieutenant Governor,,R,John Kasich,255
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Governor/Lieutenant Governor,,G,Anita Rios,4
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Attorney General,,R,Mike DeWine,245
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Attorney General,,D,David Pepper,92
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Auditor of State,,L,Bob Bridges,18
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Auditor of State,,D,John Patrick Carney,79
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Auditor of State,,R,Dave Yost,232
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Secretary of State,,R,Jon Husted,241
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Secretary of State,,L,Kevin Knedler,19
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Secretary of State,,D,Nina Turner,65
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Treasurer of State,,R,Josh Mandel,228
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,Treasurer of State,,D,Connie Pillich,101
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,U.S. House of Representatives,12,G,Bob Hart,9
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,U.S. House of Representatives,12,D,David Arthur Tibbs,67
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,U.S. House of Representatives,12,R,Pat Tiberi,257
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,State House of Representatives,87,D,Jeffrey A. Lehart,82
+Morrow,AAD,CANAAN TWP,Central,Columbus,686,341,State House of Representatives,87,R,Jeff McClain,238
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Governor/Lieutenant Governor,,D,Edward FitzGerald,72
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Governor/Lieutenant Governor,,R,John Kasich,289
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Governor/Lieutenant Governor,,G,Anita Rios,10
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Attorney General,,R,Mike DeWine,272
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Attorney General,,D,David Pepper,100
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Auditor of State,,L,Bob Bridges,11
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Auditor of State,,D,John Patrick Carney,86
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Auditor of State,,R,Dave Yost,273
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Secretary of State,,R,Jon Husted,283
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Secretary of State,,L,Kevin Knedler,11
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Secretary of State,,D,Nina Turner,76
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Treasurer of State,,R,Josh Mandel,259
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,Treasurer of State,,D,Connie Pillich,112
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,U.S. House of Representatives,12,G,Bob Hart,11
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,U.S. House of Representatives,12,D,David Arthur Tibbs,73
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,U.S. House of Representatives,12,R,Pat Tiberi,287
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,State House of Representatives,87,D,Jeffrey A. Lehart,90
+Morrow,AAE,CARDINGTON TWP,Central,Columbus,803,377,State House of Representatives,87,R,Jeff McClain,276
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Governor/Lieutenant Governor,,D,Edward FitzGerald,58
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Governor/Lieutenant Governor,,R,John Kasich,134
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Governor/Lieutenant Governor,,G,Anita Rios,3
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Attorney General,,R,Mike DeWine,133
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Attorney General,,D,David Pepper,62
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Auditor of State,,L,Bob Bridges,12
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Auditor of State,,D,John Patrick Carney,59
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Auditor of State,,R,Dave Yost,125
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Secretary of State,,R,Jon Husted,123
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Secretary of State,,L,Kevin Knedler,12
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Secretary of State,,D,Nina Turner,57
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Treasurer of State,,R,Josh Mandel,122
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,Treasurer of State,,D,Connie Pillich,70
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,U.S. House of Representatives,12,G,Bob Hart,10
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,U.S. House of Representatives,12,D,David Arthur Tibbs,51
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,U.S. House of Representatives,12,R,Pat Tiberi,133
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,State House of Representatives,87,D,Jeffrey A. Lehart,69
+Morrow,AAF,CARDINGTON VILLAGE E,Central,Columbus,673,203,State House of Representatives,87,R,Jeff McClain,123
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Governor/Lieutenant Governor,,D,Edward FitzGerald,47
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Governor/Lieutenant Governor,,R,John Kasich,125
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Governor/Lieutenant Governor,,G,Anita Rios,7
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Attorney General,,R,Mike DeWine,109
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Attorney General,,D,David Pepper,68
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Auditor of State,,L,Bob Bridges,11
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Auditor of State,,D,John Patrick Carney,59
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Auditor of State,,R,Dave Yost,109
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Secretary of State,,R,Jon Husted,111
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Secretary of State,,L,Kevin Knedler,16
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Secretary of State,,D,Nina Turner,50
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Treasurer of State,,R,Josh Mandel,104
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,Treasurer of State,,D,Connie Pillich,76
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,U.S. House of Representatives,12,G,Bob Hart,15
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,U.S. House of Representatives,12,D,David Arthur Tibbs,45
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,U.S. House of Representatives,12,R,Pat Tiberi,119
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,State House of Representatives,87,D,Jeffrey A. Lehart,65
+Morrow,AAG,CARDINGTON VILLAGE W,Central,Columbus,621,185,State House of Representatives,87,R,Jeff McClain,108
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Governor/Lieutenant Governor,,D,Edward FitzGerald,62
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Governor/Lieutenant Governor,,R,John Kasich,250
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Governor/Lieutenant Governor,,G,Anita Rios,9
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Attorney General,,R,Mike DeWine,248
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Attorney General,,D,David Pepper,75
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Auditor of State,,L,Bob Bridges,27
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Auditor of State,,D,John Patrick Carney,69
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Auditor of State,,R,Dave Yost,229
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Secretary of State,,R,Jon Husted,236
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Secretary of State,,L,Kevin Knedler,27
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Secretary of State,,D,Nina Turner,60
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Treasurer of State,,R,Josh Mandel,233
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,Treasurer of State,,D,Connie Pillich,92
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,U.S. House of Representatives,12,G,Bob Hart,17
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,U.S. House of Representatives,12,D,David Arthur Tibbs,61
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,U.S. House of Representatives,12,R,Pat Tiberi,247
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,State House of Representatives,87,D,Jeffrey A. Lehart,70
+Morrow,AAH,CHESTER TWP EAST,Central,Columbus,737,330,State House of Representatives,87,R,Jeff McClain,244
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Governor/Lieutenant Governor,,D,Edward FitzGerald,51
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Governor/Lieutenant Governor,,R,John Kasich,166
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Governor/Lieutenant Governor,,G,Anita Rios,13
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Attorney General,,R,Mike DeWine,170
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Attorney General,,D,David Pepper,59
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Auditor of State,,L,Bob Bridges,22
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Auditor of State,,D,John Patrick Carney,57
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Auditor of State,,R,Dave Yost,151
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Secretary of State,,R,Jon Husted,152
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Secretary of State,,L,Kevin Knedler,19
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Secretary of State,,D,Nina Turner,55
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Treasurer of State,,R,Josh Mandel,148
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,Treasurer of State,,D,Connie Pillich,82
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,U.S. House of Representatives,12,G,Bob Hart,17
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,U.S. House of Representatives,12,D,David Arthur Tibbs,44
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,U.S. House of Representatives,12,R,Pat Tiberi,166
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,State House of Representatives,87,D,Jeffrey A. Lehart,72
+Morrow,AAI,CHESTER TWP WEST,Central,Columbus,619,234,State House of Representatives,87,R,Jeff McClain,151
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Governor/Lieutenant Governor,,D,Edward FitzGerald,91
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Governor/Lieutenant Governor,,R,John Kasich,303
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Governor/Lieutenant Governor,,G,Anita Rios,9
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Attorney General,,R,Mike DeWine,300
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Attorney General,,D,David Pepper,107
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Auditor of State,,L,Bob Bridges,22
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Auditor of State,,D,John Patrick Carney,79
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Auditor of State,,R,Dave Yost,298
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Secretary of State,,R,Jon Husted,302
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Secretary of State,,L,Kevin Knedler,17
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Secretary of State,,D,Nina Turner,77
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Treasurer of State,,R,Josh Mandel,290
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,Treasurer of State,,D,Connie Pillich,105
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,U.S. House of Representatives,12,G,Bob Hart,19
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,U.S. House of Representatives,12,D,David Arthur Tibbs,68
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,U.S. House of Representatives,12,R,Pat Tiberi,310
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,State House of Representatives,87,D,Jeffrey A. Lehart,93
+Morrow,AAJ,CONGRESS TWP EAST,Central,Columbus,862,410,State House of Representatives,87,R,Jeff McClain,285
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Governor/Lieutenant Governor,,D,Edward FitzGerald,106
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Governor/Lieutenant Governor,,R,John Kasich,368
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Governor/Lieutenant Governor,,G,Anita Rios,15
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Attorney General,,R,Mike DeWine,363
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Attorney General,,D,David Pepper,130
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Auditor of State,,L,Bob Bridges,22
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Auditor of State,,D,John Patrick Carney,117
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Auditor of State,,R,Dave Yost,345
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Secretary of State,,R,Jon Husted,358
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Secretary of State,,L,Kevin Knedler,27
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Secretary of State,,D,Nina Turner,95
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Treasurer of State,,R,Josh Mandel,340
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,Treasurer of State,,D,Connie Pillich,147
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,U.S. House of Representatives,12,G,Bob Hart,20
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,U.S. House of Representatives,12,D,David Arthur Tibbs,104
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,U.S. House of Representatives,12,R,Pat Tiberi,361
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,State House of Representatives,87,D,Jeffrey A. Lehart,127
+Morrow,AAK,CONGRESS TWP WEST,Central,Columbus,1119,497,State House of Representatives,87,R,Jeff McClain,340
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Governor/Lieutenant Governor,,D,Edward FitzGerald,32
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Governor/Lieutenant Governor,,R,John Kasich,73
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Governor/Lieutenant Governor,,G,Anita Rios,5
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Attorney General,,R,Mike DeWine,72
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Attorney General,,D,David Pepper,36
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Auditor of State,,L,Bob Bridges,6
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Auditor of State,,D,John Patrick Carney,32
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Auditor of State,,R,Dave Yost,69
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Secretary of State,,R,Jon Husted,74
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Secretary of State,,L,Kevin Knedler,11
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Secretary of State,,D,Nina Turner,22
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Treasurer of State,,R,Josh Mandel,66
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,Treasurer of State,,D,Connie Pillich,43
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,U.S. House of Representatives,12,G,Bob Hart,7
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,U.S. House of Representatives,12,D,David Arthur Tibbs,26
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,U.S. House of Representatives,12,R,Pat Tiberi,74
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,State House of Representatives,87,D,Jeffrey A. Lehart,35
+Morrow,AAM,EDISON VILLAGE,Central,Columbus,304,110,State House of Representatives,87,R,Jeff McClain,68
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Governor/Lieutenant Governor,,D,Edward FitzGerald,95
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Governor/Lieutenant Governor,,R,John Kasich,365
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Governor/Lieutenant Governor,,G,Anita Rios,15
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Attorney General,,R,Mike DeWine,355
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Attorney General,,D,David Pepper,116
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Auditor of State,,L,Bob Bridges,25
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Auditor of State,,D,John Patrick Carney,98
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Auditor of State,,R,Dave Yost,347
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Secretary of State,,R,Jon Husted,350
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Secretary of State,,L,Kevin Knedler,31
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Secretary of State,,D,Nina Turner,85
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Treasurer of State,,R,Josh Mandel,335
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,Treasurer of State,,D,Connie Pillich,136
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,U.S. House of Representatives,12,G,Bob Hart,18
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,U.S. House of Representatives,12,D,David Arthur Tibbs,90
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,U.S. House of Representatives,12,R,Pat Tiberi,360
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,State House of Representatives,87,D,Jeffrey A. Lehart,117
+Morrow,AAL,FRANKLIN TWP,Central,Columbus,1124,483,State House of Representatives,87,R,Jeff McClain,338
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Governor/Lieutenant Governor,,D,Edward FitzGerald,27
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Governor/Lieutenant Governor,,R,John Kasich,192
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Governor/Lieutenant Governor,,G,Anita Rios,9
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Attorney General,,R,Mike DeWine,193
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Attorney General,,D,David Pepper,40
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Auditor of State,,L,Bob Bridges,10
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Auditor of State,,D,John Patrick Carney,35
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Auditor of State,,R,Dave Yost,179
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Secretary of State,,R,Jon Husted,185
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Secretary of State,,L,Kevin Knedler,11
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Secretary of State,,D,Nina Turner,32
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Treasurer of State,,R,Josh Mandel,184
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,Treasurer of State,,D,Connie Pillich,49
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,U.S. House of Representatives,12,G,Bob Hart,8
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,U.S. House of Representatives,12,D,David Arthur Tibbs,28
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,U.S. House of Representatives,12,R,Pat Tiberi,193
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,State House of Representatives,87,D,Jeffrey A. Lehart,42
+Morrow,AAN,GILEAD TWP NE,Central,Columbus,482,238,State House of Representatives,87,R,Jeff McClain,179
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Governor/Lieutenant Governor,,D,Edward FitzGerald,60
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Governor/Lieutenant Governor,,R,John Kasich,196
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Governor/Lieutenant Governor,,G,Anita Rios,10
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Attorney General,,R,Mike DeWine,193
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Attorney General,,D,David Pepper,73
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Auditor of State,,L,Bob Bridges,11
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Auditor of State,,D,John Patrick Carney,58
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Auditor of State,,R,Dave Yost,192
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Secretary of State,,R,Jon Husted,200
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Secretary of State,,L,Kevin Knedler,15
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Secretary of State,,D,Nina Turner,51
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Treasurer of State,,R,Josh Mandel,179
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,Treasurer of State,,D,Connie Pillich,85
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,U.S. House of Representatives,12,G,Bob Hart,9
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,U.S. House of Representatives,12,D,David Arthur Tibbs,58
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,U.S. House of Representatives,12,R,Pat Tiberi,198
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,State House of Representatives,87,D,Jeffrey A. Lehart,64
+Morrow,AAO,GILEAD TWP SE,Central,Columbus,558,270,State House of Representatives,87,R,Jeff McClain,188
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Governor/Lieutenant Governor,,D,Edward FitzGerald,47
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Governor/Lieutenant Governor,,R,John Kasich,207
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Governor/Lieutenant Governor,,G,Anita Rios,6
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Attorney General,,R,Mike DeWine,191
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Attorney General,,D,David Pepper,69
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Auditor of State,,L,Bob Bridges,18
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Auditor of State,,D,John Patrick Carney,56
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Auditor of State,,R,Dave Yost,180
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Secretary of State,,R,Jon Husted,187
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Secretary of State,,L,Kevin Knedler,12
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Secretary of State,,D,Nina Turner,56
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Treasurer of State,,R,Josh Mandel,185
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,Treasurer of State,,D,Connie Pillich,74
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,U.S. House of Representatives,12,G,Bob Hart,9
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,U.S. House of Representatives,12,D,David Arthur Tibbs,54
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,U.S. House of Representatives,12,R,Pat Tiberi,194
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,State House of Representatives,87,D,Jeffrey A. Lehart,59
+Morrow,AAP,GILEAD TWP W,Central,Columbus,567,266,State House of Representatives,87,R,Jeff McClain,188
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Governor/Lieutenant Governor,,D,Edward FitzGerald,75
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Governor/Lieutenant Governor,,R,John Kasich,227
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Governor/Lieutenant Governor,,G,Anita Rios,10
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Attorney General,,R,Mike DeWine,213
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Attorney General,,D,David Pepper,98
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Auditor of State,,L,Bob Bridges,15
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Auditor of State,,D,John Patrick Carney,82
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Auditor of State,,R,Dave Yost,210
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Secretary of State,,R,Jon Husted,214
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Secretary of State,,L,Kevin Knedler,18
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Secretary of State,,D,Nina Turner,78
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Treasurer of State,,R,Josh Mandel,199
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,Treasurer of State,,D,Connie Pillich,111
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,U.S. House of Representatives,12,G,Bob Hart,15
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,U.S. House of Representatives,12,D,David Arthur Tibbs,68
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,U.S. House of Representatives,12,R,Pat Tiberi,228
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,State House of Representatives,87,D,Jeffrey A. Lehart,94
+Morrow,AAV,HARMONY TWP N,Central,Columbus,728,316,State House of Representatives,87,R,Jeff McClain,207
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Governor/Lieutenant Governor,,D,Edward FitzGerald,72
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Governor/Lieutenant Governor,,R,John Kasich,279
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Governor/Lieutenant Governor,,G,Anita Rios,12
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Attorney General,,R,Mike DeWine,273
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Attorney General,,D,David Pepper,89
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Auditor of State,,L,Bob Bridges,27
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Auditor of State,,D,John Patrick Carney,80
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Auditor of State,,R,Dave Yost,257
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Secretary of State,,R,Jon Husted,263
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Secretary of State,,L,Kevin Knedler,26
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Secretary of State,,D,Nina Turner,71
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Treasurer of State,,R,Josh Mandel,252
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,Treasurer of State,,D,Connie Pillich,112
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,U.S. House of Representatives,12,G,Bob Hart,19
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,U.S. House of Representatives,12,D,David Arthur Tibbs,70
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,U.S. House of Representatives,12,R,Pat Tiberi,279
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,State House of Representatives,87,D,Jeffrey A. Lehart,99
+Morrow,ABJ,HARMONY TWP S,Central,Columbus,1040,372,State House of Representatives,87,R,Jeff McClain,256
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Governor/Lieutenant Governor,,D,Edward FitzGerald,57
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Governor/Lieutenant Governor,,R,John Kasich,146
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Governor/Lieutenant Governor,,G,Anita Rios,9
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Attorney General,,R,Mike DeWine,137
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Attorney General,,D,David Pepper,71
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Auditor of State,,L,Bob Bridges,14
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Auditor of State,,D,John Patrick Carney,54
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Auditor of State,,R,Dave Yost,139
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Secretary of State,,R,Jon Husted,140
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Secretary of State,,L,Kevin Knedler,16
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Secretary of State,,D,Nina Turner,52
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Treasurer of State,,R,Josh Mandel,134
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,Treasurer of State,,D,Connie Pillich,74
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,U.S. House of Representatives,12,G,Bob Hart,17
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,U.S. House of Representatives,12,D,David Arthur Tibbs,46
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,U.S. House of Representatives,12,R,Pat Tiberi,145
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,State House of Representatives,87,D,Jeffrey A. Lehart,65
+Morrow,AAW,LINCOLN TWP E,Central,Columbus,602,215,State House of Representatives,87,R,Jeff McClain,137
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Governor/Lieutenant Governor,,D,Edward FitzGerald,74
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Governor/Lieutenant Governor,,R,John Kasich,173
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Governor/Lieutenant Governor,,G,Anita Rios,11
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Attorney General,,R,Mike DeWine,155
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Attorney General,,D,David Pepper,103
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Auditor of State,,L,Bob Bridges,21
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Auditor of State,,D,John Patrick Carney,76
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Auditor of State,,R,Dave Yost,156
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Secretary of State,,R,Jon Husted,163
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Secretary of State,,L,Kevin Knedler,12
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Secretary of State,,D,Nina Turner,73
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Treasurer of State,,R,Josh Mandel,155
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,Treasurer of State,,D,Connie Pillich,98
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,U.S. House of Representatives,12,G,Bob Hart,11
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,U.S. House of Representatives,12,D,David Arthur Tibbs,74
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,U.S. House of Representatives,12,R,Pat Tiberi,165
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,State House of Representatives,87,D,Jeffrey A. Lehart,87
+Morrow,AAX,LINCOLN TWP W,Central,Columbus,791,261,State House of Representatives,87,R,Jeff McClain,156
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Governor/Lieutenant Governor,,D,Edward FitzGerald,68
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Governor/Lieutenant Governor,,R,John Kasich,110
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Governor/Lieutenant Governor,,G,Anita Rios,3
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Attorney General,,R,Mike DeWine,109
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Attorney General,,D,David Pepper,73
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Auditor of State,,L,Bob Bridges,10
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Auditor of State,,D,John Patrick Carney,66
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Auditor of State,,R,Dave Yost,105
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Secretary of State,,R,Jon Husted,112
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Secretary of State,,L,Kevin Knedler,12
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Secretary of State,,D,Nina Turner,56
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Treasurer of State,,R,Josh Mandel,97
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,Treasurer of State,,D,Connie Pillich,81
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,U.S. House of Representatives,12,G,Bob Hart,7
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,U.S. House of Representatives,12,D,David Arthur Tibbs,59
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,U.S. House of Representatives,12,R,Pat Tiberi,117
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,State House of Representatives,87,D,Jeffrey A. Lehart,73
+Morrow,AAQ,MT GILEAD VILLAGE E,Central,Columbus,505,189,State House of Representatives,87,R,Jeff McClain,109
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Governor/Lieutenant Governor,,D,Edward FitzGerald,91
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Governor/Lieutenant Governor,,R,John Kasich,161
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Governor/Lieutenant Governor,,G,Anita Rios,7
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Attorney General,,R,Mike DeWine,152
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Attorney General,,D,David Pepper,106
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Auditor of State,,L,Bob Bridges,13
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Auditor of State,,D,John Patrick Carney,92
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Auditor of State,,R,Dave Yost,150
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Secretary of State,,R,Jon Husted,157
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Secretary of State,,L,Kevin Knedler,14
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Secretary of State,,D,Nina Turner,85
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Treasurer of State,,R,Josh Mandel,144
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,Treasurer of State,,D,Connie Pillich,113
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,U.S. House of Representatives,12,G,Bob Hart,16
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,U.S. House of Representatives,12,D,David Arthur Tibbs,77
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,U.S. House of Representatives,12,R,Pat Tiberi,165
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,State House of Representatives,87,D,Jeffrey A. Lehart,95
+Morrow,AAR,MT GILEAD VILLAGE N,Central,Columbus,707,264,State House of Representatives,87,R,Jeff McClain,156
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Governor/Lieutenant Governor,,D,Edward FitzGerald,68
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Governor/Lieutenant Governor,,R,John Kasich,200
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Governor/Lieutenant Governor,,G,Anita Rios,12
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Attorney General,,R,Mike DeWine,198
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Attorney General,,D,David Pepper,86
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Auditor of State,,L,Bob Bridges,22
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Auditor of State,,D,John Patrick Carney,67
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Auditor of State,,R,Dave Yost,193
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Secretary of State,,R,Jon Husted,200
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Secretary of State,,L,Kevin Knedler,19
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Secretary of State,,D,Nina Turner,65
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Treasurer of State,,R,Josh Mandel,175
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,Treasurer of State,,D,Connie Pillich,106
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,U.S. House of Representatives,12,G,Bob Hart,15
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,U.S. House of Representatives,12,D,David Arthur Tibbs,61
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,U.S. House of Representatives,12,R,Pat Tiberi,210
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,State House of Representatives,87,D,Jeffrey A. Lehart,86
+Morrow,AAS,MT GILEAD VILLAGE NW,Central,Columbus,801,290,State House of Representatives,87,R,Jeff McClain,184
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Governor/Lieutenant Governor,,D,Edward FitzGerald,39
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Governor/Lieutenant Governor,,R,John Kasich,120
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Governor/Lieutenant Governor,,G,Anita Rios,8
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Attorney General,,R,Mike DeWine,118
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Attorney General,,D,David Pepper,49
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Auditor of State,,L,Bob Bridges,15
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Auditor of State,,D,John Patrick Carney,43
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Auditor of State,,R,Dave Yost,111
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Secretary of State,,R,Jon Husted,115
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Secretary of State,,L,Kevin Knedler,12
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Secretary of State,,D,Nina Turner,41
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Treasurer of State,,R,Josh Mandel,105
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,Treasurer of State,,D,Connie Pillich,63
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,U.S. House of Representatives,12,G,Bob Hart,6
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,U.S. House of Representatives,12,D,David Arthur Tibbs,36
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,U.S. House of Representatives,12,R,Pat Tiberi,126
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,State House of Representatives,87,D,Jeffrey A. Lehart,53
+Morrow,AAT,MT GILEAD VILLAGE SW,Central,Columbus,548,171,State House of Representatives,87,R,Jeff McClain,110
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Governor/Lieutenant Governor,,D,Edward FitzGerald,63
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Governor/Lieutenant Governor,,R,John Kasich,223
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Governor/Lieutenant Governor,,G,Anita Rios,13
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Attorney General,,R,Mike DeWine,215
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Attorney General,,D,David Pepper,82
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Auditor of State,,L,Bob Bridges,13
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Auditor of State,,D,John Patrick Carney,74
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Auditor of State,,R,Dave Yost,209
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Secretary of State,,R,Jon Husted,217
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Secretary of State,,L,Kevin Knedler,18
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Secretary of State,,D,Nina Turner,63
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Treasurer of State,,R,Josh Mandel,200
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,Treasurer of State,,D,Connie Pillich,98
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,U.S. House of Representatives,12,G,Bob Hart,17
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,U.S. House of Representatives,12,D,David Arthur Tibbs,67
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,U.S. House of Representatives,12,R,Pat Tiberi,217
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,State House of Representatives,87,D,Jeffrey A. Lehart,75
+Morrow,AAY,N BLOOMFIELD TWP E,Central,Columbus,732,305,State House of Representatives,87,R,Jeff McClain,214
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Governor/Lieutenant Governor,,D,Edward FitzGerald,57
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Governor/Lieutenant Governor,,R,John Kasich,176
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Governor/Lieutenant Governor,,G,Anita Rios,3
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Attorney General,,R,Mike DeWine,161
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Attorney General,,D,David Pepper,74
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Auditor of State,,L,Bob Bridges,11
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Auditor of State,,D,John Patrick Carney,64
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Auditor of State,,R,Dave Yost,156
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Secretary of State,,R,Jon Husted,163
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Secretary of State,,L,Kevin Knedler,14
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Secretary of State,,D,Nina Turner,50
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Treasurer of State,,R,Josh Mandel,150
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,Treasurer of State,,D,Connie Pillich,82
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,U.S. House of Representatives,12,G,Bob Hart,8
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,U.S. House of Representatives,12,D,David Arthur Tibbs,59
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,U.S. House of Representatives,12,R,Pat Tiberi,166
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,State House of Representatives,87,D,Jeffrey A. Lehart,68
+Morrow,AAZ,N BLOOMFIELD TWP W,Central,Columbus,573,240,State House of Representatives,87,R,Jeff McClain,158
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Governor/Lieutenant Governor,,D,Edward FitzGerald,59
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Governor/Lieutenant Governor,,R,John Kasich,167
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Governor/Lieutenant Governor,,G,Anita Rios,15
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Attorney General,,R,Mike DeWine,163
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Attorney General,,D,David Pepper,75
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Auditor of State,,L,Bob Bridges,20
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Auditor of State,,D,John Patrick Carney,56
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Auditor of State,,R,Dave Yost,161
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Secretary of State,,R,Jon Husted,162
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Secretary of State,,L,Kevin Knedler,18
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Secretary of State,,D,Nina Turner,52
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Treasurer of State,,R,Josh Mandel,162
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,Treasurer of State,,D,Connie Pillich,77
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,U.S. House of Representatives,12,G,Bob Hart,18
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,U.S. House of Representatives,12,D,David Arthur Tibbs,54
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,U.S. House of Representatives,12,R,Pat Tiberi,166
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,State House of Representatives,87,D,Jeffrey A. Lehart,65
+Morrow,ABA,PERRY TWP N,Central,Columbus,565,248,State House of Representatives,87,R,Jeff McClain,159
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Governor/Lieutenant Governor,,D,Edward FitzGerald,43
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Governor/Lieutenant Governor,,R,John Kasich,101
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Governor/Lieutenant Governor,,G,Anita Rios,3
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Attorney General,,R,Mike DeWine,101
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Attorney General,,D,David Pepper,46
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Auditor of State,,L,Bob Bridges,5
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Auditor of State,,D,John Patrick Carney,40
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Auditor of State,,R,Dave Yost,102
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Secretary of State,,R,Jon Husted,105
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Secretary of State,,L,Kevin Knedler,9
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Secretary of State,,D,Nina Turner,31
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Treasurer of State,,R,Josh Mandel,101
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,Treasurer of State,,D,Connie Pillich,47
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,U.S. House of Representatives,12,G,Bob Hart,5
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,U.S. House of Representatives,12,D,David Arthur Tibbs,34
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,U.S. House of Representatives,12,R,Pat Tiberi,108
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,State House of Representatives,87,D,Jeffrey A. Lehart,45
+Morrow,ABB,PERRY TWP S,Central,Columbus,380,153,State House of Representatives,87,R,Jeff McClain,101
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Governor/Lieutenant Governor,,D,Edward FitzGerald,100
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Governor/Lieutenant Governor,,R,John Kasich,334
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Governor/Lieutenant Governor,,G,Anita Rios,14
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Attorney General,,R,Mike DeWine,327
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Attorney General,,D,David Pepper,120
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Auditor of State,,L,Bob Bridges,22
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Auditor of State,,D,John Patrick Carney,104
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Auditor of State,,R,Dave Yost,314
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Secretary of State,,R,Jon Husted,313
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Secretary of State,,L,Kevin Knedler,23
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Secretary of State,,D,Nina Turner,102
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Treasurer of State,,R,Josh Mandel,303
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,Treasurer of State,,D,Connie Pillich,137
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,U.S. House of Representatives,12,G,Bob Hart,20
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,U.S. House of Representatives,12,D,David Arthur Tibbs,86
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,U.S. House of Representatives,12,R,Pat Tiberi,335
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,State House of Representatives,87,D,Jeffrey A. Lehart,104
+Morrow,ABC,PERU TWP,Central,Columbus,1074,454,State House of Representatives,87,R,Jeff McClain,314
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Governor/Lieutenant Governor,,D,Edward FitzGerald,44
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Governor/Lieutenant Governor,,R,John Kasich,212
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Governor/Lieutenant Governor,,G,Anita Rios,8
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Attorney General,,R,Mike DeWine,204
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Attorney General,,D,David Pepper,60
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Auditor of State,,L,Bob Bridges,11
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Auditor of State,,D,John Patrick Carney,43
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Auditor of State,,R,Dave Yost,207
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Secretary of State,,R,Jon Husted,211
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Secretary of State,,L,Kevin Knedler,12
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Secretary of State,,D,Nina Turner,39
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Treasurer of State,,R,Josh Mandel,192
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,Treasurer of State,,D,Connie Pillich,70
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,U.S. House of Representatives,12,G,Bob Hart,10
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,U.S. House of Representatives,12,D,David Arthur Tibbs,43
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,U.S. House of Representatives,12,R,Pat Tiberi,208
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,State House of Representatives,87,D,Jeffrey A. Lehart,55
+Morrow,ABD,S BLOOMFIELD TWP E,Central,Columbus,620,270,State House of Representatives,87,R,Jeff McClain,198
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Governor/Lieutenant Governor,,D,Edward FitzGerald,54
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Governor/Lieutenant Governor,,R,John Kasich,184
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Governor/Lieutenant Governor,,G,Anita Rios,12
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Attorney General,,R,Mike DeWine,185
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Attorney General,,D,David Pepper,62
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Auditor of State,,L,Bob Bridges,17
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Auditor of State,,D,John Patrick Carney,54
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Auditor of State,,R,Dave Yost,181
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Secretary of State,,R,Jon Husted,190
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Secretary of State,,L,Kevin Knedler,15
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Secretary of State,,D,Nina Turner,44
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Treasurer of State,,R,Josh Mandel,176
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,Treasurer of State,,D,Connie Pillich,71
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,U.S. House of Representatives,12,G,Bob Hart,11
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,U.S. House of Representatives,12,D,David Arthur Tibbs,49
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,U.S. House of Representatives,12,R,Pat Tiberi,190
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,State House of Representatives,87,D,Jeffrey A. Lehart,62
+Morrow,ABE,S BLOOMFIELD TWP W,Central,Columbus,572,254,State House of Representatives,87,R,Jeff McClain,180
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Governor/Lieutenant Governor,,D,Edward FitzGerald,76
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Governor/Lieutenant Governor,,R,John Kasich,275
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Governor/Lieutenant Governor,,G,Anita Rios,10
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Attorney General,,R,Mike DeWine,254
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Attorney General,,D,David Pepper,104
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Auditor of State,,L,Bob Bridges,18
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Auditor of State,,D,John Patrick Carney,96
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Auditor of State,,R,Dave Yost,243
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Secretary of State,,R,Jon Husted,266
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Secretary of State,,L,Kevin Knedler,15
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Secretary of State,,D,Nina Turner,82
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Treasurer of State,,R,Josh Mandel,246
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,Treasurer of State,,D,Connie Pillich,117
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,U.S. House of Representatives,12,G,Bob Hart,18
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,U.S. House of Representatives,12,D,David Arthur Tibbs,85
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,U.S. House of Representatives,12,R,Pat Tiberi,258
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,State House of Representatives,87,D,Jeffrey A. Lehart,102
+Morrow,ABF,TROY TWP,Central,Columbus,831,367,State House of Representatives,87,R,Jeff McClain,248
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Governor/Lieutenant Governor,,D,Edward FitzGerald,108
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Governor/Lieutenant Governor,,R,John Kasich,263
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Governor/Lieutenant Governor,,G,Anita Rios,8
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Attorney General,,R,Mike DeWine,259
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Attorney General,,D,David Pepper,117
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Auditor of State,,L,Bob Bridges,25
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Auditor of State,,D,John Patrick Carney,112
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Auditor of State,,R,Dave Yost,239
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Secretary of State,,R,Jon Husted,258
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Secretary of State,,L,Kevin Knedler,30
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Secretary of State,,D,Nina Turner,84
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Treasurer of State,,R,Josh Mandel,241
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,Treasurer of State,,D,Connie Pillich,134
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,U.S. House of Representatives,12,G,Bob Hart,11
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,U.S. House of Representatives,12,D,David Arthur Tibbs,106
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,U.S. House of Representatives,12,R,Pat Tiberi,257
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,State House of Representatives,87,D,Jeffrey A. Lehart,134
+Morrow,ABH,WASHINGTON TWP,Central,Columbus,933,380,State House of Representatives,87,R,Jeff McClain,231
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Governor/Lieutenant Governor,,D,Edward FitzGerald,109
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Governor/Lieutenant Governor,,R,John Kasich,277
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Governor/Lieutenant Governor,,G,Anita Rios,12
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Attorney General,,R,Mike DeWine,289
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Attorney General,,D,David Pepper,107
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Auditor of State,,L,Bob Bridges,22
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Auditor of State,,D,John Patrick Carney,94
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Auditor of State,,R,Dave Yost,274
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Secretary of State,,R,Jon Husted,272
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Secretary of State,,L,Kevin Knedler,27
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Secretary of State,,D,Nina Turner,88
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Treasurer of State,,R,Josh Mandel,234
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,Treasurer of State,,D,Connie Pillich,157
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,U.S. House of Representatives,12,G,Bob Hart,19
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,U.S. House of Representatives,12,D,David Arthur Tibbs,95
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,U.S. House of Representatives,12,R,Pat Tiberi,276
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,State House of Representatives,87,D,Jeffrey A. Lehart,118
+Morrow,ABI,WESTFIELD TWP,Central,Columbus,822,407,State House of Representatives,87,R,Jeff McClain,254
