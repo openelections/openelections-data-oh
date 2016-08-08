@@ -1,0 +1,559 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Governor/Lieutenant Governor,,R,"Kasich, John",43
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Attorney General,,R,"DeWine, Mike",36
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Auditor of State,,R,"Yost, Dave",36
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Secretary of State,,R,"Husted, Jon",35
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Treasurer of State,,R,"Mandel, Josh",35
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,U.S. House of Representatives,04,R,"Jordan, Jim",21
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",5
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,U.S. House of Representatives,09,R,"May, Richard",8
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,State House of Representatives,89,R,"Kraus, Steven W.",33
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Governor/Lieutenant Governor,,R,"Kasich, John",63
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Attorney General,,R,"DeWine, Mike",61
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Auditor of State,,R,"Yost, Dave",55
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Secretary of State,,R,"Husted, Jon",58
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Treasurer of State,,R,"Mandel, Josh",57
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,U.S. House of Representatives,04,R,"Jordan, Jim",58
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,State House of Representatives,89,R,"Kraus, Steven W.",51
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Attorney General,,R,"DeWine, Mike",41
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Auditor of State,,R,"Yost, Dave",36
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Secretary of State,,R,"Husted, Jon",38
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Treasurer of State,,R,"Mandel, Josh",39
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,U.S. House of Representatives,04,R,"Jordan, Jim",37
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,State House of Representatives,89,R,"Kraus, Steven W.",38
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Governor/Lieutenant Governor,,R,"Kasich, John",27
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Attorney General,,R,"DeWine, Mike",24
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Auditor of State,,R,"Yost, Dave",24
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Secretary of State,,R,"Husted, Jon",23
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Treasurer of State,,R,"Mandel, Josh",24
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",5
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,U.S. House of Representatives,09,R,"May, Richard",20
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,State House of Representatives,89,R,"Kraus, Steven W.",23
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Attorney General,,R,"DeWine, Mike",27
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Auditor of State,,R,"Yost, Dave",28
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Secretary of State,,R,"Husted, Jon",28
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Treasurer of State,,R,"Mandel, Josh",24
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",6
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,U.S. House of Representatives,09,R,"May, Richard",24
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,State House of Representatives,89,R,"Kraus, Steven W.",26
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Governor/Lieutenant Governor,,R,"Kasich, John",50
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Attorney General,,R,"DeWine, Mike",45
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Auditor of State,,R,"Yost, Dave",43
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Secretary of State,,R,"Husted, Jon",44
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Treasurer of State,,R,"Mandel, Josh",44
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,U.S. House of Representatives,04,R,"Jordan, Jim",44
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,State House of Representatives,89,R,"Kraus, Steven W.",37
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Governor/Lieutenant Governor,,R,"Kasich, John",51
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Attorney General,,R,"DeWine, Mike",45
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Auditor of State,,R,"Yost, Dave",43
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Secretary of State,,R,"Husted, Jon",46
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Treasurer of State,,R,"Mandel, Josh",47
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,U.S. House of Representatives,04,R,"Jordan, Jim",45
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,State House of Representatives,89,R,"Kraus, Steven W.",40
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Governor/Lieutenant Governor,,R,"Kasich, John",80
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Attorney General,,R,"DeWine, Mike",80
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Auditor of State,,R,"Yost, Dave",75
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Secretary of State,,R,"Husted, Jon",73
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Treasurer of State,,R,"Mandel, Josh",76
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,U.S. House of Representatives,04,R,"Jordan, Jim",69
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,State House of Representatives,89,R,"Kraus, Steven W.",67
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Governor/Lieutenant Governor,,R,"Kasich, John",75
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Attorney General,,R,"DeWine, Mike",71
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Auditor of State,,R,"Yost, Dave",65
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Secretary of State,,R,"Husted, Jon",70
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Treasurer of State,,R,"Mandel, Josh",72
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",9
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,U.S. House of Representatives,09,R,"May, Richard",49
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,State House of Representatives,89,R,"Kraus, Steven W.",62
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Governor/Lieutenant Governor,,R,"Kasich, John",37
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Attorney General,,R,"DeWine, Mike",36
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Auditor of State,,R,"Yost, Dave",35
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Secretary of State,,R,"Husted, Jon",38
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Treasurer of State,,R,"Mandel, Josh",34
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",8
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,U.S. House of Representatives,09,R,"May, Richard",21
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,State House of Representatives,89,R,"Kraus, Steven W.",33
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Governor/Lieutenant Governor,,R,"Kasich, John",61
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Attorney General,,R,"DeWine, Mike",55
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Auditor of State,,R,"Yost, Dave",56
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Secretary of State,,R,"Husted, Jon",56
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Treasurer of State,,R,"Mandel, Josh",56
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",8
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,U.S. House of Representatives,09,R,"May, Richard",45
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,State House of Representatives,89,R,"Kraus, Steven W.",51
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Governor/Lieutenant Governor,,R,"Kasich, John",27
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Attorney General,,R,"DeWine, Mike",27
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Auditor of State,,R,"Yost, Dave",29
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Secretary of State,,R,"Husted, Jon",27
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Treasurer of State,,R,"Mandel, Josh",26
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",7
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,U.S. House of Representatives,09,R,"May, Richard",19
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,State House of Representatives,89,R,"Kraus, Steven W.",25
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Governor/Lieutenant Governor,,R,"Kasich, John",65
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Attorney General,,R,"DeWine, Mike",61
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Auditor of State,,R,"Yost, Dave",62
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Secretary of State,,R,"Husted, Jon",61
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Treasurer of State,,R,"Mandel, Josh",59
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",11
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,U.S. House of Representatives,09,R,"May, Richard",45
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,State House of Representatives,89,R,"Kraus, Steven W.",53
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Governor/Lieutenant Governor,,R,"Kasich, John",29
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Attorney General,,R,"DeWine, Mike",27
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Auditor of State,,R,"Yost, Dave",28
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Secretary of State,,R,"Husted, Jon",28
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Treasurer of State,,R,"Mandel, Josh",28
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",6
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,U.S. House of Representatives,09,R,"May, Richard",16
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,State House of Representatives,89,R,"Kraus, Steven W.",25
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Governor/Lieutenant Governor,,R,"Kasich, John",57
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Attorney General,,R,"DeWine, Mike",52
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Auditor of State,,R,"Yost, Dave",49
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Secretary of State,,R,"Husted, Jon",50
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Treasurer of State,,R,"Mandel, Josh",49
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",12
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,U.S. House of Representatives,09,R,"May, Richard",40
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,State House of Representatives,89,R,"Kraus, Steven W.",46
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Governor/Lieutenant Governor,,R,"Kasich, John",57
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Attorney General,,R,"DeWine, Mike",56
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Auditor of State,,R,"Yost, Dave",50
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Secretary of State,,R,"Husted, Jon",54
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Treasurer of State,,R,"Mandel, Josh",52
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",12
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,U.S. House of Representatives,09,R,"May, Richard",35
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,State House of Representatives,89,R,"Kraus, Steven W.",45
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Governor/Lieutenant Governor,,R,"Kasich, John",94
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Attorney General,,R,"DeWine, Mike",76
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Auditor of State,,R,"Yost, Dave",71
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Secretary of State,,R,"Husted, Jon",72
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Treasurer of State,,R,"Mandel, Josh",70
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",10
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,U.S. House of Representatives,09,R,"May, Richard",49
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,State House of Representatives,89,R,"Kraus, Steven W.",71
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Governor/Lieutenant Governor,,R,"Kasich, John",36
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Attorney General,,R,"DeWine, Mike",32
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Auditor of State,,R,"Yost, Dave",33
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Secretary of State,,R,"Husted, Jon",33
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Treasurer of State,,R,"Mandel, Josh",31
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",4
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,U.S. House of Representatives,09,R,"May, Richard",26
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,State House of Representatives,89,R,"Kraus, Steven W.",27
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Governor/Lieutenant Governor,,R,"Kasich, John",79
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Attorney General,,R,"DeWine, Mike",72
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Auditor of State,,R,"Yost, Dave",62
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Secretary of State,,R,"Husted, Jon",65
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Treasurer of State,,R,"Mandel, Josh",69
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",20
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,U.S. House of Representatives,09,R,"May, Richard",47
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,State House of Representatives,89,R,"Kraus, Steven W.",65
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Attorney General,,R,"DeWine, Mike",38
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Auditor of State,,R,"Yost, Dave",31
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Secretary of State,,R,"Husted, Jon",34
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Treasurer of State,,R,"Mandel, Josh",36
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",6
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,U.S. House of Representatives,09,R,"May, Richard",25
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,State House of Representatives,89,R,"Kraus, Steven W.",33
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Attorney General,,R,"DeWine, Mike",39
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Auditor of State,,R,"Yost, Dave",36
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Secretary of State,,R,"Husted, Jon",37
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Treasurer of State,,R,"Mandel, Josh",34
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",8
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,U.S. House of Representatives,09,R,"May, Richard",28
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,State House of Representatives,89,R,"Kraus, Steven W.",31
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Governor/Lieutenant Governor,,R,"Kasich, John",39
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Attorney General,,R,"DeWine, Mike",36
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Auditor of State,,R,"Yost, Dave",28
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Secretary of State,,R,"Husted, Jon",30
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Treasurer of State,,R,"Mandel, Josh",31
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",9
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,U.S. House of Representatives,09,R,"May, Richard",26
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,State House of Representatives,89,R,"Kraus, Steven W.",30
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Governor/Lieutenant Governor,,R,"Kasich, John",48
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Attorney General,,R,"DeWine, Mike",45
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Auditor of State,,R,"Yost, Dave",41
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Secretary of State,,R,"Husted, Jon",44
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Treasurer of State,,R,"Mandel, Josh",43
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,U.S. House of Representatives,04,R,"Jordan, Jim",43
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,State House of Representatives,89,R,"Kraus, Steven W.",39
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Governor/Lieutenant Governor,,R,"Kasich, John",90
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Attorney General,,R,"DeWine, Mike",88
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Auditor of State,,R,"Yost, Dave",80
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Secretary of State,,R,"Husted, Jon",79
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Treasurer of State,,R,"Mandel, Josh",83
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,U.S. House of Representatives,04,R,"Jordan, Jim",81
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,State House of Representatives,89,R,"Kraus, Steven W.",66
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Governor/Lieutenant Governor,,R,"Kasich, John",57
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Attorney General,,R,"DeWine, Mike",55
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Auditor of State,,R,"Yost, Dave",50
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Secretary of State,,R,"Husted, Jon",53
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Treasurer of State,,R,"Mandel, Josh",52
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,U.S. House of Representatives,04,R,"Jordan, Jim",50
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,State House of Representatives,89,R,"Kraus, Steven W.",48
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Governor/Lieutenant Governor,,R,"Kasich, John",78
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Attorney General,,R,"DeWine, Mike",69
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Auditor of State,,R,"Yost, Dave",60
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Secretary of State,,R,"Husted, Jon",60
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Treasurer of State,,R,"Mandel, Josh",65
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,U.S. House of Representatives,04,R,"Jordan, Jim",65
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",0
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,U.S. House of Representatives,09,R,"May, Richard",0
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,State House of Representatives,89,R,"Kraus, Steven W.",55
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Governor/Lieutenant Governor,,R,"Kasich, John",69
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Attorney General,,R,"DeWine, Mike",69
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Auditor of State,,R,"Yost, Dave",62
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Secretary of State,,R,"Husted, Jon",63
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Treasurer of State,,R,"Mandel, Josh",63
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",19
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,U.S. House of Representatives,09,R,"May, Richard",42
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,State House of Representatives,89,R,"Kraus, Steven W.",56
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Governor/Lieutenant Governor,,R,"Kasich, John",140
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Attorney General,,R,"DeWine, Mike",138
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Auditor of State,,R,"Yost, Dave",127
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Secretary of State,,R,"Husted, Jon",129
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Treasurer of State,,R,"Mandel, Josh",126
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",24
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,U.S. House of Representatives,09,R,"May, Richard",94
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,State House of Representatives,89,R,"Kraus, Steven W.",114
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Governor/Lieutenant Governor,,R,"Kasich, John",165
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Attorney General,,R,"DeWine, Mike",147
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Auditor of State,,R,"Yost, Dave",131
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Secretary of State,,R,"Husted, Jon",133
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Treasurer of State,,R,"Mandel, Josh",138
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",31
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,U.S. House of Representatives,09,R,"May, Richard",78
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,State House of Representatives,89,R,"Kraus, Steven W.",120
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Governor/Lieutenant Governor,,R,"Kasich, John",124
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Attorney General,,R,"DeWine, Mike",114
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Auditor of State,,R,"Yost, Dave",107
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Secretary of State,,R,"Husted, Jon",111
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Treasurer of State,,R,"Mandel, Josh",112
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",24
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,U.S. House of Representatives,09,R,"May, Richard",63
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,State House of Representatives,89,R,"Kraus, Steven W.",97
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Governor/Lieutenant Governor,,R,"Kasich, John",67
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Attorney General,,R,"DeWine, Mike",66
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Auditor of State,,R,"Yost, Dave",58
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Secretary of State,,R,"Husted, Jon",59
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Treasurer of State,,R,"Mandel, Josh",62
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",13
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,U.S. House of Representatives,09,R,"May, Richard",47
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,State House of Representatives,89,R,"Kraus, Steven W.",55
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Governor/Lieutenant Governor,,R,"Kasich, John",17
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Attorney General,,R,"DeWine, Mike",18
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Auditor of State,,R,"Yost, Dave",17
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Secretary of State,,R,"Husted, Jon",17
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Treasurer of State,,R,"Mandel, Josh",17
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",7
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,U.S. House of Representatives,09,R,"May, Richard",11
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,State House of Representatives,89,R,"Kraus, Steven W.",17
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Governor/Lieutenant Governor,,R,"Kasich, John",130
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Attorney General,,R,"DeWine, Mike",127
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Auditor of State,,R,"Yost, Dave",119
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Secretary of State,,R,"Husted, Jon",123
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Treasurer of State,,R,"Mandel, Josh",123
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",18
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,U.S. House of Representatives,09,R,"May, Richard",83
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,State House of Representatives,89,R,"Kraus, Steven W.",109
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Governor/Lieutenant Governor,,R,"Kasich, John",110
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Attorney General,,R,"DeWine, Mike",114
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Auditor of State,,R,"Yost, Dave",96
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Secretary of State,,R,"Husted, Jon",94
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Treasurer of State,,R,"Mandel, Josh",96
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",30
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,U.S. House of Representatives,09,R,"May, Richard",62
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,State House of Representatives,89,R,"Kraus, Steven W.",90
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Governor/Lieutenant Governor,,R,"Kasich, John",113
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Attorney General,,R,"DeWine, Mike",113
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Auditor of State,,R,"Yost, Dave",103
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Secretary of State,,R,"Husted, Jon",105
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Treasurer of State,,R,"Mandel, Josh",109
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",16
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,U.S. House of Representatives,09,R,"May, Richard",91
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,State House of Representatives,89,R,"Kraus, Steven W.",102
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Governor/Lieutenant Governor,,R,"Kasich, John",92
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Attorney General,,R,"DeWine, Mike",84
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Auditor of State,,R,"Yost, Dave",78
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Secretary of State,,R,"Husted, Jon",76
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Treasurer of State,,R,"Mandel, Josh",84
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",28
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,U.S. House of Representatives,09,R,"May, Richard",52
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,State House of Representatives,89,R,"Kraus, Steven W.",72
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Governor/Lieutenant Governor,,R,"Kasich, John",62
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Attorney General,,R,"DeWine, Mike",59
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Auditor of State,,R,"Yost, Dave",54
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Secretary of State,,R,"Husted, Jon",55
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Treasurer of State,,R,"Mandel, Josh",57
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",12
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,U.S. House of Representatives,09,R,"May, Richard",27
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,State House of Representatives,89,R,"Kraus, Steven W.",52
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Governor/Lieutenant Governor,,R,"Kasich, John",34
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Attorney General,,R,"DeWine, Mike",34
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Auditor of State,,R,"Yost, Dave",32
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Secretary of State,,R,"Husted, Jon",33
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Treasurer of State,,R,"Mandel, Josh",34
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",6
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,U.S. House of Representatives,09,R,"May, Richard",23
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,State House of Representatives,89,R,"Kraus, Steven W.",31
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Governor/Lieutenant Governor,,R,"Kasich, John",22
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Attorney General,,R,"DeWine, Mike",19
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Auditor of State,,R,"Yost, Dave",16
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Secretary of State,,R,"Husted, Jon",17
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Treasurer of State,,R,"Mandel, Josh",16
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",5
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,U.S. House of Representatives,09,R,"May, Richard",16
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,State House of Representatives,89,R,"Kraus, Steven W.",18
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Attorney General,,R,"DeWine, Mike",36
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Auditor of State,,R,"Yost, Dave",38
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Secretary of State,,R,"Husted, Jon",39
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Treasurer of State,,R,"Mandel, Josh",39
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",5
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,U.S. House of Representatives,09,R,"May, Richard",34
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,State House of Representatives,89,R,"Kraus, Steven W.",39
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Attorney General,,R,"DeWine, Mike",28
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Auditor of State,,R,"Yost, Dave",30
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Secretary of State,,R,"Husted, Jon",31
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Treasurer of State,,R,"Mandel, Josh",31
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",5
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,U.S. House of Representatives,09,R,"May, Richard",21
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,State House of Representatives,89,R,"Kraus, Steven W.",26
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Governor/Lieutenant Governor,,R,"Kasich, John",34
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Attorney General,,R,"DeWine, Mike",35
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Auditor of State,,R,"Yost, Dave",29
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Secretary of State,,R,"Husted, Jon",31
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Treasurer of State,,R,"Mandel, Josh",31
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",9
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,U.S. House of Representatives,09,R,"May, Richard",16
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,State House of Representatives,89,R,"Kraus, Steven W.",30
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Governor/Lieutenant Governor,,R,"Kasich, John",34
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Attorney General,,R,"DeWine, Mike",35
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Auditor of State,,R,"Yost, Dave",30
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Secretary of State,,R,"Husted, Jon",35
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Treasurer of State,,R,"Mandel, Josh",32
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",9
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,U.S. House of Representatives,09,R,"May, Richard",20
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,State House of Representatives,89,R,"Kraus, Steven W.",30
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Governor/Lieutenant Governor,,R,"Kasich, John",37
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Attorney General,,R,"DeWine, Mike",35
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Auditor of State,,R,"Yost, Dave",36
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Secretary of State,,R,"Husted, Jon",36
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Treasurer of State,,R,"Mandel, Josh",36
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",9
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,U.S. House of Representatives,09,R,"May, Richard",26
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,State House of Representatives,89,R,"Kraus, Steven W.",32
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Governor/Lieutenant Governor,,R,"Kasich, John",44
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Attorney General,,R,"DeWine, Mike",48
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Auditor of State,,R,"Yost, Dave",45
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Secretary of State,,R,"Husted, Jon",46
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Treasurer of State,,R,"Mandel, Josh",45
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",9
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,U.S. House of Representatives,09,R,"May, Richard",26
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,State House of Representatives,89,R,"Kraus, Steven W.",39
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Governor/Lieutenant Governor,,R,"Kasich, John",14
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Attorney General,,R,"DeWine, Mike",16
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Auditor of State,,R,"Yost, Dave",13
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Secretary of State,,R,"Husted, Jon",13
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Treasurer of State,,R,"Mandel, Josh",15
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",5
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,U.S. House of Representatives,09,R,"May, Richard",12
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,State House of Representatives,89,R,"Kraus, Steven W.",13
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Governor/Lieutenant Governor,,R,"Kasich, John",33
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Attorney General,,R,"DeWine, Mike",32
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Auditor of State,,R,"Yost, Dave",28
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Secretary of State,,R,"Husted, Jon",30
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Treasurer of State,,R,"Mandel, Josh",34
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",3
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,U.S. House of Representatives,09,R,"May, Richard",27
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,State House of Representatives,89,R,"Kraus, Steven W.",32
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Governor/Lieutenant Governor,,R,"Kasich, John",25
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Attorney General,,R,"DeWine, Mike",27
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Auditor of State,,R,"Yost, Dave",24
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Secretary of State,,R,"Husted, Jon",23
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Treasurer of State,,R,"Mandel, Josh",25
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",1
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,U.S. House of Representatives,09,R,"May, Richard",19
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,State House of Representatives,89,R,"Kraus, Steven W.",24
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Governor/Lieutenant Governor,,R,"Kasich, John",24
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Attorney General,,R,"DeWine, Mike",21
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Auditor of State,,R,"Yost, Dave",21
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Secretary of State,,R,"Husted, Jon",20
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Treasurer of State,,R,"Mandel, Josh",21
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",5
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,U.S. House of Representatives,09,R,"May, Richard",19
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,State House of Representatives,89,R,"Kraus, Steven W.",22
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Attorney General,,R,"DeWine, Mike",27
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Auditor of State,,R,"Yost, Dave",26
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Secretary of State,,R,"Husted, Jon",26
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Treasurer of State,,R,"Mandel, Josh",26
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",4
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,U.S. House of Representatives,09,R,"May, Richard",23
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,State House of Representatives,89,R,"Kraus, Steven W.",27
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Attorney General,,R,"DeWine, Mike",28
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Auditor of State,,R,"Yost, Dave",27
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Secretary of State,,R,"Husted, Jon",26
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Treasurer of State,,R,"Mandel, Josh",26
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",5
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,U.S. House of Representatives,09,R,"May, Richard",21
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,State House of Representatives,89,R,"Kraus, Steven W.",24
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Governor/Lieutenant Governor,,R,"Kasich, John",51
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Attorney General,,R,"DeWine, Mike",54
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Auditor of State,,R,"Yost, Dave",51
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Secretary of State,,R,"Husted, Jon",49
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Treasurer of State,,R,"Mandel, Josh",50
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",6
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,U.S. House of Representatives,09,R,"May, Richard",43
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,State House of Representatives,89,R,"Kraus, Steven W.",45
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Governor/Lieutenant Governor,,R,"Kasich, John",37
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Attorney General,,R,"DeWine, Mike",36
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Auditor of State,,R,"Yost, Dave",34
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Secretary of State,,R,"Husted, Jon",35
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Treasurer of State,,R,"Mandel, Josh",34
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",8
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,U.S. House of Representatives,09,R,"May, Richard",23
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,State House of Representatives,89,R,"Kraus, Steven W.",33
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Governor/Lieutenant Governor,,R,"Kasich, John",25
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Attorney General,,R,"DeWine, Mike",24
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Auditor of State,,R,"Yost, Dave",23
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Secretary of State,,R,"Husted, Jon",22
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Treasurer of State,,R,"Mandel, Josh",24
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",2
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,U.S. House of Representatives,09,R,"May, Richard",21
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,State House of Representatives,89,R,"Kraus, Steven W.",23
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Attorney General,,R,"DeWine, Mike",40
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Auditor of State,,R,"Yost, Dave",39
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Secretary of State,,R,"Husted, Jon",40
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Treasurer of State,,R,"Mandel, Josh",36
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",9
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,U.S. House of Representatives,09,R,"May, Richard",23
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,State House of Representatives,89,R,"Kraus, Steven W.",33
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Governor/Lieutenant Governor,,R,"Kasich, John",33
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Attorney General,,R,"DeWine, Mike",32
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Auditor of State,,R,"Yost, Dave",26
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Secretary of State,,R,"Husted, Jon",27
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Treasurer of State,,R,"Mandel, Josh",29
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",7
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,U.S. House of Representatives,09,R,"May, Richard",25
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,State House of Representatives,89,R,"Kraus, Steven W.",28
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Attorney General,,R,"DeWine, Mike",27
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Auditor of State,,R,"Yost, Dave",28
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Secretary of State,,R,"Husted, Jon",28
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Treasurer of State,,R,"Mandel, Josh",27
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",13
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,U.S. House of Representatives,09,R,"May, Richard",15
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,State House of Representatives,89,R,"Kraus, Steven W.",28
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Governor/Lieutenant Governor,,R,"Kasich, John",46
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Attorney General,,R,"DeWine, Mike",43
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Auditor of State,,R,"Yost, Dave",44
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Secretary of State,,R,"Husted, Jon",43
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Treasurer of State,,R,"Mandel, Josh",44
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",8
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,U.S. House of Representatives,09,R,"May, Richard",32
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,State House of Representatives,89,R,"Kraus, Steven W.",37
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Governor/Lieutenant Governor,,R,"Kasich, John",32
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Attorney General,,R,"DeWine, Mike",31
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Auditor of State,,R,"Yost, Dave",28
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Secretary of State,,R,"Husted, Jon",29
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Treasurer of State,,R,"Mandel, Josh",33
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",10
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,U.S. House of Representatives,09,R,"May, Richard",17
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,State House of Representatives,89,R,"Kraus, Steven W.",24
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Governor/Lieutenant Governor,,R,"Kasich, John",34
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Attorney General,,R,"DeWine, Mike",29
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Auditor of State,,R,"Yost, Dave",27
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Secretary of State,,R,"Husted, Jon",29
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Treasurer of State,,R,"Mandel, Josh",31
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",8
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,U.S. House of Representatives,09,R,"May, Richard",22
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,State House of Representatives,89,R,"Kraus, Steven W.",26
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Governor/Lieutenant Governor,,R,"Kasich, John",18
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Attorney General,,R,"DeWine, Mike",19
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Auditor of State,,R,"Yost, Dave",18
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Secretary of State,,R,"Husted, Jon",18
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Treasurer of State,,R,"Mandel, Josh",16
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",8
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,U.S. House of Representatives,09,R,"May, Richard",10
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,State House of Representatives,89,R,"Kraus, Steven W.",16
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Governor/Lieutenant Governor,,R,"Kasich, John",36
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Attorney General,,R,"DeWine, Mike",35
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Auditor of State,,R,"Yost, Dave",32
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Secretary of State,,R,"Husted, Jon",34
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Treasurer of State,,R,"Mandel, Josh",35
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,U.S. House of Representatives,04,R,"Jordan, Jim",0
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,U.S. House of Representatives,09,R,"Horrocks Jr., Robert C.",6
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,U.S. House of Representatives,09,R,"May, Richard",20
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,State House of Representatives,89,R,"Kraus, Steven W.",29

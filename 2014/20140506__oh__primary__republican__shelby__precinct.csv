@@ -1,0 +1,351 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,Governor/Lieutenant Governor,,R,"Kasich, John",57
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,Attorney General,,R,"DeWine, Mike",58
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,Auditor of State,,R,"Yost, Dave",52
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,Secretary of State,,R,"Husted, Jon",53
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,Treasurer of State,,R,"Mandel, Josh",55
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,U.S. House of Representatives,04,R,"Jordan, Jim",63
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,State House of Representatives,84,R,"Buchy, Jim",53
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABE,ANNA VILLAGE,West,Dayton,976,107,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,Governor/Lieutenant Governor,,R,"Kasich, John",146
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,Attorney General,,R,"DeWine, Mike",142
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,Auditor of State,,R,"Yost, Dave",134
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,Secretary of State,,R,"Husted, Jon",137
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,Treasurer of State,,R,"Mandel, Josh",136
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,U.S. House of Representatives,04,R,"Jordan, Jim",142
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,State House of Representatives,84,R,"Buchy, Jim",131
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABH,BOTKINS VILLAGE,West,Dayton,867,243,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,AAZ,CLINTON,West,Dayton,632,290,Governor/Lieutenant Governor,,R,"Kasich, John",151
+Shelby,AAZ,CLINTON,West,Dayton,632,290,Attorney General,,R,"DeWine, Mike",154
+Shelby,AAZ,CLINTON,West,Dayton,632,290,Auditor of State,,R,"Yost, Dave",144
+Shelby,AAZ,CLINTON,West,Dayton,632,290,Secretary of State,,R,"Husted, Jon",145
+Shelby,AAZ,CLINTON,West,Dayton,632,290,Treasurer of State,,R,"Mandel, Josh",145
+Shelby,AAZ,CLINTON,West,Dayton,632,290,U.S. House of Representatives,04,R,"Jordan, Jim",155
+Shelby,AAZ,CLINTON,West,Dayton,632,290,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAZ,CLINTON,West,Dayton,632,290,State House of Representatives,85,R,"Chamberlain, C. Douglas",61
+Shelby,AAZ,CLINTON,West,Dayton,632,290,State House of Representatives,85,R,"Luckey III, Robert J.",31
+Shelby,AAZ,CLINTON,West,Dayton,632,290,State House of Representatives,85,R,"Vitale, Nino",80
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,Governor/Lieutenant Governor,,R,"Kasich, John",68
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,Attorney General,,R,"DeWine, Mike",64
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,Auditor of State,,R,"Yost, Dave",62
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,Secretary of State,,R,"Husted, Jon",65
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,Treasurer of State,,R,"Mandel, Josh",64
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,U.S. House of Representatives,04,R,"Jordan, Jim",72
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,State House of Representatives,84,R,"Buchy, Jim",68
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABC,CYNTHIAN EAST,West,Dayton,595,133,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,Governor/Lieutenant Governor,,R,"Kasich, John",86
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,Attorney General,,R,"DeWine, Mike",85
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,Auditor of State,,R,"Yost, Dave",73
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,Secretary of State,,R,"Husted, Jon",79
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,Treasurer of State,,R,"Mandel, Josh",79
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,U.S. House of Representatives,04,R,"Jordan, Jim",95
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,State House of Representatives,84,R,"Buchy, Jim",79
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABD,CYNTHIAN WEST,West,Dayton,799,178,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABF,DINSMORE,West,Dayton,986,220,Governor/Lieutenant Governor,,R,"Kasich, John",154
+Shelby,ABF,DINSMORE,West,Dayton,986,220,Attorney General,,R,"DeWine, Mike",146
+Shelby,ABF,DINSMORE,West,Dayton,986,220,Auditor of State,,R,"Yost, Dave",136
+Shelby,ABF,DINSMORE,West,Dayton,986,220,Secretary of State,,R,"Husted, Jon",139
+Shelby,ABF,DINSMORE,West,Dayton,986,220,Treasurer of State,,R,"Mandel, Josh",148
+Shelby,ABF,DINSMORE,West,Dayton,986,220,U.S. House of Representatives,04,R,"Jordan, Jim",159
+Shelby,ABF,DINSMORE,West,Dayton,986,220,State House of Representatives,84,R,"Buchy, Jim",137
+Shelby,ABF,DINSMORE,West,Dayton,986,220,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABF,DINSMORE,West,Dayton,986,220,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABF,DINSMORE,West,Dayton,986,220,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,Governor/Lieutenant Governor,,R,"Kasich, John",146
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,Attorney General,,R,"DeWine, Mike",149
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,Auditor of State,,R,"Yost, Dave",131
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,Secretary of State,,R,"Husted, Jon",132
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,Treasurer of State,,R,"Mandel, Josh",141
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,U.S. House of Representatives,04,R,"Jordan, Jim",156
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,State House of Representatives,84,R,"Buchy, Jim",137
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABX,FORT LORAMIE VILLAGE,West,Dayton,1066,319,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,Governor/Lieutenant Governor,,R,"Kasich, John",198
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,Attorney General,,R,"DeWine, Mike",194
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,Auditor of State,,R,"Yost, Dave",179
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,Secretary of State,,R,"Husted, Jon",188
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,Treasurer of State,,R,"Mandel, Josh",185
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,U.S. House of Representatives,04,R,"Jordan, Jim",212
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,State House of Representatives,85,R,"Chamberlain, C. Douglas",59
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,State House of Representatives,85,R,"Luckey III, Robert J.",32
+Shelby,ABK,FRANKLIN,West,Dayton,1200,301,State House of Representatives,85,R,"Vitale, Nino",147
+Shelby,ABM,GREEN,West,Dayton,644,143,Governor/Lieutenant Governor,,R,"Kasich, John",104
+Shelby,ABM,GREEN,West,Dayton,644,143,Attorney General,,R,"DeWine, Mike",101
+Shelby,ABM,GREEN,West,Dayton,644,143,Auditor of State,,R,"Yost, Dave",100
+Shelby,ABM,GREEN,West,Dayton,644,143,Secretary of State,,R,"Husted, Jon",101
+Shelby,ABM,GREEN,West,Dayton,644,143,Treasurer of State,,R,"Mandel, Josh",103
+Shelby,ABM,GREEN,West,Dayton,644,143,U.S. House of Representatives,04,R,"Jordan, Jim",113
+Shelby,ABM,GREEN,West,Dayton,644,143,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,ABM,GREEN,West,Dayton,644,143,State House of Representatives,85,R,"Chamberlain, C. Douglas",38
+Shelby,ABM,GREEN,West,Dayton,644,143,State House of Representatives,85,R,"Luckey III, Robert J.",23
+Shelby,ABM,GREEN,West,Dayton,644,143,State House of Representatives,85,R,"Vitale, Nino",56
+Shelby,ABO,JACKSON,West,Dayton,692,144,Governor/Lieutenant Governor,,R,"Kasich, John",100
+Shelby,ABO,JACKSON,West,Dayton,692,144,Attorney General,,R,"DeWine, Mike",97
+Shelby,ABO,JACKSON,West,Dayton,692,144,Auditor of State,,R,"Yost, Dave",88
+Shelby,ABO,JACKSON,West,Dayton,692,144,Secretary of State,,R,"Husted, Jon",89
+Shelby,ABO,JACKSON,West,Dayton,692,144,Treasurer of State,,R,"Mandel, Josh",99
+Shelby,ABO,JACKSON,West,Dayton,692,144,U.S. House of Representatives,04,R,"Jordan, Jim",106
+Shelby,ABO,JACKSON,West,Dayton,692,144,State House of Representatives,84,R,"Buchy, Jim",89
+Shelby,ABO,JACKSON,West,Dayton,692,144,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABO,JACKSON,West,Dayton,692,144,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABO,JACKSON,West,Dayton,692,144,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,Governor/Lieutenant Governor,,R,"Kasich, John",93
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,Attorney General,,R,"DeWine, Mike",98
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,Auditor of State,,R,"Yost, Dave",79
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,Secretary of State,,R,"Husted, Jon",81
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,Treasurer of State,,R,"Mandel, Josh",85
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,U.S. House of Representatives,04,R,"Jordan, Jim",99
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,State House of Representatives,84,R,"Buchy, Jim",88
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABQ,JACKSON CENTER,West,Dayton,970,152,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,Governor/Lieutenant Governor,,R,"Kasich, John",109
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,Attorney General,,R,"DeWine, Mike",114
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,Auditor of State,,R,"Yost, Dave",103
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,Secretary of State,,R,"Husted, Jon",108
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,Treasurer of State,,R,"Mandel, Josh",100
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,U.S. House of Representatives,04,R,"Jordan, Jim",120
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,State House of Representatives,84,R,"Buchy, Jim",104
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABS,LORAMIE EAST,West,Dayton,776,157,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,Governor/Lieutenant Governor,,R,"Kasich, John",184
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,Attorney General,,R,"DeWine, Mike",179
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,Auditor of State,,R,"Yost, Dave",158
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,Secretary of State,,R,"Husted, Jon",165
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,Treasurer of State,,R,"Mandel, Josh",169
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,U.S. House of Representatives,04,R,"Jordan, Jim",201
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,State House of Representatives,84,R,"Buchy, Jim",172
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABU,LORAMIE WEST,West,Dayton,947,280,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,Governor/Lieutenant Governor,,R,"Kasich, John",129
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,Attorney General,,R,"DeWine, Mike",128
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,Auditor of State,,R,"Yost, Dave",118
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,Secretary of State,,R,"Husted, Jon",119
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,Treasurer of State,,R,"Mandel, Josh",116
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,U.S. House of Representatives,04,R,"Jordan, Jim",135
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,State House of Representatives,84,R,"Buchy, Jim",121
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ABV,MCLEAN,West,Dayton,1215,217,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ABZ,ORANGE,West,Dayton,917,420,Governor/Lieutenant Governor,,R,"Kasich, John",223
+Shelby,ABZ,ORANGE,West,Dayton,917,420,Attorney General,,R,"DeWine, Mike",217
+Shelby,ABZ,ORANGE,West,Dayton,917,420,Auditor of State,,R,"Yost, Dave",194
+Shelby,ABZ,ORANGE,West,Dayton,917,420,Secretary of State,,R,"Husted, Jon",199
+Shelby,ABZ,ORANGE,West,Dayton,917,420,Treasurer of State,,R,"Mandel, Josh",208
+Shelby,ABZ,ORANGE,West,Dayton,917,420,U.S. House of Representatives,04,R,"Jordan, Jim",241
+Shelby,ABZ,ORANGE,West,Dayton,917,420,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,ABZ,ORANGE,West,Dayton,917,420,State House of Representatives,85,R,"Chamberlain, C. Douglas",71
+Shelby,ABZ,ORANGE,West,Dayton,917,420,State House of Representatives,85,R,"Luckey III, Robert J.",38
+Shelby,ABZ,ORANGE,West,Dayton,917,420,State House of Representatives,85,R,"Vitale, Nino",145
+Shelby,ACB,PERRY,West,Dayton,692,133,Governor/Lieutenant Governor,,R,"Kasich, John",94
+Shelby,ACB,PERRY,West,Dayton,692,133,Attorney General,,R,"DeWine, Mike",95
+Shelby,ACB,PERRY,West,Dayton,692,133,Auditor of State,,R,"Yost, Dave",89
+Shelby,ACB,PERRY,West,Dayton,692,133,Secretary of State,,R,"Husted, Jon",89
+Shelby,ACB,PERRY,West,Dayton,692,133,Treasurer of State,,R,"Mandel, Josh",92
+Shelby,ACB,PERRY,West,Dayton,692,133,U.S. House of Representatives,04,R,"Jordan, Jim",101
+Shelby,ACB,PERRY,West,Dayton,692,133,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,ACB,PERRY,West,Dayton,692,133,State House of Representatives,85,R,"Chamberlain, C. Douglas",28
+Shelby,ACB,PERRY,West,Dayton,692,133,State House of Representatives,85,R,"Luckey III, Robert J.",18
+Shelby,ACB,PERRY,West,Dayton,692,133,State House of Representatives,85,R,"Vitale, Nino",63
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,Governor/Lieutenant Governor,,R,"Kasich, John",137
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,Attorney General,,R,"DeWine, Mike",130
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,Auditor of State,,R,"Yost, Dave",121
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,Secretary of State,,R,"Husted, Jon",122
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,Treasurer of State,,R,"Mandel, Josh",125
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,U.S. House of Representatives,04,R,"Jordan, Jim",139
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,State House of Representatives,85,R,"Chamberlain, C. Douglas",38
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,State House of Representatives,85,R,"Luckey III, Robert J.",19
+Shelby,ACD,SALEM EAST,West,Dayton,808,264,State House of Representatives,85,R,"Vitale, Nino",111
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,Governor/Lieutenant Governor,,R,"Kasich, John",168
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,Attorney General,,R,"DeWine, Mike",163
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,Auditor of State,,R,"Yost, Dave",149
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,Secretary of State,,R,"Husted, Jon",153
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,Treasurer of State,,R,"Mandel, Josh",163
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,U.S. House of Representatives,04,R,"Jordan, Jim",187
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,State House of Representatives,85,R,"Chamberlain, C. Douglas",39
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,State House of Representatives,85,R,"Luckey III, Robert J.",26
+Shelby,ACF,SALEM WEST,West,Dayton,723,319,State House of Representatives,85,R,"Vitale, Nino",130
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,Governor/Lieutenant Governor,,R,"Kasich, John",121
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,Attorney General,,R,"DeWine, Mike",120
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,Auditor of State,,R,"Yost, Dave",106
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,Secretary of State,,R,"Husted, Jon",107
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,Treasurer of State,,R,"Mandel, Josh",106
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,U.S. House of Representatives,04,R,"Jordan, Jim",128
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,State House of Representatives,85,R,"Chamberlain, C. Douglas",24
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,State House of Representatives,85,R,"Luckey III, Robert J.",52
+Shelby,AAB,SIDNEY 1-A,West,Dayton,1033,236,State House of Representatives,85,R,"Vitale, Nino",59
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,Governor/Lieutenant Governor,,R,"Kasich, John",240
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,Attorney General,,R,"DeWine, Mike",240
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,Auditor of State,,R,"Yost, Dave",229
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,Secretary of State,,R,"Husted, Jon",231
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,Treasurer of State,,R,"Mandel, Josh",229
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,U.S. House of Representatives,04,R,"Jordan, Jim",249
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,State House of Representatives,85,R,"Chamberlain, C. Douglas",55
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,State House of Representatives,85,R,"Luckey III, Robert J.",60
+Shelby,AAA,SIDNEY 1-B,West,Dayton,1225,414,State House of Representatives,85,R,"Vitale, Nino",145
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,Governor/Lieutenant Governor,,R,"Kasich, John",308
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,Attorney General,,R,"DeWine, Mike",306
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,Auditor of State,,R,"Yost, Dave",289
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,Secretary of State,,R,"Husted, Jon",289
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,Treasurer of State,,R,"Mandel, Josh",297
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,U.S. House of Representatives,04,R,"Jordan, Jim",333
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,State House of Representatives,85,R,"Chamberlain, C. Douglas",66
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,State House of Representatives,85,R,"Luckey III, Robert J.",65
+Shelby,AAF,SIDNEY 1-C,West,Dayton,1192,524,State House of Representatives,85,R,"Vitale, Nino",221
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,Governor/Lieutenant Governor,,R,"Kasich, John",74
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,Attorney General,,R,"DeWine, Mike",75
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,Auditor of State,,R,"Yost, Dave",67
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,Secretary of State,,R,"Husted, Jon",69
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,Treasurer of State,,R,"Mandel, Josh",69
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,U.S. House of Representatives,04,R,"Jordan, Jim",75
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,State House of Representatives,85,R,"Chamberlain, C. Douglas",16
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,State House of Representatives,85,R,"Luckey III, Robert J.",30
+Shelby,AAH,SIDNEY 2-A,West,Dayton,935,182,State House of Representatives,85,R,"Vitale, Nino",35
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,Governor/Lieutenant Governor,,R,"Kasich, John",175
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,Attorney General,,R,"DeWine, Mike",177
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,Auditor of State,,R,"Yost, Dave",160
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,Secretary of State,,R,"Husted, Jon",162
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,Treasurer of State,,R,"Mandel, Josh",164
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,U.S. House of Representatives,04,R,"Jordan, Jim",188
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,State House of Representatives,85,R,"Chamberlain, C. Douglas",46
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,State House of Representatives,85,R,"Luckey III, Robert J.",50
+Shelby,AAJ,SIDNEY 2-B,West,Dayton,823,383,State House of Representatives,85,R,"Vitale, Nino",109
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,Governor/Lieutenant Governor,,R,"Kasich, John",104
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,Attorney General,,R,"DeWine, Mike",107
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,Auditor of State,,R,"Yost, Dave",95
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,Secretary of State,,R,"Husted, Jon",100
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,Treasurer of State,,R,"Mandel, Josh",99
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,U.S. House of Representatives,04,R,"Jordan, Jim",112
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,State House of Representatives,85,R,"Chamberlain, C. Douglas",34
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,State House of Representatives,85,R,"Luckey III, Robert J.",27
+Shelby,AAL,SIDNEY 2-C,West,Dayton,603,225,State House of Representatives,85,R,"Vitale, Nino",63
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,Governor/Lieutenant Governor,,R,"Kasich, John",165
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,Attorney General,,R,"DeWine, Mike",167
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,Auditor of State,,R,"Yost, Dave",154
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,Secretary of State,,R,"Husted, Jon",157
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,Treasurer of State,,R,"Mandel, Josh",164
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,U.S. House of Representatives,04,R,"Jordan, Jim",178
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,State House of Representatives,85,R,"Chamberlain, C. Douglas",23
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,State House of Representatives,85,R,"Luckey III, Robert J.",59
+Shelby,AAM,SIDNEY 2-D,West,Dayton,1105,323,State House of Representatives,85,R,"Vitale, Nino",100
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,Governor/Lieutenant Governor,,R,"Kasich, John",76
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,Attorney General,,R,"DeWine, Mike",71
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,Auditor of State,,R,"Yost, Dave",66
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,Secretary of State,,R,"Husted, Jon",70
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,Treasurer of State,,R,"Mandel, Josh",69
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,U.S. House of Representatives,04,R,"Jordan, Jim",79
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,State House of Representatives,85,R,"Chamberlain, C. Douglas",11
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,State House of Representatives,85,R,"Luckey III, Robert J.",27
+Shelby,AAN,SIDNEY 3-A,West,Dayton,1374,218,State House of Representatives,85,R,"Vitale, Nino",40
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,Governor/Lieutenant Governor,,R,"Kasich, John",168
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,Attorney General,,R,"DeWine, Mike",165
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,Auditor of State,,R,"Yost, Dave",150
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,Secretary of State,,R,"Husted, Jon",149
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,Treasurer of State,,R,"Mandel, Josh",160
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,U.S. House of Representatives,04,R,"Jordan, Jim",182
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,State House of Representatives,85,R,"Chamberlain, C. Douglas",43
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,State House of Representatives,85,R,"Luckey III, Robert J.",72
+Shelby,AAQ,SIDNEY 3-B,West,Dayton,1583,376,State House of Representatives,85,R,"Vitale, Nino",79
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,Governor/Lieutenant Governor,,R,"Kasich, John",77
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,Attorney General,,R,"DeWine, Mike",77
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,Auditor of State,,R,"Yost, Dave",68
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,Secretary of State,,R,"Husted, Jon",68
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,Treasurer of State,,R,"Mandel, Josh",75
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,U.S. House of Representatives,04,R,"Jordan, Jim",84
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,State House of Representatives,85,R,"Chamberlain, C. Douglas",21
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,State House of Representatives,85,R,"Luckey III, Robert J.",30
+Shelby,AAS,SIDNEY 4-A,West,Dayton,1069,164,State House of Representatives,85,R,"Vitale, Nino",41
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,Governor/Lieutenant Governor,,R,"Kasich, John",103
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,Attorney General,,R,"DeWine, Mike",101
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,Auditor of State,,R,"Yost, Dave",93
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,Secretary of State,,R,"Husted, Jon",92
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,Treasurer of State,,R,"Mandel, Josh",97
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,U.S. House of Representatives,04,R,"Jordan, Jim",110
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,State House of Representatives,85,R,"Chamberlain, C. Douglas",23
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,State House of Representatives,85,R,"Luckey III, Robert J.",44
+Shelby,AAT,SIDNEY 4-B,West,Dayton,664,223,State House of Representatives,85,R,"Vitale, Nino",45
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,Governor/Lieutenant Governor,,R,"Kasich, John",143
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,Attorney General,,R,"DeWine, Mike",139
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,Auditor of State,,R,"Yost, Dave",128
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,Secretary of State,,R,"Husted, Jon",130
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,Treasurer of State,,R,"Mandel, Josh",133
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,U.S. House of Representatives,04,R,"Jordan, Jim",148
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,State House of Representatives,85,R,"Chamberlain, C. Douglas",30
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,State House of Representatives,85,R,"Luckey III, Robert J.",54
+Shelby,AAU,SIDNEY 4-C,West,Dayton,821,273,State House of Representatives,85,R,"Vitale, Nino",67
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,Governor/Lieutenant Governor,,R,"Kasich, John",253
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,Attorney General,,R,"DeWine, Mike",253
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,Auditor of State,,R,"Yost, Dave",237
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,Secretary of State,,R,"Husted, Jon",243
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,Treasurer of State,,R,"Mandel, Josh",235
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,U.S. House of Representatives,04,R,"Jordan, Jim",268
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,State House of Representatives,85,R,"Chamberlain, C. Douglas",64
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,State House of Representatives,85,R,"Luckey III, Robert J.",75
+Shelby,AAY,SIDNEY 4-D,West,Dayton,931,424,State House of Representatives,85,R,"Vitale, Nino",137
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,Governor/Lieutenant Governor,,R,"Kasich, John",98
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,Attorney General,,R,"DeWine, Mike",100
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,Auditor of State,,R,"Yost, Dave",100
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,Secretary of State,,R,"Husted, Jon",103
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,Treasurer of State,,R,"Mandel, Josh",105
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,U.S. House of Representatives,04,R,"Jordan, Jim",109
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,State House of Representatives,84,R,"Buchy, Jim",97
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ACG,TURTLE CREEK,West,Dayton,1045,169,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,Governor/Lieutenant Governor,,R,"Kasich, John",70
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,Attorney General,,R,"DeWine, Mike",68
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,Auditor of State,,R,"Yost, Dave",61
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,Secretary of State,,R,"Husted, Jon",62
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,Treasurer of State,,R,"Mandel, Josh",65
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,U.S. House of Representatives,04,R,"Jordan, Jim",73
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,State House of Representatives,84,R,"Buchy, Jim",61
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ACJ,VAN BUREN NORTH,West,Dayton,687,97,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,Governor/Lieutenant Governor,,R,"Kasich, John",80
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,Attorney General,,R,"DeWine, Mike",78
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,Auditor of State,,R,"Yost, Dave",73
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,Secretary of State,,R,"Husted, Jon",74
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,Treasurer of State,,R,"Mandel, Josh",79
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,U.S. House of Representatives,04,R,"Jordan, Jim",89
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,State House of Representatives,84,R,"Buchy, Jim",80
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,State House of Representatives,85,R,"Chamberlain, C. Douglas",0
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,State House of Representatives,85,R,"Luckey III, Robert J.",0
+Shelby,ACL,VAN BUREN SOUTH,West,Dayton,870,126,State House of Representatives,85,R,"Vitale, Nino",0
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,Governor/Lieutenant Governor,,R,"Kasich, John",121
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,Attorney General,,R,"DeWine, Mike",116
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,Auditor of State,,R,"Yost, Dave",108
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,Secretary of State,,R,"Husted, Jon",111
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,Treasurer of State,,R,"Mandel, Josh",119
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,U.S. House of Representatives,04,R,"Jordan, Jim",123
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,State House of Representatives,84,R,"Buchy, Jim",0
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,State House of Representatives,85,R,"Chamberlain, C. Douglas",46
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,State House of Representatives,85,R,"Luckey III, Robert J.",37
+Shelby,ACN,WASHINGTON,West,Dayton,1321,187,State House of Representatives,85,R,"Vitale, Nino",54

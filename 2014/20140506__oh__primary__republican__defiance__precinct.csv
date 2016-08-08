@@ -1,0 +1,364 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,Governor/Lieutenant Governor,,R,"Kasich, John",91
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,Attorney General,,R,"DeWine, Mike",86
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,Auditor of State,,R,"Yost, Dave",78
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,Secretary of State,,R,"Husted, Jon",83
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,Treasurer of State,,R,"Mandel, Josh",82
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,U.S. House of Representatives,05,R,"Latta, Bob",90
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,State Senate,01,R,"Hite, Cliff",57
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,State Senate,01,R,"Schaffner, Milo",17
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,State Senate,01,R,"Shankleton, Corey",14
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,State House of Representatives,82,R,"Burkley, Tony",68
+Defiance,AAT,PRECINCT ADAMS TWP,Northwest,Toledo,706,149,State House of Representatives,82,R,"Eley, Brett W.",11
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,Governor/Lieutenant Governor,,R,"Kasich, John",225
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,Attorney General,,R,"DeWine, Mike",222
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,Auditor of State,,R,"Yost, Dave",209
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,Secretary of State,,R,"Husted, Jon",212
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,Treasurer of State,,R,"Mandel, Josh",211
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,U.S. House of Representatives,05,R,"Latta, Bob",230
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,State Senate,01,R,"Hite, Cliff",143
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,State Senate,01,R,"Schaffner, Milo",39
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,State Senate,01,R,"Shankleton, Corey",35
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,State House of Representatives,82,R,"Burkley, Tony",162
+Defiance,AAA,PRECINCT DEFIANCE CITY 1-C,Northwest,Toledo,1136,429,State House of Representatives,82,R,"Eley, Brett W.",35
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,Governor/Lieutenant Governor,,R,"Kasich, John",209
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,Attorney General,,R,"DeWine, Mike",203
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,Auditor of State,,R,"Yost, Dave",178
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,Secretary of State,,R,"Husted, Jon",186
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,Treasurer of State,,R,"Mandel, Josh",182
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,U.S. House of Representatives,05,R,"Latta, Bob",208
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,State Senate,01,R,"Hite, Cliff",118
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,State Senate,01,R,"Schaffner, Milo",37
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,State Senate,01,R,"Shankleton, Corey",30
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,State House of Representatives,82,R,"Burkley, Tony",139
+Defiance,AAB,PRECINCT DEFIANCE CITY 1-E,Northwest,Toledo,848,407,State House of Representatives,82,R,"Eley, Brett W.",27
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,Governor/Lieutenant Governor,,R,"Kasich, John",107
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,Attorney General,,R,"DeWine, Mike",105
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,Auditor of State,,R,"Yost, Dave",92
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,Secretary of State,,R,"Husted, Jon",99
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,Treasurer of State,,R,"Mandel, Josh",97
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,U.S. House of Representatives,05,R,"Latta, Bob",105
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,State Senate,01,R,"Hite, Cliff",56
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,State Senate,01,R,"Schaffner, Milo",20
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,State Senate,01,R,"Shankleton, Corey",25
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,State House of Representatives,82,R,"Burkley, Tony",76
+Defiance,AAE,PRECINCT DEFIANCE CITY 1-H,Northwest,Toledo,934,230,State House of Representatives,82,R,"Eley, Brett W.",22
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,Governor/Lieutenant Governor,,R,"Kasich, John",95
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,Attorney General,,R,"DeWine, Mike",93
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,Auditor of State,,R,"Yost, Dave",85
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,Secretary of State,,R,"Husted, Jon",87
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,Treasurer of State,,R,"Mandel, Josh",88
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,U.S. House of Representatives,05,R,"Latta, Bob",94
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,State Senate,01,R,"Hite, Cliff",59
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,State Senate,01,R,"Schaffner, Milo",14
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,State Senate,01,R,"Shankleton, Corey",17
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,State House of Representatives,82,R,"Burkley, Tony",62
+Defiance,AAF,PRECINCT DEFIANCE CITY 2-A,Northwest,Toledo,768,203,State House of Representatives,82,R,"Eley, Brett W.",17
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,Governor/Lieutenant Governor,,R,"Kasich, John",57
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,Attorney General,,R,"DeWine, Mike",56
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,Auditor of State,,R,"Yost, Dave",53
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,Secretary of State,,R,"Husted, Jon",53
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,Treasurer of State,,R,"Mandel, Josh",55
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,U.S. House of Representatives,05,R,"Latta, Bob",58
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,State Senate,01,R,"Hite, Cliff",31
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,State Senate,01,R,"Schaffner, Milo",15
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,State Senate,01,R,"Shankleton, Corey",14
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,State House of Representatives,82,R,"Burkley, Tony",45
+Defiance,AAH,PRECINCT DEFIANCE CITY 2-C,Northwest,Toledo,755,142,State House of Representatives,82,R,"Eley, Brett W.",12
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,Governor/Lieutenant Governor,,R,"Kasich, John",146
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,Attorney General,,R,"DeWine, Mike",139
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,Auditor of State,,R,"Yost, Dave",123
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,Secretary of State,,R,"Husted, Jon",130
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,Treasurer of State,,R,"Mandel, Josh",130
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,U.S. House of Representatives,05,R,"Latta, Bob",146
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,State Senate,01,R,"Hite, Cliff",84
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,State Senate,01,R,"Schaffner, Milo",28
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,State Senate,01,R,"Shankleton, Corey",24
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,State House of Representatives,82,R,"Burkley, Tony",111
+Defiance,AAI,PRECINCT DEFIANCE CITY 2-D,Northwest,Toledo,1140,364,State House of Representatives,82,R,"Eley, Brett W.",14
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,Governor/Lieutenant Governor,,R,"Kasich, John",124
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,Attorney General,,R,"DeWine, Mike",111
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,Auditor of State,,R,"Yost, Dave",106
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,Secretary of State,,R,"Husted, Jon",108
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,Treasurer of State,,R,"Mandel, Josh",107
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,U.S. House of Representatives,05,R,"Latta, Bob",124
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,State Senate,01,R,"Hite, Cliff",69
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,State Senate,01,R,"Schaffner, Milo",23
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,State Senate,01,R,"Shankleton, Corey",28
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,State House of Representatives,82,R,"Burkley, Tony",80
+Defiance,AAL,PRECINCT DEFIANCE CITY 3-B,Northwest,Toledo,921,246,State House of Representatives,82,R,"Eley, Brett W.",24
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,Governor/Lieutenant Governor,,R,"Kasich, John",74
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,Attorney General,,R,"DeWine, Mike",76
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,Auditor of State,,R,"Yost, Dave",70
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,Secretary of State,,R,"Husted, Jon",72
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,Treasurer of State,,R,"Mandel, Josh",70
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,U.S. House of Representatives,05,R,"Latta, Bob",75
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,State Senate,01,R,"Hite, Cliff",45
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,State Senate,01,R,"Schaffner, Milo",13
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,State Senate,01,R,"Shankleton, Corey",12
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,State House of Representatives,82,R,"Burkley, Tony",48
+Defiance,AAM,PRECINCT DEFIANCE CITY 3-C,Northwest,Toledo,778,166,State House of Representatives,82,R,"Eley, Brett W.",23
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,Governor/Lieutenant Governor,,R,"Kasich, John",254
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,Attorney General,,R,"DeWine, Mike",245
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,Auditor of State,,R,"Yost, Dave",219
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,Secretary of State,,R,"Husted, Jon",227
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,Treasurer of State,,R,"Mandel, Josh",228
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,U.S. House of Representatives,05,R,"Latta, Bob",255
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,State Senate,01,R,"Hite, Cliff",154
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,State Senate,01,R,"Schaffner, Milo",29
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,State Senate,01,R,"Shankleton, Corey",40
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,State House of Representatives,82,R,"Burkley, Tony",171
+Defiance,AAK,PRECINCT DEFIANCE CITY 3-D,Northwest,Toledo,1023,386,State House of Representatives,82,R,"Eley, Brett W.",23
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,Governor/Lieutenant Governor,,R,"Kasich, John",93
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,Attorney General,,R,"DeWine, Mike",91
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,Auditor of State,,R,"Yost, Dave",85
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,Secretary of State,,R,"Husted, Jon",86
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,Treasurer of State,,R,"Mandel, Josh",86
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,U.S. House of Representatives,05,R,"Latta, Bob",103
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,State Senate,01,R,"Hite, Cliff",60
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,State Senate,01,R,"Schaffner, Milo",17
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,State Senate,01,R,"Shankleton, Corey",15
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,State House of Representatives,82,R,"Burkley, Tony",71
+Defiance,AAP,PRECINCT DEFIANCE CITY 4-A,Northwest,Toledo,975,214,State House of Representatives,82,R,"Eley, Brett W.",14
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,Governor/Lieutenant Governor,,R,"Kasich, John",150
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,Attorney General,,R,"DeWine, Mike",150
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,Auditor of State,,R,"Yost, Dave",135
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,Secretary of State,,R,"Husted, Jon",147
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,Treasurer of State,,R,"Mandel, Josh",143
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,U.S. House of Representatives,05,R,"Latta, Bob",155
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,State Senate,01,R,"Hite, Cliff",85
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,State Senate,01,R,"Schaffner, Milo",33
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,State Senate,01,R,"Shankleton, Corey",35
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,State House of Representatives,82,R,"Burkley, Tony",112
+Defiance,AAR,PRECINCT DEFIANCE CITY 4-C,Northwest,Toledo,882,291,State House of Representatives,82,R,"Eley, Brett W.",24
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,Governor/Lieutenant Governor,,R,"Kasich, John",99
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,Attorney General,,R,"DeWine, Mike",93
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,Auditor of State,,R,"Yost, Dave",83
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,Secretary of State,,R,"Husted, Jon",86
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,Treasurer of State,,R,"Mandel, Josh",89
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,U.S. House of Representatives,05,R,"Latta, Bob",98
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,State Senate,01,R,"Hite, Cliff",45
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,State Senate,01,R,"Schaffner, Milo",19
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,State Senate,01,R,"Shankleton, Corey",23
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,State House of Representatives,82,R,"Burkley, Tony",58
+Defiance,AAS,PRECINCT DEFIANCE CITY 4-D,Northwest,Toledo,684,212,State House of Representatives,82,R,"Eley, Brett W.",14
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,Governor/Lieutenant Governor,,R,"Kasich, John",98
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,Attorney General,,R,"DeWine, Mike",92
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,Auditor of State,,R,"Yost, Dave",82
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,Secretary of State,,R,"Husted, Jon",86
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,Treasurer of State,,R,"Mandel, Josh",88
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,U.S. House of Representatives,05,R,"Latta, Bob",98
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,State Senate,01,R,"Hite, Cliff",56
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,State Senate,01,R,"Schaffner, Milo",28
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,State Senate,01,R,"Shankleton, Corey",13
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,State House of Representatives,82,R,"Burkley, Tony",80
+Defiance,AAU,PRECINCT DEFIANCE TWP A,Northwest,Toledo,473,160,State House of Representatives,82,R,"Eley, Brett W.",11
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,Governor/Lieutenant Governor,,R,"Kasich, John",125
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,Attorney General,,R,"DeWine, Mike",128
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,Auditor of State,,R,"Yost, Dave",113
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,Secretary of State,,R,"Husted, Jon",121
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,Treasurer of State,,R,"Mandel, Josh",115
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,U.S. House of Representatives,05,R,"Latta, Bob",132
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,State Senate,01,R,"Hite, Cliff",72
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,State Senate,01,R,"Schaffner, Milo",27
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,State Senate,01,R,"Shankleton, Corey",27
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,State House of Representatives,82,R,"Burkley, Tony",95
+Defiance,AAV,PRECINCT DEFIANCE TWP B,Northwest,Toledo,789,259,State House of Representatives,82,R,"Eley, Brett W.",25
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,Governor/Lieutenant Governor,,R,"Kasich, John",96
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,Attorney General,,R,"DeWine, Mike",91
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,Auditor of State,,R,"Yost, Dave",83
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,Secretary of State,,R,"Husted, Jon",88
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,Treasurer of State,,R,"Mandel, Josh",89
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,U.S. House of Representatives,05,R,"Latta, Bob",100
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,State Senate,01,R,"Hite, Cliff",72
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,State Senate,01,R,"Schaffner, Milo",32
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,State Senate,01,R,"Shankleton, Corey",13
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,State House of Representatives,82,R,"Burkley, Tony",80
+Defiance,AAW,PRECINCT DELAWARE TWP,Northwest,Toledo,865,179,State House of Representatives,82,R,"Eley, Brett W.",28
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,Governor/Lieutenant Governor,,R,"Kasich, John",54
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,Attorney General,,R,"DeWine, Mike",50
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,Auditor of State,,R,"Yost, Dave",45
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,Secretary of State,,R,"Husted, Jon",48
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,Treasurer of State,,R,"Mandel, Josh",51
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,U.S. House of Representatives,05,R,"Latta, Bob",52
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,State Senate,01,R,"Hite, Cliff",35
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,State Senate,01,R,"Schaffner, Milo",7
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,State Senate,01,R,"Shankleton, Corey",14
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,State House of Representatives,82,R,"Burkley, Tony",35
+Defiance,AAZ,PRECINCT FARMER TWP,Northwest,Toledo,660,76,State House of Representatives,82,R,"Eley, Brett W.",11
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,Governor/Lieutenant Governor,,R,"Kasich, John",106
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,Attorney General,,R,"DeWine, Mike",104
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,Auditor of State,,R,"Yost, Dave",95
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,Secretary of State,,R,"Husted, Jon",102
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,Treasurer of State,,R,"Mandel, Josh",106
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,U.S. House of Representatives,05,R,"Latta, Bob",111
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,State Senate,01,R,"Hite, Cliff",67
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,State Senate,01,R,"Schaffner, Milo",22
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,State Senate,01,R,"Shankleton, Corey",33
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,State House of Representatives,82,R,"Burkley, Tony",83
+Defiance,ABA,PRECINCT HICKSVILLE TWP,Northwest,Toledo,950,156,State House of Representatives,82,R,"Eley, Brett W.",32
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,Governor/Lieutenant Governor,,R,"Kasich, John",62
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,Attorney General,,R,"DeWine, Mike",65
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,Auditor of State,,R,"Yost, Dave",62
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,Secretary of State,,R,"Husted, Jon",63
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,Treasurer of State,,R,"Mandel, Josh",62
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,U.S. House of Representatives,05,R,"Latta, Bob",65
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,State Senate,01,R,"Hite, Cliff",40
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,State Senate,01,R,"Schaffner, Milo",20
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,State Senate,01,R,"Shankleton, Corey",5
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,State House of Representatives,82,R,"Burkley, Tony",51
+Defiance,ABB,PRECINCT HICKSVILLE VILLAGE A,Northwest,Toledo,589,95,State House of Representatives,82,R,"Eley, Brett W.",12
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,Governor/Lieutenant Governor,,R,"Kasich, John",51
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,Attorney General,,R,"DeWine, Mike",48
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,Auditor of State,,R,"Yost, Dave",47
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,Secretary of State,,R,"Husted, Jon",48
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,Treasurer of State,,R,"Mandel, Josh",46
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,U.S. House of Representatives,05,R,"Latta, Bob",53
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,State Senate,01,R,"Hite, Cliff",33
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,State Senate,01,R,"Schaffner, Milo",12
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,State Senate,01,R,"Shankleton, Corey",8
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,State House of Representatives,82,R,"Burkley, Tony",41
+Defiance,ABC,PRECINCT HICKSVILLE VILLAGE B,Northwest,Toledo,751,93,State House of Representatives,82,R,"Eley, Brett W.",7
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,Governor/Lieutenant Governor,,R,"Kasich, John",68
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,Attorney General,,R,"DeWine, Mike",67
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,Auditor of State,,R,"Yost, Dave",61
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,Secretary of State,,R,"Husted, Jon",62
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,Treasurer of State,,R,"Mandel, Josh",62
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,U.S. House of Representatives,05,R,"Latta, Bob",70
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,State Senate,01,R,"Hite, Cliff",45
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,State Senate,01,R,"Schaffner, Milo",18
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,State Senate,01,R,"Shankleton, Corey",12
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,State House of Representatives,82,R,"Burkley, Tony",58
+Defiance,ABD,PRECINCT HICKSVILLE VILLAGE C,Northwest,Toledo,672,98,State House of Representatives,82,R,"Eley, Brett W.",11
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,Governor/Lieutenant Governor,,R,"Kasich, John",193
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,Attorney General,,R,"DeWine, Mike",188
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,Auditor of State,,R,"Yost, Dave",171
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,Secretary of State,,R,"Husted, Jon",176
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,Treasurer of State,,R,"Mandel, Josh",185
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,U.S. House of Representatives,05,R,"Latta, Bob",209
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,State Senate,01,R,"Hite, Cliff",118
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,State Senate,01,R,"Schaffner, Milo",46
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,State Senate,01,R,"Shankleton, Corey",18
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,State House of Representatives,82,R,"Burkley, Tony",123
+Defiance,ABG,PRECINCT HIGHLAND TWP A,Northwest,Toledo,799,397,State House of Representatives,82,R,"Eley, Brett W.",43
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,Governor/Lieutenant Governor,,R,"Kasich, John",214
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,Attorney General,,R,"DeWine, Mike",207
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,Auditor of State,,R,"Yost, Dave",192
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,Secretary of State,,R,"Husted, Jon",197
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,Treasurer of State,,R,"Mandel, Josh",197
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,U.S. House of Representatives,05,R,"Latta, Bob",216
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,State Senate,01,R,"Hite, Cliff",113
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,State Senate,01,R,"Schaffner, Milo",60
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,State Senate,01,R,"Shankleton, Corey",37
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,State House of Representatives,82,R,"Burkley, Tony",154
+Defiance,ABH,PRECINCT HIGHLAND TWP B,Northwest,Toledo,826,484,State House of Representatives,82,R,"Eley, Brett W.",37
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,Governor/Lieutenant Governor,,R,"Kasich, John",38
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,Attorney General,,R,"DeWine, Mike",40
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,Auditor of State,,R,"Yost, Dave",34
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,Secretary of State,,R,"Husted, Jon",36
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,Treasurer of State,,R,"Mandel, Josh",40
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,U.S. House of Representatives,05,R,"Latta, Bob",40
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,State Senate,01,R,"Hite, Cliff",25
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,State Senate,01,R,"Schaffner, Milo",10
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,State Senate,01,R,"Shankleton, Corey",5
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,State House of Representatives,82,R,"Burkley, Tony",35
+Defiance,ABJ,PRECINCT MARK TWP,Northwest,Toledo,551,80,State House of Representatives,82,R,"Eley, Brett W.",3
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,Governor/Lieutenant Governor,,R,"Kasich, John",71
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,Attorney General,,R,"DeWine, Mike",65
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,Auditor of State,,R,"Yost, Dave",62
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,Secretary of State,,R,"Husted, Jon",66
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,Treasurer of State,,R,"Mandel, Josh",64
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,U.S. House of Representatives,05,R,"Latta, Bob",70
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,State Senate,01,R,"Hite, Cliff",55
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,State Senate,01,R,"Schaffner, Milo",9
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,State Senate,01,R,"Shankleton, Corey",11
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,State House of Representatives,82,R,"Burkley, Tony",48
+Defiance,ABK,PRECINCT MILFORD TWP,Northwest,Toledo,661,97,State House of Representatives,82,R,"Eley, Brett W.",17
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,Governor/Lieutenant Governor,,R,"Kasich, John",20
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,Attorney General,,R,"DeWine, Mike",19
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,Auditor of State,,R,"Yost, Dave",15
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,Secretary of State,,R,"Husted, Jon",17
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,Treasurer of State,,R,"Mandel, Josh",18
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,U.S. House of Representatives,05,R,"Latta, Bob",19
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,State Senate,01,R,"Hite, Cliff",8
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,State Senate,01,R,"Schaffner, Milo",3
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,State Senate,01,R,"Shankleton, Corey",6
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,State House of Representatives,82,R,"Burkley, Tony",15
+Defiance,ABS,PRECINCT NEY VILLAGE,Northwest,Toledo,215,30,State House of Representatives,82,R,"Eley, Brett W.",1
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,Governor/Lieutenant Governor,,R,"Kasich, John",70
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,Attorney General,,R,"DeWine, Mike",67
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,Auditor of State,,R,"Yost, Dave",63
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,Secretary of State,,R,"Husted, Jon",66
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,Treasurer of State,,R,"Mandel, Josh",68
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,U.S. House of Representatives,05,R,"Latta, Bob",74
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,State Senate,01,R,"Hite, Cliff",45
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,State Senate,01,R,"Schaffner, Milo",6
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,State Senate,01,R,"Shankleton, Corey",15
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,State House of Representatives,82,R,"Burkley, Tony",55
+Defiance,ABL,PRECINCT NOBLE TWP A,Northwest,Toledo,740,101,State House of Representatives,82,R,"Eley, Brett W.",6
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,Governor/Lieutenant Governor,,R,"Kasich, John",110
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,Attorney General,,R,"DeWine, Mike",105
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,Auditor of State,,R,"Yost, Dave",96
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,Secretary of State,,R,"Husted, Jon",98
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,Treasurer of State,,R,"Mandel, Josh",96
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,U.S. House of Representatives,05,R,"Latta, Bob",112
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,State Senate,01,R,"Hite, Cliff",76
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,State Senate,01,R,"Schaffner, Milo",28
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,State Senate,01,R,"Shankleton, Corey",11
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,State House of Representatives,82,R,"Burkley, Tony",85
+Defiance,ABM,PRECINCT NOBLE TWP B,Northwest,Toledo,888,194,State House of Representatives,82,R,"Eley, Brett W.",25
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,Governor/Lieutenant Governor,,R,"Kasich, John",155
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,Attorney General,,R,"DeWine, Mike",153
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,Auditor of State,,R,"Yost, Dave",144
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,Secretary of State,,R,"Husted, Jon",144
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,Treasurer of State,,R,"Mandel, Josh",146
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,U.S. House of Representatives,05,R,"Latta, Bob",165
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,State Senate,01,R,"Hite, Cliff",92
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,State Senate,01,R,"Schaffner, Milo",40
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,State Senate,01,R,"Shankleton, Corey",28
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,State House of Representatives,82,R,"Burkley, Tony",111
+Defiance,ABO,PRECINCT RICHLAND TWP,Northwest,Toledo,931,309,State House of Representatives,82,R,"Eley, Brett W.",28
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,Governor/Lieutenant Governor,,R,"Kasich, John",39
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,Attorney General,,R,"DeWine, Mike",39
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,Auditor of State,,R,"Yost, Dave",33
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,Secretary of State,,R,"Husted, Jon",37
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,Treasurer of State,,R,"Mandel, Josh",38
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,U.S. House of Representatives,05,R,"Latta, Bob",43
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,State Senate,01,R,"Hite, Cliff",34
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,State Senate,01,R,"Schaffner, Milo",4
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,State Senate,01,R,"Shankleton, Corey",8
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,State House of Representatives,82,R,"Burkley, Tony",34
+Defiance,AAY,PRECINCT SHERWOOD VILLAGE,Northwest,Toledo,508,83,State House of Representatives,82,R,"Eley, Brett W.",12
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,Governor/Lieutenant Governor,,R,"Kasich, John",48
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,Attorney General,,R,"DeWine, Mike",43
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,Auditor of State,,R,"Yost, Dave",45
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,Secretary of State,,R,"Husted, Jon",44
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,Treasurer of State,,R,"Mandel, Josh",47
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,U.S. House of Representatives,05,R,"Latta, Bob",47
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,State Senate,01,R,"Hite, Cliff",37
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,State Senate,01,R,"Schaffner, Milo",9
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,State Senate,01,R,"Shankleton, Corey",5
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,State House of Representatives,82,R,"Burkley, Tony",39
+Defiance,ABQ,PRECINCT TIFFIN TWP A,Northwest,Toledo,574,86,State House of Representatives,82,R,"Eley, Brett W.",10
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,Governor/Lieutenant Governor,,R,"Kasich, John",49
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,Attorney General,,R,"DeWine, Mike",49
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,Auditor of State,,R,"Yost, Dave",44
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,Secretary of State,,R,"Husted, Jon",46
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,Treasurer of State,,R,"Mandel, Josh",46
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,U.S. House of Representatives,05,R,"Latta, Bob",56
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,State Senate,01,R,"Hite, Cliff",31
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,State Senate,01,R,"Schaffner, Milo",11
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,State Senate,01,R,"Shankleton, Corey",9
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,State House of Representatives,82,R,"Burkley, Tony",33
+Defiance,ABR,PRECINCT TIFFIN TWP B,Northwest,Toledo,521,88,State House of Representatives,82,R,"Eley, Brett W.",10
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,Governor/Lieutenant Governor,,R,"Kasich, John",74
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,Attorney General,,R,"DeWine, Mike",72
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,Auditor of State,,R,"Yost, Dave",70
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,Secretary of State,,R,"Husted, Jon",71
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,Treasurer of State,,R,"Mandel, Josh",73
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,U.S. House of Representatives,05,R,"Latta, Bob",78
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,State Senate,01,R,"Hite, Cliff",52
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,State Senate,01,R,"Schaffner, Milo",15
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,State Senate,01,R,"Shankleton, Corey",22
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,State House of Representatives,82,R,"Burkley, Tony",55
+Defiance,ABT,PRECINCT WASHINGTON TWP,Northwest,Toledo,841,130,State House of Representatives,82,R,"Eley, Brett W.",21

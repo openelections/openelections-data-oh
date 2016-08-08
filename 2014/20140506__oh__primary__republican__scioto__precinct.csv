@@ -1,0 +1,617 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Scioto,ABQ,PRECINCT BLOOM TOWNSHIP A,Southeast,Charleston,666,129,Governor/Lieutenant Governor,,R,"Kasich, John",62
+Scioto,ABQ,PRECINCT BLOOM TOWNSHIP A,Southeast,Charleston,666,129,Attorney General,,R,"DeWine, Mike",67
+Scioto,ABQ,PRECINCT BLOOM TOWNSHIP A,Southeast,Charleston,666,129,Auditor of State,,R,"Yost, Dave",59
+Scioto,ABQ,PRECINCT BLOOM TOWNSHIP A,Southeast,Charleston,666,129,Secretary of State,,R,"Husted, Jon",56
+Scioto,ABQ,PRECINCT BLOOM TOWNSHIP A,Southeast,Charleston,666,129,Treasurer of State,,R,"Mandel, Josh",58
+Scioto,ABQ,PRECINCT BLOOM TOWNSHIP A,Southeast,Charleston,666,129,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ABQ,PRECINCT BLOOM TOWNSHIP A,Southeast,Charleston,666,129,U.S. House of Representatives,06,R,"Johnson, Bill",65
+Scioto,ABQ,PRECINCT BLOOM TOWNSHIP A,Southeast,Charleston,666,129,State House of Representatives,90,R,"Johnson, Terry A.",78
+Scioto,ABR,PRECINCT BLOOM TOWNSHIP B,Southeast,Charleston,634,55,Governor/Lieutenant Governor,,R,"Kasich, John",26
+Scioto,ABR,PRECINCT BLOOM TOWNSHIP B,Southeast,Charleston,634,55,Attorney General,,R,"DeWine, Mike",28
+Scioto,ABR,PRECINCT BLOOM TOWNSHIP B,Southeast,Charleston,634,55,Auditor of State,,R,"Yost, Dave",28
+Scioto,ABR,PRECINCT BLOOM TOWNSHIP B,Southeast,Charleston,634,55,Secretary of State,,R,"Husted, Jon",27
+Scioto,ABR,PRECINCT BLOOM TOWNSHIP B,Southeast,Charleston,634,55,Treasurer of State,,R,"Mandel, Josh",27
+Scioto,ABR,PRECINCT BLOOM TOWNSHIP B,Southeast,Charleston,634,55,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ABR,PRECINCT BLOOM TOWNSHIP B,Southeast,Charleston,634,55,U.S. House of Representatives,06,R,"Johnson, Bill",28
+Scioto,ABR,PRECINCT BLOOM TOWNSHIP B,Southeast,Charleston,634,55,State House of Representatives,90,R,"Johnson, Terry A.",30
+Scioto,ABV,PRECINCT CLAY TOWNSHIP A,Southeast,Charleston,762,164,Governor/Lieutenant Governor,,R,"Kasich, John",79
+Scioto,ABV,PRECINCT CLAY TOWNSHIP A,Southeast,Charleston,762,164,Attorney General,,R,"DeWine, Mike",80
+Scioto,ABV,PRECINCT CLAY TOWNSHIP A,Southeast,Charleston,762,164,Auditor of State,,R,"Yost, Dave",73
+Scioto,ABV,PRECINCT CLAY TOWNSHIP A,Southeast,Charleston,762,164,Secretary of State,,R,"Husted, Jon",73
+Scioto,ABV,PRECINCT CLAY TOWNSHIP A,Southeast,Charleston,762,164,Treasurer of State,,R,"Mandel, Josh",74
+Scioto,ABV,PRECINCT CLAY TOWNSHIP A,Southeast,Charleston,762,164,U.S. House of Representatives,02,R,"Wenstrup, Brad",75
+Scioto,ABV,PRECINCT CLAY TOWNSHIP A,Southeast,Charleston,762,164,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABV,PRECINCT CLAY TOWNSHIP A,Southeast,Charleston,762,164,State House of Representatives,90,R,"Johnson, Terry A.",92
+Scioto,ABW,PRECINCT CLAY TOWNSHIP B,Southeast,Charleston,604,102,Governor/Lieutenant Governor,,R,"Kasich, John",40
+Scioto,ABW,PRECINCT CLAY TOWNSHIP B,Southeast,Charleston,604,102,Attorney General,,R,"DeWine, Mike",46
+Scioto,ABW,PRECINCT CLAY TOWNSHIP B,Southeast,Charleston,604,102,Auditor of State,,R,"Yost, Dave",40
+Scioto,ABW,PRECINCT CLAY TOWNSHIP B,Southeast,Charleston,604,102,Secretary of State,,R,"Husted, Jon",41
+Scioto,ABW,PRECINCT CLAY TOWNSHIP B,Southeast,Charleston,604,102,Treasurer of State,,R,"Mandel, Josh",38
+Scioto,ABW,PRECINCT CLAY TOWNSHIP B,Southeast,Charleston,604,102,U.S. House of Representatives,02,R,"Wenstrup, Brad",43
+Scioto,ABW,PRECINCT CLAY TOWNSHIP B,Southeast,Charleston,604,102,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABW,PRECINCT CLAY TOWNSHIP B,Southeast,Charleston,604,102,State House of Representatives,90,R,"Johnson, Terry A.",48
+Scioto,ABX,PRECINCT CLAY TOWNSHIP C,Southeast,Charleston,431,126,Governor/Lieutenant Governor,,R,"Kasich, John",70
+Scioto,ABX,PRECINCT CLAY TOWNSHIP C,Southeast,Charleston,431,126,Attorney General,,R,"DeWine, Mike",67
+Scioto,ABX,PRECINCT CLAY TOWNSHIP C,Southeast,Charleston,431,126,Auditor of State,,R,"Yost, Dave",62
+Scioto,ABX,PRECINCT CLAY TOWNSHIP C,Southeast,Charleston,431,126,Secretary of State,,R,"Husted, Jon",64
+Scioto,ABX,PRECINCT CLAY TOWNSHIP C,Southeast,Charleston,431,126,Treasurer of State,,R,"Mandel, Josh",65
+Scioto,ABX,PRECINCT CLAY TOWNSHIP C,Southeast,Charleston,431,126,U.S. House of Representatives,02,R,"Wenstrup, Brad",67
+Scioto,ABX,PRECINCT CLAY TOWNSHIP C,Southeast,Charleston,431,126,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABX,PRECINCT CLAY TOWNSHIP C,Southeast,Charleston,431,126,State House of Representatives,90,R,"Johnson, Terry A.",77
+Scioto,ABY,PRECINCT CLAY TOWNSHIP D,Southeast,Charleston,541,115,Governor/Lieutenant Governor,,R,"Kasich, John",47
+Scioto,ABY,PRECINCT CLAY TOWNSHIP D,Southeast,Charleston,541,115,Attorney General,,R,"DeWine, Mike",48
+Scioto,ABY,PRECINCT CLAY TOWNSHIP D,Southeast,Charleston,541,115,Auditor of State,,R,"Yost, Dave",45
+Scioto,ABY,PRECINCT CLAY TOWNSHIP D,Southeast,Charleston,541,115,Secretary of State,,R,"Husted, Jon",47
+Scioto,ABY,PRECINCT CLAY TOWNSHIP D,Southeast,Charleston,541,115,Treasurer of State,,R,"Mandel, Josh",45
+Scioto,ABY,PRECINCT CLAY TOWNSHIP D,Southeast,Charleston,541,115,U.S. House of Representatives,02,R,"Wenstrup, Brad",47
+Scioto,ABY,PRECINCT CLAY TOWNSHIP D,Southeast,Charleston,541,115,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABY,PRECINCT CLAY TOWNSHIP D,Southeast,Charleston,541,115,State House of Representatives,90,R,"Johnson, Terry A.",58
+Scioto,ACB,PRECINCT GREEN TOWNSHIP A,Southeast,Charleston,598,120,Governor/Lieutenant Governor,,R,"Kasich, John",52
+Scioto,ACB,PRECINCT GREEN TOWNSHIP A,Southeast,Charleston,598,120,Attorney General,,R,"DeWine, Mike",51
+Scioto,ACB,PRECINCT GREEN TOWNSHIP A,Southeast,Charleston,598,120,Auditor of State,,R,"Yost, Dave",45
+Scioto,ACB,PRECINCT GREEN TOWNSHIP A,Southeast,Charleston,598,120,Secretary of State,,R,"Husted, Jon",47
+Scioto,ACB,PRECINCT GREEN TOWNSHIP A,Southeast,Charleston,598,120,Treasurer of State,,R,"Mandel, Josh",48
+Scioto,ACB,PRECINCT GREEN TOWNSHIP A,Southeast,Charleston,598,120,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACB,PRECINCT GREEN TOWNSHIP A,Southeast,Charleston,598,120,U.S. House of Representatives,06,R,"Johnson, Bill",48
+Scioto,ACB,PRECINCT GREEN TOWNSHIP A,Southeast,Charleston,598,120,State House of Representatives,90,R,"Johnson, Terry A.",53
+Scioto,ACC,PRECINCT GREEN TOWNSHIP B,Southeast,Charleston,568,108,Governor/Lieutenant Governor,,R,"Kasich, John",33
+Scioto,ACC,PRECINCT GREEN TOWNSHIP B,Southeast,Charleston,568,108,Attorney General,,R,"DeWine, Mike",33
+Scioto,ACC,PRECINCT GREEN TOWNSHIP B,Southeast,Charleston,568,108,Auditor of State,,R,"Yost, Dave",26
+Scioto,ACC,PRECINCT GREEN TOWNSHIP B,Southeast,Charleston,568,108,Secretary of State,,R,"Husted, Jon",28
+Scioto,ACC,PRECINCT GREEN TOWNSHIP B,Southeast,Charleston,568,108,Treasurer of State,,R,"Mandel, Josh",27
+Scioto,ACC,PRECINCT GREEN TOWNSHIP B,Southeast,Charleston,568,108,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACC,PRECINCT GREEN TOWNSHIP B,Southeast,Charleston,568,108,U.S. House of Representatives,06,R,"Johnson, Bill",36
+Scioto,ACC,PRECINCT GREEN TOWNSHIP B,Southeast,Charleston,568,108,State House of Representatives,90,R,"Johnson, Terry A.",34
+Scioto,ACD,PRECINCT GREEN TOWNSHIP C,Southeast,Charleston,558,92,Governor/Lieutenant Governor,,R,"Kasich, John",22
+Scioto,ACD,PRECINCT GREEN TOWNSHIP C,Southeast,Charleston,558,92,Attorney General,,R,"DeWine, Mike",24
+Scioto,ACD,PRECINCT GREEN TOWNSHIP C,Southeast,Charleston,558,92,Auditor of State,,R,"Yost, Dave",21
+Scioto,ACD,PRECINCT GREEN TOWNSHIP C,Southeast,Charleston,558,92,Secretary of State,,R,"Husted, Jon",22
+Scioto,ACD,PRECINCT GREEN TOWNSHIP C,Southeast,Charleston,558,92,Treasurer of State,,R,"Mandel, Josh",24
+Scioto,ACD,PRECINCT GREEN TOWNSHIP C,Southeast,Charleston,558,92,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACD,PRECINCT GREEN TOWNSHIP C,Southeast,Charleston,558,92,U.S. House of Representatives,06,R,"Johnson, Bill",23
+Scioto,ACD,PRECINCT GREEN TOWNSHIP C,Southeast,Charleston,558,92,State House of Representatives,90,R,"Johnson, Terry A.",25
+Scioto,ACE,PRECINCT GREEN TOWNSHIP D,Southeast,Charleston,397,94,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Scioto,ACE,PRECINCT GREEN TOWNSHIP D,Southeast,Charleston,397,94,Attorney General,,R,"DeWine, Mike",32
+Scioto,ACE,PRECINCT GREEN TOWNSHIP D,Southeast,Charleston,397,94,Auditor of State,,R,"Yost, Dave",25
+Scioto,ACE,PRECINCT GREEN TOWNSHIP D,Southeast,Charleston,397,94,Secretary of State,,R,"Husted, Jon",27
+Scioto,ACE,PRECINCT GREEN TOWNSHIP D,Southeast,Charleston,397,94,Treasurer of State,,R,"Mandel, Josh",27
+Scioto,ACE,PRECINCT GREEN TOWNSHIP D,Southeast,Charleston,397,94,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACE,PRECINCT GREEN TOWNSHIP D,Southeast,Charleston,397,94,U.S. House of Representatives,06,R,"Johnson, Bill",31
+Scioto,ACE,PRECINCT GREEN TOWNSHIP D,Southeast,Charleston,397,94,State House of Representatives,90,R,"Johnson, Terry A.",35
+Scioto,ACF,PRECINCT GREEN TOWNSHIP E,Southeast,Charleston,654,113,Governor/Lieutenant Governor,,R,"Kasich, John",31
+Scioto,ACF,PRECINCT GREEN TOWNSHIP E,Southeast,Charleston,654,113,Attorney General,,R,"DeWine, Mike",34
+Scioto,ACF,PRECINCT GREEN TOWNSHIP E,Southeast,Charleston,654,113,Auditor of State,,R,"Yost, Dave",30
+Scioto,ACF,PRECINCT GREEN TOWNSHIP E,Southeast,Charleston,654,113,Secretary of State,,R,"Husted, Jon",28
+Scioto,ACF,PRECINCT GREEN TOWNSHIP E,Southeast,Charleston,654,113,Treasurer of State,,R,"Mandel, Josh",29
+Scioto,ACF,PRECINCT GREEN TOWNSHIP E,Southeast,Charleston,654,113,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACF,PRECINCT GREEN TOWNSHIP E,Southeast,Charleston,654,113,U.S. House of Representatives,06,R,"Johnson, Bill",34
+Scioto,ACF,PRECINCT GREEN TOWNSHIP E,Southeast,Charleston,654,113,State House of Representatives,90,R,"Johnson, Terry A.",34
+Scioto,ACG,PRECINCT HARRISON A,Southeast,Charleston,559,70,Governor/Lieutenant Governor,,R,"Kasich, John",37
+Scioto,ACG,PRECINCT HARRISON A,Southeast,Charleston,559,70,Attorney General,,R,"DeWine, Mike",36
+Scioto,ACG,PRECINCT HARRISON A,Southeast,Charleston,559,70,Auditor of State,,R,"Yost, Dave",32
+Scioto,ACG,PRECINCT HARRISON A,Southeast,Charleston,559,70,Secretary of State,,R,"Husted, Jon",30
+Scioto,ACG,PRECINCT HARRISON A,Southeast,Charleston,559,70,Treasurer of State,,R,"Mandel, Josh",32
+Scioto,ACG,PRECINCT HARRISON A,Southeast,Charleston,559,70,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACG,PRECINCT HARRISON A,Southeast,Charleston,559,70,U.S. House of Representatives,06,R,"Johnson, Bill",34
+Scioto,ACG,PRECINCT HARRISON A,Southeast,Charleston,559,70,State House of Representatives,90,R,"Johnson, Terry A.",39
+Scioto,ACH,PRECINCT HARRISON B,Southeast,Charleston,542,115,Governor/Lieutenant Governor,,R,"Kasich, John",59
+Scioto,ACH,PRECINCT HARRISON B,Southeast,Charleston,542,115,Attorney General,,R,"DeWine, Mike",62
+Scioto,ACH,PRECINCT HARRISON B,Southeast,Charleston,542,115,Auditor of State,,R,"Yost, Dave",55
+Scioto,ACH,PRECINCT HARRISON B,Southeast,Charleston,542,115,Secretary of State,,R,"Husted, Jon",54
+Scioto,ACH,PRECINCT HARRISON B,Southeast,Charleston,542,115,Treasurer of State,,R,"Mandel, Josh",56
+Scioto,ACH,PRECINCT HARRISON B,Southeast,Charleston,542,115,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACH,PRECINCT HARRISON B,Southeast,Charleston,542,115,U.S. House of Representatives,06,R,"Johnson, Bill",59
+Scioto,ACH,PRECINCT HARRISON B,Southeast,Charleston,542,115,State House of Representatives,90,R,"Johnson, Terry A.",65
+Scioto,ACI,PRECINCT HARRISON C,Southeast,Charleston,618,85,Governor/Lieutenant Governor,,R,"Kasich, John",38
+Scioto,ACI,PRECINCT HARRISON C,Southeast,Charleston,618,85,Attorney General,,R,"DeWine, Mike",37
+Scioto,ACI,PRECINCT HARRISON C,Southeast,Charleston,618,85,Auditor of State,,R,"Yost, Dave",37
+Scioto,ACI,PRECINCT HARRISON C,Southeast,Charleston,618,85,Secretary of State,,R,"Husted, Jon",37
+Scioto,ACI,PRECINCT HARRISON C,Southeast,Charleston,618,85,Treasurer of State,,R,"Mandel, Josh",34
+Scioto,ACI,PRECINCT HARRISON C,Southeast,Charleston,618,85,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACI,PRECINCT HARRISON C,Southeast,Charleston,618,85,U.S. House of Representatives,06,R,"Johnson, Bill",37
+Scioto,ACI,PRECINCT HARRISON C,Southeast,Charleston,618,85,State House of Representatives,90,R,"Johnson, Terry A.",43
+Scioto,ACJ,PRECINCT HARRISON D,Southeast,Charleston,443,67,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Scioto,ACJ,PRECINCT HARRISON D,Southeast,Charleston,443,67,Attorney General,,R,"DeWine, Mike",38
+Scioto,ACJ,PRECINCT HARRISON D,Southeast,Charleston,443,67,Auditor of State,,R,"Yost, Dave",35
+Scioto,ACJ,PRECINCT HARRISON D,Southeast,Charleston,443,67,Secretary of State,,R,"Husted, Jon",36
+Scioto,ACJ,PRECINCT HARRISON D,Southeast,Charleston,443,67,Treasurer of State,,R,"Mandel, Josh",36
+Scioto,ACJ,PRECINCT HARRISON D,Southeast,Charleston,443,67,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACJ,PRECINCT HARRISON D,Southeast,Charleston,443,67,U.S. House of Representatives,06,R,"Johnson, Bill",38
+Scioto,ACJ,PRECINCT HARRISON D,Southeast,Charleston,443,67,State House of Representatives,90,R,"Johnson, Terry A.",38
+Scioto,ACK,PRECINCT HARRISON E,Southeast,Charleston,466,76,Governor/Lieutenant Governor,,R,"Kasich, John",37
+Scioto,ACK,PRECINCT HARRISON E,Southeast,Charleston,466,76,Attorney General,,R,"DeWine, Mike",41
+Scioto,ACK,PRECINCT HARRISON E,Southeast,Charleston,466,76,Auditor of State,,R,"Yost, Dave",35
+Scioto,ACK,PRECINCT HARRISON E,Southeast,Charleston,466,76,Secretary of State,,R,"Husted, Jon",36
+Scioto,ACK,PRECINCT HARRISON E,Southeast,Charleston,466,76,Treasurer of State,,R,"Mandel, Josh",39
+Scioto,ACK,PRECINCT HARRISON E,Southeast,Charleston,466,76,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACK,PRECINCT HARRISON E,Southeast,Charleston,466,76,U.S. House of Representatives,06,R,"Johnson, Bill",39
+Scioto,ACK,PRECINCT HARRISON E,Southeast,Charleston,466,76,State House of Representatives,90,R,"Johnson, Terry A.",49
+Scioto,ACL,PRECINCT JEFFERSON  A,Southeast,Charleston,722,91,Governor/Lieutenant Governor,,R,"Kasich, John",44
+Scioto,ACL,PRECINCT JEFFERSON  A,Southeast,Charleston,722,91,Attorney General,,R,"DeWine, Mike",45
+Scioto,ACL,PRECINCT JEFFERSON  A,Southeast,Charleston,722,91,Auditor of State,,R,"Yost, Dave",42
+Scioto,ACL,PRECINCT JEFFERSON  A,Southeast,Charleston,722,91,Secretary of State,,R,"Husted, Jon",40
+Scioto,ACL,PRECINCT JEFFERSON  A,Southeast,Charleston,722,91,Treasurer of State,,R,"Mandel, Josh",40
+Scioto,ACL,PRECINCT JEFFERSON  A,Southeast,Charleston,722,91,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACL,PRECINCT JEFFERSON  A,Southeast,Charleston,722,91,U.S. House of Representatives,06,R,"Johnson, Bill",44
+Scioto,ACL,PRECINCT JEFFERSON  A,Southeast,Charleston,722,91,State House of Representatives,90,R,"Johnson, Terry A.",51
+Scioto,ACM,PRECINCT JEFFERSON  B,Southeast,Charleston,448,93,Governor/Lieutenant Governor,,R,"Kasich, John",45
+Scioto,ACM,PRECINCT JEFFERSON  B,Southeast,Charleston,448,93,Attorney General,,R,"DeWine, Mike",42
+Scioto,ACM,PRECINCT JEFFERSON  B,Southeast,Charleston,448,93,Auditor of State,,R,"Yost, Dave",46
+Scioto,ACM,PRECINCT JEFFERSON  B,Southeast,Charleston,448,93,Secretary of State,,R,"Husted, Jon",39
+Scioto,ACM,PRECINCT JEFFERSON  B,Southeast,Charleston,448,93,Treasurer of State,,R,"Mandel, Josh",41
+Scioto,ACM,PRECINCT JEFFERSON  B,Southeast,Charleston,448,93,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACM,PRECINCT JEFFERSON  B,Southeast,Charleston,448,93,U.S. House of Representatives,06,R,"Johnson, Bill",46
+Scioto,ACM,PRECINCT JEFFERSON  B,Southeast,Charleston,448,93,State House of Representatives,90,R,"Johnson, Terry A.",52
+Scioto,ACN,PRECINCT JEFFERSON C,Southeast,Charleston,524,95,Governor/Lieutenant Governor,,R,"Kasich, John",58
+Scioto,ACN,PRECINCT JEFFERSON C,Southeast,Charleston,524,95,Attorney General,,R,"DeWine, Mike",62
+Scioto,ACN,PRECINCT JEFFERSON C,Southeast,Charleston,524,95,Auditor of State,,R,"Yost, Dave",55
+Scioto,ACN,PRECINCT JEFFERSON C,Southeast,Charleston,524,95,Secretary of State,,R,"Husted, Jon",57
+Scioto,ACN,PRECINCT JEFFERSON C,Southeast,Charleston,524,95,Treasurer of State,,R,"Mandel, Josh",60
+Scioto,ACN,PRECINCT JEFFERSON C,Southeast,Charleston,524,95,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACN,PRECINCT JEFFERSON C,Southeast,Charleston,524,95,U.S. House of Representatives,06,R,"Johnson, Bill",58
+Scioto,ACN,PRECINCT JEFFERSON C,Southeast,Charleston,524,95,State House of Representatives,90,R,"Johnson, Terry A.",66
+Scioto,ACO,PRECINCT MADISON  A,Southeast,Charleston,567,120,Governor/Lieutenant Governor,,R,"Kasich, John",58
+Scioto,ACO,PRECINCT MADISON  A,Southeast,Charleston,567,120,Attorney General,,R,"DeWine, Mike",60
+Scioto,ACO,PRECINCT MADISON  A,Southeast,Charleston,567,120,Auditor of State,,R,"Yost, Dave",54
+Scioto,ACO,PRECINCT MADISON  A,Southeast,Charleston,567,120,Secretary of State,,R,"Husted, Jon",54
+Scioto,ACO,PRECINCT MADISON  A,Southeast,Charleston,567,120,Treasurer of State,,R,"Mandel, Josh",56
+Scioto,ACO,PRECINCT MADISON  A,Southeast,Charleston,567,120,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACO,PRECINCT MADISON  A,Southeast,Charleston,567,120,U.S. House of Representatives,06,R,"Johnson, Bill",61
+Scioto,ACO,PRECINCT MADISON  A,Southeast,Charleston,567,120,State House of Representatives,90,R,"Johnson, Terry A.",73
+Scioto,ACP,PRECINCT MADISON  B,Southeast,Charleston,604,103,Governor/Lieutenant Governor,,R,"Kasich, John",53
+Scioto,ACP,PRECINCT MADISON  B,Southeast,Charleston,604,103,Attorney General,,R,"DeWine, Mike",57
+Scioto,ACP,PRECINCT MADISON  B,Southeast,Charleston,604,103,Auditor of State,,R,"Yost, Dave",48
+Scioto,ACP,PRECINCT MADISON  B,Southeast,Charleston,604,103,Secretary of State,,R,"Husted, Jon",48
+Scioto,ACP,PRECINCT MADISON  B,Southeast,Charleston,604,103,Treasurer of State,,R,"Mandel, Josh",45
+Scioto,ACP,PRECINCT MADISON  B,Southeast,Charleston,604,103,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACP,PRECINCT MADISON  B,Southeast,Charleston,604,103,U.S. House of Representatives,06,R,"Johnson, Bill",52
+Scioto,ACP,PRECINCT MADISON  B,Southeast,Charleston,604,103,State House of Representatives,90,R,"Johnson, Terry A.",61
+Scioto,ACQ,PRECINCT MADISON C,Southeast,Charleston,567,79,Governor/Lieutenant Governor,,R,"Kasich, John",40
+Scioto,ACQ,PRECINCT MADISON C,Southeast,Charleston,567,79,Attorney General,,R,"DeWine, Mike",42
+Scioto,ACQ,PRECINCT MADISON C,Southeast,Charleston,567,79,Auditor of State,,R,"Yost, Dave",40
+Scioto,ACQ,PRECINCT MADISON C,Southeast,Charleston,567,79,Secretary of State,,R,"Husted, Jon",39
+Scioto,ACQ,PRECINCT MADISON C,Southeast,Charleston,567,79,Treasurer of State,,R,"Mandel, Josh",38
+Scioto,ACQ,PRECINCT MADISON C,Southeast,Charleston,567,79,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACQ,PRECINCT MADISON C,Southeast,Charleston,567,79,U.S. House of Representatives,06,R,"Johnson, Bill",40
+Scioto,ACQ,PRECINCT MADISON C,Southeast,Charleston,567,79,State House of Representatives,90,R,"Johnson, Terry A.",48
+Scioto,ACR,PRECINCT MADISON D,Southeast,Charleston,757,123,Governor/Lieutenant Governor,,R,"Kasich, John",61
+Scioto,ACR,PRECINCT MADISON D,Southeast,Charleston,757,123,Attorney General,,R,"DeWine, Mike",69
+Scioto,ACR,PRECINCT MADISON D,Southeast,Charleston,757,123,Auditor of State,,R,"Yost, Dave",58
+Scioto,ACR,PRECINCT MADISON D,Southeast,Charleston,757,123,Secretary of State,,R,"Husted, Jon",58
+Scioto,ACR,PRECINCT MADISON D,Southeast,Charleston,757,123,Treasurer of State,,R,"Mandel, Josh",60
+Scioto,ACR,PRECINCT MADISON D,Southeast,Charleston,757,123,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ACR,PRECINCT MADISON D,Southeast,Charleston,757,123,U.S. House of Representatives,06,R,"Johnson, Bill",61
+Scioto,ACR,PRECINCT MADISON D,Southeast,Charleston,757,123,State House of Representatives,90,R,"Johnson, Terry A.",73
+Scioto,ACS,PRECINCT MORGAN A,Southeast,Charleston,723,56,Governor/Lieutenant Governor,,R,"Kasich, John",13
+Scioto,ACS,PRECINCT MORGAN A,Southeast,Charleston,723,56,Attorney General,,R,"DeWine, Mike",15
+Scioto,ACS,PRECINCT MORGAN A,Southeast,Charleston,723,56,Auditor of State,,R,"Yost, Dave",13
+Scioto,ACS,PRECINCT MORGAN A,Southeast,Charleston,723,56,Secretary of State,,R,"Husted, Jon",13
+Scioto,ACS,PRECINCT MORGAN A,Southeast,Charleston,723,56,Treasurer of State,,R,"Mandel, Josh",13
+Scioto,ACS,PRECINCT MORGAN A,Southeast,Charleston,723,56,U.S. House of Representatives,02,R,"Wenstrup, Brad",13
+Scioto,ACS,PRECINCT MORGAN A,Southeast,Charleston,723,56,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ACS,PRECINCT MORGAN A,Southeast,Charleston,723,56,State House of Representatives,90,R,"Johnson, Terry A.",19
+Scioto,ACT,PRECINCT MORGAN B,Southeast,Charleston,668,120,Governor/Lieutenant Governor,,R,"Kasich, John",39
+Scioto,ACT,PRECINCT MORGAN B,Southeast,Charleston,668,120,Attorney General,,R,"DeWine, Mike",41
+Scioto,ACT,PRECINCT MORGAN B,Southeast,Charleston,668,120,Auditor of State,,R,"Yost, Dave",36
+Scioto,ACT,PRECINCT MORGAN B,Southeast,Charleston,668,120,Secretary of State,,R,"Husted, Jon",32
+Scioto,ACT,PRECINCT MORGAN B,Southeast,Charleston,668,120,Treasurer of State,,R,"Mandel, Josh",35
+Scioto,ACT,PRECINCT MORGAN B,Southeast,Charleston,668,120,U.S. House of Representatives,02,R,"Wenstrup, Brad",35
+Scioto,ACT,PRECINCT MORGAN B,Southeast,Charleston,668,120,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ACT,PRECINCT MORGAN B,Southeast,Charleston,668,120,State House of Representatives,90,R,"Johnson, Terry A.",48
+Scioto,ACU,PRECINCT NEW BOSTON 1-A,Southeast,Charleston,771,113,Governor/Lieutenant Governor,,R,"Kasich, John",44
+Scioto,ACU,PRECINCT NEW BOSTON 1-A,Southeast,Charleston,771,113,Attorney General,,R,"DeWine, Mike",40
+Scioto,ACU,PRECINCT NEW BOSTON 1-A,Southeast,Charleston,771,113,Auditor of State,,R,"Yost, Dave",36
+Scioto,ACU,PRECINCT NEW BOSTON 1-A,Southeast,Charleston,771,113,Secretary of State,,R,"Husted, Jon",35
+Scioto,ACU,PRECINCT NEW BOSTON 1-A,Southeast,Charleston,771,113,Treasurer of State,,R,"Mandel, Josh",39
+Scioto,ACU,PRECINCT NEW BOSTON 1-A,Southeast,Charleston,771,113,U.S. House of Representatives,02,R,"Wenstrup, Brad",34
+Scioto,ACU,PRECINCT NEW BOSTON 1-A,Southeast,Charleston,771,113,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ACU,PRECINCT NEW BOSTON 1-A,Southeast,Charleston,771,113,State House of Representatives,90,R,"Johnson, Terry A.",48
+Scioto,ACW,PRECINCT NEW BOSTON 2-A,Southeast,Charleston,567,93,Governor/Lieutenant Governor,,R,"Kasich, John",27
+Scioto,ACW,PRECINCT NEW BOSTON 2-A,Southeast,Charleston,567,93,Attorney General,,R,"DeWine, Mike",28
+Scioto,ACW,PRECINCT NEW BOSTON 2-A,Southeast,Charleston,567,93,Auditor of State,,R,"Yost, Dave",26
+Scioto,ACW,PRECINCT NEW BOSTON 2-A,Southeast,Charleston,567,93,Secretary of State,,R,"Husted, Jon",26
+Scioto,ACW,PRECINCT NEW BOSTON 2-A,Southeast,Charleston,567,93,Treasurer of State,,R,"Mandel, Josh",27
+Scioto,ACW,PRECINCT NEW BOSTON 2-A,Southeast,Charleston,567,93,U.S. House of Representatives,02,R,"Wenstrup, Brad",28
+Scioto,ACW,PRECINCT NEW BOSTON 2-A,Southeast,Charleston,567,93,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ACW,PRECINCT NEW BOSTON 2-A,Southeast,Charleston,567,93,State House of Representatives,90,R,"Johnson, Terry A.",29
+Scioto,ADC,PRECINCT NILE TOWNSHIP A,Southeast,Charleston,579,129,Governor/Lieutenant Governor,,R,"Kasich, John",46
+Scioto,ADC,PRECINCT NILE TOWNSHIP A,Southeast,Charleston,579,129,Attorney General,,R,"DeWine, Mike",47
+Scioto,ADC,PRECINCT NILE TOWNSHIP A,Southeast,Charleston,579,129,Auditor of State,,R,"Yost, Dave",40
+Scioto,ADC,PRECINCT NILE TOWNSHIP A,Southeast,Charleston,579,129,Secretary of State,,R,"Husted, Jon",41
+Scioto,ADC,PRECINCT NILE TOWNSHIP A,Southeast,Charleston,579,129,Treasurer of State,,R,"Mandel, Josh",41
+Scioto,ADC,PRECINCT NILE TOWNSHIP A,Southeast,Charleston,579,129,U.S. House of Representatives,02,R,"Wenstrup, Brad",43
+Scioto,ADC,PRECINCT NILE TOWNSHIP A,Southeast,Charleston,579,129,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ADC,PRECINCT NILE TOWNSHIP A,Southeast,Charleston,579,129,State House of Representatives,90,R,"Johnson, Terry A.",45
+Scioto,ADD,PRECINCT NILE TOWNSHIP B,Southeast,Charleston,819,192,Governor/Lieutenant Governor,,R,"Kasich, John",70
+Scioto,ADD,PRECINCT NILE TOWNSHIP B,Southeast,Charleston,819,192,Attorney General,,R,"DeWine, Mike",71
+Scioto,ADD,PRECINCT NILE TOWNSHIP B,Southeast,Charleston,819,192,Auditor of State,,R,"Yost, Dave",68
+Scioto,ADD,PRECINCT NILE TOWNSHIP B,Southeast,Charleston,819,192,Secretary of State,,R,"Husted, Jon",65
+Scioto,ADD,PRECINCT NILE TOWNSHIP B,Southeast,Charleston,819,192,Treasurer of State,,R,"Mandel, Josh",67
+Scioto,ADD,PRECINCT NILE TOWNSHIP B,Southeast,Charleston,819,192,U.S. House of Representatives,02,R,"Wenstrup, Brad",68
+Scioto,ADD,PRECINCT NILE TOWNSHIP B,Southeast,Charleston,819,192,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ADD,PRECINCT NILE TOWNSHIP B,Southeast,Charleston,819,192,State House of Representatives,90,R,"Johnson, Terry A.",86
+Scioto,ADE,PRECINCT NILE TOWNSHIP C,Southeast,Charleston,186,49,Governor/Lieutenant Governor,,R,"Kasich, John",17
+Scioto,ADE,PRECINCT NILE TOWNSHIP C,Southeast,Charleston,186,49,Attorney General,,R,"DeWine, Mike",15
+Scioto,ADE,PRECINCT NILE TOWNSHIP C,Southeast,Charleston,186,49,Auditor of State,,R,"Yost, Dave",14
+Scioto,ADE,PRECINCT NILE TOWNSHIP C,Southeast,Charleston,186,49,Secretary of State,,R,"Husted, Jon",14
+Scioto,ADE,PRECINCT NILE TOWNSHIP C,Southeast,Charleston,186,49,Treasurer of State,,R,"Mandel, Josh",13
+Scioto,ADE,PRECINCT NILE TOWNSHIP C,Southeast,Charleston,186,49,U.S. House of Representatives,02,R,"Wenstrup, Brad",14
+Scioto,ADE,PRECINCT NILE TOWNSHIP C,Southeast,Charleston,186,49,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ADE,PRECINCT NILE TOWNSHIP C,Southeast,Charleston,186,49,State House of Representatives,90,R,"Johnson, Terry A.",12
+Scioto,ABU,PRECINCT OTWAY/BRUSH CREEK,Southeast,Charleston,762,131,Governor/Lieutenant Governor,,R,"Kasich, John",49
+Scioto,ABU,PRECINCT OTWAY/BRUSH CREEK,Southeast,Charleston,762,131,Attorney General,,R,"DeWine, Mike",44
+Scioto,ABU,PRECINCT OTWAY/BRUSH CREEK,Southeast,Charleston,762,131,Auditor of State,,R,"Yost, Dave",45
+Scioto,ABU,PRECINCT OTWAY/BRUSH CREEK,Southeast,Charleston,762,131,Secretary of State,,R,"Husted, Jon",45
+Scioto,ABU,PRECINCT OTWAY/BRUSH CREEK,Southeast,Charleston,762,131,Treasurer of State,,R,"Mandel, Josh",47
+Scioto,ABU,PRECINCT OTWAY/BRUSH CREEK,Southeast,Charleston,762,131,U.S. House of Representatives,02,R,"Wenstrup, Brad",45
+Scioto,ABU,PRECINCT OTWAY/BRUSH CREEK,Southeast,Charleston,762,131,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABU,PRECINCT OTWAY/BRUSH CREEK,Southeast,Charleston,762,131,State House of Representatives,90,R,"Johnson, Terry A.",46
+Scioto,ADF,PRECINCT PORTER  A,Southeast,Charleston,796,119,Governor/Lieutenant Governor,,R,"Kasich, John",57
+Scioto,ADF,PRECINCT PORTER  A,Southeast,Charleston,796,119,Attorney General,,R,"DeWine, Mike",60
+Scioto,ADF,PRECINCT PORTER  A,Southeast,Charleston,796,119,Auditor of State,,R,"Yost, Dave",54
+Scioto,ADF,PRECINCT PORTER  A,Southeast,Charleston,796,119,Secretary of State,,R,"Husted, Jon",53
+Scioto,ADF,PRECINCT PORTER  A,Southeast,Charleston,796,119,Treasurer of State,,R,"Mandel, Josh",53
+Scioto,ADF,PRECINCT PORTER  A,Southeast,Charleston,796,119,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADF,PRECINCT PORTER  A,Southeast,Charleston,796,119,U.S. House of Representatives,06,R,"Johnson, Bill",57
+Scioto,ADF,PRECINCT PORTER  A,Southeast,Charleston,796,119,State House of Representatives,90,R,"Johnson, Terry A.",62
+Scioto,ADG,PRECINCT PORTER  B,Southeast,Charleston,774,106,Governor/Lieutenant Governor,,R,"Kasich, John",56
+Scioto,ADG,PRECINCT PORTER  B,Southeast,Charleston,774,106,Attorney General,,R,"DeWine, Mike",59
+Scioto,ADG,PRECINCT PORTER  B,Southeast,Charleston,774,106,Auditor of State,,R,"Yost, Dave",56
+Scioto,ADG,PRECINCT PORTER  B,Southeast,Charleston,774,106,Secretary of State,,R,"Husted, Jon",51
+Scioto,ADG,PRECINCT PORTER  B,Southeast,Charleston,774,106,Treasurer of State,,R,"Mandel, Josh",53
+Scioto,ADG,PRECINCT PORTER  B,Southeast,Charleston,774,106,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADG,PRECINCT PORTER  B,Southeast,Charleston,774,106,U.S. House of Representatives,06,R,"Johnson, Bill",53
+Scioto,ADG,PRECINCT PORTER  B,Southeast,Charleston,774,106,State House of Representatives,90,R,"Johnson, Terry A.",61
+Scioto,ADH,PRECINCT PORTER  C,Southeast,Charleston,719,150,Governor/Lieutenant Governor,,R,"Kasich, John",78
+Scioto,ADH,PRECINCT PORTER  C,Southeast,Charleston,719,150,Attorney General,,R,"DeWine, Mike",85
+Scioto,ADH,PRECINCT PORTER  C,Southeast,Charleston,719,150,Auditor of State,,R,"Yost, Dave",69
+Scioto,ADH,PRECINCT PORTER  C,Southeast,Charleston,719,150,Secretary of State,,R,"Husted, Jon",66
+Scioto,ADH,PRECINCT PORTER  C,Southeast,Charleston,719,150,Treasurer of State,,R,"Mandel, Josh",67
+Scioto,ADH,PRECINCT PORTER  C,Southeast,Charleston,719,150,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADH,PRECINCT PORTER  C,Southeast,Charleston,719,150,U.S. House of Representatives,06,R,"Johnson, Bill",75
+Scioto,ADH,PRECINCT PORTER  C,Southeast,Charleston,719,150,State House of Representatives,90,R,"Johnson, Terry A.",91
+Scioto,ADI,PRECINCT PORTER D,Southeast,Charleston,431,72,Governor/Lieutenant Governor,,R,"Kasich, John",31
+Scioto,ADI,PRECINCT PORTER D,Southeast,Charleston,431,72,Attorney General,,R,"DeWine, Mike",34
+Scioto,ADI,PRECINCT PORTER D,Southeast,Charleston,431,72,Auditor of State,,R,"Yost, Dave",29
+Scioto,ADI,PRECINCT PORTER D,Southeast,Charleston,431,72,Secretary of State,,R,"Husted, Jon",29
+Scioto,ADI,PRECINCT PORTER D,Southeast,Charleston,431,72,Treasurer of State,,R,"Mandel, Josh",31
+Scioto,ADI,PRECINCT PORTER D,Southeast,Charleston,431,72,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADI,PRECINCT PORTER D,Southeast,Charleston,431,72,U.S. House of Representatives,06,R,"Johnson, Bill",33
+Scioto,ADI,PRECINCT PORTER D,Southeast,Charleston,431,72,State House of Representatives,90,R,"Johnson, Terry A.",37
+Scioto,ADJ,PRECINCT PORTER E,Southeast,Charleston,429,120,Governor/Lieutenant Governor,,R,"Kasich, John",61
+Scioto,ADJ,PRECINCT PORTER E,Southeast,Charleston,429,120,Attorney General,,R,"DeWine, Mike",57
+Scioto,ADJ,PRECINCT PORTER E,Southeast,Charleston,429,120,Auditor of State,,R,"Yost, Dave",55
+Scioto,ADJ,PRECINCT PORTER E,Southeast,Charleston,429,120,Secretary of State,,R,"Husted, Jon",53
+Scioto,ADJ,PRECINCT PORTER E,Southeast,Charleston,429,120,Treasurer of State,,R,"Mandel, Josh",56
+Scioto,ADJ,PRECINCT PORTER E,Southeast,Charleston,429,120,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADJ,PRECINCT PORTER E,Southeast,Charleston,429,120,U.S. House of Representatives,06,R,"Johnson, Bill",57
+Scioto,ADJ,PRECINCT PORTER E,Southeast,Charleston,429,120,State House of Representatives,90,R,"Johnson, Terry A.",67
+Scioto,ADK,PRECINCT PORTER F,Southeast,Charleston,767,179,Governor/Lieutenant Governor,,R,"Kasich, John",108
+Scioto,ADK,PRECINCT PORTER F,Southeast,Charleston,767,179,Attorney General,,R,"DeWine, Mike",106
+Scioto,ADK,PRECINCT PORTER F,Southeast,Charleston,767,179,Auditor of State,,R,"Yost, Dave",93
+Scioto,ADK,PRECINCT PORTER F,Southeast,Charleston,767,179,Secretary of State,,R,"Husted, Jon",94
+Scioto,ADK,PRECINCT PORTER F,Southeast,Charleston,767,179,Treasurer of State,,R,"Mandel, Josh",97
+Scioto,ADK,PRECINCT PORTER F,Southeast,Charleston,767,179,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADK,PRECINCT PORTER F,Southeast,Charleston,767,179,U.S. House of Representatives,06,R,"Johnson, Bill",101
+Scioto,ADK,PRECINCT PORTER F,Southeast,Charleston,767,179,State House of Representatives,90,R,"Johnson, Terry A.",119
+Scioto,ADL,PRECINCT PORTER G,Southeast,Charleston,842,154,Governor/Lieutenant Governor,,R,"Kasich, John",71
+Scioto,ADL,PRECINCT PORTER G,Southeast,Charleston,842,154,Attorney General,,R,"DeWine, Mike",83
+Scioto,ADL,PRECINCT PORTER G,Southeast,Charleston,842,154,Auditor of State,,R,"Yost, Dave",68
+Scioto,ADL,PRECINCT PORTER G,Southeast,Charleston,842,154,Secretary of State,,R,"Husted, Jon",67
+Scioto,ADL,PRECINCT PORTER G,Southeast,Charleston,842,154,Treasurer of State,,R,"Mandel, Josh",69
+Scioto,ADL,PRECINCT PORTER G,Southeast,Charleston,842,154,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADL,PRECINCT PORTER G,Southeast,Charleston,842,154,U.S. House of Representatives,06,R,"Johnson, Bill",79
+Scioto,ADL,PRECINCT PORTER G,Southeast,Charleston,842,154,State House of Representatives,90,R,"Johnson, Terry A.",87
+Scioto,ADM,PRECINCT PORTER H,Southeast,Charleston,787,149,Governor/Lieutenant Governor,,R,"Kasich, John",93
+Scioto,ADM,PRECINCT PORTER H,Southeast,Charleston,787,149,Attorney General,,R,"DeWine, Mike",86
+Scioto,ADM,PRECINCT PORTER H,Southeast,Charleston,787,149,Auditor of State,,R,"Yost, Dave",78
+Scioto,ADM,PRECINCT PORTER H,Southeast,Charleston,787,149,Secretary of State,,R,"Husted, Jon",78
+Scioto,ADM,PRECINCT PORTER H,Southeast,Charleston,787,149,Treasurer of State,,R,"Mandel, Josh",78
+Scioto,ADM,PRECINCT PORTER H,Southeast,Charleston,787,149,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADM,PRECINCT PORTER H,Southeast,Charleston,787,149,U.S. House of Representatives,06,R,"Johnson, Bill",83
+Scioto,ADM,PRECINCT PORTER H,Southeast,Charleston,787,149,State House of Representatives,90,R,"Johnson, Terry A.",96
+Scioto,ADN,PRECINCT PORTER I,Southeast,Charleston,795,138,Governor/Lieutenant Governor,,R,"Kasich, John",70
+Scioto,ADN,PRECINCT PORTER I,Southeast,Charleston,795,138,Attorney General,,R,"DeWine, Mike",71
+Scioto,ADN,PRECINCT PORTER I,Southeast,Charleston,795,138,Auditor of State,,R,"Yost, Dave",66
+Scioto,ADN,PRECINCT PORTER I,Southeast,Charleston,795,138,Secretary of State,,R,"Husted, Jon",68
+Scioto,ADN,PRECINCT PORTER I,Southeast,Charleston,795,138,Treasurer of State,,R,"Mandel, Josh",67
+Scioto,ADN,PRECINCT PORTER I,Southeast,Charleston,795,138,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADN,PRECINCT PORTER I,Southeast,Charleston,795,138,U.S. House of Representatives,06,R,"Johnson, Bill",70
+Scioto,ADN,PRECINCT PORTER I,Southeast,Charleston,795,138,State House of Representatives,90,R,"Johnson, Terry A.",80
+Scioto,AAA,PRECINCT PORTSMOUTH 1-A,Southeast,Charleston,591,136,Governor/Lieutenant Governor,,R,"Kasich, John",45
+Scioto,AAA,PRECINCT PORTSMOUTH 1-A,Southeast,Charleston,591,136,Attorney General,,R,"DeWine, Mike",51
+Scioto,AAA,PRECINCT PORTSMOUTH 1-A,Southeast,Charleston,591,136,Auditor of State,,R,"Yost, Dave",49
+Scioto,AAA,PRECINCT PORTSMOUTH 1-A,Southeast,Charleston,591,136,Secretary of State,,R,"Husted, Jon",48
+Scioto,AAA,PRECINCT PORTSMOUTH 1-A,Southeast,Charleston,591,136,Treasurer of State,,R,"Mandel, Josh",45
+Scioto,AAA,PRECINCT PORTSMOUTH 1-A,Southeast,Charleston,591,136,U.S. House of Representatives,02,R,"Wenstrup, Brad",47
+Scioto,AAA,PRECINCT PORTSMOUTH 1-A,Southeast,Charleston,591,136,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAA,PRECINCT PORTSMOUTH 1-A,Southeast,Charleston,591,136,State House of Representatives,90,R,"Johnson, Terry A.",55
+Scioto,AAB,PRECINCT PORTSMOUTH 1-B,Southeast,Charleston,695,89,Governor/Lieutenant Governor,,R,"Kasich, John",35
+Scioto,AAB,PRECINCT PORTSMOUTH 1-B,Southeast,Charleston,695,89,Attorney General,,R,"DeWine, Mike",35
+Scioto,AAB,PRECINCT PORTSMOUTH 1-B,Southeast,Charleston,695,89,Auditor of State,,R,"Yost, Dave",31
+Scioto,AAB,PRECINCT PORTSMOUTH 1-B,Southeast,Charleston,695,89,Secretary of State,,R,"Husted, Jon",33
+Scioto,AAB,PRECINCT PORTSMOUTH 1-B,Southeast,Charleston,695,89,Treasurer of State,,R,"Mandel, Josh",33
+Scioto,AAB,PRECINCT PORTSMOUTH 1-B,Southeast,Charleston,695,89,U.S. House of Representatives,02,R,"Wenstrup, Brad",34
+Scioto,AAB,PRECINCT PORTSMOUTH 1-B,Southeast,Charleston,695,89,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAB,PRECINCT PORTSMOUTH 1-B,Southeast,Charleston,695,89,State House of Representatives,90,R,"Johnson, Terry A.",35
+Scioto,AAC,PRECINCT PORTSMOUTH 1-C,Southeast,Charleston,737,108,Governor/Lieutenant Governor,,R,"Kasich, John",52
+Scioto,AAC,PRECINCT PORTSMOUTH 1-C,Southeast,Charleston,737,108,Attorney General,,R,"DeWine, Mike",56
+Scioto,AAC,PRECINCT PORTSMOUTH 1-C,Southeast,Charleston,737,108,Auditor of State,,R,"Yost, Dave",52
+Scioto,AAC,PRECINCT PORTSMOUTH 1-C,Southeast,Charleston,737,108,Secretary of State,,R,"Husted, Jon",48
+Scioto,AAC,PRECINCT PORTSMOUTH 1-C,Southeast,Charleston,737,108,Treasurer of State,,R,"Mandel, Josh",49
+Scioto,AAC,PRECINCT PORTSMOUTH 1-C,Southeast,Charleston,737,108,U.S. House of Representatives,02,R,"Wenstrup, Brad",49
+Scioto,AAC,PRECINCT PORTSMOUTH 1-C,Southeast,Charleston,737,108,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAC,PRECINCT PORTSMOUTH 1-C,Southeast,Charleston,737,108,State House of Representatives,90,R,"Johnson, Terry A.",59
+Scioto,AAI,PRECINCT PORTSMOUTH 2-A,Southeast,Charleston,427,31,Governor/Lieutenant Governor,,R,"Kasich, John",13
+Scioto,AAI,PRECINCT PORTSMOUTH 2-A,Southeast,Charleston,427,31,Attorney General,,R,"DeWine, Mike",14
+Scioto,AAI,PRECINCT PORTSMOUTH 2-A,Southeast,Charleston,427,31,Auditor of State,,R,"Yost, Dave",11
+Scioto,AAI,PRECINCT PORTSMOUTH 2-A,Southeast,Charleston,427,31,Secretary of State,,R,"Husted, Jon",10
+Scioto,AAI,PRECINCT PORTSMOUTH 2-A,Southeast,Charleston,427,31,Treasurer of State,,R,"Mandel, Josh",10
+Scioto,AAI,PRECINCT PORTSMOUTH 2-A,Southeast,Charleston,427,31,U.S. House of Representatives,02,R,"Wenstrup, Brad",13
+Scioto,AAI,PRECINCT PORTSMOUTH 2-A,Southeast,Charleston,427,31,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAI,PRECINCT PORTSMOUTH 2-A,Southeast,Charleston,427,31,State House of Representatives,90,R,"Johnson, Terry A.",15
+Scioto,AAJ,PRECINCT PORTSMOUTH 2-B,Southeast,Charleston,497,64,Governor/Lieutenant Governor,,R,"Kasich, John",7
+Scioto,AAJ,PRECINCT PORTSMOUTH 2-B,Southeast,Charleston,497,64,Attorney General,,R,"DeWine, Mike",7
+Scioto,AAJ,PRECINCT PORTSMOUTH 2-B,Southeast,Charleston,497,64,Auditor of State,,R,"Yost, Dave",7
+Scioto,AAJ,PRECINCT PORTSMOUTH 2-B,Southeast,Charleston,497,64,Secretary of State,,R,"Husted, Jon",8
+Scioto,AAJ,PRECINCT PORTSMOUTH 2-B,Southeast,Charleston,497,64,Treasurer of State,,R,"Mandel, Josh",7
+Scioto,AAJ,PRECINCT PORTSMOUTH 2-B,Southeast,Charleston,497,64,U.S. House of Representatives,02,R,"Wenstrup, Brad",8
+Scioto,AAJ,PRECINCT PORTSMOUTH 2-B,Southeast,Charleston,497,64,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAJ,PRECINCT PORTSMOUTH 2-B,Southeast,Charleston,497,64,State House of Representatives,90,R,"Johnson, Terry A.",8
+Scioto,AAK,PRECINCT PORTSMOUTH 2-C,Southeast,Charleston,584,64,Governor/Lieutenant Governor,,R,"Kasich, John",17
+Scioto,AAK,PRECINCT PORTSMOUTH 2-C,Southeast,Charleston,584,64,Attorney General,,R,"DeWine, Mike",16
+Scioto,AAK,PRECINCT PORTSMOUTH 2-C,Southeast,Charleston,584,64,Auditor of State,,R,"Yost, Dave",16
+Scioto,AAK,PRECINCT PORTSMOUTH 2-C,Southeast,Charleston,584,64,Secretary of State,,R,"Husted, Jon",14
+Scioto,AAK,PRECINCT PORTSMOUTH 2-C,Southeast,Charleston,584,64,Treasurer of State,,R,"Mandel, Josh",15
+Scioto,AAK,PRECINCT PORTSMOUTH 2-C,Southeast,Charleston,584,64,U.S. House of Representatives,02,R,"Wenstrup, Brad",16
+Scioto,AAK,PRECINCT PORTSMOUTH 2-C,Southeast,Charleston,584,64,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAK,PRECINCT PORTSMOUTH 2-C,Southeast,Charleston,584,64,State House of Representatives,90,R,"Johnson, Terry A.",20
+Scioto,AAO,PRECINCT PORTSMOUTH 3-A,Southeast,Charleston,404,148,Governor/Lieutenant Governor,,R,"Kasich, John",78
+Scioto,AAO,PRECINCT PORTSMOUTH 3-A,Southeast,Charleston,404,148,Attorney General,,R,"DeWine, Mike",84
+Scioto,AAO,PRECINCT PORTSMOUTH 3-A,Southeast,Charleston,404,148,Auditor of State,,R,"Yost, Dave",73
+Scioto,AAO,PRECINCT PORTSMOUTH 3-A,Southeast,Charleston,404,148,Secretary of State,,R,"Husted, Jon",77
+Scioto,AAO,PRECINCT PORTSMOUTH 3-A,Southeast,Charleston,404,148,Treasurer of State,,R,"Mandel, Josh",75
+Scioto,AAO,PRECINCT PORTSMOUTH 3-A,Southeast,Charleston,404,148,U.S. House of Representatives,02,R,"Wenstrup, Brad",69
+Scioto,AAO,PRECINCT PORTSMOUTH 3-A,Southeast,Charleston,404,148,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAO,PRECINCT PORTSMOUTH 3-A,Southeast,Charleston,404,148,State House of Representatives,90,R,"Johnson, Terry A.",88
+Scioto,AAP,PRECINCT PORTSMOUTH 3-B,Southeast,Charleston,526,66,Governor/Lieutenant Governor,,R,"Kasich, John",23
+Scioto,AAP,PRECINCT PORTSMOUTH 3-B,Southeast,Charleston,526,66,Attorney General,,R,"DeWine, Mike",22
+Scioto,AAP,PRECINCT PORTSMOUTH 3-B,Southeast,Charleston,526,66,Auditor of State,,R,"Yost, Dave",20
+Scioto,AAP,PRECINCT PORTSMOUTH 3-B,Southeast,Charleston,526,66,Secretary of State,,R,"Husted, Jon",19
+Scioto,AAP,PRECINCT PORTSMOUTH 3-B,Southeast,Charleston,526,66,Treasurer of State,,R,"Mandel, Josh",22
+Scioto,AAP,PRECINCT PORTSMOUTH 3-B,Southeast,Charleston,526,66,U.S. House of Representatives,02,R,"Wenstrup, Brad",22
+Scioto,AAP,PRECINCT PORTSMOUTH 3-B,Southeast,Charleston,526,66,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAP,PRECINCT PORTSMOUTH 3-B,Southeast,Charleston,526,66,State House of Representatives,90,R,"Johnson, Terry A.",24
+Scioto,AAQ,PRECINCT PORTSMOUTH 3-C,Southeast,Charleston,804,185,Governor/Lieutenant Governor,,R,"Kasich, John",94
+Scioto,AAQ,PRECINCT PORTSMOUTH 3-C,Southeast,Charleston,804,185,Attorney General,,R,"DeWine, Mike",98
+Scioto,AAQ,PRECINCT PORTSMOUTH 3-C,Southeast,Charleston,804,185,Auditor of State,,R,"Yost, Dave",94
+Scioto,AAQ,PRECINCT PORTSMOUTH 3-C,Southeast,Charleston,804,185,Secretary of State,,R,"Husted, Jon",95
+Scioto,AAQ,PRECINCT PORTSMOUTH 3-C,Southeast,Charleston,804,185,Treasurer of State,,R,"Mandel, Josh",93
+Scioto,AAQ,PRECINCT PORTSMOUTH 3-C,Southeast,Charleston,804,185,U.S. House of Representatives,02,R,"Wenstrup, Brad",94
+Scioto,AAQ,PRECINCT PORTSMOUTH 3-C,Southeast,Charleston,804,185,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAQ,PRECINCT PORTSMOUTH 3-C,Southeast,Charleston,804,185,State House of Representatives,90,R,"Johnson, Terry A.",102
+Scioto,AAR,PRECINCT PORTSMOUTH 3-D,Southeast,Charleston,801,216,Governor/Lieutenant Governor,,R,"Kasich, John",115
+Scioto,AAR,PRECINCT PORTSMOUTH 3-D,Southeast,Charleston,801,216,Attorney General,,R,"DeWine, Mike",116
+Scioto,AAR,PRECINCT PORTSMOUTH 3-D,Southeast,Charleston,801,216,Auditor of State,,R,"Yost, Dave",103
+Scioto,AAR,PRECINCT PORTSMOUTH 3-D,Southeast,Charleston,801,216,Secretary of State,,R,"Husted, Jon",106
+Scioto,AAR,PRECINCT PORTSMOUTH 3-D,Southeast,Charleston,801,216,Treasurer of State,,R,"Mandel, Josh",102
+Scioto,AAR,PRECINCT PORTSMOUTH 3-D,Southeast,Charleston,801,216,U.S. House of Representatives,02,R,"Wenstrup, Brad",110
+Scioto,AAR,PRECINCT PORTSMOUTH 3-D,Southeast,Charleston,801,216,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAR,PRECINCT PORTSMOUTH 3-D,Southeast,Charleston,801,216,State House of Representatives,90,R,"Johnson, Terry A.",123
+Scioto,AAX,PRECINCT PORTSMOUTH 4-A,Southeast,Charleston,850,62,Governor/Lieutenant Governor,,R,"Kasich, John",21
+Scioto,AAX,PRECINCT PORTSMOUTH 4-A,Southeast,Charleston,850,62,Attorney General,,R,"DeWine, Mike",21
+Scioto,AAX,PRECINCT PORTSMOUTH 4-A,Southeast,Charleston,850,62,Auditor of State,,R,"Yost, Dave",21
+Scioto,AAX,PRECINCT PORTSMOUTH 4-A,Southeast,Charleston,850,62,Secretary of State,,R,"Husted, Jon",21
+Scioto,AAX,PRECINCT PORTSMOUTH 4-A,Southeast,Charleston,850,62,Treasurer of State,,R,"Mandel, Josh",22
+Scioto,AAX,PRECINCT PORTSMOUTH 4-A,Southeast,Charleston,850,62,U.S. House of Representatives,02,R,"Wenstrup, Brad",22
+Scioto,AAX,PRECINCT PORTSMOUTH 4-A,Southeast,Charleston,850,62,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAX,PRECINCT PORTSMOUTH 4-A,Southeast,Charleston,850,62,State House of Representatives,90,R,"Johnson, Terry A.",20
+Scioto,AAY,PRECINCT PORTSMOUTH 4-B,Southeast,Charleston,880,70,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Scioto,AAY,PRECINCT PORTSMOUTH 4-B,Southeast,Charleston,880,70,Attorney General,,R,"DeWine, Mike",30
+Scioto,AAY,PRECINCT PORTSMOUTH 4-B,Southeast,Charleston,880,70,Auditor of State,,R,"Yost, Dave",27
+Scioto,AAY,PRECINCT PORTSMOUTH 4-B,Southeast,Charleston,880,70,Secretary of State,,R,"Husted, Jon",28
+Scioto,AAY,PRECINCT PORTSMOUTH 4-B,Southeast,Charleston,880,70,Treasurer of State,,R,"Mandel, Josh",29
+Scioto,AAY,PRECINCT PORTSMOUTH 4-B,Southeast,Charleston,880,70,U.S. House of Representatives,02,R,"Wenstrup, Brad",27
+Scioto,AAY,PRECINCT PORTSMOUTH 4-B,Southeast,Charleston,880,70,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AAY,PRECINCT PORTSMOUTH 4-B,Southeast,Charleston,880,70,State House of Representatives,90,R,"Johnson, Terry A.",32
+Scioto,ABD,PRECINCT PORTSMOUTH 5-A,Southeast,Charleston,502,61,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Scioto,ABD,PRECINCT PORTSMOUTH 5-A,Southeast,Charleston,502,61,Attorney General,,R,"DeWine, Mike",30
+Scioto,ABD,PRECINCT PORTSMOUTH 5-A,Southeast,Charleston,502,61,Auditor of State,,R,"Yost, Dave",28
+Scioto,ABD,PRECINCT PORTSMOUTH 5-A,Southeast,Charleston,502,61,Secretary of State,,R,"Husted, Jon",25
+Scioto,ABD,PRECINCT PORTSMOUTH 5-A,Southeast,Charleston,502,61,Treasurer of State,,R,"Mandel, Josh",24
+Scioto,ABD,PRECINCT PORTSMOUTH 5-A,Southeast,Charleston,502,61,U.S. House of Representatives,02,R,"Wenstrup, Brad",26
+Scioto,ABD,PRECINCT PORTSMOUTH 5-A,Southeast,Charleston,502,61,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABD,PRECINCT PORTSMOUTH 5-A,Southeast,Charleston,502,61,State House of Representatives,90,R,"Johnson, Terry A.",32
+Scioto,ABE,PRECINCT PORTSMOUTH 5-B,Southeast,Charleston,482,100,Governor/Lieutenant Governor,,R,"Kasich, John",54
+Scioto,ABE,PRECINCT PORTSMOUTH 5-B,Southeast,Charleston,482,100,Attorney General,,R,"DeWine, Mike",56
+Scioto,ABE,PRECINCT PORTSMOUTH 5-B,Southeast,Charleston,482,100,Auditor of State,,R,"Yost, Dave",54
+Scioto,ABE,PRECINCT PORTSMOUTH 5-B,Southeast,Charleston,482,100,Secretary of State,,R,"Husted, Jon",53
+Scioto,ABE,PRECINCT PORTSMOUTH 5-B,Southeast,Charleston,482,100,Treasurer of State,,R,"Mandel, Josh",53
+Scioto,ABE,PRECINCT PORTSMOUTH 5-B,Southeast,Charleston,482,100,U.S. House of Representatives,02,R,"Wenstrup, Brad",51
+Scioto,ABE,PRECINCT PORTSMOUTH 5-B,Southeast,Charleston,482,100,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABE,PRECINCT PORTSMOUTH 5-B,Southeast,Charleston,482,100,State House of Representatives,90,R,"Johnson, Terry A.",58
+Scioto,ABF,PRECINCT PORTSMOUTH 5-C,Southeast,Charleston,385,141,Governor/Lieutenant Governor,,R,"Kasich, John",82
+Scioto,ABF,PRECINCT PORTSMOUTH 5-C,Southeast,Charleston,385,141,Attorney General,,R,"DeWine, Mike",83
+Scioto,ABF,PRECINCT PORTSMOUTH 5-C,Southeast,Charleston,385,141,Auditor of State,,R,"Yost, Dave",79
+Scioto,ABF,PRECINCT PORTSMOUTH 5-C,Southeast,Charleston,385,141,Secretary of State,,R,"Husted, Jon",79
+Scioto,ABF,PRECINCT PORTSMOUTH 5-C,Southeast,Charleston,385,141,Treasurer of State,,R,"Mandel, Josh",78
+Scioto,ABF,PRECINCT PORTSMOUTH 5-C,Southeast,Charleston,385,141,U.S. House of Representatives,02,R,"Wenstrup, Brad",78
+Scioto,ABF,PRECINCT PORTSMOUTH 5-C,Southeast,Charleston,385,141,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABF,PRECINCT PORTSMOUTH 5-C,Southeast,Charleston,385,141,State House of Representatives,90,R,"Johnson, Terry A.",89
+Scioto,ABG,PRECINCT PORTSMOUTH 5-D,Southeast,Charleston,570,93,Governor/Lieutenant Governor,,R,"Kasich, John",40
+Scioto,ABG,PRECINCT PORTSMOUTH 5-D,Southeast,Charleston,570,93,Attorney General,,R,"DeWine, Mike",45
+Scioto,ABG,PRECINCT PORTSMOUTH 5-D,Southeast,Charleston,570,93,Auditor of State,,R,"Yost, Dave",44
+Scioto,ABG,PRECINCT PORTSMOUTH 5-D,Southeast,Charleston,570,93,Secretary of State,,R,"Husted, Jon",43
+Scioto,ABG,PRECINCT PORTSMOUTH 5-D,Southeast,Charleston,570,93,Treasurer of State,,R,"Mandel, Josh",46
+Scioto,ABG,PRECINCT PORTSMOUTH 5-D,Southeast,Charleston,570,93,U.S. House of Representatives,02,R,"Wenstrup, Brad",43
+Scioto,ABG,PRECINCT PORTSMOUTH 5-D,Southeast,Charleston,570,93,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABG,PRECINCT PORTSMOUTH 5-D,Southeast,Charleston,570,93,State House of Representatives,90,R,"Johnson, Terry A.",43
+Scioto,ABJ,PRECINCT PORTSMOUTH 6-A,Southeast,Charleston,542,53,Governor/Lieutenant Governor,,R,"Kasich, John",16
+Scioto,ABJ,PRECINCT PORTSMOUTH 6-A,Southeast,Charleston,542,53,Attorney General,,R,"DeWine, Mike",19
+Scioto,ABJ,PRECINCT PORTSMOUTH 6-A,Southeast,Charleston,542,53,Auditor of State,,R,"Yost, Dave",16
+Scioto,ABJ,PRECINCT PORTSMOUTH 6-A,Southeast,Charleston,542,53,Secretary of State,,R,"Husted, Jon",17
+Scioto,ABJ,PRECINCT PORTSMOUTH 6-A,Southeast,Charleston,542,53,Treasurer of State,,R,"Mandel, Josh",16
+Scioto,ABJ,PRECINCT PORTSMOUTH 6-A,Southeast,Charleston,542,53,U.S. House of Representatives,02,R,"Wenstrup, Brad",15
+Scioto,ABJ,PRECINCT PORTSMOUTH 6-A,Southeast,Charleston,542,53,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABJ,PRECINCT PORTSMOUTH 6-A,Southeast,Charleston,542,53,State House of Representatives,90,R,"Johnson, Terry A.",20
+Scioto,ABK,PRECINCT PORTSMOUTH 6-B,Southeast,Charleston,532,101,Governor/Lieutenant Governor,,R,"Kasich, John",57
+Scioto,ABK,PRECINCT PORTSMOUTH 6-B,Southeast,Charleston,532,101,Attorney General,,R,"DeWine, Mike",58
+Scioto,ABK,PRECINCT PORTSMOUTH 6-B,Southeast,Charleston,532,101,Auditor of State,,R,"Yost, Dave",55
+Scioto,ABK,PRECINCT PORTSMOUTH 6-B,Southeast,Charleston,532,101,Secretary of State,,R,"Husted, Jon",54
+Scioto,ABK,PRECINCT PORTSMOUTH 6-B,Southeast,Charleston,532,101,Treasurer of State,,R,"Mandel, Josh",57
+Scioto,ABK,PRECINCT PORTSMOUTH 6-B,Southeast,Charleston,532,101,U.S. House of Representatives,02,R,"Wenstrup, Brad",54
+Scioto,ABK,PRECINCT PORTSMOUTH 6-B,Southeast,Charleston,532,101,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABK,PRECINCT PORTSMOUTH 6-B,Southeast,Charleston,532,101,State House of Representatives,90,R,"Johnson, Terry A.",58
+Scioto,ABL,PRECINCT PORTSMOUTH 6-C,Southeast,Charleston,727,110,Governor/Lieutenant Governor,,R,"Kasich, John",49
+Scioto,ABL,PRECINCT PORTSMOUTH 6-C,Southeast,Charleston,727,110,Attorney General,,R,"DeWine, Mike",50
+Scioto,ABL,PRECINCT PORTSMOUTH 6-C,Southeast,Charleston,727,110,Auditor of State,,R,"Yost, Dave",48
+Scioto,ABL,PRECINCT PORTSMOUTH 6-C,Southeast,Charleston,727,110,Secretary of State,,R,"Husted, Jon",48
+Scioto,ABL,PRECINCT PORTSMOUTH 6-C,Southeast,Charleston,727,110,Treasurer of State,,R,"Mandel, Josh",46
+Scioto,ABL,PRECINCT PORTSMOUTH 6-C,Southeast,Charleston,727,110,U.S. House of Representatives,02,R,"Wenstrup, Brad",47
+Scioto,ABL,PRECINCT PORTSMOUTH 6-C,Southeast,Charleston,727,110,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ABL,PRECINCT PORTSMOUTH 6-C,Southeast,Charleston,727,110,State House of Representatives,90,R,"Johnson, Terry A.",56
+Scioto,ADR,PRECINCT RARDEN VIL/TWP,Southeast,Charleston,681,104,Governor/Lieutenant Governor,,R,"Kasich, John",25
+Scioto,ADR,PRECINCT RARDEN VIL/TWP,Southeast,Charleston,681,104,Attorney General,,R,"DeWine, Mike",26
+Scioto,ADR,PRECINCT RARDEN VIL/TWP,Southeast,Charleston,681,104,Auditor of State,,R,"Yost, Dave",22
+Scioto,ADR,PRECINCT RARDEN VIL/TWP,Southeast,Charleston,681,104,Secretary of State,,R,"Husted, Jon",20
+Scioto,ADR,PRECINCT RARDEN VIL/TWP,Southeast,Charleston,681,104,Treasurer of State,,R,"Mandel, Josh",20
+Scioto,ADR,PRECINCT RARDEN VIL/TWP,Southeast,Charleston,681,104,U.S. House of Representatives,02,R,"Wenstrup, Brad",20
+Scioto,ADR,PRECINCT RARDEN VIL/TWP,Southeast,Charleston,681,104,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ADR,PRECINCT RARDEN VIL/TWP,Southeast,Charleston,681,104,State House of Representatives,90,R,"Johnson, Terry A.",26
+Scioto,ADT,PRECINCT RUSH TOWNSHIP A,Southeast,Charleston,518,81,Governor/Lieutenant Governor,,R,"Kasich, John",39
+Scioto,ADT,PRECINCT RUSH TOWNSHIP A,Southeast,Charleston,518,81,Attorney General,,R,"DeWine, Mike",40
+Scioto,ADT,PRECINCT RUSH TOWNSHIP A,Southeast,Charleston,518,81,Auditor of State,,R,"Yost, Dave",34
+Scioto,ADT,PRECINCT RUSH TOWNSHIP A,Southeast,Charleston,518,81,Secretary of State,,R,"Husted, Jon",32
+Scioto,ADT,PRECINCT RUSH TOWNSHIP A,Southeast,Charleston,518,81,Treasurer of State,,R,"Mandel, Josh",34
+Scioto,ADT,PRECINCT RUSH TOWNSHIP A,Southeast,Charleston,518,81,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADT,PRECINCT RUSH TOWNSHIP A,Southeast,Charleston,518,81,U.S. House of Representatives,06,R,"Johnson, Bill",35
+Scioto,ADT,PRECINCT RUSH TOWNSHIP A,Southeast,Charleston,518,81,State House of Representatives,90,R,"Johnson, Terry A.",45
+Scioto,ADU,PRECINCT RUSH TOWNSHIP B,Southeast,Charleston,579,106,Governor/Lieutenant Governor,,R,"Kasich, John",50
+Scioto,ADU,PRECINCT RUSH TOWNSHIP B,Southeast,Charleston,579,106,Attorney General,,R,"DeWine, Mike",52
+Scioto,ADU,PRECINCT RUSH TOWNSHIP B,Southeast,Charleston,579,106,Auditor of State,,R,"Yost, Dave",49
+Scioto,ADU,PRECINCT RUSH TOWNSHIP B,Southeast,Charleston,579,106,Secretary of State,,R,"Husted, Jon",44
+Scioto,ADU,PRECINCT RUSH TOWNSHIP B,Southeast,Charleston,579,106,Treasurer of State,,R,"Mandel, Josh",44
+Scioto,ADU,PRECINCT RUSH TOWNSHIP B,Southeast,Charleston,579,106,U.S. House of Representatives,02,R,"Wenstrup, Brad",16
+Scioto,ADU,PRECINCT RUSH TOWNSHIP B,Southeast,Charleston,579,106,U.S. House of Representatives,06,R,"Johnson, Bill",34
+Scioto,ADU,PRECINCT RUSH TOWNSHIP B,Southeast,Charleston,579,106,State House of Representatives,90,R,"Johnson, Terry A.",56
+Scioto,ADV,PRECINCT RUSH TOWNSHIP C,Southeast,Charleston,518,121,Governor/Lieutenant Governor,,R,"Kasich, John",51
+Scioto,ADV,PRECINCT RUSH TOWNSHIP C,Southeast,Charleston,518,121,Attorney General,,R,"DeWine, Mike",50
+Scioto,ADV,PRECINCT RUSH TOWNSHIP C,Southeast,Charleston,518,121,Auditor of State,,R,"Yost, Dave",43
+Scioto,ADV,PRECINCT RUSH TOWNSHIP C,Southeast,Charleston,518,121,Secretary of State,,R,"Husted, Jon",46
+Scioto,ADV,PRECINCT RUSH TOWNSHIP C,Southeast,Charleston,518,121,Treasurer of State,,R,"Mandel, Josh",43
+Scioto,ADV,PRECINCT RUSH TOWNSHIP C,Southeast,Charleston,518,121,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADV,PRECINCT RUSH TOWNSHIP C,Southeast,Charleston,518,121,U.S. House of Representatives,06,R,"Johnson, Bill",50
+Scioto,ADV,PRECINCT RUSH TOWNSHIP C,Southeast,Charleston,518,121,State House of Representatives,90,R,"Johnson, Terry A.",57
+Scioto,AEP,PRECINCT RUSH TOWNSHIP D,Southeast,Charleston,319,44,Governor/Lieutenant Governor,,R,"Kasich, John",18
+Scioto,AEP,PRECINCT RUSH TOWNSHIP D,Southeast,Charleston,319,44,Attorney General,,R,"DeWine, Mike",23
+Scioto,AEP,PRECINCT RUSH TOWNSHIP D,Southeast,Charleston,319,44,Auditor of State,,R,"Yost, Dave",21
+Scioto,AEP,PRECINCT RUSH TOWNSHIP D,Southeast,Charleston,319,44,Secretary of State,,R,"Husted, Jon",21
+Scioto,AEP,PRECINCT RUSH TOWNSHIP D,Southeast,Charleston,319,44,Treasurer of State,,R,"Mandel, Josh",21
+Scioto,AEP,PRECINCT RUSH TOWNSHIP D,Southeast,Charleston,319,44,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,AEP,PRECINCT RUSH TOWNSHIP D,Southeast,Charleston,319,44,U.S. House of Representatives,06,R,"Johnson, Bill",21
+Scioto,AEP,PRECINCT RUSH TOWNSHIP D,Southeast,Charleston,319,44,State House of Representatives,90,R,"Johnson, Terry A.",22
+Scioto,ABS,PRECINCT SOUTH WEBSTER VILLAGE,Southeast,Charleston,475,90,Governor/Lieutenant Governor,,R,"Kasich, John",38
+Scioto,ABS,PRECINCT SOUTH WEBSTER VILLAGE,Southeast,Charleston,475,90,Attorney General,,R,"DeWine, Mike",44
+Scioto,ABS,PRECINCT SOUTH WEBSTER VILLAGE,Southeast,Charleston,475,90,Auditor of State,,R,"Yost, Dave",37
+Scioto,ABS,PRECINCT SOUTH WEBSTER VILLAGE,Southeast,Charleston,475,90,Secretary of State,,R,"Husted, Jon",38
+Scioto,ABS,PRECINCT SOUTH WEBSTER VILLAGE,Southeast,Charleston,475,90,Treasurer of State,,R,"Mandel, Josh",40
+Scioto,ABS,PRECINCT SOUTH WEBSTER VILLAGE,Southeast,Charleston,475,90,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ABS,PRECINCT SOUTH WEBSTER VILLAGE,Southeast,Charleston,475,90,U.S. House of Representatives,06,R,"Johnson, Bill",44
+Scioto,ABS,PRECINCT SOUTH WEBSTER VILLAGE,Southeast,Charleston,475,90,State House of Representatives,90,R,"Johnson, Terry A.",48
+Scioto,ADW,PRECINCT UNION TOWNSHIP A,Southeast,Charleston,790,120,Governor/Lieutenant Governor,,R,"Kasich, John",40
+Scioto,ADW,PRECINCT UNION TOWNSHIP A,Southeast,Charleston,790,120,Attorney General,,R,"DeWine, Mike",39
+Scioto,ADW,PRECINCT UNION TOWNSHIP A,Southeast,Charleston,790,120,Auditor of State,,R,"Yost, Dave",36
+Scioto,ADW,PRECINCT UNION TOWNSHIP A,Southeast,Charleston,790,120,Secretary of State,,R,"Husted, Jon",36
+Scioto,ADW,PRECINCT UNION TOWNSHIP A,Southeast,Charleston,790,120,Treasurer of State,,R,"Mandel, Josh",37
+Scioto,ADW,PRECINCT UNION TOWNSHIP A,Southeast,Charleston,790,120,U.S. House of Representatives,02,R,"Wenstrup, Brad",33
+Scioto,ADW,PRECINCT UNION TOWNSHIP A,Southeast,Charleston,790,120,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ADW,PRECINCT UNION TOWNSHIP A,Southeast,Charleston,790,120,State House of Representatives,90,R,"Johnson, Terry A.",45
+Scioto,ADX,PRECINCT UNION TOWNSHIP B,Southeast,Charleston,537,61,Governor/Lieutenant Governor,,R,"Kasich, John",26
+Scioto,ADX,PRECINCT UNION TOWNSHIP B,Southeast,Charleston,537,61,Attorney General,,R,"DeWine, Mike",23
+Scioto,ADX,PRECINCT UNION TOWNSHIP B,Southeast,Charleston,537,61,Auditor of State,,R,"Yost, Dave",22
+Scioto,ADX,PRECINCT UNION TOWNSHIP B,Southeast,Charleston,537,61,Secretary of State,,R,"Husted, Jon",23
+Scioto,ADX,PRECINCT UNION TOWNSHIP B,Southeast,Charleston,537,61,Treasurer of State,,R,"Mandel, Josh",24
+Scioto,ADX,PRECINCT UNION TOWNSHIP B,Southeast,Charleston,537,61,U.S. House of Representatives,02,R,"Wenstrup, Brad",23
+Scioto,ADX,PRECINCT UNION TOWNSHIP B,Southeast,Charleston,537,61,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,ADX,PRECINCT UNION TOWNSHIP B,Southeast,Charleston,537,61,State House of Representatives,90,R,"Johnson, Terry A.",28
+Scioto,ADY,PRECINCT VALLEY TOWNSHIP A,Southeast,Charleston,647,155,Governor/Lieutenant Governor,,R,"Kasich, John",84
+Scioto,ADY,PRECINCT VALLEY TOWNSHIP A,Southeast,Charleston,647,155,Attorney General,,R,"DeWine, Mike",84
+Scioto,ADY,PRECINCT VALLEY TOWNSHIP A,Southeast,Charleston,647,155,Auditor of State,,R,"Yost, Dave",73
+Scioto,ADY,PRECINCT VALLEY TOWNSHIP A,Southeast,Charleston,647,155,Secretary of State,,R,"Husted, Jon",75
+Scioto,ADY,PRECINCT VALLEY TOWNSHIP A,Southeast,Charleston,647,155,Treasurer of State,,R,"Mandel, Josh",76
+Scioto,ADY,PRECINCT VALLEY TOWNSHIP A,Southeast,Charleston,647,155,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADY,PRECINCT VALLEY TOWNSHIP A,Southeast,Charleston,647,155,U.S. House of Representatives,06,R,"Johnson, Bill",78
+Scioto,ADY,PRECINCT VALLEY TOWNSHIP A,Southeast,Charleston,647,155,State House of Representatives,90,R,"Johnson, Terry A.",100
+Scioto,ADZ,PRECINCT VALLEY TOWNSHIP B,Southeast,Charleston,653,133,Governor/Lieutenant Governor,,R,"Kasich, John",45
+Scioto,ADZ,PRECINCT VALLEY TOWNSHIP B,Southeast,Charleston,653,133,Attorney General,,R,"DeWine, Mike",50
+Scioto,ADZ,PRECINCT VALLEY TOWNSHIP B,Southeast,Charleston,653,133,Auditor of State,,R,"Yost, Dave",39
+Scioto,ADZ,PRECINCT VALLEY TOWNSHIP B,Southeast,Charleston,653,133,Secretary of State,,R,"Husted, Jon",40
+Scioto,ADZ,PRECINCT VALLEY TOWNSHIP B,Southeast,Charleston,653,133,Treasurer of State,,R,"Mandel, Josh",36
+Scioto,ADZ,PRECINCT VALLEY TOWNSHIP B,Southeast,Charleston,653,133,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,ADZ,PRECINCT VALLEY TOWNSHIP B,Southeast,Charleston,653,133,U.S. House of Representatives,06,R,"Johnson, Bill",41
+Scioto,ADZ,PRECINCT VALLEY TOWNSHIP B,Southeast,Charleston,653,133,State House of Representatives,90,R,"Johnson, Terry A.",58
+Scioto,AEA,PRECINCT VALLEY TOWNSHIP C,Southeast,Charleston,387,59,Governor/Lieutenant Governor,,R,"Kasich, John",37
+Scioto,AEA,PRECINCT VALLEY TOWNSHIP C,Southeast,Charleston,387,59,Attorney General,,R,"DeWine, Mike",36
+Scioto,AEA,PRECINCT VALLEY TOWNSHIP C,Southeast,Charleston,387,59,Auditor of State,,R,"Yost, Dave",28
+Scioto,AEA,PRECINCT VALLEY TOWNSHIP C,Southeast,Charleston,387,59,Secretary of State,,R,"Husted, Jon",29
+Scioto,AEA,PRECINCT VALLEY TOWNSHIP C,Southeast,Charleston,387,59,Treasurer of State,,R,"Mandel, Josh",30
+Scioto,AEA,PRECINCT VALLEY TOWNSHIP C,Southeast,Charleston,387,59,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,AEA,PRECINCT VALLEY TOWNSHIP C,Southeast,Charleston,387,59,U.S. House of Representatives,06,R,"Johnson, Bill",34
+Scioto,AEA,PRECINCT VALLEY TOWNSHIP C,Southeast,Charleston,387,59,State House of Representatives,90,R,"Johnson, Terry A.",40
+Scioto,AEC,PRECINCT VERNON TOWNSHIP A,Southeast,Charleston,478,45,Governor/Lieutenant Governor,,R,"Kasich, John",16
+Scioto,AEC,PRECINCT VERNON TOWNSHIP A,Southeast,Charleston,478,45,Attorney General,,R,"DeWine, Mike",20
+Scioto,AEC,PRECINCT VERNON TOWNSHIP A,Southeast,Charleston,478,45,Auditor of State,,R,"Yost, Dave",18
+Scioto,AEC,PRECINCT VERNON TOWNSHIP A,Southeast,Charleston,478,45,Secretary of State,,R,"Husted, Jon",16
+Scioto,AEC,PRECINCT VERNON TOWNSHIP A,Southeast,Charleston,478,45,Treasurer of State,,R,"Mandel, Josh",17
+Scioto,AEC,PRECINCT VERNON TOWNSHIP A,Southeast,Charleston,478,45,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,AEC,PRECINCT VERNON TOWNSHIP A,Southeast,Charleston,478,45,U.S. House of Representatives,06,R,"Johnson, Bill",19
+Scioto,AEC,PRECINCT VERNON TOWNSHIP A,Southeast,Charleston,478,45,State House of Representatives,90,R,"Johnson, Terry A.",20
+Scioto,AED,PRECINCT VERNON TOWNSHIP B,Southeast,Charleston,842,84,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Scioto,AED,PRECINCT VERNON TOWNSHIP B,Southeast,Charleston,842,84,Attorney General,,R,"DeWine, Mike",32
+Scioto,AED,PRECINCT VERNON TOWNSHIP B,Southeast,Charleston,842,84,Auditor of State,,R,"Yost, Dave",28
+Scioto,AED,PRECINCT VERNON TOWNSHIP B,Southeast,Charleston,842,84,Secretary of State,,R,"Husted, Jon",28
+Scioto,AED,PRECINCT VERNON TOWNSHIP B,Southeast,Charleston,842,84,Treasurer of State,,R,"Mandel, Josh",30
+Scioto,AED,PRECINCT VERNON TOWNSHIP B,Southeast,Charleston,842,84,U.S. House of Representatives,02,R,"Wenstrup, Brad",0
+Scioto,AED,PRECINCT VERNON TOWNSHIP B,Southeast,Charleston,842,84,U.S. House of Representatives,06,R,"Johnson, Bill",34
+Scioto,AED,PRECINCT VERNON TOWNSHIP B,Southeast,Charleston,842,84,State House of Representatives,90,R,"Johnson, Terry A.",34
+Scioto,AEE,PRECINCT WASH A,Southeast,Charleston,658,84,Governor/Lieutenant Governor,,R,"Kasich, John",46
+Scioto,AEE,PRECINCT WASH A,Southeast,Charleston,658,84,Attorney General,,R,"DeWine, Mike",42
+Scioto,AEE,PRECINCT WASH A,Southeast,Charleston,658,84,Auditor of State,,R,"Yost, Dave",39
+Scioto,AEE,PRECINCT WASH A,Southeast,Charleston,658,84,Secretary of State,,R,"Husted, Jon",37
+Scioto,AEE,PRECINCT WASH A,Southeast,Charleston,658,84,Treasurer of State,,R,"Mandel, Josh",39
+Scioto,AEE,PRECINCT WASH A,Southeast,Charleston,658,84,U.S. House of Representatives,02,R,"Wenstrup, Brad",41
+Scioto,AEE,PRECINCT WASH A,Southeast,Charleston,658,84,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AEE,PRECINCT WASH A,Southeast,Charleston,658,84,State House of Representatives,90,R,"Johnson, Terry A.",42
+Scioto,AEF,PRECINCT WASH B,Southeast,Charleston,821,97,Governor/Lieutenant Governor,,R,"Kasich, John",31
+Scioto,AEF,PRECINCT WASH B,Southeast,Charleston,821,97,Attorney General,,R,"DeWine, Mike",32
+Scioto,AEF,PRECINCT WASH B,Southeast,Charleston,821,97,Auditor of State,,R,"Yost, Dave",31
+Scioto,AEF,PRECINCT WASH B,Southeast,Charleston,821,97,Secretary of State,,R,"Husted, Jon",29
+Scioto,AEF,PRECINCT WASH B,Southeast,Charleston,821,97,Treasurer of State,,R,"Mandel, Josh",32
+Scioto,AEF,PRECINCT WASH B,Southeast,Charleston,821,97,U.S. House of Representatives,02,R,"Wenstrup, Brad",32
+Scioto,AEF,PRECINCT WASH B,Southeast,Charleston,821,97,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AEF,PRECINCT WASH B,Southeast,Charleston,821,97,State House of Representatives,90,R,"Johnson, Terry A.",37
+Scioto,AEG,PRECINCT WASH C,Southeast,Charleston,596,110,Governor/Lieutenant Governor,,R,"Kasich, John",52
+Scioto,AEG,PRECINCT WASH C,Southeast,Charleston,596,110,Attorney General,,R,"DeWine, Mike",48
+Scioto,AEG,PRECINCT WASH C,Southeast,Charleston,596,110,Auditor of State,,R,"Yost, Dave",48
+Scioto,AEG,PRECINCT WASH C,Southeast,Charleston,596,110,Secretary of State,,R,"Husted, Jon",45
+Scioto,AEG,PRECINCT WASH C,Southeast,Charleston,596,110,Treasurer of State,,R,"Mandel, Josh",46
+Scioto,AEG,PRECINCT WASH C,Southeast,Charleston,596,110,U.S. House of Representatives,02,R,"Wenstrup, Brad",49
+Scioto,AEG,PRECINCT WASH C,Southeast,Charleston,596,110,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AEG,PRECINCT WASH C,Southeast,Charleston,596,110,State House of Representatives,90,R,"Johnson, Terry A.",50
+Scioto,AEH,PRECINCT WASH D,Southeast,Charleston,423,61,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Scioto,AEH,PRECINCT WASH D,Southeast,Charleston,423,61,Attorney General,,R,"DeWine, Mike",32
+Scioto,AEH,PRECINCT WASH D,Southeast,Charleston,423,61,Auditor of State,,R,"Yost, Dave",25
+Scioto,AEH,PRECINCT WASH D,Southeast,Charleston,423,61,Secretary of State,,R,"Husted, Jon",29
+Scioto,AEH,PRECINCT WASH D,Southeast,Charleston,423,61,Treasurer of State,,R,"Mandel, Josh",27
+Scioto,AEH,PRECINCT WASH D,Southeast,Charleston,423,61,U.S. House of Representatives,02,R,"Wenstrup, Brad",29
+Scioto,AEH,PRECINCT WASH D,Southeast,Charleston,423,61,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AEH,PRECINCT WASH D,Southeast,Charleston,423,61,State House of Representatives,90,R,"Johnson, Terry A.",28
+Scioto,AEI,PRECINCT WASH E,Southeast,Charleston,777,106,Governor/Lieutenant Governor,,R,"Kasich, John",45
+Scioto,AEI,PRECINCT WASH E,Southeast,Charleston,777,106,Attorney General,,R,"DeWine, Mike",50
+Scioto,AEI,PRECINCT WASH E,Southeast,Charleston,777,106,Auditor of State,,R,"Yost, Dave",44
+Scioto,AEI,PRECINCT WASH E,Southeast,Charleston,777,106,Secretary of State,,R,"Husted, Jon",44
+Scioto,AEI,PRECINCT WASH E,Southeast,Charleston,777,106,Treasurer of State,,R,"Mandel, Josh",43
+Scioto,AEI,PRECINCT WASH E,Southeast,Charleston,777,106,U.S. House of Representatives,02,R,"Wenstrup, Brad",43
+Scioto,AEI,PRECINCT WASH E,Southeast,Charleston,777,106,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Scioto,AEI,PRECINCT WASH E,Southeast,Charleston,777,106,State House of Representatives,90,R,"Johnson, Terry A.",38

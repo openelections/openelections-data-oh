@@ -1,0 +1,811 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,Governor/Lieutenant Governor,,D,"Ealy, Larry",1
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",19
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,Attorney General,,D,"Pepper, David",17
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,Auditor of State,,D,"Carney, John Patrick",17
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,Secretary of State,,D,"Turner, Nina",17
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,Treasurer of State,,D,"Pillich, Connie",18
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,State Senate,31,D,"Carlisle, John",18
+Tuscarawas,ABW,PRECINCT AUBURN TWP,Northeast,Cleveland,524,60,State House of Representatives,98,D,"Johnson, Jeremiah M.",12
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,Governor/Lieutenant Governor,,D,"Ealy, Larry",2
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",16
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,Attorney General,,D,"Pepper, David",19
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,Auditor of State,,D,"Carney, John Patrick",18
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,Secretary of State,,D,"Turner, Nina",18
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,Treasurer of State,,D,"Pillich, Connie",18
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,State Senate,31,D,"Carlisle, John",17
+Tuscarawas,ABX,PRECINCT BALTIC VILLAGE,Northeast,Cleveland,374,47,State House of Representatives,98,D,"Johnson, Jeremiah M.",12
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,Governor/Lieutenant Governor,,D,"Ealy, Larry",14
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",64
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,Attorney General,,D,"Pepper, David",70
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,Auditor of State,,D,"Carney, John Patrick",71
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,Secretary of State,,D,"Turner, Nina",74
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,Treasurer of State,,D,"Pillich, Connie",70
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,State Senate,31,D,"Carlisle, John",71
+Tuscarawas,ADE,PRECINCT BOLIVAR VILLAGE,Northeast,Cleveland,659,307,State House of Representatives,98,D,"Johnson, Jeremiah M.",68
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",12
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,Attorney General,,D,"Pepper, David",13
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,Auditor of State,,D,"Carney, John Patrick",15
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,Secretary of State,,D,"Turner, Nina",14
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,Treasurer of State,,D,"Pillich, Connie",14
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,State Senate,31,D,"Carlisle, John",15
+Tuscarawas,ABY,PRECINCT BUCKS TWP,Northeast,Cleveland,530,65,State House of Representatives,98,D,"Johnson, Jeremiah M.",10
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",24
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,Attorney General,,D,"Pepper, David",31
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,Auditor of State,,D,"Carney, John Patrick",32
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,Secretary of State,,D,"Turner, Nina",30
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,Treasurer of State,,D,"Pillich, Connie",30
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,U.S. House of Representatives,06,D,"Garrison, Jennifer",22
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,U.S. House of Representatives,06,D,"Howard, Gregory D.",9
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,State Senate,31,D,"Carlisle, John",33
+Tuscarawas,ABZ,PRECINCT CLAY TWP,Northeast,Cleveland,470,53,State House of Representatives,98,D,"Johnson, Jeremiah M.",31
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",48
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,Attorney General,,D,"Pepper, David",50
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,Auditor of State,,D,"Carney, John Patrick",52
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,Secretary of State,,D,"Turner, Nina",52
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,Treasurer of State,,D,"Pillich, Connie",53
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,U.S. House of Representatives,06,D,"Garrison, Jennifer",40
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,U.S. House of Representatives,06,D,"Howard, Gregory D.",13
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,State Senate,31,D,"Carlisle, John",53
+Tuscarawas,ADI,PRECINCT DENNISON VILLAGE 1,Northeast,Cleveland,742,116,State House of Representatives,98,D,"Johnson, Jeremiah M.",55
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",58
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,Attorney General,,D,"Pepper, David",61
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,Auditor of State,,D,"Carney, John Patrick",63
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,Secretary of State,,D,"Turner, Nina",61
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,Treasurer of State,,D,"Pillich, Connie",57
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,U.S. House of Representatives,06,D,"Garrison, Jennifer",39
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,U.S. House of Representatives,06,D,"Howard, Gregory D.",29
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,State Senate,31,D,"Carlisle, John",59
+Tuscarawas,ADJ,PRECINCT DENNISON VILLAGE 2,Northeast,Cleveland,816,102,State House of Representatives,98,D,"Johnson, Jeremiah M.",59
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,Governor/Lieutenant Governor,,D,"Ealy, Larry",19
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",82
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,Attorney General,,D,"Pepper, David",89
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,Auditor of State,,D,"Carney, John Patrick",90
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,Secretary of State,,D,"Turner, Nina",94
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,Treasurer of State,,D,"Pillich, Connie",86
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,State Senate,31,D,"Carlisle, John",92
+Tuscarawas,AAA,PRECINCT DOVER 1-A,Northeast,Cleveland,679,248,State House of Representatives,98,D,"Johnson, Jeremiah M.",86
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",64
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,Attorney General,,D,"Pepper, David",67
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,Auditor of State,,D,"Carney, John Patrick",65
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,Secretary of State,,D,"Turner, Nina",65
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,Treasurer of State,,D,"Pillich, Connie",64
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,State Senate,31,D,"Carlisle, John",62
+Tuscarawas,AAB,PRECINCT DOVER 1-B,Northeast,Cleveland,681,290,State House of Representatives,98,D,"Johnson, Jeremiah M.",62
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,Governor/Lieutenant Governor,,D,"Ealy, Larry",44
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",85
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,Attorney General,,D,"Pepper, David",116
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,Auditor of State,,D,"Carney, John Patrick",120
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,Secretary of State,,D,"Turner, Nina",116
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,Treasurer of State,,D,"Pillich, Connie",118
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,State Senate,31,D,"Carlisle, John",116
+Tuscarawas,AAC,PRECINCT DOVER 1-C,Northeast,Cleveland,822,394,State House of Representatives,98,D,"Johnson, Jeremiah M.",113
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,Governor/Lieutenant Governor,,D,"Ealy, Larry",20
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",100
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,Attorney General,,D,"Pepper, David",99
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,Auditor of State,,D,"Carney, John Patrick",99
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,Secretary of State,,D,"Turner, Nina",100
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,Treasurer of State,,D,"Pillich, Connie",100
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,State Senate,31,D,"Carlisle, John",100
+Tuscarawas,AAE,PRECINCT DOVER 2-A,Northeast,Cleveland,672,330,State House of Representatives,98,D,"Johnson, Jeremiah M.",94
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,Governor/Lieutenant Governor,,D,"Ealy, Larry",43
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",118
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,Attorney General,,D,"Pepper, David",132
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,Auditor of State,,D,"Carney, John Patrick",130
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,Secretary of State,,D,"Turner, Nina",133
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,Treasurer of State,,D,"Pillich, Connie",131
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,State Senate,31,D,"Carlisle, John",132
+Tuscarawas,AAF,PRECINCT DOVER 2-B,Northeast,Cleveland,927,517,State House of Representatives,98,D,"Johnson, Jeremiah M.",121
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,Governor/Lieutenant Governor,,D,"Ealy, Larry",21
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",121
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,Attorney General,,D,"Pepper, David",121
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,Auditor of State,,D,"Carney, John Patrick",124
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,Secretary of State,,D,"Turner, Nina",120
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,Treasurer of State,,D,"Pillich, Connie",121
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,State Senate,31,D,"Carlisle, John",123
+Tuscarawas,AAG,PRECINCT DOVER 2-C,Northeast,Cleveland,970,452,State House of Representatives,98,D,"Johnson, Jeremiah M.",116
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,Governor/Lieutenant Governor,,D,"Ealy, Larry",27
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",43
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,Attorney General,,D,"Pepper, David",63
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,Auditor of State,,D,"Carney, John Patrick",64
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,Secretary of State,,D,"Turner, Nina",64
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,Treasurer of State,,D,"Pillich, Connie",64
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,State Senate,31,D,"Carlisle, John",66
+Tuscarawas,AAI,PRECINCT DOVER 3-A,Northeast,Cleveland,575,225,State House of Representatives,98,D,"Johnson, Jeremiah M.",68
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,Governor/Lieutenant Governor,,D,"Ealy, Larry",20
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",71
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,Attorney General,,D,"Pepper, David",88
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,Auditor of State,,D,"Carney, John Patrick",88
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,Secretary of State,,D,"Turner, Nina",87
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,Treasurer of State,,D,"Pillich, Connie",83
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,State Senate,31,D,"Carlisle, John",89
+Tuscarawas,AAJ,PRECINCT DOVER 3-B,Northeast,Cleveland,719,198,State House of Representatives,98,D,"Johnson, Jeremiah M.",79
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,Governor/Lieutenant Governor,,D,"Ealy, Larry",29
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",97
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,Attorney General,,D,"Pepper, David",112
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,Auditor of State,,D,"Carney, John Patrick",117
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,Secretary of State,,D,"Turner, Nina",113
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,Treasurer of State,,D,"Pillich, Connie",113
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,State Senate,31,D,"Carlisle, John",115
+Tuscarawas,AAK,PRECINCT DOVER 3-C,Northeast,Cleveland,677,335,State House of Representatives,98,D,"Johnson, Jeremiah M.",112
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,Governor/Lieutenant Governor,,D,"Ealy, Larry",10
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",41
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,Attorney General,,D,"Pepper, David",42
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,Auditor of State,,D,"Carney, John Patrick",45
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,Secretary of State,,D,"Turner, Nina",44
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,Treasurer of State,,D,"Pillich, Connie",43
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,State Senate,31,D,"Carlisle, John",48
+Tuscarawas,AAM,PRECINCT DOVER 4-A,Northeast,Cleveland,548,127,State House of Representatives,98,D,"Johnson, Jeremiah M.",44
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,Governor/Lieutenant Governor,,D,"Ealy, Larry",23
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",68
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,Attorney General,,D,"Pepper, David",79
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,Auditor of State,,D,"Carney, John Patrick",79
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,Secretary of State,,D,"Turner, Nina",78
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,Treasurer of State,,D,"Pillich, Connie",79
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,State Senate,31,D,"Carlisle, John",78
+Tuscarawas,AAN,PRECINCT DOVER 4-B,Northeast,Cleveland,551,188,State House of Representatives,98,D,"Johnson, Jeremiah M.",73
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",84
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,Attorney General,,D,"Pepper, David",69
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,Auditor of State,,D,"Carney, John Patrick",68
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,Secretary of State,,D,"Turner, Nina",70
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,Treasurer of State,,D,"Pillich, Connie",69
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,State Senate,31,D,"Carlisle, John",69
+Tuscarawas,AAO,PRECINCT DOVER 4-C,Northeast,Cleveland,688,261,State House of Representatives,98,D,"Johnson, Jeremiah M.",68
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,Governor/Lieutenant Governor,,D,"Ealy, Larry",13
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",72
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,Attorney General,,D,"Pepper, David",72
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,Auditor of State,,D,"Carney, John Patrick",73
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,Secretary of State,,D,"Turner, Nina",71
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,Treasurer of State,,D,"Pillich, Connie",71
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,State Senate,31,D,"Carlisle, John",73
+Tuscarawas,ACD,PRECINCT DOVER TWP #1,Northeast,Cleveland,837,332,State House of Representatives,98,D,"Johnson, Jeremiah M.",65
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,Governor/Lieutenant Governor,,D,"Ealy, Larry",27
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",69
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,Attorney General,,D,"Pepper, David",81
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,Auditor of State,,D,"Carney, John Patrick",84
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,Secretary of State,,D,"Turner, Nina",80
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,Treasurer of State,,D,"Pillich, Connie",84
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,State Senate,31,D,"Carlisle, John",87
+Tuscarawas,ACE,PRECINCT DOVER TWP #2,Northeast,Cleveland,757,338,State House of Representatives,98,D,"Johnson, Jeremiah M.",76
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,Governor/Lieutenant Governor,,D,"Ealy, Larry",20
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",75
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,Attorney General,,D,"Pepper, David",93
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,Auditor of State,,D,"Carney, John Patrick",93
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,Secretary of State,,D,"Turner, Nina",92
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,Treasurer of State,,D,"Pillich, Connie",91
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,State Senate,31,D,"Carlisle, John",87
+Tuscarawas,ACF,PRECINCT DOVER TWP #3,Northeast,Cleveland,984,409,State House of Representatives,98,D,"Johnson, Jeremiah M.",72
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,Governor/Lieutenant Governor,,D,"Ealy, Larry",25
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",60
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,Attorney General,,D,"Pepper, David",73
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,Auditor of State,,D,"Carney, John Patrick",76
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,Secretary of State,,D,"Turner, Nina",78
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,Treasurer of State,,D,"Pillich, Connie",76
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,State Senate,31,D,"Carlisle, John",80
+Tuscarawas,ACG,PRECINCT DOVER TWP #4/PARRAL,Northeast,Cleveland,654,245,State House of Representatives,98,D,"Johnson, Jeremiah M.",73
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",70
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,Attorney General,,D,"Pepper, David",75
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,Auditor of State,,D,"Carney, John Patrick",72
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,Secretary of State,,D,"Turner, Nina",76
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,Treasurer of State,,D,"Pillich, Connie",76
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,State Senate,31,D,"Carlisle, John",78
+Tuscarawas,ACI,PRECINCT FAIRFIELD TWP,Northeast,Cleveland,1067,397,State House of Representatives,98,D,"Johnson, Jeremiah M.",70
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,Governor/Lieutenant Governor,,D,"Ealy, Larry",19
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",43
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,Attorney General,,D,"Pepper, David",47
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,Auditor of State,,D,"Carney, John Patrick",47
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,Secretary of State,,D,"Turner, Nina",45
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,Treasurer of State,,D,"Pillich, Connie",44
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,State Senate,31,D,"Carlisle, John",47
+Tuscarawas,ACK,PRECINCT FRANKLIN TWP,Northeast,Cleveland,1358,169,State House of Representatives,98,D,"Johnson, Jeremiah M.",41
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,Governor/Lieutenant Governor,,D,"Ealy, Larry",10
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",22
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,Attorney General,,D,"Pepper, David",28
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,Auditor of State,,D,"Carney, John Patrick",29
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,Secretary of State,,D,"Turner, Nina",28
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,Treasurer of State,,D,"Pillich, Connie",29
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,U.S. House of Representatives,06,D,"Garrison, Jennifer",23
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,U.S. House of Representatives,06,D,"Howard, Gregory D.",8
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,State Senate,31,D,"Carlisle, John",28
+Tuscarawas,ACA,PRECINCT GNADENHUTTEN,Northeast,Cleveland,862,65,State House of Representatives,98,D,"Johnson, Jeremiah M.",28
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",21
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,Attorney General,,D,"Pepper, David",30
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,Auditor of State,,D,"Carney, John Patrick",32
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,Secretary of State,,D,"Turner, Nina",30
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,Treasurer of State,,D,"Pillich, Connie",31
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,State Senate,31,D,"Carlisle, John",30
+Tuscarawas,ACT,PRECINCT GOSHEN #3/BARNHILL,Northeast,Cleveland,822,79,State House of Representatives,98,D,"Johnson, Jeremiah M.",27
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,Governor/Lieutenant Governor,,D,"Ealy, Larry",16
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",47
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,Attorney General,,D,"Pepper, David",52
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,Auditor of State,,D,"Carney, John Patrick",53
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,Secretary of State,,D,"Turner, Nina",53
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,Treasurer of State,,D,"Pillich, Connie",50
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,U.S. House of Representatives,06,D,"Garrison, Jennifer",3
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,State Senate,31,D,"Carlisle, John",54
+Tuscarawas,ACR,PRECINCT GOSHEN 1/ROSWELL,Northeast,Cleveland,794,185,State House of Representatives,98,D,"Johnson, Jeremiah M.",54
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,Governor/Lieutenant Governor,,D,"Ealy, Larry",22
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",90
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,Attorney General,,D,"Pepper, David",94
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,Auditor of State,,D,"Carney, John Patrick",96
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,Secretary of State,,D,"Turner, Nina",92
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,Treasurer of State,,D,"Pillich, Connie",94
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,State Senate,31,D,"Carlisle, John",96
+Tuscarawas,ACS,PRECINCT GOSHEN TWP #2,Northeast,Cleveland,738,246,State House of Representatives,98,D,"Johnson, Jeremiah M.",96
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,Governor/Lieutenant Governor,,D,"Ealy, Larry",20
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",45
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,Attorney General,,D,"Pepper, David",56
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,Auditor of State,,D,"Carney, John Patrick",54
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,Secretary of State,,D,"Turner, Nina",56
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,Treasurer of State,,D,"Pillich, Connie",53
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,State Senate,31,D,"Carlisle, John",52
+Tuscarawas,ACU,PRECINCT GOSHEN TWP #4,Northeast,Cleveland,748,194,State House of Representatives,98,D,"Johnson, Jeremiah M.",53
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,Governor/Lieutenant Governor,,D,"Ealy, Larry",20
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",74
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,Attorney General,,D,"Pepper, David",83
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,Auditor of State,,D,"Carney, John Patrick",84
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,Secretary of State,,D,"Turner, Nina",84
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,Treasurer of State,,D,"Pillich, Connie",85
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,State Senate,31,D,"Carlisle, John",79
+Tuscarawas,ACZ,PRECINCT LAWRENCE #1/ZOAR,Northeast,Cleveland,755,281,State House of Representatives,98,D,"Johnson, Jeremiah M.",81
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,Governor/Lieutenant Governor,,D,"Ealy, Larry",26
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",111
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,Attorney General,,D,"Pepper, David",114
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,Auditor of State,,D,"Carney, John Patrick",119
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,Secretary of State,,D,"Turner, Nina",116
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,Treasurer of State,,D,"Pillich, Connie",118
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,State Senate,31,D,"Carlisle, John",117
+Tuscarawas,ADA,PRECINCT LAWRENCE TWP #2,Northeast,Cleveland,1221,570,State House of Representatives,98,D,"Johnson, Jeremiah M.",108
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,Governor/Lieutenant Governor,,D,"Ealy, Larry",18
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",49
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,Attorney General,,D,"Pepper, David",62
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,Auditor of State,,D,"Carney, John Patrick",61
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,Secretary of State,,D,"Turner, Nina",61
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,Treasurer of State,,D,"Pillich, Connie",62
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,State Senate,31,D,"Carlisle, John",58
+Tuscarawas,ADB,PRECINCT LAWRENCE TWP #3,Northeast,Cleveland,567,279,State House of Representatives,98,D,"Johnson, Jeremiah M.",58
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,Governor/Lieutenant Governor,,D,"Ealy, Larry",18
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",82
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,Attorney General,,D,"Pepper, David",93
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,Auditor of State,,D,"Carney, John Patrick",92
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,Secretary of State,,D,"Turner, Nina",92
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,Treasurer of State,,D,"Pillich, Connie",94
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,State Senate,31,D,"Carlisle, John",85
+Tuscarawas,ADC,PRECINCT LAWRENCE TWP #4,Northeast,Cleveland,909,469,State House of Representatives,98,D,"Johnson, Jeremiah M.",84
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",22
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,Attorney General,,D,"Pepper, David",19
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,Auditor of State,,D,"Carney, John Patrick",17
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,Secretary of State,,D,"Turner, Nina",20
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,Treasurer of State,,D,"Pillich, Connie",20
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,U.S. House of Representatives,06,D,"Garrison, Jennifer",25
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,U.S. House of Representatives,06,D,"Howard, Gregory D.",3
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,State Senate,31,D,"Carlisle, John",19
+Tuscarawas,ACP,PRECINCT MIDVALE VILLAGE,Northeast,Cleveland,393,42,State House of Representatives,98,D,"Johnson, Jeremiah M.",19
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,Governor/Lieutenant Governor,,D,"Ealy, Larry",13
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",79
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,Attorney General,,D,"Pepper, David",86
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,Auditor of State,,D,"Carney, John Patrick",86
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,Secretary of State,,D,"Turner, Nina",87
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,Treasurer of State,,D,"Pillich, Connie",87
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,U.S. House of Representatives,06,D,"Garrison, Jennifer",67
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,U.S. House of Representatives,06,D,"Howard, Gregory D.",26
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,State Senate,31,D,"Carlisle, John",88
+Tuscarawas,ADG,PRECINCT MILL TOWNSHIP,Northeast,Cleveland,1197,165,State House of Representatives,98,D,"Johnson, Jeremiah M.",86
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",39
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,Attorney General,,D,"Pepper, David",42
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,Auditor of State,,D,"Carney, John Patrick",42
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,Secretary of State,,D,"Turner, Nina",42
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,Treasurer of State,,D,"Pillich, Connie",42
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,State Senate,31,D,"Carlisle, John",41
+Tuscarawas,ADY,PRECINCT MINERAL CITY,Northeast,Cleveland,427,116,State House of Representatives,98,D,"Johnson, Jeremiah M.",40
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,Governor/Lieutenant Governor,,D,"Ealy, Larry",15
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",55
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,Attorney General,,D,"Pepper, David",65
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,Auditor of State,,D,"Carney, John Patrick",62
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,Secretary of State,,D,"Turner, Nina",63
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,Treasurer of State,,D,"Pillich, Connie",62
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,State Senate,31,D,"Carlisle, John",67
+Tuscarawas,AAQ,PRECINCT NEW PHILA 1-A,Northeast,Cleveland,757,136,State House of Representatives,98,D,"Johnson, Jeremiah M.",67
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",49
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,Attorney General,,D,"Pepper, David",48
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,Auditor of State,,D,"Carney, John Patrick",47
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,Secretary of State,,D,"Turner, Nina",52
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,Treasurer of State,,D,"Pillich, Connie",49
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,State Senate,31,D,"Carlisle, John",51
+Tuscarawas,AAR,PRECINCT NEW PHILA 1-B,Northeast,Cleveland,628,188,State House of Representatives,98,D,"Johnson, Jeremiah M.",47
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,Governor/Lieutenant Governor,,D,"Ealy, Larry",20
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",62
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,Attorney General,,D,"Pepper, David",76
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,Auditor of State,,D,"Carney, John Patrick",74
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,Secretary of State,,D,"Turner, Nina",74
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,Treasurer of State,,D,"Pillich, Connie",71
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,State Senate,31,D,"Carlisle, John",70
+Tuscarawas,AAS,PRECINCT NEW PHILA 1-C,Northeast,Cleveland,786,217,State House of Representatives,98,D,"Johnson, Jeremiah M.",74
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,Governor/Lieutenant Governor,,D,"Ealy, Larry",13
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",70
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,Attorney General,,D,"Pepper, David",69
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,Auditor of State,,D,"Carney, John Patrick",70
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,Secretary of State,,D,"Turner, Nina",69
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,Treasurer of State,,D,"Pillich, Connie",70
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,State Senate,31,D,"Carlisle, John",70
+Tuscarawas,AAT,PRECINCT NEW PHILA 1-D,Northeast,Cleveland,549,156,State House of Representatives,98,D,"Johnson, Jeremiah M.",67
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,Governor/Lieutenant Governor,,D,"Ealy, Larry",22
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",75
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,Attorney General,,D,"Pepper, David",86
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,Auditor of State,,D,"Carney, John Patrick",85
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,Secretary of State,,D,"Turner, Nina",87
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,Treasurer of State,,D,"Pillich, Connie",86
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,State Senate,31,D,"Carlisle, John",86
+Tuscarawas,AAX,PRECINCT NEW PHILA 2-A,Northeast,Cleveland,749,277,State House of Representatives,98,D,"Johnson, Jeremiah M.",83
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,Governor/Lieutenant Governor,,D,"Ealy, Larry",16
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",101
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,Attorney General,,D,"Pepper, David",103
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,Auditor of State,,D,"Carney, John Patrick",104
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,Secretary of State,,D,"Turner, Nina",102
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,Treasurer of State,,D,"Pillich, Connie",99
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,State Senate,31,D,"Carlisle, John",103
+Tuscarawas,AAY,PRECINCT NEW PHILA 2-B,Northeast,Cleveland,706,321,State House of Representatives,98,D,"Johnson, Jeremiah M.",95
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,Governor/Lieutenant Governor,,D,"Ealy, Larry",19
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",72
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,Attorney General,,D,"Pepper, David",88
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,Auditor of State,,D,"Carney, John Patrick",85
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,Secretary of State,,D,"Turner, Nina",86
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,Treasurer of State,,D,"Pillich, Connie",87
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,State Senate,31,D,"Carlisle, John",87
+Tuscarawas,AAZ,PRECINCT NEW PHILA 2-C,Northeast,Cleveland,913,323,State House of Representatives,98,D,"Johnson, Jeremiah M.",83
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,Governor/Lieutenant Governor,,D,"Ealy, Larry",17
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",63
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,Attorney General,,D,"Pepper, David",71
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,Auditor of State,,D,"Carney, John Patrick",70
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,Secretary of State,,D,"Turner, Nina",69
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,Treasurer of State,,D,"Pillich, Connie",72
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,State Senate,31,D,"Carlisle, John",71
+Tuscarawas,ABA,PRECINCT NEW PHILA 2-D,Northeast,Cleveland,641,177,State House of Representatives,98,D,"Johnson, Jeremiah M.",68
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,Governor/Lieutenant Governor,,D,"Ealy, Larry",22
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",34
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,Attorney General,,D,"Pepper, David",51
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,Auditor of State,,D,"Carney, John Patrick",51
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,Secretary of State,,D,"Turner, Nina",52
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,Treasurer of State,,D,"Pillich, Connie",51
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,State Senate,31,D,"Carlisle, John",48
+Tuscarawas,ABE,PRECINCT NEW PHILA 3-A,Northeast,Cleveland,742,123,State House of Representatives,98,D,"Johnson, Jeremiah M.",47
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",54
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,Attorney General,,D,"Pepper, David",50
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,Auditor of State,,D,"Carney, John Patrick",50
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,Secretary of State,,D,"Turner, Nina",49
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,Treasurer of State,,D,"Pillich, Connie",49
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,State Senate,31,D,"Carlisle, John",49
+Tuscarawas,ABF,PRECINCT NEW PHILA 3-B,Northeast,Cleveland,593,121,State House of Representatives,98,D,"Johnson, Jeremiah M.",49
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",23
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,Attorney General,,D,"Pepper, David",26
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,Auditor of State,,D,"Carney, John Patrick",26
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,Secretary of State,,D,"Turner, Nina",26
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,Treasurer of State,,D,"Pillich, Connie",26
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,State Senate,31,D,"Carlisle, John",25
+Tuscarawas,ABG,PRECINCT NEW PHILA 3-C,Northeast,Cleveland,471,94,State House of Representatives,98,D,"Johnson, Jeremiah M.",22
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",63
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,Attorney General,,D,"Pepper, David",67
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,Auditor of State,,D,"Carney, John Patrick",69
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,Secretary of State,,D,"Turner, Nina",65
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,Treasurer of State,,D,"Pillich, Connie",66
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,State Senate,31,D,"Carlisle, John",69
+Tuscarawas,ABH,PRECINCT NEW PHILA 3-D,Northeast,Cleveland,671,139,State House of Representatives,98,D,"Johnson, Jeremiah M.",66
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,Governor/Lieutenant Governor,,D,"Ealy, Larry",29
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",77
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,Attorney General,,D,"Pepper, David",98
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,Auditor of State,,D,"Carney, John Patrick",100
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,Secretary of State,,D,"Turner, Nina",100
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,Treasurer of State,,D,"Pillich, Connie",99
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,State Senate,31,D,"Carlisle, John",97
+Tuscarawas,ABK,PRECINCT NEW PHILA 4-A,Northeast,Cleveland,658,298,State House of Representatives,98,D,"Johnson, Jeremiah M.",91
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,Governor/Lieutenant Governor,,D,"Ealy, Larry",19
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",106
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,Attorney General,,D,"Pepper, David",112
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,Auditor of State,,D,"Carney, John Patrick",112
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,Secretary of State,,D,"Turner, Nina",115
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,Treasurer of State,,D,"Pillich, Connie",114
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,State Senate,31,D,"Carlisle, John",115
+Tuscarawas,ABL,PRECINCT NEW PHILA 4-B,Northeast,Cleveland,842,332,State House of Representatives,98,D,"Johnson, Jeremiah M.",107
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,Governor/Lieutenant Governor,,D,"Ealy, Larry",25
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",86
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,Attorney General,,D,"Pepper, David",98
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,Auditor of State,,D,"Carney, John Patrick",102
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,Secretary of State,,D,"Turner, Nina",98
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,Treasurer of State,,D,"Pillich, Connie",99
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,State Senate,31,D,"Carlisle, John",101
+Tuscarawas,ABM,PRECINCT NEW PHILA 4-C,Northeast,Cleveland,1014,408,State House of Representatives,98,D,"Johnson, Jeremiah M.",93
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,Governor/Lieutenant Governor,,D,"Ealy, Larry",14
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",65
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,Attorney General,,D,"Pepper, David",66
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,Auditor of State,,D,"Carney, John Patrick",68
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,Secretary of State,,D,"Turner, Nina",66
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,Treasurer of State,,D,"Pillich, Connie",67
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,State Senate,31,D,"Carlisle, John",67
+Tuscarawas,AEU,PRECINCT NEW PHILA 4-D,Northeast,Cleveland,583,280,State House of Representatives,98,D,"Johnson, Jeremiah M.",63
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",18
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,Attorney General,,D,"Pepper, David",21
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,Auditor of State,,D,"Carney, John Patrick",21
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,Secretary of State,,D,"Turner, Nina",21
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,Treasurer of State,,D,"Pillich, Connie",20
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,U.S. House of Representatives,06,D,"Garrison, Jennifer",17
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,U.S. House of Representatives,06,D,"Howard, Gregory D.",6
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,State Senate,31,D,"Carlisle, John",21
+Tuscarawas,ADN,PRECINCT NEWCOMERSTOWN #1,Northeast,Cleveland,853,64,State House of Representatives,98,D,"Johnson, Jeremiah M.",20
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",14
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,Attorney General,,D,"Pepper, David",17
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,Auditor of State,,D,"Carney, John Patrick",17
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,Secretary of State,,D,"Turner, Nina",18
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,Treasurer of State,,D,"Pillich, Connie",17
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,U.S. House of Representatives,06,D,"Garrison, Jennifer",13
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,U.S. House of Representatives,06,D,"Howard, Gregory D.",7
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,State Senate,31,D,"Carlisle, John",18
+Tuscarawas,ADO,PRECINCT NEWCOMERSTOWN #2,Northeast,Cleveland,721,43,State House of Representatives,98,D,"Johnson, Jeremiah M.",15
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",24
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,Attorney General,,D,"Pepper, David",22
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,Auditor of State,,D,"Carney, John Patrick",24
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,Secretary of State,,D,"Turner, Nina",25
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,Treasurer of State,,D,"Pillich, Connie",24
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,U.S. House of Representatives,06,D,"Garrison, Jennifer",18
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,U.S. House of Representatives,06,D,"Howard, Gregory D.",5
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,State Senate,31,D,"Carlisle, John",24
+Tuscarawas,ADP,PRECINCT NEWCOMERSTOWN #3,Northeast,Cleveland,600,42,State House of Representatives,98,D,"Johnson, Jeremiah M.",23
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,Governor/Lieutenant Governor,,D,"Ealy, Larry",2
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",10
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,Attorney General,,D,"Pepper, David",10
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,Auditor of State,,D,"Carney, John Patrick",7
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,Secretary of State,,D,"Turner, Nina",9
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,Treasurer of State,,D,"Pillich, Connie",11
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,U.S. House of Representatives,06,D,"Garrison, Jennifer",9
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,U.S. House of Representatives,06,D,"Howard, Gregory D.",5
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,State Senate,31,D,"Carlisle, John",9
+Tuscarawas,ADM,PRECINCT OXFORD TOWNSHIP,Northeast,Cleveland,702,51,State House of Representatives,98,D,"Johnson, Jeremiah M.",10
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",20
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,Attorney General,,D,"Pepper, David",21
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,Auditor of State,,D,"Carney, John Patrick",24
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,Secretary of State,,D,"Turner, Nina",23
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,Treasurer of State,,D,"Pillich, Connie",24
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,U.S. House of Representatives,06,D,"Garrison, Jennifer",20
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,U.S. House of Representatives,06,D,"Howard, Gregory D.",7
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,State Senate,31,D,"Carlisle, John",24
+Tuscarawas,ADS,PRECINCT PERRY TOWNSHIP,Northeast,Cleveland,272,79,State House of Representatives,98,D,"Johnson, Jeremiah M.",26
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",10
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,Attorney General,,D,"Pepper, David",10
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,Auditor of State,,D,"Carney, John Patrick",10
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,Secretary of State,,D,"Turner, Nina",11
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,Treasurer of State,,D,"Pillich, Connie",11
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,U.S. House of Representatives,06,D,"Garrison, Jennifer",9
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,U.S. House of Representatives,06,D,"Howard, Gregory D.",4
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,State Senate,31,D,"Carlisle, John",10
+Tuscarawas,ADW,PRECINCT PORT WASHINGTON VLG,Northeast,Cleveland,313,30,State House of Representatives,98,D,"Johnson, Jeremiah M.",10
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,Governor/Lieutenant Governor,,D,"Ealy, Larry",10
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",15
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,Attorney General,,D,"Pepper, David",25
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,Auditor of State,,D,"Carney, John Patrick",24
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,Secretary of State,,D,"Turner, Nina",23
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,Treasurer of State,,D,"Pillich, Connie",23
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,U.S. House of Representatives,06,D,"Garrison, Jennifer",16
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,U.S. House of Representatives,06,D,"Howard, Gregory D.",11
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,State Senate,31,D,"Carlisle, John",24
+Tuscarawas,ADT,PRECINCT RUSH TOWNSHIP,Northeast,Cleveland,511,59,State House of Representatives,98,D,"Johnson, Jeremiah M.",24
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",12
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,Attorney General,,D,"Pepper, David",18
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,Auditor of State,,D,"Carney, John Patrick",18
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,Secretary of State,,D,"Turner, Nina",18
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,Treasurer of State,,D,"Pillich, Connie",17
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,U.S. House of Representatives,06,D,"Garrison, Jennifer",15
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,U.S. House of Representatives,06,D,"Howard, Gregory D.",6
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,State Senate,31,D,"Carlisle, John",19
+Tuscarawas,ADV,PRECINCT SALEM TWP,Northeast,Cleveland,724,49,State House of Representatives,98,D,"Johnson, Jeremiah M.",15
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",43
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,Attorney General,,D,"Pepper, David",44
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,Auditor of State,,D,"Carney, John Patrick",43
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,Secretary of State,,D,"Turner, Nina",46
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,Treasurer of State,,D,"Pillich, Connie",43
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,State Senate,31,D,"Carlisle, John",42
+Tuscarawas,ADZ,PRECINCT SANDY TWP EAST,Northeast,Cleveland,749,116,State House of Representatives,98,D,"Johnson, Jeremiah M.",44
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",38
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,Attorney General,,D,"Pepper, David",40
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,Auditor of State,,D,"Carney, John Patrick",39
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,Secretary of State,,D,"Turner, Nina",39
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,Treasurer of State,,D,"Pillich, Connie",39
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,State Senate,31,D,"Carlisle, John",35
+Tuscarawas,AEA,PRECINCT SANDY TWP WEST,Northeast,Cleveland,657,162,State House of Representatives,98,D,"Johnson, Jeremiah M.",35
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,Governor/Lieutenant Governor,,D,"Ealy, Larry",14
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",50
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,Attorney General,,D,"Pepper, David",52
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,Auditor of State,,D,"Carney, John Patrick",53
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,Secretary of State,,D,"Turner, Nina",51
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,Treasurer of State,,D,"Pillich, Connie",56
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,State Senate,31,D,"Carlisle, John",54
+Tuscarawas,ACX,PRECINCT STONECREEK/JEFF TWP,Northeast,Cleveland,645,204,State House of Representatives,98,D,"Johnson, Jeremiah M.",54
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,Governor/Lieutenant Governor,,D,"Ealy, Larry",20
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",43
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,Attorney General,,D,"Pepper, David",58
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,Auditor of State,,D,"Carney, John Patrick",61
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,Secretary of State,,D,"Turner, Nina",61
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,Treasurer of State,,D,"Pillich, Connie",61
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,State Senate,31,D,"Carlisle, John",64
+Tuscarawas,ACM,PRECINCT STRASBURG VILL #1,Northeast,Cleveland,990,235,State House of Representatives,98,D,"Johnson, Jeremiah M.",62
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",50
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,Attorney General,,D,"Pepper, David",47
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,Auditor of State,,D,"Carney, John Patrick",50
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,Secretary of State,,D,"Turner, Nina",47
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,Treasurer of State,,D,"Pillich, Connie",49
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,State Senate,31,D,"Carlisle, John",52
+Tuscarawas,ACN,PRECINCT STRASBURG VILL #2,Northeast,Cleveland,825,197,State House of Representatives,98,D,"Johnson, Jeremiah M.",47
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",5
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,Attorney General,,D,"Pepper, David",7
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,Auditor of State,,D,"Carney, John Patrick",7
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,Secretary of State,,D,"Turner, Nina",7
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,Treasurer of State,,D,"Pillich, Connie",7
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,State Senate,31,D,"Carlisle, John",7
+Tuscarawas,AEC,PRECINCT SUGARCREEK TOWNSHIP,Northeast,Cleveland,774,54,State House of Representatives,98,D,"Johnson, Jeremiah M.",5
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,Governor/Lieutenant Governor,,D,"Ealy, Larry",24
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",28
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,Attorney General,,D,"Pepper, David",42
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,Auditor of State,,D,"Carney, John Patrick",42
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,Secretary of State,,D,"Turner, Nina",43
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,Treasurer of State,,D,"Pillich, Connie",43
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,State Senate,31,D,"Carlisle, John",42
+Tuscarawas,AED,PRECINCT SUGARCREEK VLG 1,Northeast,Cleveland,985,170,State House of Representatives,98,D,"Johnson, Jeremiah M.",34
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",31
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,Attorney General,,D,"Pepper, David",32
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,Auditor of State,,D,"Carney, John Patrick",33
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,Secretary of State,,D,"Turner, Nina",33
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,Treasurer of State,,D,"Pillich, Connie",33
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,State Senate,31,D,"Carlisle, John",29
+Tuscarawas,AEE,PRECINCT SUGARCREEK VLG 2,Northeast,Cleveland,552,113,State House of Representatives,98,D,"Johnson, Jeremiah M.",21
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",35
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,Attorney General,,D,"Pepper, David",39
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,Auditor of State,,D,"Carney, John Patrick",39
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,Secretary of State,,D,"Turner, Nina",40
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,Treasurer of State,,D,"Pillich, Connie",38
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,U.S. House of Representatives,06,D,"Garrison, Jennifer",30
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,U.S. House of Representatives,06,D,"Howard, Gregory D.",9
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,State Senate,31,D,"Carlisle, John",38
+Tuscarawas,AEM,PRECINCT TUSCARAWAS VILLAGE,Northeast,Cleveland,681,90,State House of Representatives,98,D,"Johnson, Jeremiah M.",36
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,Governor/Lieutenant Governor,,D,"Ealy, Larry",25
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",50
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,Attorney General,,D,"Pepper, David",63
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,Auditor of State,,D,"Carney, John Patrick",65
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,Secretary of State,,D,"Turner, Nina",59
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,Treasurer of State,,D,"Pillich, Connie",62
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,U.S. House of Representatives,06,D,"Garrison, Jennifer",46
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,U.S. House of Representatives,06,D,"Howard, Gregory D.",26
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,State Senate,31,D,"Carlisle, John",64
+Tuscarawas,ABO,PRECINCT UHRICHSVILLE #1,Northeast,Cleveland,645,123,State House of Representatives,98,D,"Johnson, Jeremiah M.",62
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",38
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,Attorney General,,D,"Pepper, David",33
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,Auditor of State,,D,"Carney, John Patrick",37
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,Secretary of State,,D,"Turner, Nina",34
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,Treasurer of State,,D,"Pillich, Connie",35
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,U.S. House of Representatives,06,D,"Garrison, Jennifer",28
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,U.S. House of Representatives,06,D,"Howard, Gregory D.",12
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,State Senate,31,D,"Carlisle, John",37
+Tuscarawas,ABQ,PRECINCT UHRICHSVILLE #2,Northeast,Cleveland,686,72,State House of Representatives,98,D,"Johnson, Jeremiah M.",37
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,Governor/Lieutenant Governor,,D,"Ealy, Larry",16
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",49
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,Attorney General,,D,"Pepper, David",49
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,Auditor of State,,D,"Carney, John Patrick",54
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,Secretary of State,,D,"Turner, Nina",48
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,Treasurer of State,,D,"Pillich, Connie",51
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,U.S. House of Representatives,06,D,"Garrison, Jennifer",40
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,U.S. House of Representatives,06,D,"Howard, Gregory D.",21
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,State Senate,31,D,"Carlisle, John",51
+Tuscarawas,ABS,PRECINCT UHRICHSVILLE #3,Northeast,Cleveland,769,91,State House of Representatives,98,D,"Johnson, Jeremiah M.",47
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",69
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,Attorney General,,D,"Pepper, David",65
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,Auditor of State,,D,"Carney, John Patrick",64
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,Secretary of State,,D,"Turner, Nina",66
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,Treasurer of State,,D,"Pillich, Connie",65
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,U.S. House of Representatives,06,D,"Garrison, Jennifer",44
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,U.S. House of Representatives,06,D,"Howard, Gregory D.",24
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,State Senate,31,D,"Carlisle, John",70
+Tuscarawas,ABU,PRECINCT UHRICHSVILLE #4,Northeast,Cleveland,811,129,State House of Representatives,98,D,"Johnson, Jeremiah M.",63
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,Governor/Lieutenant Governor,,D,"Ealy, Larry",11
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",49
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,Attorney General,,D,"Pepper, David",52
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,Auditor of State,,D,"Carney, John Patrick",51
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,Secretary of State,,D,"Turner, Nina",52
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,Treasurer of State,,D,"Pillich, Connie",50
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,U.S. House of Representatives,06,D,"Garrison, Jennifer",36
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,U.S. House of Representatives,06,D,"Howard, Gregory D.",18
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,State Senate,31,D,"Carlisle, John",50
+Tuscarawas,AEG,PRECINCT UNION TOWNSHIP,Northeast,Cleveland,877,127,State House of Representatives,98,D,"Johnson, Jeremiah M.",52
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,Governor/Lieutenant Governor,,D,"Ealy, Larry",28
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",55
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,Attorney General,,D,"Pepper, David",71
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,Auditor of State,,D,"Carney, John Patrick",75
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,Secretary of State,,D,"Turner, Nina",74
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,Treasurer of State,,D,"Pillich, Connie",73
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,State Senate,31,D,"Carlisle, John",74
+Tuscarawas,AEI,PRECINCT WARREN TOWNSHIP,Northeast,Cleveland,771,329,State House of Representatives,98,D,"Johnson, Jeremiah M.",70
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,Governor/Lieutenant Governor,,D,"Ealy, Larry",9
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",27
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,Attorney General,,D,"Pepper, David",33
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,Auditor of State,,D,"Carney, John Patrick",32
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,Secretary of State,,D,"Turner, Nina",31
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,Treasurer of State,,D,"Pillich, Connie",31
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,U.S. House of Representatives,06,D,"Garrison, Jennifer",20
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,U.S. House of Representatives,06,D,"Howard, Gregory D.",16
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,State Senate,31,D,"Carlisle, John",29
+Tuscarawas,AEJ,PRECINCT WARWICK TWP EAST,Northeast,Cleveland,536,70,State House of Representatives,98,D,"Johnson, Jeremiah M.",27
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",41
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,Attorney General,,D,"Pepper, David",39
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,Auditor of State,,D,"Carney, John Patrick",41
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,Secretary of State,,D,"Turner, Nina",40
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,Treasurer of State,,D,"Pillich, Connie",39
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,U.S. House of Representatives,06,D,"Garrison, Jennifer",35
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,U.S. House of Representatives,06,D,"Howard, Gregory D.",12
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,State Senate,31,D,"Carlisle, John",38
+Tuscarawas,AEK,PRECINCT WARWICK TWP WEST,Northeast,Cleveland,592,72,State House of Representatives,98,D,"Johnson, Jeremiah M.",35
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",9
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,Attorney General,,D,"Pepper, David",9
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,Auditor of State,,D,"Carney, John Patrick",9
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,Secretary of State,,D,"Turner, Nina",9
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,Treasurer of State,,D,"Pillich, Connie",9
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,U.S. House of Representatives,06,D,"Garrison, Jennifer",13
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,U.S. House of Representatives,06,D,"Howard, Gregory D.",1
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,State Senate,31,D,"Carlisle, John",7
+Tuscarawas,AEN,PRECINCT WASHINGTON TWP,Northeast,Cleveland,445,40,State House of Representatives,98,D,"Johnson, Jeremiah M.",9
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",23
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,Attorney General,,D,"Pepper, David",24
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,Auditor of State,,D,"Carney, John Patrick",22
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,Secretary of State,,D,"Turner, Nina",21
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,Treasurer of State,,D,"Pillich, Connie",20
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,State Senate,31,D,"Carlisle, John",21
+Tuscarawas,AEO,PRECINCT WAYNE TOWNSHIP,Northeast,Cleveland,1016,85,State House of Representatives,98,D,"Johnson, Jeremiah M.",19
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,Governor/Lieutenant Governor,,D,"Ealy, Larry",33
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",93
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,Attorney General,,D,"Pepper, David",108
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,Auditor of State,,D,"Carney, John Patrick",108
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,Secretary of State,,D,"Turner, Nina",108
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,Treasurer of State,,D,"Pillich, Connie",108
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,U.S. House of Representatives,06,D,"Garrison, Jennifer",0
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,U.S. House of Representatives,06,D,"Howard, Gregory D.",0
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,State Senate,31,D,"Carlisle, John",104
+Tuscarawas,AEP,PRECINCT YORK TOWNSHIP,Northeast,Cleveland,942,345,State House of Representatives,98,D,"Johnson, Jeremiah M.",99

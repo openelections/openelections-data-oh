@@ -1,0 +1,617 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,Governor/Lieutenant Governor,,R,"Kasich, John",20
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,Attorney General,,R,"DeWine, Mike",22
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,Auditor of State,,R,"Yost, Dave",20
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,Secretary of State,,R,"Husted, Jon",19
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,Treasurer of State,,R,"Mandel, Josh",20
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,U.S. House of Representatives,15,R,"Chope, Charles S.",2
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,U.S. House of Representatives,15,R,"Stivers, Steve",22
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,State House of Representatives,94,R,"Dennis, Yolan G.",13
+Athens,ABW,ALBANY VILLAGE,Southeast,Charleston,609,81,State House of Representatives,94,R,"Lantz, Daniel W.",12
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,Governor/Lieutenant Governor,,R,"Kasich, John",40
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,Attorney General,,R,"DeWine, Mike",43
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,Auditor of State,,R,"Yost, Dave",39
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,Secretary of State,,R,"Husted, Jon",41
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,Treasurer of State,,R,"Mandel, Josh",40
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,U.S. House of Representatives,15,R,"Chope, Charles S.",4
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,U.S. House of Representatives,15,R,"Stivers, Steve",42
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,State House of Representatives,94,R,"Dennis, Yolan G.",17
+Athens,ABF,ALEXANDER EAST,Southeast,Charleston,1214,107,State House of Representatives,94,R,"Lantz, Daniel W.",29
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,Attorney General,,R,"DeWine, Mike",40
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,Auditor of State,,R,"Yost, Dave",38
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,Secretary of State,,R,"Husted, Jon",37
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,Treasurer of State,,R,"Mandel, Josh",38
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,U.S. House of Representatives,15,R,"Chope, Charles S.",3
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,U.S. House of Representatives,15,R,"Stivers, Steve",38
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,State House of Representatives,94,R,"Dennis, Yolan G.",16
+Athens,ABG,ALEXANDER WEST,Southeast,Charleston,720,94,State House of Representatives,94,R,"Lantz, Daniel W.",20
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,Governor/Lieutenant Governor,,R,"Kasich, John",20
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,Attorney General,,R,"DeWine, Mike",21
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,Auditor of State,,R,"Yost, Dave",22
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,Secretary of State,,R,"Husted, Jon",20
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,Treasurer of State,,R,"Mandel, Josh",20
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,U.S. House of Representatives,15,R,"Chope, Charles S.",4
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,U.S. House of Representatives,15,R,"Stivers, Steve",16
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,State House of Representatives,94,R,"Dennis, Yolan G.",16
+Athens,ABH,AMES TOWNSHIP,Southeast,Charleston,720,119,State House of Representatives,94,R,"Lantz, Daniel W.",5
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,Governor/Lieutenant Governor,,R,"Kasich, John",7
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,Attorney General,,R,"DeWine, Mike",7
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,Auditor of State,,R,"Yost, Dave",9
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,Secretary of State,,R,"Husted, Jon",8
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,Treasurer of State,,R,"Mandel, Josh",8
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,U.S. House of Representatives,15,R,"Stivers, Steve",9
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,State House of Representatives,94,R,"Dennis, Yolan G.",8
+Athens,ABI,AMESVILLE VLG,Southeast,Charleston,117,33,State House of Representatives,94,R,"Lantz, Daniel W.",2
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,Governor/Lieutenant Governor,,R,"Kasich, John",5
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,Attorney General,,R,"DeWine, Mike",5
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,Auditor of State,,R,"Yost, Dave",5
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,Secretary of State,,R,"Husted, Jon",5
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,Treasurer of State,,R,"Mandel, Josh",5
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,U.S. House of Representatives,15,R,"Chope, Charles S.",1
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,U.S. House of Representatives,15,R,"Stivers, Steve",4
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,State House of Representatives,94,R,"Dennis, Yolan G.",5
+Athens,AAA,ATHENS 1-1,Southeast,Charleston,1248,71,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,Governor/Lieutenant Governor,,R,"Kasich, John",10
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,Attorney General,,R,"DeWine, Mike",9
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,Auditor of State,,R,"Yost, Dave",8
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,Secretary of State,,R,"Husted, Jon",8
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,Treasurer of State,,R,"Mandel, Josh",7
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,U.S. House of Representatives,15,R,"Stivers, Steve",8
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,State House of Representatives,94,R,"Dennis, Yolan G.",3
+Athens,AAB,ATHENS 1-2,Southeast,Charleston,561,105,State House of Representatives,94,R,"Lantz, Daniel W.",4
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,Governor/Lieutenant Governor,,R,"Kasich, John",4
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,Attorney General,,R,"DeWine, Mike",4
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,Auditor of State,,R,"Yost, Dave",5
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,Secretary of State,,R,"Husted, Jon",5
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,Treasurer of State,,R,"Mandel, Josh",5
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,U.S. House of Representatives,15,R,"Chope, Charles S.",1
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,U.S. House of Representatives,15,R,"Stivers, Steve",5
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAD,ATHENS 1-3,Southeast,Charleston,1038,53,State House of Representatives,94,R,"Lantz, Daniel W.",7
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,Governor/Lieutenant Governor,,R,"Kasich, John",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,Attorney General,,R,"DeWine, Mike",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,Auditor of State,,R,"Yost, Dave",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,Secretary of State,,R,"Husted, Jon",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,Treasurer of State,,R,"Mandel, Josh",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAE,ATHENS 1-4,Southeast,Charleston,1385,1,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,Governor/Lieutenant Governor,,R,"Kasich, John",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,Attorney General,,R,"DeWine, Mike",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,Auditor of State,,R,"Yost, Dave",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,Secretary of State,,R,"Husted, Jon",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,Treasurer of State,,R,"Mandel, Josh",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAF,ATHENS 1-5,Southeast,Charleston,291,8,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,Governor/Lieutenant Governor,,R,"Kasich, John",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,Attorney General,,R,"DeWine, Mike",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,Auditor of State,,R,"Yost, Dave",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,Secretary of State,,R,"Husted, Jon",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,Treasurer of State,,R,"Mandel, Josh",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAG,ATHENS 2-1,Southeast,Charleston,924,1,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,Governor/Lieutenant Governor,,R,"Kasich, John",2
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,Attorney General,,R,"DeWine, Mike",2
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,Auditor of State,,R,"Yost, Dave",2
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,Secretary of State,,R,"Husted, Jon",2
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,Treasurer of State,,R,"Mandel, Josh",1
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,U.S. House of Representatives,15,R,"Stivers, Steve",2
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,State House of Representatives,94,R,"Dennis, Yolan G.",2
+Athens,AAH,ATHENS 2-2,Southeast,Charleston,571,8,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,Governor/Lieutenant Governor,,R,"Kasich, John",20
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,Attorney General,,R,"DeWine, Mike",20
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,Auditor of State,,R,"Yost, Dave",19
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,Secretary of State,,R,"Husted, Jon",20
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,Treasurer of State,,R,"Mandel, Josh",18
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,U.S. House of Representatives,15,R,"Chope, Charles S.",1
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,U.S. House of Representatives,15,R,"Stivers, Steve",20
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,State House of Representatives,94,R,"Dennis, Yolan G.",14
+Athens,AAI,ATHENS 2-3,Southeast,Charleston,600,121,State House of Representatives,94,R,"Lantz, Daniel W.",7
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,Governor/Lieutenant Governor,,R,"Kasich, John",22
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,Attorney General,,R,"DeWine, Mike",22
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,Auditor of State,,R,"Yost, Dave",20
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,Secretary of State,,R,"Husted, Jon",20
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,Treasurer of State,,R,"Mandel, Josh",20
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,U.S. House of Representatives,15,R,"Chope, Charles S.",2
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,U.S. House of Representatives,15,R,"Stivers, Steve",19
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,State House of Representatives,94,R,"Dennis, Yolan G.",7
+Athens,AAJ,ATHENS 2-4,Southeast,Charleston,812,128,State House of Representatives,94,R,"Lantz, Daniel W.",11
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,Governor/Lieutenant Governor,,R,"Kasich, John",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,Attorney General,,R,"DeWine, Mike",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,Auditor of State,,R,"Yost, Dave",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,Secretary of State,,R,"Husted, Jon",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,Treasurer of State,,R,"Mandel, Josh",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,ACR,ATHENS 2-5,Southeast,Charleston,994,0,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,Governor/Lieutenant Governor,,R,"Kasich, John",1
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,Attorney General,,R,"DeWine, Mike",1
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,Auditor of State,,R,"Yost, Dave",0
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,Secretary of State,,R,"Husted, Jon",0
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,Treasurer of State,,R,"Mandel, Josh",0
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,U.S. House of Representatives,15,R,"Stivers, Steve",1
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAK,ATHENS 3-1,Southeast,Charleston,686,4,State House of Representatives,94,R,"Lantz, Daniel W.",1
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,Governor/Lieutenant Governor,,R,"Kasich, John",1
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,Attorney General,,R,"DeWine, Mike",1
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,Auditor of State,,R,"Yost, Dave",1
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,Secretary of State,,R,"Husted, Jon",1
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,Treasurer of State,,R,"Mandel, Josh",1
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,U.S. House of Representatives,15,R,"Stivers, Steve",1
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAL,ATHENS 3-2,Southeast,Charleston,827,9,State House of Representatives,94,R,"Lantz, Daniel W.",1
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,Governor/Lieutenant Governor,,R,"Kasich, John",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,Attorney General,,R,"DeWine, Mike",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,Auditor of State,,R,"Yost, Dave",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,Secretary of State,,R,"Husted, Jon",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,Treasurer of State,,R,"Mandel, Josh",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAM,ATHENS 3-3,Southeast,Charleston,801,4,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,Governor/Lieutenant Governor,,R,"Kasich, John",11
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,Attorney General,,R,"DeWine, Mike",11
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,Auditor of State,,R,"Yost, Dave",10
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,Secretary of State,,R,"Husted, Jon",10
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,Treasurer of State,,R,"Mandel, Josh",11
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,U.S. House of Representatives,15,R,"Chope, Charles S.",1
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,U.S. House of Representatives,15,R,"Stivers, Steve",11
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,State House of Representatives,94,R,"Dennis, Yolan G.",6
+Athens,AAN,ATHENS 3-4,Southeast,Charleston,865,92,State House of Representatives,94,R,"Lantz, Daniel W.",3
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,Governor/Lieutenant Governor,,R,"Kasich, John",3
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,Attorney General,,R,"DeWine, Mike",3
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,Auditor of State,,R,"Yost, Dave",3
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,Secretary of State,,R,"Husted, Jon",3
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,Treasurer of State,,R,"Mandel, Josh",3
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,U.S. House of Representatives,15,R,"Stivers, Steve",2
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAP,ATHENS 3-5,Southeast,Charleston,938,122,State House of Representatives,94,R,"Lantz, Daniel W.",2
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,Governor/Lieutenant Governor,,R,"Kasich, John",18
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,Attorney General,,R,"DeWine, Mike",18
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,Auditor of State,,R,"Yost, Dave",18
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,Secretary of State,,R,"Husted, Jon",17
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,Treasurer of State,,R,"Mandel, Josh",16
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,U.S. House of Representatives,15,R,"Chope, Charles S.",3
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,U.S. House of Representatives,15,R,"Stivers, Steve",19
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,State House of Representatives,94,R,"Dennis, Yolan G.",12
+Athens,AAQ,ATHENS 3-6,Southeast,Charleston,510,161,State House of Representatives,94,R,"Lantz, Daniel W.",7
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,Governor/Lieutenant Governor,,R,"Kasich, John",29
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,Attorney General,,R,"DeWine, Mike",29
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,Auditor of State,,R,"Yost, Dave",30
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,Secretary of State,,R,"Husted, Jon",30
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,Treasurer of State,,R,"Mandel, Josh",30
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,U.S. House of Representatives,15,R,"Chope, Charles S.",8
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,U.S. House of Representatives,15,R,"Stivers, Steve",29
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,State House of Representatives,94,R,"Dennis, Yolan G.",21
+Athens,AAS,ATHENS 4-1,Southeast,Charleston,747,173,State House of Representatives,94,R,"Lantz, Daniel W.",15
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,Governor/Lieutenant Governor,,R,"Kasich, John",11
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,Attorney General,,R,"DeWine, Mike",11
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,Auditor of State,,R,"Yost, Dave",12
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,Secretary of State,,R,"Husted, Jon",12
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,Treasurer of State,,R,"Mandel, Josh",11
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,U.S. House of Representatives,15,R,"Stivers, Steve",12
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,State House of Representatives,94,R,"Dennis, Yolan G.",7
+Athens,AAU,ATHENS 4-2,Southeast,Charleston,638,124,State House of Representatives,94,R,"Lantz, Daniel W.",4
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,Governor/Lieutenant Governor,,R,"Kasich, John",6
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,Attorney General,,R,"DeWine, Mike",6
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,Auditor of State,,R,"Yost, Dave",5
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,Secretary of State,,R,"Husted, Jon",5
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,Treasurer of State,,R,"Mandel, Josh",6
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,U.S. House of Representatives,15,R,"Stivers, Steve",5
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,State House of Representatives,94,R,"Dennis, Yolan G.",3
+Athens,AAV,ATHENS 4-3,Southeast,Charleston,641,74,State House of Representatives,94,R,"Lantz, Daniel W.",2
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,Governor/Lieutenant Governor,,R,"Kasich, John",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,Attorney General,,R,"DeWine, Mike",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,Auditor of State,,R,"Yost, Dave",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,Secretary of State,,R,"Husted, Jon",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,Treasurer of State,,R,"Mandel, Josh",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,AAW,ATHENS 4-4,Southeast,Charleston,944,4,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,Governor/Lieutenant Governor,,R,"Kasich, John",1
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,Attorney General,,R,"DeWine, Mike",1
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,Auditor of State,,R,"Yost, Dave",1
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,Secretary of State,,R,"Husted, Jon",1
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,Treasurer of State,,R,"Mandel, Josh",1
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,U.S. House of Representatives,15,R,"Chope, Charles S.",1
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,U.S. House of Representatives,15,R,"Stivers, Steve",1
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,State House of Representatives,94,R,"Dennis, Yolan G.",2
+Athens,ACS,ATHENS 4-5,Southeast,Charleston,1342,7,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,Governor/Lieutenant Governor,,R,"Kasich, John",50
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,Attorney General,,R,"DeWine, Mike",51
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,Auditor of State,,R,"Yost, Dave",48
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,Secretary of State,,R,"Husted, Jon",46
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,Treasurer of State,,R,"Mandel, Josh",45
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,U.S. House of Representatives,15,R,"Chope, Charles S.",5
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,U.S. House of Representatives,15,R,"Stivers, Steve",50
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,State House of Representatives,94,R,"Dennis, Yolan G.",33
+Athens,ABJ,ATHENS BAKER,Southeast,Charleston,1247,211,State House of Representatives,94,R,"Lantz, Daniel W.",17
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,Governor/Lieutenant Governor,,R,"Kasich, John",12
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,Attorney General,,R,"DeWine, Mike",12
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,Auditor of State,,R,"Yost, Dave",14
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,Secretary of State,,R,"Husted, Jon",12
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,Treasurer of State,,R,"Mandel, Josh",12
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,U.S. House of Representatives,15,R,"Chope, Charles S.",1
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,U.S. House of Representatives,15,R,"Stivers, Steve",11
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,State House of Representatives,94,R,"Dennis, Yolan G.",3
+Athens,ABK,ATHENS EAST,Southeast,Charleston,475,82,State House of Representatives,94,R,"Lantz, Daniel W.",9
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,Governor/Lieutenant Governor,,R,"Kasich, John",27
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,Attorney General,,R,"DeWine, Mike",27
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,Auditor of State,,R,"Yost, Dave",27
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,Secretary of State,,R,"Husted, Jon",26
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,Treasurer of State,,R,"Mandel, Josh",26
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,U.S. House of Representatives,15,R,"Chope, Charles S.",6
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,U.S. House of Representatives,15,R,"Stivers, Steve",22
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,State House of Representatives,94,R,"Dennis, Yolan G.",12
+Athens,ABL,ATHENS SOUTH,Southeast,Charleston,895,144,State House of Representatives,94,R,"Lantz, Daniel W.",14
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,Governor/Lieutenant Governor,,R,"Kasich, John",8
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,Attorney General,,R,"DeWine, Mike",8
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,Auditor of State,,R,"Yost, Dave",8
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,Secretary of State,,R,"Husted, Jon",8
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,Treasurer of State,,R,"Mandel, Josh",8
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,U.S. House of Representatives,15,R,"Stivers, Steve",8
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,State House of Representatives,94,R,"Dennis, Yolan G.",9
+Athens,ABO,BERN TOWNSHIP,Southeast,Charleston,382,67,State House of Representatives,94,R,"Lantz, Daniel W.",1
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,Governor/Lieutenant Governor,,R,"Kasich, John",6
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,Attorney General,,R,"DeWine, Mike",7
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,Auditor of State,,R,"Yost, Dave",7
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,Secretary of State,,R,"Husted, Jon",8
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,Treasurer of State,,R,"Mandel, Josh",6
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,U.S. House of Representatives,15,R,"Chope, Charles S.",2
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,U.S. House of Representatives,15,R,"Stivers, Steve",6
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,State House of Representatives,94,R,"Dennis, Yolan G.",4
+Athens,ACO,BUCHTEL VLG,Southeast,Charleston,340,61,State House of Representatives,94,R,"Lantz, Daniel W.",3
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,Governor/Lieutenant Governor,,R,"Kasich, John",32
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,Attorney General,,R,"DeWine, Mike",32
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,Auditor of State,,R,"Yost, Dave",30
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,Secretary of State,,R,"Husted, Jon",30
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,Treasurer of State,,R,"Mandel, Josh",29
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,U.S. House of Representatives,15,R,"Chope, Charles S.",5
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,U.S. House of Representatives,15,R,"Stivers, Steve",27
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,State House of Representatives,94,R,"Dennis, Yolan G.",10
+Athens,ABP,CANAAN TOWNSHIP,Southeast,Charleston,1048,180,State House of Representatives,94,R,"Lantz, Daniel W.",23
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,Governor/Lieutenant Governor,,R,"Kasich, John",49
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,Attorney General,,R,"DeWine, Mike",46
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,Auditor of State,,R,"Yost, Dave",45
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,Secretary of State,,R,"Husted, Jon",39
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,Treasurer of State,,R,"Mandel, Josh",43
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,U.S. House of Representatives,06,R,"Johnson, Bill",48
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,State House of Representatives,94,R,"Dennis, Yolan G.",22
+Athens,ABR,CARTHAGE TOWNSHIP,Southeast,Charleston,1019,133,State House of Representatives,94,R,"Lantz, Daniel W.",26
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,Governor/Lieutenant Governor,,R,"Kasich, John",12
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,Attorney General,,R,"DeWine, Mike",12
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,Auditor of State,,R,"Yost, Dave",11
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,Secretary of State,,R,"Husted, Jon",12
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,Treasurer of State,,R,"Mandel, Josh",12
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,U.S. House of Representatives,15,R,"Chope, Charles S.",4
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,U.S. House of Representatives,15,R,"Stivers, Steve",11
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,State House of Representatives,94,R,"Dennis, Yolan G.",5
+Athens,ABS,CHAUNCEY VLG,Southeast,Charleston,609,75,State House of Representatives,94,R,"Lantz, Daniel W.",10
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,Attorney General,,R,"DeWine, Mike",27
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,Auditor of State,,R,"Yost, Dave",26
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,Secretary of State,,R,"Husted, Jon",25
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,Treasurer of State,,R,"Mandel, Josh",24
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,U.S. House of Representatives,15,R,"Chope, Charles S.",2
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,U.S. House of Representatives,15,R,"Stivers, Steve",28
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,State House of Representatives,94,R,"Dennis, Yolan G.",17
+Athens,ABT,CIRCLE HILL,Southeast,Charleston,573,123,State House of Representatives,94,R,"Lantz, Daniel W.",11
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,Governor/Lieutenant Governor,,R,"Kasich, John",11
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,Attorney General,,R,"DeWine, Mike",12
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,Auditor of State,,R,"Yost, Dave",10
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,Secretary of State,,R,"Husted, Jon",10
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,Treasurer of State,,R,"Mandel, Josh",10
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,U.S. House of Representatives,06,R,"Johnson, Bill",11
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,State House of Representatives,94,R,"Dennis, Yolan G.",3
+Athens,ACI,COOLVILLE VLG,Southeast,Charleston,329,28,State House of Representatives,94,R,"Lantz, Daniel W.",8
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,Attorney General,,R,"DeWine, Mike",42
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,Auditor of State,,R,"Yost, Dave",41
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,Secretary of State,,R,"Husted, Jon",39
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,Treasurer of State,,R,"Mandel, Josh",40
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,U.S. House of Representatives,15,R,"Chope, Charles S.",4
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,U.S. House of Representatives,15,R,"Stivers, Steve",38
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,State House of Representatives,78,R,"Hood, Ron",37
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,ACE,GLOUSTER VLG,Southeast,Charleston,1037,260,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,Governor/Lieutenant Governor,,R,"Kasich, John",18
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,Attorney General,,R,"DeWine, Mike",17
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,Auditor of State,,R,"Yost, Dave",16
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,Secretary of State,,R,"Husted, Jon",15
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,Treasurer of State,,R,"Mandel, Josh",13
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,U.S. House of Representatives,15,R,"Chope, Charles S.",5
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,U.S. House of Representatives,15,R,"Stivers, Steve",13
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,State House of Representatives,78,R,"Hood, Ron",15
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,ACB,JACKSONVILLE VLG,Southeast,Charleston,347,122,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,Governor/Lieutenant Governor,,R,"Kasich, John",49
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,Attorney General,,R,"DeWine, Mike",53
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,Auditor of State,,R,"Yost, Dave",48
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,Secretary of State,,R,"Husted, Jon",50
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,Treasurer of State,,R,"Mandel, Josh",49
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,U.S. House of Representatives,15,R,"Chope, Charles S.",3
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,U.S. House of Representatives,15,R,"Stivers, Steve",56
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,State House of Representatives,94,R,"Dennis, Yolan G.",35
+Athens,ABX,LEE TOWNSHIP,Southeast,Charleston,1335,173,State House of Representatives,94,R,"Lantz, Daniel W.",21
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,Governor/Lieutenant Governor,,R,"Kasich, John",48
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,Attorney General,,R,"DeWine, Mike",51
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,Auditor of State,,R,"Yost, Dave",48
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,Secretary of State,,R,"Husted, Jon",46
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,Treasurer of State,,R,"Mandel, Josh",45
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,U.S. House of Representatives,15,R,"Chope, Charles S.",8
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,U.S. House of Representatives,15,R,"Stivers, Steve",39
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,State House of Representatives,94,R,"Dennis, Yolan G.",29
+Athens,ABY,LODI TOWNSHIP,Southeast,Charleston,1034,157,State House of Representatives,94,R,"Lantz, Daniel W.",23
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,Governor/Lieutenant Governor,,R,"Kasich, John",33
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,Attorney General,,R,"DeWine, Mike",34
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,Auditor of State,,R,"Yost, Dave",32
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,Secretary of State,,R,"Husted, Jon",31
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,Treasurer of State,,R,"Mandel, Josh",33
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,U.S. House of Representatives,15,R,"Chope, Charles S.",4
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,U.S. House of Representatives,15,R,"Stivers, Steve",36
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,State House of Representatives,94,R,"Dennis, Yolan G.",14
+Athens,ABU,MILLFIELD,Southeast,Charleston,707,166,State House of Representatives,94,R,"Lantz, Daniel W.",22
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,Governor/Lieutenant Governor,,R,"Kasich, John",21
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,Attorney General,,R,"DeWine, Mike",19
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,Auditor of State,,R,"Yost, Dave",18
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,Secretary of State,,R,"Husted, Jon",17
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,Treasurer of State,,R,"Mandel, Josh",18
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,U.S. House of Representatives,15,R,"Chope, Charles S.",3
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,U.S. House of Representatives,15,R,"Stivers, Steve",19
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,State House of Representatives,94,R,"Dennis, Yolan G.",2
+Athens,AAX,NELSONVILLE 1,Southeast,Charleston,652,88,State House of Representatives,94,R,"Lantz, Daniel W.",16
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,Governor/Lieutenant Governor,,R,"Kasich, John",9
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,Attorney General,,R,"DeWine, Mike",8
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,Auditor of State,,R,"Yost, Dave",9
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,Secretary of State,,R,"Husted, Jon",8
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,Treasurer of State,,R,"Mandel, Josh",10
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,U.S. House of Representatives,15,R,"Stivers, Steve",11
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,State House of Representatives,78,R,"Hood, Ron",0
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,State House of Representatives,94,R,"Dennis, Yolan G.",3
+Athens,AAZ,NELSONVILLE 2,Southeast,Charleston,469,46,State House of Representatives,94,R,"Lantz, Daniel W.",6
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,Governor/Lieutenant Governor,,R,"Kasich, John",13
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,Attorney General,,R,"DeWine, Mike",13
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,Auditor of State,,R,"Yost, Dave",13
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,Secretary of State,,R,"Husted, Jon",13
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,Treasurer of State,,R,"Mandel, Josh",11
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,U.S. House of Representatives,15,R,"Chope, Charles S.",3
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,U.S. House of Representatives,15,R,"Stivers, Steve",13
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,State House of Representatives,94,R,"Dennis, Yolan G.",6
+Athens,ABB,NELSONVILLE 3,Southeast,Charleston,626,69,State House of Representatives,94,R,"Lantz, Daniel W.",8
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,Governor/Lieutenant Governor,,R,"Kasich, John",8
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,Attorney General,,R,"DeWine, Mike",9
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,Auditor of State,,R,"Yost, Dave",7
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,Secretary of State,,R,"Husted, Jon",7
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,Treasurer of State,,R,"Mandel, Josh",7
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,U.S. House of Representatives,15,R,"Chope, Charles S.",1
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,U.S. House of Representatives,15,R,"Stivers, Steve",8
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,State House of Representatives,94,R,"Dennis, Yolan G.",1
+Athens,ABD,NELSONVILLE 4,Southeast,Charleston,820,73,State House of Representatives,94,R,"Lantz, Daniel W.",6
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,Governor/Lieutenant Governor,,R,"Kasich, John",27
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,Attorney General,,R,"DeWine, Mike",25
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,Auditor of State,,R,"Yost, Dave",26
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,Secretary of State,,R,"Husted, Jon",22
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,Treasurer of State,,R,"Mandel, Josh",22
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,U.S. House of Representatives,15,R,"Chope, Charles S.",5
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,U.S. House of Representatives,15,R,"Stivers, Steve",26
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,State House of Representatives,94,R,"Dennis, Yolan G.",11
+Athens,ACL,NEW MARSHFIELD,Southeast,Charleston,766,149,State House of Representatives,94,R,"Lantz, Daniel W.",18
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,Governor/Lieutenant Governor,,R,"Kasich, John",21
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,Attorney General,,R,"DeWine, Mike",23
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,Auditor of State,,R,"Yost, Dave",22
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,Secretary of State,,R,"Husted, Jon",23
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,Treasurer of State,,R,"Mandel, Josh",23
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,U.S. House of Representatives,15,R,"Chope, Charles S.",3
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,U.S. House of Representatives,15,R,"Stivers, Steve",22
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,State House of Representatives,94,R,"Dennis, Yolan G.",5
+Athens,ABM,PLAINS 1,Southeast,Charleston,971,142,State House of Representatives,94,R,"Lantz, Daniel W.",14
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,Governor/Lieutenant Governor,,R,"Kasich, John",39
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,Attorney General,,R,"DeWine, Mike",37
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,Auditor of State,,R,"Yost, Dave",35
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,Secretary of State,,R,"Husted, Jon",35
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,Treasurer of State,,R,"Mandel, Josh",37
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,U.S. House of Representatives,15,R,"Chope, Charles S.",5
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,U.S. House of Representatives,15,R,"Stivers, Steve",38
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,State House of Representatives,94,R,"Dennis, Yolan G.",15
+Athens,ABN,PLAINS 2,Southeast,Charleston,1131,178,State House of Representatives,94,R,"Lantz, Daniel W.",26
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,Governor/Lieutenant Governor,,R,"Kasich, John",31
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,Attorney General,,R,"DeWine, Mike",32
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,Auditor of State,,R,"Yost, Dave",32
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,Secretary of State,,R,"Husted, Jon",32
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,Treasurer of State,,R,"Mandel, Josh",31
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,U.S. House of Representatives,15,R,"Chope, Charles S.",9
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,U.S. House of Representatives,15,R,"Stivers, Steve",21
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,State House of Representatives,94,R,"Dennis, Yolan G.",22
+Athens,ABZ,ROME TOWNSHIP,Southeast,Charleston,882,115,State House of Representatives,94,R,"Lantz, Daniel W.",11
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,Governor/Lieutenant Governor,,R,"Kasich, John",2
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,Attorney General,,R,"DeWine, Mike",2
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,Auditor of State,,R,"Yost, Dave",4
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,Secretary of State,,R,"Husted, Jon",4
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,Treasurer of State,,R,"Mandel, Josh",3
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,U.S. House of Representatives,15,R,"Chope, Charles S.",1
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,U.S. House of Representatives,15,R,"Stivers, Steve",3
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,State House of Representatives,94,R,"Dennis, Yolan G.",2
+Athens,ABV,SUGAR CREEK,Southeast,Charleston,420,60,State House of Representatives,94,R,"Lantz, Daniel W.",1
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,Governor/Lieutenant Governor,,R,"Kasich, John",48
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,Attorney General,,R,"DeWine, Mike",48
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,Auditor of State,,R,"Yost, Dave",46
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,Secretary of State,,R,"Husted, Jon",46
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,Treasurer of State,,R,"Mandel, Josh",46
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,U.S. House of Representatives,15,R,"Chope, Charles S.",10
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,U.S. House of Representatives,15,R,"Stivers, Steve",50
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,State House of Representatives,78,R,"Hood, Ron",44
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,ACC,TRIMBLE TOWNSHIP,Southeast,Charleston,1102,329,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,Governor/Lieutenant Governor,,R,"Kasich, John",3
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,Attorney General,,R,"DeWine, Mike",3
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,Auditor of State,,R,"Yost, Dave",3
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,Secretary of State,,R,"Husted, Jon",3
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,Treasurer of State,,R,"Mandel, Josh",3
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,U.S. House of Representatives,15,R,"Stivers, Steve",3
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,State House of Representatives,78,R,"Hood, Ron",3
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,State House of Representatives,94,R,"Dennis, Yolan G.",0
+Athens,ACD,TRIMBLE VLG,Southeast,Charleston,231,57,State House of Representatives,94,R,"Lantz, Daniel W.",0
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,Attorney General,,R,"DeWine, Mike",33
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,Auditor of State,,R,"Yost, Dave",33
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,Secretary of State,,R,"Husted, Jon",33
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,Treasurer of State,,R,"Mandel, Josh",34
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,U.S. House of Representatives,06,R,"Johnson, Bill",32
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,State House of Representatives,94,R,"Dennis, Yolan G.",22
+Athens,ACJ,TROY EAST,Southeast,Charleston,845,68,State House of Representatives,94,R,"Lantz, Daniel W.",15
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,Governor/Lieutenant Governor,,R,"Kasich, John",39
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,Attorney General,,R,"DeWine, Mike",41
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,Auditor of State,,R,"Yost, Dave",39
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,Secretary of State,,R,"Husted, Jon",39
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,Treasurer of State,,R,"Mandel, Josh",38
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,U.S. House of Representatives,06,R,"Johnson, Bill",39
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,U.S. House of Representatives,15,R,"Chope, Charles S.",0
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,U.S. House of Representatives,15,R,"Stivers, Steve",0
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,State House of Representatives,94,R,"Dennis, Yolan G.",26
+Athens,ACK,TROY WEST,Southeast,Charleston,566,76,State House of Representatives,94,R,"Lantz, Daniel W.",12
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,Governor/Lieutenant Governor,,R,"Kasich, John",15
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,Attorney General,,R,"DeWine, Mike",17
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,Auditor of State,,R,"Yost, Dave",16
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,Secretary of State,,R,"Husted, Jon",15
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,Treasurer of State,,R,"Mandel, Josh",18
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,U.S. House of Representatives,15,R,"Chope, Charles S.",5
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,U.S. House of Representatives,15,R,"Stivers, Steve",13
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,State House of Representatives,94,R,"Dennis, Yolan G.",6
+Athens,ACM,WATERLOO,Southeast,Charleston,870,126,State House of Representatives,94,R,"Lantz, Daniel W.",12
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,Attorney General,,R,"DeWine, Mike",26
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,Auditor of State,,R,"Yost, Dave",29
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,Secretary of State,,R,"Husted, Jon",27
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,Treasurer of State,,R,"Mandel, Josh",27
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,U.S. House of Representatives,06,R,"Johnson, Bill",0
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,U.S. House of Representatives,15,R,"Chope, Charles S.",6
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,U.S. House of Representatives,15,R,"Stivers, Steve",30
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,State House of Representatives,78,R,"Hood, Ron",0
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,State House of Representatives,94,R,"Dennis, Yolan G.",18
+Athens,ACP,YORK TOWNSHIP,Southeast,Charleston,1114,144,State House of Representatives,94,R,"Lantz, Daniel W.",16

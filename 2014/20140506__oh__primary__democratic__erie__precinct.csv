@@ -1,0 +1,497 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",44
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Attorney General,,D,"Pepper, David",42
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Auditor of State,,D,"Carney, John Patrick",45
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Secretary of State,,D,"Turner, Nina",42
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,Treasurer of State,,D,"Pillich, Connie",41
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,U.S. House of Representatives,09,D,"Kaptur, Marcy",22
+Erie,ACF,PRECINCT BER TWP #1,Northeast,Cleveland,808,138,State House of Representatives,89,D,"Redfern, Chris",47
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",48
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Attorney General,,D,"Pepper, David",40
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Auditor of State,,D,"Carney, John Patrick",41
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Secretary of State,,D,"Turner, Nina",43
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,Treasurer of State,,D,"Pillich, Connie",40
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,ACD,PRECINCT BER TWP #2,Northeast,Cleveland,1102,150,State House of Representatives,89,D,"Redfern, Chris",45
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",25
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Attorney General,,D,"Pepper, David",22
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Auditor of State,,D,"Carney, John Patrick",22
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Secretary of State,,D,"Turner, Nina",22
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,Treasurer of State,,D,"Pillich, Connie",23
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,ACC,PRECINCT BER VILL,Northeast,Cleveland,480,104,State House of Representatives,89,D,"Redfern, Chris",26
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",31
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Attorney General,,D,"Pepper, David",31
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Auditor of State,,D,"Carney, John Patrick",27
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Secretary of State,,D,"Turner, Nina",33
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,Treasurer of State,,D,"Pillich, Connie",28
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,U.S. House of Representatives,09,D,"Kaptur, Marcy",34
+Erie,ACO,PRECINCT BV VILL,Northeast,Cleveland,444,79,State House of Representatives,89,D,"Redfern, Chris",35
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Governor/Lieutenant Governor,,D,"Ealy, Larry",9
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",29
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Attorney General,,D,"Pepper, David",32
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Auditor of State,,D,"Carney, John Patrick",34
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Secretary of State,,D,"Turner, Nina",33
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,Treasurer of State,,D,"Pillich, Connie",33
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,U.S. House of Representatives,09,D,"Kaptur, Marcy",45
+Erie,ACP,PRECINCT CAST VILL,Northeast,Cleveland,545,122,State House of Representatives,89,D,"Redfern, Chris",37
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",38
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Attorney General,,D,"Pepper, David",35
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Auditor of State,,D,"Carney, John Patrick",38
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Secretary of State,,D,"Turner, Nina",37
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,Treasurer of State,,D,"Pillich, Connie",35
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,ACG,PRECINCT FLO TWP #1,Northeast,Cleveland,761,105,State House of Representatives,89,D,"Redfern, Chris",36
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",29
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Attorney General,,D,"Pepper, David",30
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Auditor of State,,D,"Carney, John Patrick",31
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Secretary of State,,D,"Turner, Nina",31
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,Treasurer of State,,D,"Pillich, Connie",29
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,ACH,PRECINCT FLO TWP #2,Northeast,Cleveland,1036,111,State House of Representatives,89,D,"Redfern, Chris",33
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Governor/Lieutenant Governor,,D,"Ealy, Larry",11
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",49
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Attorney General,,D,"Pepper, David",52
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Auditor of State,,D,"Carney, John Patrick",56
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Secretary of State,,D,"Turner, Nina",54
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,Treasurer of State,,D,"Pillich, Connie",55
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,ACI,PRECINCT GRO TWP,Northeast,Cleveland,945,177,State House of Representatives,89,D,"Redfern, Chris",61
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",48
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Attorney General,,D,"Pepper, David",44
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Auditor of State,,D,"Carney, John Patrick",43
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Secretary of State,,D,"Turner, Nina",48
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,Treasurer of State,,D,"Pillich, Connie",44
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,U.S. House of Representatives,09,D,"Kaptur, Marcy",52
+Erie,AAA,PRECINCT HUR A,Northeast,Cleveland,1024,141,State House of Representatives,89,D,"Redfern, Chris",43
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",32
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Attorney General,,D,"Pepper, David",31
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Auditor of State,,D,"Carney, John Patrick",29
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Secretary of State,,D,"Turner, Nina",31
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,Treasurer of State,,D,"Pillich, Connie",30
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,U.S. House of Representatives,09,D,"Kaptur, Marcy",36
+Erie,AAB,PRECINCT HUR B,Northeast,Cleveland,904,94,State House of Representatives,89,D,"Redfern, Chris",34
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",39
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Attorney General,,D,"Pepper, David",37
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Auditor of State,,D,"Carney, John Patrick",38
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Secretary of State,,D,"Turner, Nina",37
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,Treasurer of State,,D,"Pillich, Connie",38
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,U.S. House of Representatives,09,D,"Kaptur, Marcy",46
+Erie,AAC,PRECINCT HUR C,Northeast,Cleveland,716,133,State House of Representatives,89,D,"Redfern, Chris",41
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Governor/Lieutenant Governor,,D,"Ealy, Larry",1
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",42
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Attorney General,,D,"Pepper, David",39
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Auditor of State,,D,"Carney, John Patrick",40
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Secretary of State,,D,"Turner, Nina",43
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,Treasurer of State,,D,"Pillich, Connie",40
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,U.S. House of Representatives,09,D,"Kaptur, Marcy",47
+Erie,AAI,PRECINCT HUR D,Northeast,Cleveland,682,89,State House of Representatives,89,D,"Redfern, Chris",44
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",44
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Attorney General,,D,"Pepper, David",39
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Auditor of State,,D,"Carney, John Patrick",39
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Secretary of State,,D,"Turner, Nina",40
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,Treasurer of State,,D,"Pillich, Connie",39
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,U.S. House of Representatives,09,D,"Kaptur, Marcy",50
+Erie,AAJ,PRECINCT HUR E,Northeast,Cleveland,934,144,State House of Representatives,89,D,"Redfern, Chris",45
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Governor/Lieutenant Governor,,D,"Ealy, Larry",2
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",51
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Attorney General,,D,"Pepper, David",42
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Auditor of State,,D,"Carney, John Patrick",40
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Secretary of State,,D,"Turner, Nina",40
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,Treasurer of State,,D,"Pillich, Connie",40
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,U.S. House of Representatives,09,D,"Kaptur, Marcy",49
+Erie,AAE,PRECINCT HUR F,Northeast,Cleveland,903,106,State House of Representatives,89,D,"Redfern, Chris",44
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Governor/Lieutenant Governor,,D,"Ealy, Larry",1
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",28
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Attorney General,,D,"Pepper, David",19
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Auditor of State,,D,"Carney, John Patrick",18
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Secretary of State,,D,"Turner, Nina",19
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,Treasurer of State,,D,"Pillich, Connie",18
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,U.S. House of Representatives,09,D,"Kaptur, Marcy",30
+Erie,ACK,PRECINCT HUR TWP #1,Northeast,Cleveland,982,118,State House of Representatives,89,D,"Redfern, Chris",27
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Governor/Lieutenant Governor,,D,"Ealy, Larry",2
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",38
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Attorney General,,D,"Pepper, David",31
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Auditor of State,,D,"Carney, John Patrick",33
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Secretary of State,,D,"Turner, Nina",33
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,Treasurer of State,,D,"Pillich, Connie",33
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,U.S. House of Representatives,09,D,"Kaptur, Marcy",39
+Erie,ACL,PRECINCT HUR TWP #2,Northeast,Cleveland,878,136,State House of Representatives,89,D,"Redfern, Chris",37
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",67
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Attorney General,,D,"Pepper, David",68
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Auditor of State,,D,"Carney, John Patrick",67
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Secretary of State,,D,"Turner, Nina",64
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,Treasurer of State,,D,"Pillich, Connie",65
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,U.S. House of Representatives,09,D,"Kaptur, Marcy",79
+Erie,ACM,PRECINCT HUR TWP #3,Northeast,Cleveland,819,217,State House of Representatives,89,D,"Redfern, Chris",70
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",23
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Attorney General,,D,"Pepper, David",19
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Auditor of State,,D,"Carney, John Patrick",19
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Secretary of State,,D,"Turner, Nina",18
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,Treasurer of State,,D,"Pillich, Connie",19
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,U.S. House of Representatives,09,D,"Kaptur, Marcy",27
+Erie,ACN,PRECINCT KI VILL,Northeast,Cleveland,306,79,State House of Representatives,89,D,"Redfern, Chris",24
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Governor/Lieutenant Governor,,D,"Ealy, Larry",14
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",56
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Attorney General,,D,"Pepper, David",64
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Auditor of State,,D,"Carney, John Patrick",59
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Secretary of State,,D,"Turner, Nina",56
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,Treasurer of State,,D,"Pillich, Connie",56
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,U.S. House of Representatives,09,D,"Kaptur, Marcy",77
+Erie,ACQ,PRECINCT MAR TWP #1,Northeast,Cleveland,871,214,State House of Representatives,89,D,"Redfern, Chris",73
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Governor/Lieutenant Governor,,D,"Ealy, Larry",2
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",41
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Attorney General,,D,"Pepper, David",39
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Auditor of State,,D,"Carney, John Patrick",39
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Secretary of State,,D,"Turner, Nina",36
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,Treasurer of State,,D,"Pillich, Connie",33
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,U.S. House of Representatives,09,D,"Kaptur, Marcy",48
+Erie,ACR,PRECINCT MAR TWP #2,Northeast,Cleveland,638,106,State House of Representatives,89,D,"Redfern, Chris",38
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Governor/Lieutenant Governor,,D,"Ealy, Larry",13
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",70
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Attorney General,,D,"Pepper, David",70
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Auditor of State,,D,"Carney, John Patrick",71
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Secretary of State,,D,"Turner, Nina",68
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,Treasurer of State,,D,"Pillich, Connie",65
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,U.S. House of Representatives,09,D,"Kaptur, Marcy",81
+Erie,ACS,PRECINCT MAR TWP #3,Northeast,Cleveland,921,181,State House of Representatives,89,D,"Redfern, Chris",72
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",44
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Attorney General,,D,"Pepper, David",34
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Auditor of State,,D,"Carney, John Patrick",40
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Secretary of State,,D,"Turner, Nina",36
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,Treasurer of State,,D,"Pillich, Connie",36
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,U.S. House of Representatives,09,D,"Kaptur, Marcy",46
+Erie,ACT,PRECINCT MAR TWP #4,Northeast,Cleveland,606,116,State House of Representatives,89,D,"Redfern, Chris",37
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",27
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Attorney General,,D,"Pepper, David",25
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Auditor of State,,D,"Carney, John Patrick",24
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Secretary of State,,D,"Turner, Nina",25
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,Treasurer of State,,D,"Pillich, Connie",23
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,ACW,PRECINCT MIL TWP #1,Northeast,Cleveland,674,122,State House of Representatives,89,D,"Redfern, Chris",26
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",42
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Attorney General,,D,"Pepper, David",41
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Auditor of State,,D,"Carney, John Patrick",38
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Secretary of State,,D,"Turner, Nina",40
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,Treasurer of State,,D,"Pillich, Connie",38
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,ACX,PRECINCT MIL TWP #2,Northeast,Cleveland,1156,202,State House of Representatives,89,D,"Redfern, Chris",42
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",28
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Attorney General,,D,"Pepper, David",26
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Auditor of State,,D,"Carney, John Patrick",29
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Secretary of State,,D,"Turner, Nina",25
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,Treasurer of State,,D,"Pillich, Connie",25
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,AEN,PRECINCT MIL VILL,Northeast,Cleveland,655,112,State House of Representatives,89,D,"Redfern, Chris",30
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Governor/Lieutenant Governor,,D,"Ealy, Larry",16
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",59
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Attorney General,,D,"Pepper, David",66
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Auditor of State,,D,"Carney, John Patrick",66
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Secretary of State,,D,"Turner, Nina",66
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,Treasurer of State,,D,"Pillich, Connie",63
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,U.S. House of Representatives,09,D,"Kaptur, Marcy",0
+Erie,ADA,PRECINCT OX TWP,Northeast,Cleveland,816,237,State House of Representatives,89,D,"Redfern, Chris",74
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Governor/Lieutenant Governor,,D,"Ealy, Larry",10
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",106
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Attorney General,,D,"Pepper, David",92
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Auditor of State,,D,"Carney, John Patrick",92
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Secretary of State,,D,"Turner, Nina",93
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,Treasurer of State,,D,"Pillich, Connie",92
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,U.S. House of Representatives,09,D,"Kaptur, Marcy",125
+Erie,ADF,PRECINCT PER TWP #1,Northeast,Cleveland,1093,284,State House of Representatives,89,D,"Redfern, Chris",111
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Governor/Lieutenant Governor,,D,"Ealy, Larry",26
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",91
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Attorney General,,D,"Pepper, David",93
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Auditor of State,,D,"Carney, John Patrick",95
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Secretary of State,,D,"Turner, Nina",91
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,Treasurer of State,,D,"Pillich, Connie",88
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,U.S. House of Representatives,09,D,"Kaptur, Marcy",126
+Erie,ADO,PRECINCT PER TWP #10,Northeast,Cleveland,1133,500,State House of Representatives,89,D,"Redfern, Chris",108
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Governor/Lieutenant Governor,,D,"Ealy, Larry",9
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",88
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Attorney General,,D,"Pepper, David",74
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Auditor of State,,D,"Carney, John Patrick",78
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Secretary of State,,D,"Turner, Nina",77
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,Treasurer of State,,D,"Pillich, Connie",74
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,U.S. House of Representatives,09,D,"Kaptur, Marcy",109
+Erie,ADB,PRECINCT PER TWP #2,Northeast,Cleveland,1256,440,State House of Representatives,89,D,"Redfern, Chris",94
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Governor/Lieutenant Governor,,D,"Ealy, Larry",10
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",95
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Attorney General,,D,"Pepper, David",93
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Auditor of State,,D,"Carney, John Patrick",95
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Secretary of State,,D,"Turner, Nina",98
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,Treasurer of State,,D,"Pillich, Connie",96
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,U.S. House of Representatives,09,D,"Kaptur, Marcy",122
+Erie,ADM,PRECINCT PER TWP #3,Northeast,Cleveland,831,353,State House of Representatives,89,D,"Redfern, Chris",107
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Governor/Lieutenant Governor,,D,"Ealy, Larry",11
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",64
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Attorney General,,D,"Pepper, David",69
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Auditor of State,,D,"Carney, John Patrick",71
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Secretary of State,,D,"Turner, Nina",72
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,Treasurer of State,,D,"Pillich, Connie",69
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,U.S. House of Representatives,09,D,"Kaptur, Marcy",85
+Erie,ADE,PRECINCT PER TWP #4,Northeast,Cleveland,812,250,State House of Representatives,89,D,"Redfern, Chris",79
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",12
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Attorney General,,D,"Pepper, David",12
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Auditor of State,,D,"Carney, John Patrick",13
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Secretary of State,,D,"Turner, Nina",14
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,Treasurer of State,,D,"Pillich, Connie",10
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,U.S. House of Representatives,09,D,"Kaptur, Marcy",10
+Erie,ADN,PRECINCT PER TWP #5,Northeast,Cleveland,256,40,State House of Representatives,89,D,"Redfern, Chris",12
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Governor/Lieutenant Governor,,D,"Ealy, Larry",18
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",89
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Attorney General,,D,"Pepper, David",87
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Auditor of State,,D,"Carney, John Patrick",89
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Secretary of State,,D,"Turner, Nina",92
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,Treasurer of State,,D,"Pillich, Connie",91
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,U.S. House of Representatives,09,D,"Kaptur, Marcy",110
+Erie,ADC,PRECINCT PER TWP #6,Northeast,Cleveland,943,377,State House of Representatives,89,D,"Redfern, Chris",101
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Governor/Lieutenant Governor,,D,"Ealy, Larry",10
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",105
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Attorney General,,D,"Pepper, David",97
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Auditor of State,,D,"Carney, John Patrick",94
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Secretary of State,,D,"Turner, Nina",97
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,Treasurer of State,,D,"Pillich, Connie",95
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,U.S. House of Representatives,09,D,"Kaptur, Marcy",124
+Erie,ADD,PRECINCT PER TWP #7,Northeast,Cleveland,873,365,State House of Representatives,89,D,"Redfern, Chris",112
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Governor/Lieutenant Governor,,D,"Ealy, Larry",23
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",89
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Attorney General,,D,"Pepper, David",90
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Auditor of State,,D,"Carney, John Patrick",90
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Secretary of State,,D,"Turner, Nina",89
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,Treasurer of State,,D,"Pillich, Connie",89
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,U.S. House of Representatives,09,D,"Kaptur, Marcy",123
+Erie,ADH,PRECINCT PER TWP #8,Northeast,Cleveland,997,416,State House of Representatives,89,D,"Redfern, Chris",112
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",62
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Attorney General,,D,"Pepper, David",58
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Auditor of State,,D,"Carney, John Patrick",59
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Secretary of State,,D,"Turner, Nina",57
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,Treasurer of State,,D,"Pillich, Connie",56
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,U.S. House of Representatives,09,D,"Kaptur, Marcy",82
+Erie,ADJ,PRECINCT PER TWP #9,Northeast,Cleveland,738,295,State House of Representatives,89,D,"Redfern, Chris",72
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Governor/Lieutenant Governor,,D,"Ealy, Larry",1
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",35
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Attorney General,,D,"Pepper, David",37
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Auditor of State,,D,"Carney, John Patrick",35
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Secretary of State,,D,"Turner, Nina",36
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,Treasurer of State,,D,"Pillich, Connie",33
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,U.S. House of Representatives,09,D,"Kaptur, Marcy",38
+Erie,ADX,PRECINCT SAN A,Northeast,Cleveland,418,133,State House of Representatives,89,D,"Redfern, Chris",37
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Governor/Lieutenant Governor,,D,"Ealy, Larry",11
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",56
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Attorney General,,D,"Pepper, David",62
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Auditor of State,,D,"Carney, John Patrick",58
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Secretary of State,,D,"Turner, Nina",64
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,Treasurer of State,,D,"Pillich, Connie",59
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,U.S. House of Representatives,09,D,"Kaptur, Marcy",72
+Erie,ADY,PRECINCT SAN B,Northeast,Cleveland,1162,122,State House of Representatives,89,D,"Redfern, Chris",60
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Governor/Lieutenant Governor,,D,"Ealy, Larry",11
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",38
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Attorney General,,D,"Pepper, David",40
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Auditor of State,,D,"Carney, John Patrick",38
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Secretary of State,,D,"Turner, Nina",46
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,Treasurer of State,,D,"Pillich, Connie",39
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,U.S. House of Representatives,09,D,"Kaptur, Marcy",55
+Erie,ADZ,PRECINCT SAN C,Northeast,Cleveland,977,93,State House of Representatives,89,D,"Redfern, Chris",51
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",64
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Attorney General,,D,"Pepper, David",64
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Auditor of State,,D,"Carney, John Patrick",62
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Secretary of State,,D,"Turner, Nina",67
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,Treasurer of State,,D,"Pillich, Connie",61
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,U.S. House of Representatives,09,D,"Kaptur, Marcy",83
+Erie,AEA,PRECINCT SAN D,Northeast,Cleveland,848,165,State House of Representatives,89,D,"Redfern, Chris",76
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",51
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Attorney General,,D,"Pepper, David",50
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Auditor of State,,D,"Carney, John Patrick",44
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Secretary of State,,D,"Turner, Nina",51
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,Treasurer of State,,D,"Pillich, Connie",47
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,U.S. House of Representatives,09,D,"Kaptur, Marcy",57
+Erie,AEB,PRECINCT SAN E,Northeast,Cleveland,1179,119,State House of Representatives,89,D,"Redfern, Chris",52
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",67
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Attorney General,,D,"Pepper, David",63
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Auditor of State,,D,"Carney, John Patrick",61
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Secretary of State,,D,"Turner, Nina",64
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,Treasurer of State,,D,"Pillich, Connie",60
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,U.S. House of Representatives,09,D,"Kaptur, Marcy",83
+Erie,AEC,PRECINCT SAN F,Northeast,Cleveland,1022,164,State House of Representatives,89,D,"Redfern, Chris",71
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Governor/Lieutenant Governor,,D,"Ealy, Larry",10
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",48
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Attorney General,,D,"Pepper, David",48
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Auditor of State,,D,"Carney, John Patrick",47
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Secretary of State,,D,"Turner, Nina",53
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,Treasurer of State,,D,"Pillich, Connie",46
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,U.S. House of Representatives,09,D,"Kaptur, Marcy",66
+Erie,AED,PRECINCT SAN G,Northeast,Cleveland,1239,131,State House of Representatives,89,D,"Redfern, Chris",54
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",52
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Attorney General,,D,"Pepper, David",50
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Auditor of State,,D,"Carney, John Patrick",52
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Secretary of State,,D,"Turner, Nina",53
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,Treasurer of State,,D,"Pillich, Connie",51
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,U.S. House of Representatives,09,D,"Kaptur, Marcy",62
+Erie,AEE,PRECINCT SAN H,Northeast,Cleveland,1185,127,State House of Representatives,89,D,"Redfern, Chris",58
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Governor/Lieutenant Governor,,D,"Ealy, Larry",12
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",55
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Attorney General,,D,"Pepper, David",57
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Auditor of State,,D,"Carney, John Patrick",54
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Secretary of State,,D,"Turner, Nina",57
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,Treasurer of State,,D,"Pillich, Connie",55
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,U.S. House of Representatives,09,D,"Kaptur, Marcy",70
+Erie,AEF,PRECINCT SAN I,Northeast,Cleveland,1199,166,State House of Representatives,89,D,"Redfern, Chris",65
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Governor/Lieutenant Governor,,D,"Ealy, Larry",9
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",57
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Attorney General,,D,"Pepper, David",50
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Auditor of State,,D,"Carney, John Patrick",52
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Secretary of State,,D,"Turner, Nina",63
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,Treasurer of State,,D,"Pillich, Connie",50
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,U.S. House of Representatives,09,D,"Kaptur, Marcy",75
+Erie,AEG,PRECINCT SAN J,Northeast,Cleveland,938,119,State House of Representatives,89,D,"Redfern, Chris",70
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Governor/Lieutenant Governor,,D,"Ealy, Larry",11
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",64
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Attorney General,,D,"Pepper, David",64
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Auditor of State,,D,"Carney, John Patrick",61
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Secretary of State,,D,"Turner, Nina",65
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,Treasurer of State,,D,"Pillich, Connie",62
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,U.S. House of Representatives,09,D,"Kaptur, Marcy",75
+Erie,AEH,PRECINCT SAN K,Northeast,Cleveland,1264,134,State House of Representatives,89,D,"Redfern, Chris",67
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",51
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Attorney General,,D,"Pepper, David",51
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Auditor of State,,D,"Carney, John Patrick",50
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Secretary of State,,D,"Turner, Nina",52
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,Treasurer of State,,D,"Pillich, Connie",48
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,U.S. House of Representatives,09,D,"Kaptur, Marcy",68
+Erie,AEI,PRECINCT SAN L,Northeast,Cleveland,837,121,State House of Representatives,89,D,"Redfern, Chris",58
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Governor/Lieutenant Governor,,D,"Ealy, Larry",8
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",52
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Attorney General,,D,"Pepper, David",55
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Auditor of State,,D,"Carney, John Patrick",55
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Secretary of State,,D,"Turner, Nina",59
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,Treasurer of State,,D,"Pillich, Connie",56
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,U.S. House of Representatives,09,D,"Kaptur, Marcy",64
+Erie,AEJ,PRECINCT SAN M,Northeast,Cleveland,886,101,State House of Representatives,89,D,"Redfern, Chris",60
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",54
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Attorney General,,D,"Pepper, David",46
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Auditor of State,,D,"Carney, John Patrick",46
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Secretary of State,,D,"Turner, Nina",54
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,Treasurer of State,,D,"Pillich, Connie",46
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,U.S. House of Representatives,09,D,"Kaptur, Marcy",58
+Erie,AEK,PRECINCT SAN N,Northeast,Cleveland,985,116,State House of Representatives,89,D,"Redfern, Chris",56
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",58
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Attorney General,,D,"Pepper, David",57
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Auditor of State,,D,"Carney, John Patrick",52
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Secretary of State,,D,"Turner, Nina",56
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,Treasurer of State,,D,"Pillich, Connie",53
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,U.S. House of Representatives,09,D,"Kaptur, Marcy",71
+Erie,AEL,PRECINCT SAN O,Northeast,Cleveland,1003,138,State House of Representatives,89,D,"Redfern, Chris",64
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Governor/Lieutenant Governor,,D,"Ealy, Larry",9
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",90
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Attorney General,,D,"Pepper, David",74
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Auditor of State,,D,"Carney, John Patrick",76
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Secretary of State,,D,"Turner, Nina",79
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,Treasurer of State,,D,"Pillich, Connie",75
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,U.S. House of Representatives,09,D,"Kaptur, Marcy",98
+Erie,AEM,PRECINCT SAN P,Northeast,Cleveland,1268,219,State House of Representatives,89,D,"Redfern, Chris",91
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Governor/Lieutenant Governor,,D,"Ealy, Larry",6
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",26
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Attorney General,,D,"Pepper, David",25
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Auditor of State,,D,"Carney, John Patrick",28
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Secretary of State,,D,"Turner, Nina",27
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,Treasurer of State,,D,"Pillich, Connie",26
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,U.S. House of Representatives,09,D,"Kaptur, Marcy",33
+Erie,ABV,PRECINCT VER 1-A,Northeast,Cleveland,637,94,State House of Representatives,89,D,"Redfern, Chris",32
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",22
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Attorney General,,D,"Pepper, David",22
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Auditor of State,,D,"Carney, John Patrick",22
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Secretary of State,,D,"Turner, Nina",22
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,Treasurer of State,,D,"Pillich, Connie",22
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,U.S. House of Representatives,09,D,"Kaptur, Marcy",25
+Erie,ABX,PRECINCT VER 2-A,Northeast,Cleveland,559,56,State House of Representatives,89,D,"Redfern, Chris",21
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",36
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Attorney General,,D,"Pepper, David",38
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Auditor of State,,D,"Carney, John Patrick",36
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Secretary of State,,D,"Turner, Nina",35
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,Treasurer of State,,D,"Pillich, Connie",34
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,U.S. House of Representatives,09,D,"Kaptur, Marcy",43
+Erie,ABY,PRECINCT VER 2-B,Northeast,Cleveland,829,104,State House of Representatives,89,D,"Redfern, Chris",37
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",24
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Attorney General,,D,"Pepper, David",22
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Auditor of State,,D,"Carney, John Patrick",22
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Secretary of State,,D,"Turner, Nina",21
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,Treasurer of State,,D,"Pillich, Connie",22
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,U.S. House of Representatives,09,D,"Kaptur, Marcy",25
+Erie,ACA,PRECINCT VER 3-A,Northeast,Cleveland,686,79,State House of Representatives,89,D,"Redfern, Chris",23
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",27
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Attorney General,,D,"Pepper, David",28
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Auditor of State,,D,"Carney, John Patrick",27
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Secretary of State,,D,"Turner, Nina",27
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,Treasurer of State,,D,"Pillich, Connie",26
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,U.S. House of Representatives,09,D,"Kaptur, Marcy",32
+Erie,ACB,PRECINCT VER 3-B,Northeast,Cleveland,643,66,State House of Representatives,89,D,"Redfern, Chris",31
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Governor/Lieutenant Governor,,D,"Ealy, Larry",7
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",49
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Attorney General,,D,"Pepper, David",51
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Auditor of State,,D,"Carney, John Patrick",52
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Secretary of State,,D,"Turner, Nina",50
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,Treasurer of State,,D,"Pillich, Connie",51
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,U.S. House of Representatives,09,D,"Kaptur, Marcy",55
+Erie,ADT,PRECINCT VER TWP #1,Northeast,Cleveland,1096,126,State House of Representatives,89,D,"Redfern, Chris",49
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Governor/Lieutenant Governor,,D,"Ealy, Larry",4
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",24
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Attorney General,,D,"Pepper, David",27
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Auditor of State,,D,"Carney, John Patrick",27
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Secretary of State,,D,"Turner, Nina",27
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,Treasurer of State,,D,"Pillich, Connie",27
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,U.S. House of Representatives,09,D,"Kaptur, Marcy",30
+Erie,ADU,PRECINCT VER TWP #2,Northeast,Cleveland,691,77,State House of Representatives,89,D,"Redfern, Chris",28
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Governor/Lieutenant Governor,,D,"Ealy, Larry",1
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",18
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Attorney General,,D,"Pepper, David",15
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Auditor of State,,D,"Carney, John Patrick",15
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Secretary of State,,D,"Turner, Nina",15
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,Treasurer of State,,D,"Pillich, Connie",15
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,U.S. House of Representatives,09,D,"Kaptur, Marcy",16
+Erie,ADW,PRECINCT VER TWP #3,Northeast,Cleveland,610,61,State House of Representatives,89,D,"Redfern, Chris",17
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Governor/Lieutenant Governor,,D,"Ealy, Larry",5
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",17
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Attorney General,,D,"Pepper, David",19
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Auditor of State,,D,"Carney, John Patrick",21
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Secretary of State,,D,"Turner, Nina",19
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,Treasurer of State,,D,"Pillich, Connie",19
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,U.S. House of Representatives,09,D,"Kaptur, Marcy",21
+Erie,ADV,PRECINCT VER TWP #4,Northeast,Cleveland,608,46,State House of Representatives,89,D,"Redfern, Chris",21
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Governor/Lieutenant Governor,,D,"Ealy, Larry",3
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Governor/Lieutenant Governor,,D,"FitzGerald, Edward",25
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Attorney General,,D,"Pepper, David",28
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Auditor of State,,D,"Carney, John Patrick",25
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Secretary of State,,D,"Turner, Nina",25
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,Treasurer of State,,D,"Pillich, Connie",23
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,U.S. House of Representatives,09,D,"Kaptur, Marcy",32
+Erie,ADS,PRECINCT VER TWP #5,Northeast,Cleveland,615,82,State House of Representatives,89,D,"Redfern, Chris",33

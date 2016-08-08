@@ -1,0 +1,561 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Belmont,ACX,PRECINCT BARNESVILLE VILLAGE 1,Southeast,Wheeling,1301,115,Governor/Lieutenant Governor,,R,"Kasich, John",39
+Belmont,ACX,PRECINCT BARNESVILLE VILLAGE 1,Southeast,Wheeling,1301,115,Attorney General,,R,"DeWine, Mike",37
+Belmont,ACX,PRECINCT BARNESVILLE VILLAGE 1,Southeast,Wheeling,1301,115,Auditor of State,,R,"Yost, Dave",36
+Belmont,ACX,PRECINCT BARNESVILLE VILLAGE 1,Southeast,Wheeling,1301,115,Secretary of State,,R,"Husted, Jon",36
+Belmont,ACX,PRECINCT BARNESVILLE VILLAGE 1,Southeast,Wheeling,1301,115,Treasurer of State,,R,"Mandel, Josh",37
+Belmont,ACX,PRECINCT BARNESVILLE VILLAGE 1,Southeast,Wheeling,1301,115,U.S. House of Representatives,06,R,"Johnson, Bill",37
+Belmont,ACX,PRECINCT BARNESVILLE VILLAGE 1,Southeast,Wheeling,1301,115,State House of Representatives,95,R,"Thompson, Andy",34
+Belmont,ACX,PRECINCT BARNESVILLE VILLAGE 1,Southeast,Wheeling,1301,115,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACZ,PRECINCT BARNESVILLE VILLAGE 2,Southeast,Wheeling,765,80,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Belmont,ACZ,PRECINCT BARNESVILLE VILLAGE 2,Southeast,Wheeling,765,80,Attorney General,,R,"DeWine, Mike",30
+Belmont,ACZ,PRECINCT BARNESVILLE VILLAGE 2,Southeast,Wheeling,765,80,Auditor of State,,R,"Yost, Dave",25
+Belmont,ACZ,PRECINCT BARNESVILLE VILLAGE 2,Southeast,Wheeling,765,80,Secretary of State,,R,"Husted, Jon",25
+Belmont,ACZ,PRECINCT BARNESVILLE VILLAGE 2,Southeast,Wheeling,765,80,Treasurer of State,,R,"Mandel, Josh",27
+Belmont,ACZ,PRECINCT BARNESVILLE VILLAGE 2,Southeast,Wheeling,765,80,U.S. House of Representatives,06,R,"Johnson, Bill",28
+Belmont,ACZ,PRECINCT BARNESVILLE VILLAGE 2,Southeast,Wheeling,765,80,State House of Representatives,95,R,"Thompson, Andy",25
+Belmont,ACZ,PRECINCT BARNESVILLE VILLAGE 2,Southeast,Wheeling,765,80,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ADX,PRECINCT BARNESVILLE VILLAGE 3,Southeast,Wheeling,728,55,Governor/Lieutenant Governor,,R,"Kasich, John",19
+Belmont,ADX,PRECINCT BARNESVILLE VILLAGE 3,Southeast,Wheeling,728,55,Attorney General,,R,"DeWine, Mike",21
+Belmont,ADX,PRECINCT BARNESVILLE VILLAGE 3,Southeast,Wheeling,728,55,Auditor of State,,R,"Yost, Dave",19
+Belmont,ADX,PRECINCT BARNESVILLE VILLAGE 3,Southeast,Wheeling,728,55,Secretary of State,,R,"Husted, Jon",17
+Belmont,ADX,PRECINCT BARNESVILLE VILLAGE 3,Southeast,Wheeling,728,55,Treasurer of State,,R,"Mandel, Josh",21
+Belmont,ADX,PRECINCT BARNESVILLE VILLAGE 3,Southeast,Wheeling,728,55,U.S. House of Representatives,06,R,"Johnson, Bill",22
+Belmont,ADX,PRECINCT BARNESVILLE VILLAGE 3,Southeast,Wheeling,728,55,State House of Representatives,95,R,"Thompson, Andy",19
+Belmont,ADX,PRECINCT BARNESVILLE VILLAGE 3,Southeast,Wheeling,728,55,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAA,PRECINCT BELLAIRE VILLAGE 1,Southeast,Wheeling,1063,256,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Belmont,AAA,PRECINCT BELLAIRE VILLAGE 1,Southeast,Wheeling,1063,256,Attorney General,,R,"DeWine, Mike",28
+Belmont,AAA,PRECINCT BELLAIRE VILLAGE 1,Southeast,Wheeling,1063,256,Auditor of State,,R,"Yost, Dave",29
+Belmont,AAA,PRECINCT BELLAIRE VILLAGE 1,Southeast,Wheeling,1063,256,Secretary of State,,R,"Husted, Jon",28
+Belmont,AAA,PRECINCT BELLAIRE VILLAGE 1,Southeast,Wheeling,1063,256,Treasurer of State,,R,"Mandel, Josh",31
+Belmont,AAA,PRECINCT BELLAIRE VILLAGE 1,Southeast,Wheeling,1063,256,U.S. House of Representatives,06,R,"Johnson, Bill",30
+Belmont,AAA,PRECINCT BELLAIRE VILLAGE 1,Southeast,Wheeling,1063,256,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAA,PRECINCT BELLAIRE VILLAGE 1,Southeast,Wheeling,1063,256,State House of Representatives,96,R,"Ferguson, Ron",25
+Belmont,AAB,PRECINCT BELLAIRE VILLAGE 2,Southeast,Wheeling,1032,139,Governor/Lieutenant Governor,,R,"Kasich, John",20
+Belmont,AAB,PRECINCT BELLAIRE VILLAGE 2,Southeast,Wheeling,1032,139,Attorney General,,R,"DeWine, Mike",20
+Belmont,AAB,PRECINCT BELLAIRE VILLAGE 2,Southeast,Wheeling,1032,139,Auditor of State,,R,"Yost, Dave",19
+Belmont,AAB,PRECINCT BELLAIRE VILLAGE 2,Southeast,Wheeling,1032,139,Secretary of State,,R,"Husted, Jon",18
+Belmont,AAB,PRECINCT BELLAIRE VILLAGE 2,Southeast,Wheeling,1032,139,Treasurer of State,,R,"Mandel, Josh",20
+Belmont,AAB,PRECINCT BELLAIRE VILLAGE 2,Southeast,Wheeling,1032,139,U.S. House of Representatives,06,R,"Johnson, Bill",20
+Belmont,AAB,PRECINCT BELLAIRE VILLAGE 2,Southeast,Wheeling,1032,139,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAB,PRECINCT BELLAIRE VILLAGE 2,Southeast,Wheeling,1032,139,State House of Representatives,96,R,"Ferguson, Ron",18
+Belmont,AAE,PRECINCT BELLAIRE VILLAGE 3,Southeast,Wheeling,912,145,Governor/Lieutenant Governor,,R,"Kasich, John",14
+Belmont,AAE,PRECINCT BELLAIRE VILLAGE 3,Southeast,Wheeling,912,145,Attorney General,,R,"DeWine, Mike",14
+Belmont,AAE,PRECINCT BELLAIRE VILLAGE 3,Southeast,Wheeling,912,145,Auditor of State,,R,"Yost, Dave",14
+Belmont,AAE,PRECINCT BELLAIRE VILLAGE 3,Southeast,Wheeling,912,145,Secretary of State,,R,"Husted, Jon",14
+Belmont,AAE,PRECINCT BELLAIRE VILLAGE 3,Southeast,Wheeling,912,145,Treasurer of State,,R,"Mandel, Josh",13
+Belmont,AAE,PRECINCT BELLAIRE VILLAGE 3,Southeast,Wheeling,912,145,U.S. House of Representatives,06,R,"Johnson, Bill",15
+Belmont,AAE,PRECINCT BELLAIRE VILLAGE 3,Southeast,Wheeling,912,145,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAE,PRECINCT BELLAIRE VILLAGE 3,Southeast,Wheeling,912,145,State House of Representatives,96,R,"Ferguson, Ron",12
+Belmont,ABD,PRECINCT BELMONT VILLAGE,Southeast,Wheeling,344,50,Governor/Lieutenant Governor,,R,"Kasich, John",13
+Belmont,ABD,PRECINCT BELMONT VILLAGE,Southeast,Wheeling,344,50,Attorney General,,R,"DeWine, Mike",15
+Belmont,ABD,PRECINCT BELMONT VILLAGE,Southeast,Wheeling,344,50,Auditor of State,,R,"Yost, Dave",15
+Belmont,ABD,PRECINCT BELMONT VILLAGE,Southeast,Wheeling,344,50,Secretary of State,,R,"Husted, Jon",15
+Belmont,ABD,PRECINCT BELMONT VILLAGE,Southeast,Wheeling,344,50,Treasurer of State,,R,"Mandel, Josh",15
+Belmont,ABD,PRECINCT BELMONT VILLAGE,Southeast,Wheeling,344,50,U.S. House of Representatives,06,R,"Johnson, Bill",15
+Belmont,ABD,PRECINCT BELMONT VILLAGE,Southeast,Wheeling,344,50,State House of Representatives,95,R,"Thompson, Andy",14
+Belmont,ABD,PRECINCT BELMONT VILLAGE,Southeast,Wheeling,344,50,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ABE,PRECINCT BETHESDA VILLAGE,Southeast,Wheeling,928,155,Governor/Lieutenant Governor,,R,"Kasich, John",63
+Belmont,ABE,PRECINCT BETHESDA VILLAGE,Southeast,Wheeling,928,155,Attorney General,,R,"DeWine, Mike",65
+Belmont,ABE,PRECINCT BETHESDA VILLAGE,Southeast,Wheeling,928,155,Auditor of State,,R,"Yost, Dave",59
+Belmont,ABE,PRECINCT BETHESDA VILLAGE,Southeast,Wheeling,928,155,Secretary of State,,R,"Husted, Jon",61
+Belmont,ABE,PRECINCT BETHESDA VILLAGE,Southeast,Wheeling,928,155,Treasurer of State,,R,"Mandel, Josh",66
+Belmont,ABE,PRECINCT BETHESDA VILLAGE,Southeast,Wheeling,928,155,U.S. House of Representatives,06,R,"Johnson, Bill",66
+Belmont,ABE,PRECINCT BETHESDA VILLAGE,Southeast,Wheeling,928,155,State House of Representatives,95,R,"Thompson, Andy",55
+Belmont,ABE,PRECINCT BETHESDA VILLAGE,Southeast,Wheeling,928,155,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ABQ,PRECINCT BRIDGEPORT VILLAGE 1,Southeast,Wheeling,807,40,Governor/Lieutenant Governor,,R,"Kasich, John",5
+Belmont,ABQ,PRECINCT BRIDGEPORT VILLAGE 1,Southeast,Wheeling,807,40,Attorney General,,R,"DeWine, Mike",5
+Belmont,ABQ,PRECINCT BRIDGEPORT VILLAGE 1,Southeast,Wheeling,807,40,Auditor of State,,R,"Yost, Dave",4
+Belmont,ABQ,PRECINCT BRIDGEPORT VILLAGE 1,Southeast,Wheeling,807,40,Secretary of State,,R,"Husted, Jon",5
+Belmont,ABQ,PRECINCT BRIDGEPORT VILLAGE 1,Southeast,Wheeling,807,40,Treasurer of State,,R,"Mandel, Josh",2
+Belmont,ABQ,PRECINCT BRIDGEPORT VILLAGE 1,Southeast,Wheeling,807,40,U.S. House of Representatives,06,R,"Johnson, Bill",4
+Belmont,ABQ,PRECINCT BRIDGEPORT VILLAGE 1,Southeast,Wheeling,807,40,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABQ,PRECINCT BRIDGEPORT VILLAGE 1,Southeast,Wheeling,807,40,State House of Representatives,96,R,"Ferguson, Ron",2
+Belmont,ABS,PRECINCT BRIDGEPORT VILLAGE 2,Southeast,Wheeling,571,54,Governor/Lieutenant Governor,,R,"Kasich, John",9
+Belmont,ABS,PRECINCT BRIDGEPORT VILLAGE 2,Southeast,Wheeling,571,54,Attorney General,,R,"DeWine, Mike",7
+Belmont,ABS,PRECINCT BRIDGEPORT VILLAGE 2,Southeast,Wheeling,571,54,Auditor of State,,R,"Yost, Dave",7
+Belmont,ABS,PRECINCT BRIDGEPORT VILLAGE 2,Southeast,Wheeling,571,54,Secretary of State,,R,"Husted, Jon",7
+Belmont,ABS,PRECINCT BRIDGEPORT VILLAGE 2,Southeast,Wheeling,571,54,Treasurer of State,,R,"Mandel, Josh",7
+Belmont,ABS,PRECINCT BRIDGEPORT VILLAGE 2,Southeast,Wheeling,571,54,U.S. House of Representatives,06,R,"Johnson, Bill",9
+Belmont,ABS,PRECINCT BRIDGEPORT VILLAGE 2,Southeast,Wheeling,571,54,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABS,PRECINCT BRIDGEPORT VILLAGE 2,Southeast,Wheeling,571,54,State House of Representatives,96,R,"Ferguson, Ron",7
+Belmont,ABU,PRECINCT BROOKSIDE VILLAGE,Southeast,Wheeling,489,60,Governor/Lieutenant Governor,,R,"Kasich, John",10
+Belmont,ABU,PRECINCT BROOKSIDE VILLAGE,Southeast,Wheeling,489,60,Attorney General,,R,"DeWine, Mike",14
+Belmont,ABU,PRECINCT BROOKSIDE VILLAGE,Southeast,Wheeling,489,60,Auditor of State,,R,"Yost, Dave",13
+Belmont,ABU,PRECINCT BROOKSIDE VILLAGE,Southeast,Wheeling,489,60,Secretary of State,,R,"Husted, Jon",14
+Belmont,ABU,PRECINCT BROOKSIDE VILLAGE,Southeast,Wheeling,489,60,Treasurer of State,,R,"Mandel, Josh",13
+Belmont,ABU,PRECINCT BROOKSIDE VILLAGE,Southeast,Wheeling,489,60,U.S. House of Representatives,06,R,"Johnson, Bill",12
+Belmont,ABU,PRECINCT BROOKSIDE VILLAGE,Southeast,Wheeling,489,60,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABU,PRECINCT BROOKSIDE VILLAGE,Southeast,Wheeling,489,60,State House of Representatives,96,R,"Ferguson, Ron",11
+Belmont,AAV,PRECINCT COLERAIN TWP 1,Southeast,Wheeling,326,33,Governor/Lieutenant Governor,,R,"Kasich, John",13
+Belmont,AAV,PRECINCT COLERAIN TWP 1,Southeast,Wheeling,326,33,Attorney General,,R,"DeWine, Mike",12
+Belmont,AAV,PRECINCT COLERAIN TWP 1,Southeast,Wheeling,326,33,Auditor of State,,R,"Yost, Dave",11
+Belmont,AAV,PRECINCT COLERAIN TWP 1,Southeast,Wheeling,326,33,Secretary of State,,R,"Husted, Jon",11
+Belmont,AAV,PRECINCT COLERAIN TWP 1,Southeast,Wheeling,326,33,Treasurer of State,,R,"Mandel, Josh",11
+Belmont,AAV,PRECINCT COLERAIN TWP 1,Southeast,Wheeling,326,33,U.S. House of Representatives,06,R,"Johnson, Bill",13
+Belmont,AAV,PRECINCT COLERAIN TWP 1,Southeast,Wheeling,326,33,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAV,PRECINCT COLERAIN TWP 1,Southeast,Wheeling,326,33,State House of Representatives,96,R,"Ferguson, Ron",11
+Belmont,AAU,PRECINCT COLERAIN TWP 2,Southeast,Wheeling,336,32,Governor/Lieutenant Governor,,R,"Kasich, John",9
+Belmont,AAU,PRECINCT COLERAIN TWP 2,Southeast,Wheeling,336,32,Attorney General,,R,"DeWine, Mike",9
+Belmont,AAU,PRECINCT COLERAIN TWP 2,Southeast,Wheeling,336,32,Auditor of State,,R,"Yost, Dave",8
+Belmont,AAU,PRECINCT COLERAIN TWP 2,Southeast,Wheeling,336,32,Secretary of State,,R,"Husted, Jon",8
+Belmont,AAU,PRECINCT COLERAIN TWP 2,Southeast,Wheeling,336,32,Treasurer of State,,R,"Mandel, Josh",8
+Belmont,AAU,PRECINCT COLERAIN TWP 2,Southeast,Wheeling,336,32,U.S. House of Representatives,06,R,"Johnson, Bill",9
+Belmont,AAU,PRECINCT COLERAIN TWP 2,Southeast,Wheeling,336,32,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAU,PRECINCT COLERAIN TWP 2,Southeast,Wheeling,336,32,State House of Representatives,96,R,"Ferguson, Ron",8
+Belmont,AAW,PRECINCT COLERAIN TWP 3,Southeast,Wheeling,887,96,Governor/Lieutenant Governor,,R,"Kasich, John",32
+Belmont,AAW,PRECINCT COLERAIN TWP 3,Southeast,Wheeling,887,96,Attorney General,,R,"DeWine, Mike",33
+Belmont,AAW,PRECINCT COLERAIN TWP 3,Southeast,Wheeling,887,96,Auditor of State,,R,"Yost, Dave",26
+Belmont,AAW,PRECINCT COLERAIN TWP 3,Southeast,Wheeling,887,96,Secretary of State,,R,"Husted, Jon",31
+Belmont,AAW,PRECINCT COLERAIN TWP 3,Southeast,Wheeling,887,96,Treasurer of State,,R,"Mandel, Josh",32
+Belmont,AAW,PRECINCT COLERAIN TWP 3,Southeast,Wheeling,887,96,U.S. House of Representatives,06,R,"Johnson, Bill",30
+Belmont,AAW,PRECINCT COLERAIN TWP 3,Southeast,Wheeling,887,96,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAW,PRECINCT COLERAIN TWP 3,Southeast,Wheeling,887,96,State House of Representatives,96,R,"Ferguson, Ron",28
+Belmont,AAX,PRECINCT COLERAIN TWP 4,Southeast,Wheeling,549,57,Governor/Lieutenant Governor,,R,"Kasich, John",12
+Belmont,AAX,PRECINCT COLERAIN TWP 4,Southeast,Wheeling,549,57,Attorney General,,R,"DeWine, Mike",11
+Belmont,AAX,PRECINCT COLERAIN TWP 4,Southeast,Wheeling,549,57,Auditor of State,,R,"Yost, Dave",11
+Belmont,AAX,PRECINCT COLERAIN TWP 4,Southeast,Wheeling,549,57,Secretary of State,,R,"Husted, Jon",11
+Belmont,AAX,PRECINCT COLERAIN TWP 4,Southeast,Wheeling,549,57,Treasurer of State,,R,"Mandel, Josh",12
+Belmont,AAX,PRECINCT COLERAIN TWP 4,Southeast,Wheeling,549,57,U.S. House of Representatives,06,R,"Johnson, Bill",12
+Belmont,AAX,PRECINCT COLERAIN TWP 4,Southeast,Wheeling,549,57,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAX,PRECINCT COLERAIN TWP 4,Southeast,Wheeling,549,57,State House of Representatives,96,R,"Ferguson, Ron",10
+Belmont,AAY,PRECINCT COLERAIN TWP 5,Southeast,Wheeling,505,53,Governor/Lieutenant Governor,,R,"Kasich, John",16
+Belmont,AAY,PRECINCT COLERAIN TWP 5,Southeast,Wheeling,505,53,Attorney General,,R,"DeWine, Mike",14
+Belmont,AAY,PRECINCT COLERAIN TWP 5,Southeast,Wheeling,505,53,Auditor of State,,R,"Yost, Dave",13
+Belmont,AAY,PRECINCT COLERAIN TWP 5,Southeast,Wheeling,505,53,Secretary of State,,R,"Husted, Jon",13
+Belmont,AAY,PRECINCT COLERAIN TWP 5,Southeast,Wheeling,505,53,Treasurer of State,,R,"Mandel, Josh",13
+Belmont,AAY,PRECINCT COLERAIN TWP 5,Southeast,Wheeling,505,53,U.S. House of Representatives,06,R,"Johnson, Bill",14
+Belmont,AAY,PRECINCT COLERAIN TWP 5,Southeast,Wheeling,505,53,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAY,PRECINCT COLERAIN TWP 5,Southeast,Wheeling,505,53,State House of Representatives,96,R,"Ferguson, Ron",12
+Belmont,AAZ,PRECINCT COLERAIN TWP 6,Southeast,Wheeling,485,44,Governor/Lieutenant Governor,,R,"Kasich, John",4
+Belmont,AAZ,PRECINCT COLERAIN TWP 6,Southeast,Wheeling,485,44,Attorney General,,R,"DeWine, Mike",4
+Belmont,AAZ,PRECINCT COLERAIN TWP 6,Southeast,Wheeling,485,44,Auditor of State,,R,"Yost, Dave",3
+Belmont,AAZ,PRECINCT COLERAIN TWP 6,Southeast,Wheeling,485,44,Secretary of State,,R,"Husted, Jon",3
+Belmont,AAZ,PRECINCT COLERAIN TWP 6,Southeast,Wheeling,485,44,Treasurer of State,,R,"Mandel, Josh",3
+Belmont,AAZ,PRECINCT COLERAIN TWP 6,Southeast,Wheeling,485,44,U.S. House of Representatives,06,R,"Johnson, Bill",3
+Belmont,AAZ,PRECINCT COLERAIN TWP 6,Southeast,Wheeling,485,44,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAZ,PRECINCT COLERAIN TWP 6,Southeast,Wheeling,485,44,State House of Representatives,96,R,"Ferguson, Ron",4
+Belmont,ABC,PRECINCT FLUSHING TWP 1,Southeast,Wheeling,374,53,Governor/Lieutenant Governor,,R,"Kasich, John",18
+Belmont,ABC,PRECINCT FLUSHING TWP 1,Southeast,Wheeling,374,53,Attorney General,,R,"DeWine, Mike",16
+Belmont,ABC,PRECINCT FLUSHING TWP 1,Southeast,Wheeling,374,53,Auditor of State,,R,"Yost, Dave",16
+Belmont,ABC,PRECINCT FLUSHING TWP 1,Southeast,Wheeling,374,53,Secretary of State,,R,"Husted, Jon",15
+Belmont,ABC,PRECINCT FLUSHING TWP 1,Southeast,Wheeling,374,53,Treasurer of State,,R,"Mandel, Josh",14
+Belmont,ABC,PRECINCT FLUSHING TWP 1,Southeast,Wheeling,374,53,U.S. House of Representatives,06,R,"Johnson, Bill",17
+Belmont,ABC,PRECINCT FLUSHING TWP 1,Southeast,Wheeling,374,53,State House of Representatives,95,R,"Thompson, Andy",15
+Belmont,ABC,PRECINCT FLUSHING TWP 1,Southeast,Wheeling,374,53,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ADL,PRECINCT FLUSHING TWP 2,Southeast,Wheeling,93,10,Governor/Lieutenant Governor,,R,"Kasich, John",6
+Belmont,ADL,PRECINCT FLUSHING TWP 2,Southeast,Wheeling,93,10,Attorney General,,R,"DeWine, Mike",5
+Belmont,ADL,PRECINCT FLUSHING TWP 2,Southeast,Wheeling,93,10,Auditor of State,,R,"Yost, Dave",5
+Belmont,ADL,PRECINCT FLUSHING TWP 2,Southeast,Wheeling,93,10,Secretary of State,,R,"Husted, Jon",5
+Belmont,ADL,PRECINCT FLUSHING TWP 2,Southeast,Wheeling,93,10,Treasurer of State,,R,"Mandel, Josh",5
+Belmont,ADL,PRECINCT FLUSHING TWP 2,Southeast,Wheeling,93,10,U.S. House of Representatives,06,R,"Johnson, Bill",6
+Belmont,ADL,PRECINCT FLUSHING TWP 2,Southeast,Wheeling,93,10,State House of Representatives,95,R,"Thompson, Andy",5
+Belmont,ADL,PRECINCT FLUSHING TWP 2,Southeast,Wheeling,93,10,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ABA,PRECINCT FLUSHING VILLAGE,Southeast,Wheeling,618,93,Governor/Lieutenant Governor,,R,"Kasich, John",21
+Belmont,ABA,PRECINCT FLUSHING VILLAGE,Southeast,Wheeling,618,93,Attorney General,,R,"DeWine, Mike",22
+Belmont,ABA,PRECINCT FLUSHING VILLAGE,Southeast,Wheeling,618,93,Auditor of State,,R,"Yost, Dave",17
+Belmont,ABA,PRECINCT FLUSHING VILLAGE,Southeast,Wheeling,618,93,Secretary of State,,R,"Husted, Jon",18
+Belmont,ABA,PRECINCT FLUSHING VILLAGE,Southeast,Wheeling,618,93,Treasurer of State,,R,"Mandel, Josh",18
+Belmont,ABA,PRECINCT FLUSHING VILLAGE,Southeast,Wheeling,618,93,U.S. House of Representatives,06,R,"Johnson, Bill",23
+Belmont,ABA,PRECINCT FLUSHING VILLAGE,Southeast,Wheeling,618,93,State House of Representatives,95,R,"Thompson, Andy",17
+Belmont,ABA,PRECINCT FLUSHING VILLAGE,Southeast,Wheeling,618,93,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ABF,PRECINCT GOSHEN TWP,Southeast,Wheeling,1028,129,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Belmont,ABF,PRECINCT GOSHEN TWP,Southeast,Wheeling,1028,129,Attorney General,,R,"DeWine, Mike",38
+Belmont,ABF,PRECINCT GOSHEN TWP,Southeast,Wheeling,1028,129,Auditor of State,,R,"Yost, Dave",36
+Belmont,ABF,PRECINCT GOSHEN TWP,Southeast,Wheeling,1028,129,Secretary of State,,R,"Husted, Jon",35
+Belmont,ABF,PRECINCT GOSHEN TWP,Southeast,Wheeling,1028,129,Treasurer of State,,R,"Mandel, Josh",38
+Belmont,ABF,PRECINCT GOSHEN TWP,Southeast,Wheeling,1028,129,U.S. House of Representatives,06,R,"Johnson, Bill",38
+Belmont,ABF,PRECINCT GOSHEN TWP,Southeast,Wheeling,1028,129,State House of Representatives,95,R,"Thompson, Andy",34
+Belmont,ABF,PRECINCT GOSHEN TWP,Southeast,Wheeling,1028,129,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ABB,PRECINCT HOLLOWAY VILLAGE,Southeast,Wheeling,229,41,Governor/Lieutenant Governor,,R,"Kasich, John",7
+Belmont,ABB,PRECINCT HOLLOWAY VILLAGE,Southeast,Wheeling,229,41,Attorney General,,R,"DeWine, Mike",8
+Belmont,ABB,PRECINCT HOLLOWAY VILLAGE,Southeast,Wheeling,229,41,Auditor of State,,R,"Yost, Dave",7
+Belmont,ABB,PRECINCT HOLLOWAY VILLAGE,Southeast,Wheeling,229,41,Secretary of State,,R,"Husted, Jon",7
+Belmont,ABB,PRECINCT HOLLOWAY VILLAGE,Southeast,Wheeling,229,41,Treasurer of State,,R,"Mandel, Josh",7
+Belmont,ABB,PRECINCT HOLLOWAY VILLAGE,Southeast,Wheeling,229,41,U.S. House of Representatives,06,R,"Johnson, Bill",8
+Belmont,ABB,PRECINCT HOLLOWAY VILLAGE,Southeast,Wheeling,229,41,State House of Representatives,95,R,"Thompson, Andy",6
+Belmont,ABB,PRECINCT HOLLOWAY VILLAGE,Southeast,Wheeling,229,41,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ABG,PRECINCT KIRKWOOD TWP,Southeast,Wheeling,276,17,Governor/Lieutenant Governor,,R,"Kasich, John",8
+Belmont,ABG,PRECINCT KIRKWOOD TWP,Southeast,Wheeling,276,17,Attorney General,,R,"DeWine, Mike",9
+Belmont,ABG,PRECINCT KIRKWOOD TWP,Southeast,Wheeling,276,17,Auditor of State,,R,"Yost, Dave",9
+Belmont,ABG,PRECINCT KIRKWOOD TWP,Southeast,Wheeling,276,17,Secretary of State,,R,"Husted, Jon",9
+Belmont,ABG,PRECINCT KIRKWOOD TWP,Southeast,Wheeling,276,17,Treasurer of State,,R,"Mandel, Josh",7
+Belmont,ABG,PRECINCT KIRKWOOD TWP,Southeast,Wheeling,276,17,U.S. House of Representatives,06,R,"Johnson, Bill",9
+Belmont,ABG,PRECINCT KIRKWOOD TWP,Southeast,Wheeling,276,17,State House of Representatives,95,R,"Thompson, Andy",6
+Belmont,ABG,PRECINCT KIRKWOOD TWP,Southeast,Wheeling,276,17,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAF,PRECINCT MARTINS FERRY 1-A,Southeast,Wheeling,1315,110,Governor/Lieutenant Governor,,R,"Kasich, John",24
+Belmont,AAF,PRECINCT MARTINS FERRY 1-A,Southeast,Wheeling,1315,110,Attorney General,,R,"DeWine, Mike",28
+Belmont,AAF,PRECINCT MARTINS FERRY 1-A,Southeast,Wheeling,1315,110,Auditor of State,,R,"Yost, Dave",25
+Belmont,AAF,PRECINCT MARTINS FERRY 1-A,Southeast,Wheeling,1315,110,Secretary of State,,R,"Husted, Jon",23
+Belmont,AAF,PRECINCT MARTINS FERRY 1-A,Southeast,Wheeling,1315,110,Treasurer of State,,R,"Mandel, Josh",24
+Belmont,AAF,PRECINCT MARTINS FERRY 1-A,Southeast,Wheeling,1315,110,U.S. House of Representatives,06,R,"Johnson, Bill",26
+Belmont,AAF,PRECINCT MARTINS FERRY 1-A,Southeast,Wheeling,1315,110,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAF,PRECINCT MARTINS FERRY 1-A,Southeast,Wheeling,1315,110,State House of Representatives,96,R,"Ferguson, Ron",21
+Belmont,AAH,PRECINCT MARTINS FERRY 2-A,Southeast,Wheeling,1372,79,Governor/Lieutenant Governor,,R,"Kasich, John",17
+Belmont,AAH,PRECINCT MARTINS FERRY 2-A,Southeast,Wheeling,1372,79,Attorney General,,R,"DeWine, Mike",19
+Belmont,AAH,PRECINCT MARTINS FERRY 2-A,Southeast,Wheeling,1372,79,Auditor of State,,R,"Yost, Dave",19
+Belmont,AAH,PRECINCT MARTINS FERRY 2-A,Southeast,Wheeling,1372,79,Secretary of State,,R,"Husted, Jon",20
+Belmont,AAH,PRECINCT MARTINS FERRY 2-A,Southeast,Wheeling,1372,79,Treasurer of State,,R,"Mandel, Josh",20
+Belmont,AAH,PRECINCT MARTINS FERRY 2-A,Southeast,Wheeling,1372,79,U.S. House of Representatives,06,R,"Johnson, Bill",20
+Belmont,AAH,PRECINCT MARTINS FERRY 2-A,Southeast,Wheeling,1372,79,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAH,PRECINCT MARTINS FERRY 2-A,Southeast,Wheeling,1372,79,State House of Representatives,96,R,"Ferguson, Ron",20
+Belmont,AAJ,PRECINCT MARTINS FERRY 3-A,Southeast,Wheeling,435,25,Governor/Lieutenant Governor,,R,"Kasich, John",4
+Belmont,AAJ,PRECINCT MARTINS FERRY 3-A,Southeast,Wheeling,435,25,Attorney General,,R,"DeWine, Mike",4
+Belmont,AAJ,PRECINCT MARTINS FERRY 3-A,Southeast,Wheeling,435,25,Auditor of State,,R,"Yost, Dave",4
+Belmont,AAJ,PRECINCT MARTINS FERRY 3-A,Southeast,Wheeling,435,25,Secretary of State,,R,"Husted, Jon",4
+Belmont,AAJ,PRECINCT MARTINS FERRY 3-A,Southeast,Wheeling,435,25,Treasurer of State,,R,"Mandel, Josh",4
+Belmont,AAJ,PRECINCT MARTINS FERRY 3-A,Southeast,Wheeling,435,25,U.S. House of Representatives,06,R,"Johnson, Bill",4
+Belmont,AAJ,PRECINCT MARTINS FERRY 3-A,Southeast,Wheeling,435,25,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAJ,PRECINCT MARTINS FERRY 3-A,Southeast,Wheeling,435,25,State House of Representatives,96,R,"Ferguson, Ron",4
+Belmont,AAK,PRECINCT MARTINS FERRY 3-B,Southeast,Wheeling,604,50,Governor/Lieutenant Governor,,R,"Kasich, John",10
+Belmont,AAK,PRECINCT MARTINS FERRY 3-B,Southeast,Wheeling,604,50,Attorney General,,R,"DeWine, Mike",9
+Belmont,AAK,PRECINCT MARTINS FERRY 3-B,Southeast,Wheeling,604,50,Auditor of State,,R,"Yost, Dave",9
+Belmont,AAK,PRECINCT MARTINS FERRY 3-B,Southeast,Wheeling,604,50,Secretary of State,,R,"Husted, Jon",10
+Belmont,AAK,PRECINCT MARTINS FERRY 3-B,Southeast,Wheeling,604,50,Treasurer of State,,R,"Mandel, Josh",9
+Belmont,AAK,PRECINCT MARTINS FERRY 3-B,Southeast,Wheeling,604,50,U.S. House of Representatives,06,R,"Johnson, Bill",9
+Belmont,AAK,PRECINCT MARTINS FERRY 3-B,Southeast,Wheeling,604,50,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAK,PRECINCT MARTINS FERRY 3-B,Southeast,Wheeling,604,50,State House of Representatives,96,R,"Ferguson, Ron",7
+Belmont,AAL,PRECINCT MARTINS FERRY 4-A,Southeast,Wheeling,1252,63,Governor/Lieutenant Governor,,R,"Kasich, John",9
+Belmont,AAL,PRECINCT MARTINS FERRY 4-A,Southeast,Wheeling,1252,63,Attorney General,,R,"DeWine, Mike",9
+Belmont,AAL,PRECINCT MARTINS FERRY 4-A,Southeast,Wheeling,1252,63,Auditor of State,,R,"Yost, Dave",9
+Belmont,AAL,PRECINCT MARTINS FERRY 4-A,Southeast,Wheeling,1252,63,Secretary of State,,R,"Husted, Jon",9
+Belmont,AAL,PRECINCT MARTINS FERRY 4-A,Southeast,Wheeling,1252,63,Treasurer of State,,R,"Mandel, Josh",9
+Belmont,AAL,PRECINCT MARTINS FERRY 4-A,Southeast,Wheeling,1252,63,U.S. House of Representatives,06,R,"Johnson, Bill",9
+Belmont,AAL,PRECINCT MARTINS FERRY 4-A,Southeast,Wheeling,1252,63,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,AAL,PRECINCT MARTINS FERRY 4-A,Southeast,Wheeling,1252,63,State House of Representatives,96,R,"Ferguson, Ron",9
+Belmont,ABN,PRECINCT MEAD TWP DILLIES,Southeast,Wheeling,1110,185,Governor/Lieutenant Governor,,R,"Kasich, John",41
+Belmont,ABN,PRECINCT MEAD TWP DILLIES,Southeast,Wheeling,1110,185,Attorney General,,R,"DeWine, Mike",37
+Belmont,ABN,PRECINCT MEAD TWP DILLIES,Southeast,Wheeling,1110,185,Auditor of State,,R,"Yost, Dave",37
+Belmont,ABN,PRECINCT MEAD TWP DILLIES,Southeast,Wheeling,1110,185,Secretary of State,,R,"Husted, Jon",35
+Belmont,ABN,PRECINCT MEAD TWP DILLIES,Southeast,Wheeling,1110,185,Treasurer of State,,R,"Mandel, Josh",38
+Belmont,ABN,PRECINCT MEAD TWP DILLIES,Southeast,Wheeling,1110,185,U.S. House of Representatives,06,R,"Johnson, Bill",41
+Belmont,ABN,PRECINCT MEAD TWP DILLIES,Southeast,Wheeling,1110,185,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABN,PRECINCT MEAD TWP DILLIES,Southeast,Wheeling,1110,185,State House of Representatives,96,R,"Ferguson, Ron",36
+Belmont,ABP,PRECINCT MEAD TWP MEAD SHADYSIDE,Southeast,Wheeling,567,85,Governor/Lieutenant Governor,,R,"Kasich, John",17
+Belmont,ABP,PRECINCT MEAD TWP MEAD SHADYSIDE,Southeast,Wheeling,567,85,Attorney General,,R,"DeWine, Mike",16
+Belmont,ABP,PRECINCT MEAD TWP MEAD SHADYSIDE,Southeast,Wheeling,567,85,Auditor of State,,R,"Yost, Dave",14
+Belmont,ABP,PRECINCT MEAD TWP MEAD SHADYSIDE,Southeast,Wheeling,567,85,Secretary of State,,R,"Husted, Jon",10
+Belmont,ABP,PRECINCT MEAD TWP MEAD SHADYSIDE,Southeast,Wheeling,567,85,Treasurer of State,,R,"Mandel, Josh",11
+Belmont,ABP,PRECINCT MEAD TWP MEAD SHADYSIDE,Southeast,Wheeling,567,85,U.S. House of Representatives,06,R,"Johnson, Bill",17
+Belmont,ABP,PRECINCT MEAD TWP MEAD SHADYSIDE,Southeast,Wheeling,567,85,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABP,PRECINCT MEAD TWP MEAD SHADYSIDE,Southeast,Wheeling,567,85,State House of Representatives,96,R,"Ferguson, Ron",11
+Belmont,ACU,PRECINCT MORRISTOWN VILLAGE,Southeast,Wheeling,190,35,Governor/Lieutenant Governor,,R,"Kasich, John",12
+Belmont,ACU,PRECINCT MORRISTOWN VILLAGE,Southeast,Wheeling,190,35,Attorney General,,R,"DeWine, Mike",12
+Belmont,ACU,PRECINCT MORRISTOWN VILLAGE,Southeast,Wheeling,190,35,Auditor of State,,R,"Yost, Dave",11
+Belmont,ACU,PRECINCT MORRISTOWN VILLAGE,Southeast,Wheeling,190,35,Secretary of State,,R,"Husted, Jon",12
+Belmont,ACU,PRECINCT MORRISTOWN VILLAGE,Southeast,Wheeling,190,35,Treasurer of State,,R,"Mandel, Josh",11
+Belmont,ACU,PRECINCT MORRISTOWN VILLAGE,Southeast,Wheeling,190,35,U.S. House of Representatives,06,R,"Johnson, Bill",13
+Belmont,ACU,PRECINCT MORRISTOWN VILLAGE,Southeast,Wheeling,190,35,State House of Representatives,95,R,"Thompson, Andy",10
+Belmont,ACU,PRECINCT MORRISTOWN VILLAGE,Southeast,Wheeling,190,35,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ABZ,PRECINCT PEASE TWP 1,Southeast,Wheeling,618,71,Governor/Lieutenant Governor,,R,"Kasich, John",18
+Belmont,ABZ,PRECINCT PEASE TWP 1,Southeast,Wheeling,618,71,Attorney General,,R,"DeWine, Mike",21
+Belmont,ABZ,PRECINCT PEASE TWP 1,Southeast,Wheeling,618,71,Auditor of State,,R,"Yost, Dave",21
+Belmont,ABZ,PRECINCT PEASE TWP 1,Southeast,Wheeling,618,71,Secretary of State,,R,"Husted, Jon",19
+Belmont,ABZ,PRECINCT PEASE TWP 1,Southeast,Wheeling,618,71,Treasurer of State,,R,"Mandel, Josh",20
+Belmont,ABZ,PRECINCT PEASE TWP 1,Southeast,Wheeling,618,71,U.S. House of Representatives,06,R,"Johnson, Bill",20
+Belmont,ABZ,PRECINCT PEASE TWP 1,Southeast,Wheeling,618,71,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABZ,PRECINCT PEASE TWP 1,Southeast,Wheeling,618,71,State House of Representatives,96,R,"Ferguson, Ron",20
+Belmont,ADW,PRECINCT PEASE TWP 2,Southeast,Wheeling,232,35,Governor/Lieutenant Governor,,R,"Kasich, John",4
+Belmont,ADW,PRECINCT PEASE TWP 2,Southeast,Wheeling,232,35,Attorney General,,R,"DeWine, Mike",5
+Belmont,ADW,PRECINCT PEASE TWP 2,Southeast,Wheeling,232,35,Auditor of State,,R,"Yost, Dave",4
+Belmont,ADW,PRECINCT PEASE TWP 2,Southeast,Wheeling,232,35,Secretary of State,,R,"Husted, Jon",4
+Belmont,ADW,PRECINCT PEASE TWP 2,Southeast,Wheeling,232,35,Treasurer of State,,R,"Mandel, Josh",4
+Belmont,ADW,PRECINCT PEASE TWP 2,Southeast,Wheeling,232,35,U.S. House of Representatives,06,R,"Johnson, Bill",4
+Belmont,ADW,PRECINCT PEASE TWP 2,Southeast,Wheeling,232,35,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ADW,PRECINCT PEASE TWP 2,Southeast,Wheeling,232,35,State House of Representatives,96,R,"Ferguson, Ron",4
+Belmont,ABV,PRECINCT PEASE TWP BLAINE WOLFHURST,Southeast,Wheeling,969,204,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Belmont,ABV,PRECINCT PEASE TWP BLAINE WOLFHURST,Southeast,Wheeling,969,204,Attorney General,,R,"DeWine, Mike",34
+Belmont,ABV,PRECINCT PEASE TWP BLAINE WOLFHURST,Southeast,Wheeling,969,204,Auditor of State,,R,"Yost, Dave",29
+Belmont,ABV,PRECINCT PEASE TWP BLAINE WOLFHURST,Southeast,Wheeling,969,204,Secretary of State,,R,"Husted, Jon",27
+Belmont,ABV,PRECINCT PEASE TWP BLAINE WOLFHURST,Southeast,Wheeling,969,204,Treasurer of State,,R,"Mandel, Josh",29
+Belmont,ABV,PRECINCT PEASE TWP BLAINE WOLFHURST,Southeast,Wheeling,969,204,U.S. House of Representatives,06,R,"Johnson, Bill",28
+Belmont,ABV,PRECINCT PEASE TWP BLAINE WOLFHURST,Southeast,Wheeling,969,204,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABV,PRECINCT PEASE TWP BLAINE WOLFHURST,Southeast,Wheeling,969,204,State House of Representatives,96,R,"Ferguson, Ron",27
+Belmont,ABW,PRECINCT PEASE TWP BOYDSVILLE,Southeast,Wheeling,1006,109,Governor/Lieutenant Governor,,R,"Kasich, John",19
+Belmont,ABW,PRECINCT PEASE TWP BOYDSVILLE,Southeast,Wheeling,1006,109,Attorney General,,R,"DeWine, Mike",17
+Belmont,ABW,PRECINCT PEASE TWP BOYDSVILLE,Southeast,Wheeling,1006,109,Auditor of State,,R,"Yost, Dave",14
+Belmont,ABW,PRECINCT PEASE TWP BOYDSVILLE,Southeast,Wheeling,1006,109,Secretary of State,,R,"Husted, Jon",14
+Belmont,ABW,PRECINCT PEASE TWP BOYDSVILLE,Southeast,Wheeling,1006,109,Treasurer of State,,R,"Mandel, Josh",16
+Belmont,ABW,PRECINCT PEASE TWP BOYDSVILLE,Southeast,Wheeling,1006,109,U.S. House of Representatives,06,R,"Johnson, Bill",18
+Belmont,ABW,PRECINCT PEASE TWP BOYDSVILLE,Southeast,Wheeling,1006,109,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABW,PRECINCT PEASE TWP BOYDSVILLE,Southeast,Wheeling,1006,109,State House of Representatives,96,R,"Ferguson, Ron",16
+Belmont,ABX,PRECINCT PEASE TWP SUNSET HTS,Southeast,Wheeling,347,46,Governor/Lieutenant Governor,,R,"Kasich, John",12
+Belmont,ABX,PRECINCT PEASE TWP SUNSET HTS,Southeast,Wheeling,347,46,Attorney General,,R,"DeWine, Mike",15
+Belmont,ABX,PRECINCT PEASE TWP SUNSET HTS,Southeast,Wheeling,347,46,Auditor of State,,R,"Yost, Dave",14
+Belmont,ABX,PRECINCT PEASE TWP SUNSET HTS,Southeast,Wheeling,347,46,Secretary of State,,R,"Husted, Jon",13
+Belmont,ABX,PRECINCT PEASE TWP SUNSET HTS,Southeast,Wheeling,347,46,Treasurer of State,,R,"Mandel, Josh",13
+Belmont,ABX,PRECINCT PEASE TWP SUNSET HTS,Southeast,Wheeling,347,46,U.S. House of Representatives,06,R,"Johnson, Bill",14
+Belmont,ABX,PRECINCT PEASE TWP SUNSET HTS,Southeast,Wheeling,347,46,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABX,PRECINCT PEASE TWP SUNSET HTS,Southeast,Wheeling,347,46,State House of Representatives,96,R,"Ferguson, Ron",14
+Belmont,ADI,PRECINCT POWHATAN POINT VILLAGE,Southeast,Wheeling,1164,133,Governor/Lieutenant Governor,,R,"Kasich, John",24
+Belmont,ADI,PRECINCT POWHATAN POINT VILLAGE,Southeast,Wheeling,1164,133,Attorney General,,R,"DeWine, Mike",24
+Belmont,ADI,PRECINCT POWHATAN POINT VILLAGE,Southeast,Wheeling,1164,133,Auditor of State,,R,"Yost, Dave",19
+Belmont,ADI,PRECINCT POWHATAN POINT VILLAGE,Southeast,Wheeling,1164,133,Secretary of State,,R,"Husted, Jon",19
+Belmont,ADI,PRECINCT POWHATAN POINT VILLAGE,Southeast,Wheeling,1164,133,Treasurer of State,,R,"Mandel, Josh",15
+Belmont,ADI,PRECINCT POWHATAN POINT VILLAGE,Southeast,Wheeling,1164,133,U.S. House of Representatives,06,R,"Johnson, Bill",20
+Belmont,ADI,PRECINCT POWHATAN POINT VILLAGE,Southeast,Wheeling,1164,133,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ADI,PRECINCT POWHATAN POINT VILLAGE,Southeast,Wheeling,1164,133,State House of Representatives,96,R,"Ferguson, Ron",20
+Belmont,ACF,PRECINCT PULTNEY TWP 1,Southeast,Wheeling,863,278,Governor/Lieutenant Governor,,R,"Kasich, John",60
+Belmont,ACF,PRECINCT PULTNEY TWP 1,Southeast,Wheeling,863,278,Attorney General,,R,"DeWine, Mike",57
+Belmont,ACF,PRECINCT PULTNEY TWP 1,Southeast,Wheeling,863,278,Auditor of State,,R,"Yost, Dave",46
+Belmont,ACF,PRECINCT PULTNEY TWP 1,Southeast,Wheeling,863,278,Secretary of State,,R,"Husted, Jon",47
+Belmont,ACF,PRECINCT PULTNEY TWP 1,Southeast,Wheeling,863,278,Treasurer of State,,R,"Mandel, Josh",50
+Belmont,ACF,PRECINCT PULTNEY TWP 1,Southeast,Wheeling,863,278,U.S. House of Representatives,06,R,"Johnson, Bill",58
+Belmont,ACF,PRECINCT PULTNEY TWP 1,Southeast,Wheeling,863,278,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ACF,PRECINCT PULTNEY TWP 1,Southeast,Wheeling,863,278,State House of Representatives,96,R,"Ferguson, Ron",41
+Belmont,ACH,PRECINCT PULTNEY TWP 2,Southeast,Wheeling,898,276,Governor/Lieutenant Governor,,R,"Kasich, John",36
+Belmont,ACH,PRECINCT PULTNEY TWP 2,Southeast,Wheeling,898,276,Attorney General,,R,"DeWine, Mike",35
+Belmont,ACH,PRECINCT PULTNEY TWP 2,Southeast,Wheeling,898,276,Auditor of State,,R,"Yost, Dave",32
+Belmont,ACH,PRECINCT PULTNEY TWP 2,Southeast,Wheeling,898,276,Secretary of State,,R,"Husted, Jon",30
+Belmont,ACH,PRECINCT PULTNEY TWP 2,Southeast,Wheeling,898,276,Treasurer of State,,R,"Mandel, Josh",34
+Belmont,ACH,PRECINCT PULTNEY TWP 2,Southeast,Wheeling,898,276,U.S. House of Representatives,06,R,"Johnson, Bill",35
+Belmont,ACH,PRECINCT PULTNEY TWP 2,Southeast,Wheeling,898,276,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ACH,PRECINCT PULTNEY TWP 2,Southeast,Wheeling,898,276,State House of Representatives,96,R,"Ferguson, Ron",29
+Belmont,ACE,PRECINCT PULTNEY TWP 4 NEFFS,Southeast,Wheeling,1231,352,Governor/Lieutenant Governor,,R,"Kasich, John",53
+Belmont,ACE,PRECINCT PULTNEY TWP 4 NEFFS,Southeast,Wheeling,1231,352,Attorney General,,R,"DeWine, Mike",55
+Belmont,ACE,PRECINCT PULTNEY TWP 4 NEFFS,Southeast,Wheeling,1231,352,Auditor of State,,R,"Yost, Dave",49
+Belmont,ACE,PRECINCT PULTNEY TWP 4 NEFFS,Southeast,Wheeling,1231,352,Secretary of State,,R,"Husted, Jon",46
+Belmont,ACE,PRECINCT PULTNEY TWP 4 NEFFS,Southeast,Wheeling,1231,352,Treasurer of State,,R,"Mandel, Josh",49
+Belmont,ACE,PRECINCT PULTNEY TWP 4 NEFFS,Southeast,Wheeling,1231,352,U.S. House of Representatives,06,R,"Johnson, Bill",55
+Belmont,ACE,PRECINCT PULTNEY TWP 4 NEFFS,Southeast,Wheeling,1231,352,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ACE,PRECINCT PULTNEY TWP 4 NEFFS,Southeast,Wheeling,1231,352,State House of Representatives,96,R,"Ferguson, Ron",42
+Belmont,ACD,PRECINCT PULTNEY TWP AVONDALE,Southeast,Wheeling,243,59,Governor/Lieutenant Governor,,R,"Kasich, John",8
+Belmont,ACD,PRECINCT PULTNEY TWP AVONDALE,Southeast,Wheeling,243,59,Attorney General,,R,"DeWine, Mike",8
+Belmont,ACD,PRECINCT PULTNEY TWP AVONDALE,Southeast,Wheeling,243,59,Auditor of State,,R,"Yost, Dave",7
+Belmont,ACD,PRECINCT PULTNEY TWP AVONDALE,Southeast,Wheeling,243,59,Secretary of State,,R,"Husted, Jon",6
+Belmont,ACD,PRECINCT PULTNEY TWP AVONDALE,Southeast,Wheeling,243,59,Treasurer of State,,R,"Mandel, Josh",7
+Belmont,ACD,PRECINCT PULTNEY TWP AVONDALE,Southeast,Wheeling,243,59,U.S. House of Representatives,06,R,"Johnson, Bill",8
+Belmont,ACD,PRECINCT PULTNEY TWP AVONDALE,Southeast,Wheeling,243,59,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ACD,PRECINCT PULTNEY TWP AVONDALE,Southeast,Wheeling,243,59,State House of Representatives,96,R,"Ferguson, Ron",6
+Belmont,ACJ,PRECINCT RICHLAND TWP 1 BANNOCK,Southeast,Wheeling,648,73,Governor/Lieutenant Governor,,R,"Kasich, John",25
+Belmont,ACJ,PRECINCT RICHLAND TWP 1 BANNOCK,Southeast,Wheeling,648,73,Attorney General,,R,"DeWine, Mike",26
+Belmont,ACJ,PRECINCT RICHLAND TWP 1 BANNOCK,Southeast,Wheeling,648,73,Auditor of State,,R,"Yost, Dave",24
+Belmont,ACJ,PRECINCT RICHLAND TWP 1 BANNOCK,Southeast,Wheeling,648,73,Secretary of State,,R,"Husted, Jon",26
+Belmont,ACJ,PRECINCT RICHLAND TWP 1 BANNOCK,Southeast,Wheeling,648,73,Treasurer of State,,R,"Mandel, Josh",24
+Belmont,ACJ,PRECINCT RICHLAND TWP 1 BANNOCK,Southeast,Wheeling,648,73,U.S. House of Representatives,06,R,"Johnson, Bill",21
+Belmont,ACJ,PRECINCT RICHLAND TWP 1 BANNOCK,Southeast,Wheeling,648,73,State House of Representatives,95,R,"Thompson, Andy",21
+Belmont,ACJ,PRECINCT RICHLAND TWP 1 BANNOCK,Southeast,Wheeling,648,73,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACK,PRECINCT RICHLAND TWP 2,Southeast,Wheeling,804,70,Governor/Lieutenant Governor,,R,"Kasich, John",18
+Belmont,ACK,PRECINCT RICHLAND TWP 2,Southeast,Wheeling,804,70,Attorney General,,R,"DeWine, Mike",18
+Belmont,ACK,PRECINCT RICHLAND TWP 2,Southeast,Wheeling,804,70,Auditor of State,,R,"Yost, Dave",14
+Belmont,ACK,PRECINCT RICHLAND TWP 2,Southeast,Wheeling,804,70,Secretary of State,,R,"Husted, Jon",15
+Belmont,ACK,PRECINCT RICHLAND TWP 2,Southeast,Wheeling,804,70,Treasurer of State,,R,"Mandel, Josh",17
+Belmont,ACK,PRECINCT RICHLAND TWP 2,Southeast,Wheeling,804,70,U.S. House of Representatives,06,R,"Johnson, Bill",17
+Belmont,ACK,PRECINCT RICHLAND TWP 2,Southeast,Wheeling,804,70,State House of Representatives,95,R,"Thompson, Andy",16
+Belmont,ACK,PRECINCT RICHLAND TWP 2,Southeast,Wheeling,804,70,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACL,PRECINCT RICHLAND TWP 3,Southeast,Wheeling,721,64,Governor/Lieutenant Governor,,R,"Kasich, John",24
+Belmont,ACL,PRECINCT RICHLAND TWP 3,Southeast,Wheeling,721,64,Attorney General,,R,"DeWine, Mike",23
+Belmont,ACL,PRECINCT RICHLAND TWP 3,Southeast,Wheeling,721,64,Auditor of State,,R,"Yost, Dave",25
+Belmont,ACL,PRECINCT RICHLAND TWP 3,Southeast,Wheeling,721,64,Secretary of State,,R,"Husted, Jon",24
+Belmont,ACL,PRECINCT RICHLAND TWP 3,Southeast,Wheeling,721,64,Treasurer of State,,R,"Mandel, Josh",23
+Belmont,ACL,PRECINCT RICHLAND TWP 3,Southeast,Wheeling,721,64,U.S. House of Representatives,06,R,"Johnson, Bill",26
+Belmont,ACL,PRECINCT RICHLAND TWP 3,Southeast,Wheeling,721,64,State House of Representatives,95,R,"Thompson, Andy",22
+Belmont,ACL,PRECINCT RICHLAND TWP 3,Southeast,Wheeling,721,64,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACM,PRECINCT RICHLAND TWP 4 LLOYDSVILLE,Southeast,Wheeling,774,105,Governor/Lieutenant Governor,,R,"Kasich, John",53
+Belmont,ACM,PRECINCT RICHLAND TWP 4 LLOYDSVILLE,Southeast,Wheeling,774,105,Attorney General,,R,"DeWine, Mike",50
+Belmont,ACM,PRECINCT RICHLAND TWP 4 LLOYDSVILLE,Southeast,Wheeling,774,105,Auditor of State,,R,"Yost, Dave",47
+Belmont,ACM,PRECINCT RICHLAND TWP 4 LLOYDSVILLE,Southeast,Wheeling,774,105,Secretary of State,,R,"Husted, Jon",49
+Belmont,ACM,PRECINCT RICHLAND TWP 4 LLOYDSVILLE,Southeast,Wheeling,774,105,Treasurer of State,,R,"Mandel, Josh",51
+Belmont,ACM,PRECINCT RICHLAND TWP 4 LLOYDSVILLE,Southeast,Wheeling,774,105,U.S. House of Representatives,06,R,"Johnson, Bill",51
+Belmont,ACM,PRECINCT RICHLAND TWP 4 LLOYDSVILLE,Southeast,Wheeling,774,105,State House of Representatives,95,R,"Thompson, Andy",46
+Belmont,ACM,PRECINCT RICHLAND TWP 4 LLOYDSVILLE,Southeast,Wheeling,774,105,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACN,PRECINCT RICHLAND TWP 5,Southeast,Wheeling,836,120,Governor/Lieutenant Governor,,R,"Kasich, John",54
+Belmont,ACN,PRECINCT RICHLAND TWP 5,Southeast,Wheeling,836,120,Attorney General,,R,"DeWine, Mike",53
+Belmont,ACN,PRECINCT RICHLAND TWP 5,Southeast,Wheeling,836,120,Auditor of State,,R,"Yost, Dave",50
+Belmont,ACN,PRECINCT RICHLAND TWP 5,Southeast,Wheeling,836,120,Secretary of State,,R,"Husted, Jon",52
+Belmont,ACN,PRECINCT RICHLAND TWP 5,Southeast,Wheeling,836,120,Treasurer of State,,R,"Mandel, Josh",54
+Belmont,ACN,PRECINCT RICHLAND TWP 5,Southeast,Wheeling,836,120,U.S. House of Representatives,06,R,"Johnson, Bill",53
+Belmont,ACN,PRECINCT RICHLAND TWP 5,Southeast,Wheeling,836,120,State House of Representatives,95,R,"Thompson, Andy",47
+Belmont,ACN,PRECINCT RICHLAND TWP 5,Southeast,Wheeling,836,120,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACO,PRECINCT RICHLAND TWP 6,Southeast,Wheeling,1030,129,Governor/Lieutenant Governor,,R,"Kasich, John",55
+Belmont,ACO,PRECINCT RICHLAND TWP 6,Southeast,Wheeling,1030,129,Attorney General,,R,"DeWine, Mike",59
+Belmont,ACO,PRECINCT RICHLAND TWP 6,Southeast,Wheeling,1030,129,Auditor of State,,R,"Yost, Dave",56
+Belmont,ACO,PRECINCT RICHLAND TWP 6,Southeast,Wheeling,1030,129,Secretary of State,,R,"Husted, Jon",57
+Belmont,ACO,PRECINCT RICHLAND TWP 6,Southeast,Wheeling,1030,129,Treasurer of State,,R,"Mandel, Josh",58
+Belmont,ACO,PRECINCT RICHLAND TWP 6,Southeast,Wheeling,1030,129,U.S. House of Representatives,06,R,"Johnson, Bill",61
+Belmont,ACO,PRECINCT RICHLAND TWP 6,Southeast,Wheeling,1030,129,State House of Representatives,95,R,"Thompson, Andy",58
+Belmont,ACO,PRECINCT RICHLAND TWP 6,Southeast,Wheeling,1030,129,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACP,PRECINCT RICHLAND TWP 7 GLENCOE,Southeast,Wheeling,587,107,Governor/Lieutenant Governor,,R,"Kasich, John",45
+Belmont,ACP,PRECINCT RICHLAND TWP 7 GLENCOE,Southeast,Wheeling,587,107,Attorney General,,R,"DeWine, Mike",45
+Belmont,ACP,PRECINCT RICHLAND TWP 7 GLENCOE,Southeast,Wheeling,587,107,Auditor of State,,R,"Yost, Dave",41
+Belmont,ACP,PRECINCT RICHLAND TWP 7 GLENCOE,Southeast,Wheeling,587,107,Secretary of State,,R,"Husted, Jon",39
+Belmont,ACP,PRECINCT RICHLAND TWP 7 GLENCOE,Southeast,Wheeling,587,107,Treasurer of State,,R,"Mandel, Josh",44
+Belmont,ACP,PRECINCT RICHLAND TWP 7 GLENCOE,Southeast,Wheeling,587,107,U.S. House of Representatives,06,R,"Johnson, Bill",47
+Belmont,ACP,PRECINCT RICHLAND TWP 7 GLENCOE,Southeast,Wheeling,587,107,State House of Representatives,95,R,"Thompson, Andy",42
+Belmont,ACP,PRECINCT RICHLAND TWP 7 GLENCOE,Southeast,Wheeling,587,107,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ABH,PRECINCT SHADYSIDE VILLAGE 1,Southeast,Wheeling,932,102,Governor/Lieutenant Governor,,R,"Kasich, John",26
+Belmont,ABH,PRECINCT SHADYSIDE VILLAGE 1,Southeast,Wheeling,932,102,Attorney General,,R,"DeWine, Mike",26
+Belmont,ABH,PRECINCT SHADYSIDE VILLAGE 1,Southeast,Wheeling,932,102,Auditor of State,,R,"Yost, Dave",27
+Belmont,ABH,PRECINCT SHADYSIDE VILLAGE 1,Southeast,Wheeling,932,102,Secretary of State,,R,"Husted, Jon",26
+Belmont,ABH,PRECINCT SHADYSIDE VILLAGE 1,Southeast,Wheeling,932,102,Treasurer of State,,R,"Mandel, Josh",27
+Belmont,ABH,PRECINCT SHADYSIDE VILLAGE 1,Southeast,Wheeling,932,102,U.S. House of Representatives,06,R,"Johnson, Bill",26
+Belmont,ABH,PRECINCT SHADYSIDE VILLAGE 1,Southeast,Wheeling,932,102,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABH,PRECINCT SHADYSIDE VILLAGE 1,Southeast,Wheeling,932,102,State House of Representatives,96,R,"Ferguson, Ron",25
+Belmont,ABI,PRECINCT SHADYSIDE VILLAGE 2,Southeast,Wheeling,1101,135,Governor/Lieutenant Governor,,R,"Kasich, John",35
+Belmont,ABI,PRECINCT SHADYSIDE VILLAGE 2,Southeast,Wheeling,1101,135,Attorney General,,R,"DeWine, Mike",39
+Belmont,ABI,PRECINCT SHADYSIDE VILLAGE 2,Southeast,Wheeling,1101,135,Auditor of State,,R,"Yost, Dave",37
+Belmont,ABI,PRECINCT SHADYSIDE VILLAGE 2,Southeast,Wheeling,1101,135,Secretary of State,,R,"Husted, Jon",39
+Belmont,ABI,PRECINCT SHADYSIDE VILLAGE 2,Southeast,Wheeling,1101,135,Treasurer of State,,R,"Mandel, Josh",36
+Belmont,ABI,PRECINCT SHADYSIDE VILLAGE 2,Southeast,Wheeling,1101,135,U.S. House of Representatives,06,R,"Johnson, Bill",36
+Belmont,ABI,PRECINCT SHADYSIDE VILLAGE 2,Southeast,Wheeling,1101,135,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABI,PRECINCT SHADYSIDE VILLAGE 2,Southeast,Wheeling,1101,135,State House of Representatives,96,R,"Ferguson, Ron",34
+Belmont,ABL,PRECINCT SHADYSIDE VILLAGE 3,Southeast,Wheeling,816,86,Governor/Lieutenant Governor,,R,"Kasich, John",11
+Belmont,ABL,PRECINCT SHADYSIDE VILLAGE 3,Southeast,Wheeling,816,86,Attorney General,,R,"DeWine, Mike",13
+Belmont,ABL,PRECINCT SHADYSIDE VILLAGE 3,Southeast,Wheeling,816,86,Auditor of State,,R,"Yost, Dave",10
+Belmont,ABL,PRECINCT SHADYSIDE VILLAGE 3,Southeast,Wheeling,816,86,Secretary of State,,R,"Husted, Jon",14
+Belmont,ABL,PRECINCT SHADYSIDE VILLAGE 3,Southeast,Wheeling,816,86,Treasurer of State,,R,"Mandel, Josh",10
+Belmont,ABL,PRECINCT SHADYSIDE VILLAGE 3,Southeast,Wheeling,816,86,U.S. House of Representatives,06,R,"Johnson, Bill",11
+Belmont,ABL,PRECINCT SHADYSIDE VILLAGE 3,Southeast,Wheeling,816,86,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABL,PRECINCT SHADYSIDE VILLAGE 3,Southeast,Wheeling,816,86,State House of Representatives,96,R,"Ferguson, Ron",12
+Belmont,ACQ,PRECINCT SMITH TWP CENTERVILLE WARNOCK,Southeast,Wheeling,1019,175,Governor/Lieutenant Governor,,R,"Kasich, John",63
+Belmont,ACQ,PRECINCT SMITH TWP CENTERVILLE WARNOCK,Southeast,Wheeling,1019,175,Attorney General,,R,"DeWine, Mike",60
+Belmont,ACQ,PRECINCT SMITH TWP CENTERVILLE WARNOCK,Southeast,Wheeling,1019,175,Auditor of State,,R,"Yost, Dave",53
+Belmont,ACQ,PRECINCT SMITH TWP CENTERVILLE WARNOCK,Southeast,Wheeling,1019,175,Secretary of State,,R,"Husted, Jon",54
+Belmont,ACQ,PRECINCT SMITH TWP CENTERVILLE WARNOCK,Southeast,Wheeling,1019,175,Treasurer of State,,R,"Mandel, Josh",59
+Belmont,ACQ,PRECINCT SMITH TWP CENTERVILLE WARNOCK,Southeast,Wheeling,1019,175,U.S. House of Representatives,06,R,"Johnson, Bill",55
+Belmont,ACQ,PRECINCT SMITH TWP CENTERVILLE WARNOCK,Southeast,Wheeling,1019,175,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ACQ,PRECINCT SMITH TWP CENTERVILLE WARNOCK,Southeast,Wheeling,1019,175,State House of Representatives,96,R,"Ferguson, Ron",46
+Belmont,ACS,PRECINCT SOMERSET TWP SOMERTON,Southeast,Wheeling,546,68,Governor/Lieutenant Governor,,R,"Kasich, John",27
+Belmont,ACS,PRECINCT SOMERSET TWP SOMERTON,Southeast,Wheeling,546,68,Attorney General,,R,"DeWine, Mike",27
+Belmont,ACS,PRECINCT SOMERSET TWP SOMERTON,Southeast,Wheeling,546,68,Auditor of State,,R,"Yost, Dave",24
+Belmont,ACS,PRECINCT SOMERSET TWP SOMERTON,Southeast,Wheeling,546,68,Secretary of State,,R,"Husted, Jon",25
+Belmont,ACS,PRECINCT SOMERSET TWP SOMERTON,Southeast,Wheeling,546,68,Treasurer of State,,R,"Mandel, Josh",24
+Belmont,ACS,PRECINCT SOMERSET TWP SOMERTON,Southeast,Wheeling,546,68,U.S. House of Representatives,06,R,"Johnson, Bill",26
+Belmont,ACS,PRECINCT SOMERSET TWP SOMERTON,Southeast,Wheeling,546,68,State House of Representatives,95,R,"Thompson, Andy",24
+Belmont,ACS,PRECINCT SOMERSET TWP SOMERTON,Southeast,Wheeling,546,68,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACT,PRECINCT SOMERSET TWP TEMPERANCEVILLE,Southeast,Wheeling,252,18,Governor/Lieutenant Governor,,R,"Kasich, John",4
+Belmont,ACT,PRECINCT SOMERSET TWP TEMPERANCEVILLE,Southeast,Wheeling,252,18,Attorney General,,R,"DeWine, Mike",5
+Belmont,ACT,PRECINCT SOMERSET TWP TEMPERANCEVILLE,Southeast,Wheeling,252,18,Auditor of State,,R,"Yost, Dave",4
+Belmont,ACT,PRECINCT SOMERSET TWP TEMPERANCEVILLE,Southeast,Wheeling,252,18,Secretary of State,,R,"Husted, Jon",5
+Belmont,ACT,PRECINCT SOMERSET TWP TEMPERANCEVILLE,Southeast,Wheeling,252,18,Treasurer of State,,R,"Mandel, Josh",5
+Belmont,ACT,PRECINCT SOMERSET TWP TEMPERANCEVILLE,Southeast,Wheeling,252,18,U.S. House of Representatives,06,R,"Johnson, Bill",4
+Belmont,ACT,PRECINCT SOMERSET TWP TEMPERANCEVILLE,Southeast,Wheeling,252,18,State House of Representatives,95,R,"Thompson, Andy",4
+Belmont,ACT,PRECINCT SOMERSET TWP TEMPERANCEVILLE,Southeast,Wheeling,252,18,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAN,PRECINCT ST CLAIRSVILLE 1-A,Southeast,Wheeling,698,107,Governor/Lieutenant Governor,,R,"Kasich, John",38
+Belmont,AAN,PRECINCT ST CLAIRSVILLE 1-A,Southeast,Wheeling,698,107,Attorney General,,R,"DeWine, Mike",36
+Belmont,AAN,PRECINCT ST CLAIRSVILLE 1-A,Southeast,Wheeling,698,107,Auditor of State,,R,"Yost, Dave",32
+Belmont,AAN,PRECINCT ST CLAIRSVILLE 1-A,Southeast,Wheeling,698,107,Secretary of State,,R,"Husted, Jon",33
+Belmont,AAN,PRECINCT ST CLAIRSVILLE 1-A,Southeast,Wheeling,698,107,Treasurer of State,,R,"Mandel, Josh",35
+Belmont,AAN,PRECINCT ST CLAIRSVILLE 1-A,Southeast,Wheeling,698,107,U.S. House of Representatives,06,R,"Johnson, Bill",38
+Belmont,AAN,PRECINCT ST CLAIRSVILLE 1-A,Southeast,Wheeling,698,107,State House of Representatives,95,R,"Thompson, Andy",34
+Belmont,AAN,PRECINCT ST CLAIRSVILLE 1-A,Southeast,Wheeling,698,107,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAO,PRECINCT ST CLAIRSVILLE 2-A,Southeast,Wheeling,574,57,Governor/Lieutenant Governor,,R,"Kasich, John",20
+Belmont,AAO,PRECINCT ST CLAIRSVILLE 2-A,Southeast,Wheeling,574,57,Attorney General,,R,"DeWine, Mike",20
+Belmont,AAO,PRECINCT ST CLAIRSVILLE 2-A,Southeast,Wheeling,574,57,Auditor of State,,R,"Yost, Dave",19
+Belmont,AAO,PRECINCT ST CLAIRSVILLE 2-A,Southeast,Wheeling,574,57,Secretary of State,,R,"Husted, Jon",19
+Belmont,AAO,PRECINCT ST CLAIRSVILLE 2-A,Southeast,Wheeling,574,57,Treasurer of State,,R,"Mandel, Josh",21
+Belmont,AAO,PRECINCT ST CLAIRSVILLE 2-A,Southeast,Wheeling,574,57,U.S. House of Representatives,06,R,"Johnson, Bill",22
+Belmont,AAO,PRECINCT ST CLAIRSVILLE 2-A,Southeast,Wheeling,574,57,State House of Representatives,95,R,"Thompson, Andy",20
+Belmont,AAO,PRECINCT ST CLAIRSVILLE 2-A,Southeast,Wheeling,574,57,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAP,PRECINCT ST CLAIRSVILLE 2-B,Southeast,Wheeling,850,118,Governor/Lieutenant Governor,,R,"Kasich, John",49
+Belmont,AAP,PRECINCT ST CLAIRSVILLE 2-B,Southeast,Wheeling,850,118,Attorney General,,R,"DeWine, Mike",46
+Belmont,AAP,PRECINCT ST CLAIRSVILLE 2-B,Southeast,Wheeling,850,118,Auditor of State,,R,"Yost, Dave",42
+Belmont,AAP,PRECINCT ST CLAIRSVILLE 2-B,Southeast,Wheeling,850,118,Secretary of State,,R,"Husted, Jon",44
+Belmont,AAP,PRECINCT ST CLAIRSVILLE 2-B,Southeast,Wheeling,850,118,Treasurer of State,,R,"Mandel, Josh",44
+Belmont,AAP,PRECINCT ST CLAIRSVILLE 2-B,Southeast,Wheeling,850,118,U.S. House of Representatives,06,R,"Johnson, Bill",44
+Belmont,AAP,PRECINCT ST CLAIRSVILLE 2-B,Southeast,Wheeling,850,118,State House of Representatives,95,R,"Thompson, Andy",40
+Belmont,AAP,PRECINCT ST CLAIRSVILLE 2-B,Southeast,Wheeling,850,118,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAQ,PRECINCT ST CLAIRSVILLE 3-A,Southeast,Wheeling,480,73,Governor/Lieutenant Governor,,R,"Kasich, John",20
+Belmont,AAQ,PRECINCT ST CLAIRSVILLE 3-A,Southeast,Wheeling,480,73,Attorney General,,R,"DeWine, Mike",21
+Belmont,AAQ,PRECINCT ST CLAIRSVILLE 3-A,Southeast,Wheeling,480,73,Auditor of State,,R,"Yost, Dave",20
+Belmont,AAQ,PRECINCT ST CLAIRSVILLE 3-A,Southeast,Wheeling,480,73,Secretary of State,,R,"Husted, Jon",20
+Belmont,AAQ,PRECINCT ST CLAIRSVILLE 3-A,Southeast,Wheeling,480,73,Treasurer of State,,R,"Mandel, Josh",20
+Belmont,AAQ,PRECINCT ST CLAIRSVILLE 3-A,Southeast,Wheeling,480,73,U.S. House of Representatives,06,R,"Johnson, Bill",21
+Belmont,AAQ,PRECINCT ST CLAIRSVILLE 3-A,Southeast,Wheeling,480,73,State House of Representatives,95,R,"Thompson, Andy",20
+Belmont,AAQ,PRECINCT ST CLAIRSVILLE 3-A,Southeast,Wheeling,480,73,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAR,PRECINCT ST CLAIRSVILLE 3-B,Southeast,Wheeling,672,109,Governor/Lieutenant Governor,,R,"Kasich, John",51
+Belmont,AAR,PRECINCT ST CLAIRSVILLE 3-B,Southeast,Wheeling,672,109,Attorney General,,R,"DeWine, Mike",50
+Belmont,AAR,PRECINCT ST CLAIRSVILLE 3-B,Southeast,Wheeling,672,109,Auditor of State,,R,"Yost, Dave",42
+Belmont,AAR,PRECINCT ST CLAIRSVILLE 3-B,Southeast,Wheeling,672,109,Secretary of State,,R,"Husted, Jon",44
+Belmont,AAR,PRECINCT ST CLAIRSVILLE 3-B,Southeast,Wheeling,672,109,Treasurer of State,,R,"Mandel, Josh",44
+Belmont,AAR,PRECINCT ST CLAIRSVILLE 3-B,Southeast,Wheeling,672,109,U.S. House of Representatives,06,R,"Johnson, Bill",49
+Belmont,AAR,PRECINCT ST CLAIRSVILLE 3-B,Southeast,Wheeling,672,109,State House of Representatives,95,R,"Thompson, Andy",44
+Belmont,AAR,PRECINCT ST CLAIRSVILLE 3-B,Southeast,Wheeling,672,109,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAS,PRECINCT ST CLAIRSVILLE 4-A,Southeast,Wheeling,577,61,Governor/Lieutenant Governor,,R,"Kasich, John",11
+Belmont,AAS,PRECINCT ST CLAIRSVILLE 4-A,Southeast,Wheeling,577,61,Attorney General,,R,"DeWine, Mike",12
+Belmont,AAS,PRECINCT ST CLAIRSVILLE 4-A,Southeast,Wheeling,577,61,Auditor of State,,R,"Yost, Dave",10
+Belmont,AAS,PRECINCT ST CLAIRSVILLE 4-A,Southeast,Wheeling,577,61,Secretary of State,,R,"Husted, Jon",10
+Belmont,AAS,PRECINCT ST CLAIRSVILLE 4-A,Southeast,Wheeling,577,61,Treasurer of State,,R,"Mandel, Josh",11
+Belmont,AAS,PRECINCT ST CLAIRSVILLE 4-A,Southeast,Wheeling,577,61,U.S. House of Representatives,06,R,"Johnson, Bill",12
+Belmont,AAS,PRECINCT ST CLAIRSVILLE 4-A,Southeast,Wheeling,577,61,State House of Representatives,95,R,"Thompson, Andy",10
+Belmont,AAS,PRECINCT ST CLAIRSVILLE 4-A,Southeast,Wheeling,577,61,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,AAT,PRECINCT ST CLAIRSVILLE 4-B,Southeast,Wheeling,555,65,Governor/Lieutenant Governor,,R,"Kasich, John",16
+Belmont,AAT,PRECINCT ST CLAIRSVILLE 4-B,Southeast,Wheeling,555,65,Attorney General,,R,"DeWine, Mike",20
+Belmont,AAT,PRECINCT ST CLAIRSVILLE 4-B,Southeast,Wheeling,555,65,Auditor of State,,R,"Yost, Dave",19
+Belmont,AAT,PRECINCT ST CLAIRSVILLE 4-B,Southeast,Wheeling,555,65,Secretary of State,,R,"Husted, Jon",15
+Belmont,AAT,PRECINCT ST CLAIRSVILLE 4-B,Southeast,Wheeling,555,65,Treasurer of State,,R,"Mandel, Josh",16
+Belmont,AAT,PRECINCT ST CLAIRSVILLE 4-B,Southeast,Wheeling,555,65,U.S. House of Representatives,06,R,"Johnson, Bill",17
+Belmont,AAT,PRECINCT ST CLAIRSVILLE 4-B,Southeast,Wheeling,555,65,State House of Representatives,95,R,"Thompson, Andy",18
+Belmont,AAT,PRECINCT ST CLAIRSVILLE 4-B,Southeast,Wheeling,555,65,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACW,PRECINCT UNION TWP,Southeast,Wheeling,1044,192,Governor/Lieutenant Governor,,R,"Kasich, John",62
+Belmont,ACW,PRECINCT UNION TWP,Southeast,Wheeling,1044,192,Attorney General,,R,"DeWine, Mike",63
+Belmont,ACW,PRECINCT UNION TWP,Southeast,Wheeling,1044,192,Auditor of State,,R,"Yost, Dave",58
+Belmont,ACW,PRECINCT UNION TWP,Southeast,Wheeling,1044,192,Secretary of State,,R,"Husted, Jon",59
+Belmont,ACW,PRECINCT UNION TWP,Southeast,Wheeling,1044,192,Treasurer of State,,R,"Mandel, Josh",63
+Belmont,ACW,PRECINCT UNION TWP,Southeast,Wheeling,1044,192,U.S. House of Representatives,06,R,"Johnson, Bill",66
+Belmont,ACW,PRECINCT UNION TWP,Southeast,Wheeling,1044,192,State House of Representatives,95,R,"Thompson, Andy",55
+Belmont,ACW,PRECINCT UNION TWP,Southeast,Wheeling,1044,192,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ACV,PRECINCT UNION TWP LAFFERTY,Southeast,Wheeling,439,113,Governor/Lieutenant Governor,,R,"Kasich, John",28
+Belmont,ACV,PRECINCT UNION TWP LAFFERTY,Southeast,Wheeling,439,113,Attorney General,,R,"DeWine, Mike",28
+Belmont,ACV,PRECINCT UNION TWP LAFFERTY,Southeast,Wheeling,439,113,Auditor of State,,R,"Yost, Dave",27
+Belmont,ACV,PRECINCT UNION TWP LAFFERTY,Southeast,Wheeling,439,113,Secretary of State,,R,"Husted, Jon",24
+Belmont,ACV,PRECINCT UNION TWP LAFFERTY,Southeast,Wheeling,439,113,Treasurer of State,,R,"Mandel, Josh",24
+Belmont,ACV,PRECINCT UNION TWP LAFFERTY,Southeast,Wheeling,439,113,U.S. House of Representatives,06,R,"Johnson, Bill",27
+Belmont,ACV,PRECINCT UNION TWP LAFFERTY,Southeast,Wheeling,439,113,State House of Representatives,95,R,"Thompson, Andy",24
+Belmont,ACV,PRECINCT UNION TWP LAFFERTY,Southeast,Wheeling,439,113,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ADB,PRECINCT WARREN TWP,Southeast,Wheeling,1271,129,Governor/Lieutenant Governor,,R,"Kasich, John",43
+Belmont,ADB,PRECINCT WARREN TWP,Southeast,Wheeling,1271,129,Attorney General,,R,"DeWine, Mike",44
+Belmont,ADB,PRECINCT WARREN TWP,Southeast,Wheeling,1271,129,Auditor of State,,R,"Yost, Dave",40
+Belmont,ADB,PRECINCT WARREN TWP,Southeast,Wheeling,1271,129,Secretary of State,,R,"Husted, Jon",42
+Belmont,ADB,PRECINCT WARREN TWP,Southeast,Wheeling,1271,129,Treasurer of State,,R,"Mandel, Josh",43
+Belmont,ADB,PRECINCT WARREN TWP,Southeast,Wheeling,1271,129,U.S. House of Representatives,06,R,"Johnson, Bill",43
+Belmont,ADB,PRECINCT WARREN TWP,Southeast,Wheeling,1271,129,State House of Representatives,95,R,"Thompson, Andy",36
+Belmont,ADB,PRECINCT WARREN TWP,Southeast,Wheeling,1271,129,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ADD,PRECINCT WASHINGTON TWP,Southeast,Wheeling,375,39,Governor/Lieutenant Governor,,R,"Kasich, John",9
+Belmont,ADD,PRECINCT WASHINGTON TWP,Southeast,Wheeling,375,39,Attorney General,,R,"DeWine, Mike",8
+Belmont,ADD,PRECINCT WASHINGTON TWP,Southeast,Wheeling,375,39,Auditor of State,,R,"Yost, Dave",8
+Belmont,ADD,PRECINCT WASHINGTON TWP,Southeast,Wheeling,375,39,Secretary of State,,R,"Husted, Jon",7
+Belmont,ADD,PRECINCT WASHINGTON TWP,Southeast,Wheeling,375,39,Treasurer of State,,R,"Mandel, Josh",8
+Belmont,ADD,PRECINCT WASHINGTON TWP,Southeast,Wheeling,375,39,U.S. House of Representatives,06,R,"Johnson, Bill",11
+Belmont,ADD,PRECINCT WASHINGTON TWP,Southeast,Wheeling,375,39,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ADD,PRECINCT WASHINGTON TWP,Southeast,Wheeling,375,39,State House of Representatives,96,R,"Ferguson, Ron",8
+Belmont,ADE,PRECINCT WAYNE TWP,Southeast,Wheeling,472,72,Governor/Lieutenant Governor,,R,"Kasich, John",21
+Belmont,ADE,PRECINCT WAYNE TWP,Southeast,Wheeling,472,72,Attorney General,,R,"DeWine, Mike",23
+Belmont,ADE,PRECINCT WAYNE TWP,Southeast,Wheeling,472,72,Auditor of State,,R,"Yost, Dave",20
+Belmont,ADE,PRECINCT WAYNE TWP,Southeast,Wheeling,472,72,Secretary of State,,R,"Husted, Jon",20
+Belmont,ADE,PRECINCT WAYNE TWP,Southeast,Wheeling,472,72,Treasurer of State,,R,"Mandel, Josh",23
+Belmont,ADE,PRECINCT WAYNE TWP,Southeast,Wheeling,472,72,U.S. House of Representatives,06,R,"Johnson, Bill",24
+Belmont,ADE,PRECINCT WAYNE TWP,Southeast,Wheeling,472,72,State House of Representatives,95,R,"Thompson, Andy",21
+Belmont,ADE,PRECINCT WAYNE TWP,Southeast,Wheeling,472,72,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ADF,PRECINCT WHEELING TWP FAIRPOINT,Southeast,Wheeling,606,64,Governor/Lieutenant Governor,,R,"Kasich, John",9
+Belmont,ADF,PRECINCT WHEELING TWP FAIRPOINT,Southeast,Wheeling,606,64,Attorney General,,R,"DeWine, Mike",11
+Belmont,ADF,PRECINCT WHEELING TWP FAIRPOINT,Southeast,Wheeling,606,64,Auditor of State,,R,"Yost, Dave",11
+Belmont,ADF,PRECINCT WHEELING TWP FAIRPOINT,Southeast,Wheeling,606,64,Secretary of State,,R,"Husted, Jon",11
+Belmont,ADF,PRECINCT WHEELING TWP FAIRPOINT,Southeast,Wheeling,606,64,Treasurer of State,,R,"Mandel, Josh",11
+Belmont,ADF,PRECINCT WHEELING TWP FAIRPOINT,Southeast,Wheeling,606,64,U.S. House of Representatives,06,R,"Johnson, Bill",11
+Belmont,ADF,PRECINCT WHEELING TWP FAIRPOINT,Southeast,Wheeling,606,64,State House of Representatives,95,R,"Thompson, Andy",9
+Belmont,ADF,PRECINCT WHEELING TWP FAIRPOINT,Southeast,Wheeling,606,64,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ADH,PRECINCT WHEELING TWP UNIONTOWN,Southeast,Wheeling,608,67,Governor/Lieutenant Governor,,R,"Kasich, John",24
+Belmont,ADH,PRECINCT WHEELING TWP UNIONTOWN,Southeast,Wheeling,608,67,Attorney General,,R,"DeWine, Mike",24
+Belmont,ADH,PRECINCT WHEELING TWP UNIONTOWN,Southeast,Wheeling,608,67,Auditor of State,,R,"Yost, Dave",21
+Belmont,ADH,PRECINCT WHEELING TWP UNIONTOWN,Southeast,Wheeling,608,67,Secretary of State,,R,"Husted, Jon",17
+Belmont,ADH,PRECINCT WHEELING TWP UNIONTOWN,Southeast,Wheeling,608,67,Treasurer of State,,R,"Mandel, Josh",19
+Belmont,ADH,PRECINCT WHEELING TWP UNIONTOWN,Southeast,Wheeling,608,67,U.S. House of Representatives,06,R,"Johnson, Bill",22
+Belmont,ADH,PRECINCT WHEELING TWP UNIONTOWN,Southeast,Wheeling,608,67,State House of Representatives,95,R,"Thompson, Andy",18
+Belmont,ADH,PRECINCT WHEELING TWP UNIONTOWN,Southeast,Wheeling,608,67,State House of Representatives,96,R,"Ferguson, Ron",0
+Belmont,ADK,PRECINCT YORK TWP,Southeast,Wheeling,654,84,Governor/Lieutenant Governor,,R,"Kasich, John",15
+Belmont,ADK,PRECINCT YORK TWP,Southeast,Wheeling,654,84,Attorney General,,R,"DeWine, Mike",13
+Belmont,ADK,PRECINCT YORK TWP,Southeast,Wheeling,654,84,Auditor of State,,R,"Yost, Dave",13
+Belmont,ADK,PRECINCT YORK TWP,Southeast,Wheeling,654,84,Secretary of State,,R,"Husted, Jon",15
+Belmont,ADK,PRECINCT YORK TWP,Southeast,Wheeling,654,84,Treasurer of State,,R,"Mandel, Josh",14
+Belmont,ADK,PRECINCT YORK TWP,Southeast,Wheeling,654,84,U.S. House of Representatives,06,R,"Johnson, Bill",18
+Belmont,ADK,PRECINCT YORK TWP,Southeast,Wheeling,654,84,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ADK,PRECINCT YORK TWP,Southeast,Wheeling,654,84,State House of Representatives,96,R,"Ferguson, Ron",10
+Belmont,ABY,PRECINCT YORKVILLE VILLAGE,Southeast,Wheeling,331,56,Governor/Lieutenant Governor,,R,"Kasich, John",5
+Belmont,ABY,PRECINCT YORKVILLE VILLAGE,Southeast,Wheeling,331,56,Attorney General,,R,"DeWine, Mike",4
+Belmont,ABY,PRECINCT YORKVILLE VILLAGE,Southeast,Wheeling,331,56,Auditor of State,,R,"Yost, Dave",5
+Belmont,ABY,PRECINCT YORKVILLE VILLAGE,Southeast,Wheeling,331,56,Secretary of State,,R,"Husted, Jon",4
+Belmont,ABY,PRECINCT YORKVILLE VILLAGE,Southeast,Wheeling,331,56,Treasurer of State,,R,"Mandel, Josh",4
+Belmont,ABY,PRECINCT YORKVILLE VILLAGE,Southeast,Wheeling,331,56,U.S. House of Representatives,06,R,"Johnson, Bill",4
+Belmont,ABY,PRECINCT YORKVILLE VILLAGE,Southeast,Wheeling,331,56,State House of Representatives,95,R,"Thompson, Andy",0
+Belmont,ABY,PRECINCT YORKVILLE VILLAGE,Southeast,Wheeling,331,56,State House of Representatives,96,R,"Ferguson, Ron",4

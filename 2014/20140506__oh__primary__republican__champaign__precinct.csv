@@ -1,0 +1,253 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,Governor/Lieutenant Governor,,R,"Kasich, John",123
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,Attorney General,,R,"DeWine, Mike",116
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,Auditor of State,,R,"Yost, Dave",111
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,Secretary of State,,R,"Husted, Jon",116
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,Treasurer of State,,R,"Mandel, Josh",121
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,U.S. House of Representatives,04,R,"Jordan, Jim",129
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,State House of Representatives,85,R,"Chamberlain, C. Douglas",27
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,State House of Representatives,85,R,"Luckey III, Robert J.",9
+Champaign,AAT,PRECINCT ADAMS,West,Dayton,712,168,State House of Representatives,85,R,"Vitale, Nino",104
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,Governor/Lieutenant Governor,,R,"Kasich, John",126
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,Attorney General,,R,"DeWine, Mike",135
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,Auditor of State,,R,"Yost, Dave",127
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,Secretary of State,,R,"Husted, Jon",129
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,Treasurer of State,,R,"Mandel, Josh",128
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,U.S. House of Representatives,04,R,"Jordan, Jim",137
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,State House of Representatives,85,R,"Chamberlain, C. Douglas",44
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,State House of Representatives,85,R,"Luckey III, Robert J.",13
+Champaign,ABY,PRECINCT CONCORD,West,Dayton,1005,193,State House of Representatives,85,R,"Vitale, Nino",96
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,Governor/Lieutenant Governor,,R,"Kasich, John",181
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,Attorney General,,R,"DeWine, Mike",175
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,Auditor of State,,R,"Yost, Dave",168
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,Secretary of State,,R,"Husted, Jon",169
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,Treasurer of State,,R,"Mandel, Josh",165
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,U.S. House of Representatives,04,R,"Jordan, Jim",178
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,State House of Representatives,85,R,"Chamberlain, C. Douglas",55
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,State House of Representatives,85,R,"Luckey III, Robert J.",19
+Champaign,AAW,PRECINCT GOSHEN,West,Dayton,1280,293,State House of Representatives,85,R,"Vitale, Nino",126
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,Governor/Lieutenant Governor,,R,"Kasich, John",59
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,Attorney General,,R,"DeWine, Mike",60
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,Auditor of State,,R,"Yost, Dave",58
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,Secretary of State,,R,"Husted, Jon",57
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,Treasurer of State,,R,"Mandel, Josh",57
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,U.S. House of Representatives,04,R,"Jordan, Jim",67
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,State House of Representatives,85,R,"Chamberlain, C. Douglas",23
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,State House of Representatives,85,R,"Luckey III, Robert J.",4
+Champaign,ABA,PRECINCT HARRISON,West,Dayton,592,105,State House of Representatives,85,R,"Vitale, Nino",48
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,Governor/Lieutenant Governor,,R,"Kasich, John",97
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,Attorney General,,R,"DeWine, Mike",96
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,Auditor of State,,R,"Yost, Dave",92
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,Secretary of State,,R,"Husted, Jon",96
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,Treasurer of State,,R,"Mandel, Josh",92
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,U.S. House of Representatives,04,R,"Jordan, Jim",97
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,State House of Representatives,85,R,"Chamberlain, C. Douglas",30
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,State House of Representatives,85,R,"Luckey III, Robert J.",7
+Champaign,ABD,PRECINCT JACKSON EAST,West,Dayton,821,141,State House of Representatives,85,R,"Vitale, Nino",77
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,Governor/Lieutenant Governor,,R,"Kasich, John",113
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,Attorney General,,R,"DeWine, Mike",113
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,Auditor of State,,R,"Yost, Dave",100
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,Secretary of State,,R,"Husted, Jon",108
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,Treasurer of State,,R,"Mandel, Josh",108
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,U.S. House of Representatives,04,R,"Jordan, Jim",120
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,State House of Representatives,85,R,"Chamberlain, C. Douglas",37
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,State House of Representatives,85,R,"Luckey III, Robert J.",14
+Champaign,ABB,PRECINCT JACKSON WEST,West,Dayton,823,176,State House of Representatives,85,R,"Vitale, Nino",73
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,Governor/Lieutenant Governor,,R,"Kasich, John",140
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,Attorney General,,R,"DeWine, Mike",135
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,Auditor of State,,R,"Yost, Dave",127
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,Secretary of State,,R,"Husted, Jon",132
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,Treasurer of State,,R,"Mandel, Josh",126
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,U.S. House of Representatives,04,R,"Jordan, Jim",142
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,State House of Representatives,85,R,"Chamberlain, C. Douglas",50
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,State House of Representatives,85,R,"Luckey III, Robert J.",17
+Champaign,ABF,PRECINCT JOHNSON,West,Dayton,1056,211,State House of Representatives,85,R,"Vitale, Nino",89
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,Governor/Lieutenant Governor,,R,"Kasich, John",118
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,Attorney General,,R,"DeWine, Mike",120
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,Auditor of State,,R,"Yost, Dave",114
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,Secretary of State,,R,"Husted, Jon",118
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,Treasurer of State,,R,"Mandel, Josh",108
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,U.S. House of Representatives,04,R,"Jordan, Jim",122
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,State House of Representatives,85,R,"Chamberlain, C. Douglas",46
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,State House of Representatives,85,R,"Luckey III, Robert J.",6
+Champaign,ACA,PRECINCT MAD RIVER A,West,Dayton,780,166,State House of Representatives,85,R,"Vitale, Nino",81
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,Governor/Lieutenant Governor,,R,"Kasich, John",139
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,Attorney General,,R,"DeWine, Mike",138
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,Auditor of State,,R,"Yost, Dave",119
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,Secretary of State,,R,"Husted, Jon",128
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,Treasurer of State,,R,"Mandel, Josh",122
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,U.S. House of Representatives,04,R,"Jordan, Jim",136
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,State House of Representatives,85,R,"Chamberlain, C. Douglas",57
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,State House of Representatives,85,R,"Luckey III, Robert J.",12
+Champaign,ABK,PRECINCT MAD RIVER B,West,Dayton,1179,217,State House of Representatives,85,R,"Vitale, Nino",92
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,Governor/Lieutenant Governor,,R,"Kasich, John",85
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,Attorney General,,R,"DeWine, Mike",83
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,Auditor of State,,R,"Yost, Dave",79
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,Secretary of State,,R,"Husted, Jon",81
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,Treasurer of State,,R,"Mandel, Josh",74
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,U.S. House of Representatives,04,R,"Jordan, Jim",82
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,State House of Representatives,85,R,"Chamberlain, C. Douglas",29
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,State House of Representatives,85,R,"Luckey III, Robert J.",22
+Champaign,AAY,PRECINCT MECHANICSBURG,West,Dayton,865,173,State House of Representatives,85,R,"Vitale, Nino",48
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,Governor/Lieutenant Governor,,R,"Kasich, John",109
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,Attorney General,,R,"DeWine, Mike",103
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,Auditor of State,,R,"Yost, Dave",99
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,Secretary of State,,R,"Husted, Jon",102
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,Treasurer of State,,R,"Mandel, Josh",100
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,U.S. House of Representatives,04,R,"Jordan, Jim",100
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,State House of Representatives,85,R,"Chamberlain, C. Douglas",52
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,State House of Representatives,85,R,"Luckey III, Robert J.",10
+Champaign,ABO,PRECINCT NORTH LEWISBURG,West,Dayton,861,157,State House of Representatives,85,R,"Vitale, Nino",53
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,Governor/Lieutenant Governor,,R,"Kasich, John",91
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,Attorney General,,R,"DeWine, Mike",95
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,Auditor of State,,R,"Yost, Dave",81
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,Secretary of State,,R,"Husted, Jon",86
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,Treasurer of State,,R,"Mandel, Josh",87
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,U.S. House of Representatives,04,R,"Jordan, Jim",96
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,State House of Representatives,85,R,"Chamberlain, C. Douglas",48
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,State House of Representatives,85,R,"Luckey III, Robert J.",9
+Champaign,ABM,PRECINCT RUSH,West,Dayton,692,164,State House of Representatives,85,R,"Vitale, Nino",51
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,Governor/Lieutenant Governor,,R,"Kasich, John",142
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,Attorney General,,R,"DeWine, Mike",144
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,Auditor of State,,R,"Yost, Dave",132
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,Secretary of State,,R,"Husted, Jon",133
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,Treasurer of State,,R,"Mandel, Josh",131
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,U.S. House of Representatives,04,R,"Jordan, Jim",147
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,State House of Representatives,85,R,"Chamberlain, C. Douglas",43
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,State House of Representatives,85,R,"Luckey III, Robert J.",5
+Champaign,ABQ,PRECINCT SALEM NORTH,West,Dayton,837,211,State House of Representatives,85,R,"Vitale, Nino",118
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,Governor/Lieutenant Governor,,R,"Kasich, John",117
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,Attorney General,,R,"DeWine, Mike",121
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,Auditor of State,,R,"Yost, Dave",104
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,Secretary of State,,R,"Husted, Jon",104
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,Treasurer of State,,R,"Mandel, Josh",105
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,U.S. House of Representatives,04,R,"Jordan, Jim",123
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,State House of Representatives,85,R,"Chamberlain, C. Douglas",40
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,State House of Representatives,85,R,"Luckey III, Robert J.",22
+Champaign,ABR,PRECINCT SALEM SOUTH,West,Dayton,765,190,State House of Representatives,85,R,"Vitale, Nino",85
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,Governor/Lieutenant Governor,,R,"Kasich, John",148
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,Attorney General,,R,"DeWine, Mike",146
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,Auditor of State,,R,"Yost, Dave",143
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,Secretary of State,,R,"Husted, Jon",144
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,Treasurer of State,,R,"Mandel, Josh",139
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,U.S. House of Representatives,04,R,"Jordan, Jim",154
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,State House of Representatives,85,R,"Chamberlain, C. Douglas",32
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,State House of Representatives,85,R,"Luckey III, Robert J.",17
+Champaign,ABH,PRECINCT ST PARIS,West,Dayton,1214,217,State House of Representatives,85,R,"Vitale, Nino",113
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,Governor/Lieutenant Governor,,R,"Kasich, John",142
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,Attorney General,,R,"DeWine, Mike",149
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,Auditor of State,,R,"Yost, Dave",122
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,Secretary of State,,R,"Husted, Jon",132
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,Treasurer of State,,R,"Mandel, Josh",128
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,U.S. House of Representatives,04,R,"Jordan, Jim",151
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,State House of Representatives,85,R,"Chamberlain, C. Douglas",47
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,State House of Representatives,85,R,"Luckey III, Robert J.",12
+Champaign,ABS,PRECINCT UNION NORTH,West,Dayton,779,215,State House of Representatives,85,R,"Vitale, Nino",117
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,Governor/Lieutenant Governor,,R,"Kasich, John",102
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,Attorney General,,R,"DeWine, Mike",102
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,Auditor of State,,R,"Yost, Dave",96
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,Secretary of State,,R,"Husted, Jon",98
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,Treasurer of State,,R,"Mandel, Josh",92
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,U.S. House of Representatives,04,R,"Jordan, Jim",104
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,State House of Representatives,85,R,"Chamberlain, C. Douglas",43
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,State House of Representatives,85,R,"Luckey III, Robert J.",4
+Champaign,ABT,PRECINCT UNION SOUTH,West,Dayton,645,188,State House of Representatives,85,R,"Vitale, Nino",79
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,Governor/Lieutenant Governor,,R,"Kasich, John",45
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,Attorney General,,R,"DeWine, Mike",45
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,Auditor of State,,R,"Yost, Dave",44
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,Secretary of State,,R,"Husted, Jon",42
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,Treasurer of State,,R,"Mandel, Josh",41
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,U.S. House of Representatives,04,R,"Jordan, Jim",42
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,State House of Representatives,85,R,"Chamberlain, C. Douglas",11
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,State House of Representatives,85,R,"Luckey III, Robert J.",11
+Champaign,AAA,PRECINCT URBANA 1-A,West,Dayton,641,69,State House of Representatives,85,R,"Vitale, Nino",28
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,Governor/Lieutenant Governor,,R,"Kasich, John",55
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,Attorney General,,R,"DeWine, Mike",52
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,Auditor of State,,R,"Yost, Dave",48
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,Secretary of State,,R,"Husted, Jon",51
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,Treasurer of State,,R,"Mandel, Josh",43
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,U.S. House of Representatives,04,R,"Jordan, Jim",50
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,State House of Representatives,85,R,"Chamberlain, C. Douglas",18
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,State House of Representatives,85,R,"Luckey III, Robert J.",9
+Champaign,AAB,PRECINCT URBANA 1-B,West,Dayton,676,76,State House of Representatives,85,R,"Vitale, Nino",32
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,Governor/Lieutenant Governor,,R,"Kasich, John",115
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,Attorney General,,R,"DeWine, Mike",116
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,Auditor of State,,R,"Yost, Dave",103
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,Secretary of State,,R,"Husted, Jon",106
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,Treasurer of State,,R,"Mandel, Josh",101
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,U.S. House of Representatives,04,R,"Jordan, Jim",117
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,State House of Representatives,85,R,"Chamberlain, C. Douglas",40
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,State House of Representatives,85,R,"Luckey III, Robert J.",16
+Champaign,AAE,PRECINCT URBANA 2-A,West,Dayton,1273,191,State House of Representatives,85,R,"Vitale, Nino",82
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,Governor/Lieutenant Governor,,R,"Kasich, John",200
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,Attorney General,,R,"DeWine, Mike",203
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,Auditor of State,,R,"Yost, Dave",184
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,Secretary of State,,R,"Husted, Jon",191
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,Treasurer of State,,R,"Mandel, Josh",160
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,U.S. House of Representatives,04,R,"Jordan, Jim",196
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,State House of Representatives,85,R,"Chamberlain, C. Douglas",73
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,State House of Representatives,85,R,"Luckey III, Robert J.",26
+Champaign,AAH,PRECINCT URBANA 2-B,West,Dayton,951,294,State House of Representatives,85,R,"Vitale, Nino",142
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,Governor/Lieutenant Governor,,R,"Kasich, John",108
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,Attorney General,,R,"DeWine, Mike",110
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,Auditor of State,,R,"Yost, Dave",98
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,Secretary of State,,R,"Husted, Jon",102
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,Treasurer of State,,R,"Mandel, Josh",90
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,U.S. House of Representatives,04,R,"Jordan, Jim",111
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,State House of Representatives,85,R,"Chamberlain, C. Douglas",31
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,State House of Representatives,85,R,"Luckey III, Robert J.",11
+Champaign,AAK,PRECINCT URBANA 3-A,West,Dayton,1016,158,State House of Representatives,85,R,"Vitale, Nino",84
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,Governor/Lieutenant Governor,,R,"Kasich, John",118
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,Attorney General,,R,"DeWine, Mike",119
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,Auditor of State,,R,"Yost, Dave",105
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,Secretary of State,,R,"Husted, Jon",109
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,Treasurer of State,,R,"Mandel, Josh",100
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,U.S. House of Representatives,04,R,"Jordan, Jim",117
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,State House of Representatives,85,R,"Chamberlain, C. Douglas",34
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,State House of Representatives,85,R,"Luckey III, Robert J.",20
+Champaign,AAN,PRECINCT URBANA 3-B,West,Dayton,902,175,State House of Representatives,85,R,"Vitale, Nino",82
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,Governor/Lieutenant Governor,,R,"Kasich, John",71
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,Attorney General,,R,"DeWine, Mike",71
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,Auditor of State,,R,"Yost, Dave",65
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,Secretary of State,,R,"Husted, Jon",64
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,Treasurer of State,,R,"Mandel, Josh",59
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,U.S. House of Representatives,04,R,"Jordan, Jim",76
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,State House of Representatives,85,R,"Chamberlain, C. Douglas",25
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,State House of Representatives,85,R,"Luckey III, Robert J.",12
+Champaign,AAP,PRECINCT URBANA 4-A,West,Dayton,796,111,State House of Representatives,85,R,"Vitale, Nino",51
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,Governor/Lieutenant Governor,,R,"Kasich, John",64
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,Attorney General,,R,"DeWine, Mike",63
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,Auditor of State,,R,"Yost, Dave",59
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,Secretary of State,,R,"Husted, Jon",57
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,Treasurer of State,,R,"Mandel, Josh",57
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,U.S. House of Representatives,04,R,"Jordan, Jim",64
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,State House of Representatives,85,R,"Chamberlain, C. Douglas",23
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,State House of Representatives,85,R,"Luckey III, Robert J.",20
+Champaign,AAR,PRECINCT URBANA 4-B,West,Dayton,968,101,State House of Representatives,85,R,"Vitale, Nino",33
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,Governor/Lieutenant Governor,,R,"Kasich, John",150
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,Attorney General,,R,"DeWine, Mike",150
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,Auditor of State,,R,"Yost, Dave",134
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,Secretary of State,,R,"Husted, Jon",141
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,Treasurer of State,,R,"Mandel, Josh",139
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,U.S. House of Representatives,04,R,"Jordan, Jim",149
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,State House of Representatives,85,R,"Chamberlain, C. Douglas",48
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,State House of Representatives,85,R,"Luckey III, Robert J.",14
+Champaign,ABU,PRECINCT URBANA NORTH,West,Dayton,885,200,State House of Representatives,85,R,"Vitale, Nino",106
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,Governor/Lieutenant Governor,,R,"Kasich, John",135
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,Attorney General,,R,"DeWine, Mike",137
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,Auditor of State,,R,"Yost, Dave",121
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,Secretary of State,,R,"Husted, Jon",125
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,Treasurer of State,,R,"Mandel, Josh",123
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,U.S. House of Representatives,04,R,"Jordan, Jim",135
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,State House of Representatives,85,R,"Chamberlain, C. Douglas",42
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,State House of Representatives,85,R,"Luckey III, Robert J.",14
+Champaign,ABV,PRECINCT URBANA SOUTH,West,Dayton,1206,200,State House of Representatives,85,R,"Vitale, Nino",99
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,Governor/Lieutenant Governor,,R,"Kasich, John",201
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,Attorney General,,R,"DeWine, Mike",207
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,Auditor of State,,R,"Yost, Dave",188
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,Secretary of State,,R,"Husted, Jon",193
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,Treasurer of State,,R,"Mandel, Josh",193
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,U.S. House of Representatives,04,R,"Jordan, Jim",214
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,State House of Representatives,85,R,"Chamberlain, C. Douglas",91
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,State House of Representatives,85,R,"Luckey III, Robert J.",13
+Champaign,ABW,PRECINCT WAYNE,West,Dayton,1152,343,State House of Representatives,85,R,"Vitale, Nino",138

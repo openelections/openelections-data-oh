@@ -1,0 +1,951 @@
+County,Precinct Code,Precinct Name,Region,Media Market,Registered Voters,Total Voters,office,district,party,candidate,votes
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,Governor/Lieutenant Governor,,R,"Kasich, John",190
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,Attorney General,,R,"DeWine, Mike",178
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,Auditor of State,,R,"Yost, Dave",164
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,Secretary of State,,R,"Husted, Jon",170
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,Treasurer of State,,R,"Mandel, Josh",166
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,U.S. House of Representatives,12,R,"Tiberi, Pat",192
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,State Senate,31,R,"Hottinger, Jay",174
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,State House of Representatives,71,R,"Cannon III, James W.",25
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,State House of Representatives,71,R,"Ryan, Scott K.",145
+Licking,ACJ,BENNINGTON TOWNSHIP,Central,Columbus,1112,385,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,Governor/Lieutenant Governor,,R,"Kasich, John",79
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,Attorney General,,R,"DeWine, Mike",77
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,Auditor of State,,R,"Yost, Dave",71
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,Secretary of State,,R,"Husted, Jon",73
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,Treasurer of State,,R,"Mandel, Josh",68
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,U.S. House of Representatives,12,R,"Tiberi, Pat",78
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,State Senate,31,R,"Hottinger, Jay",72
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ACK,BOWLING GREEN TOWNSHIP,Central,Columbus,1199,141,State House of Representatives,72,R,"Hayes, Bill",70
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,Governor/Lieutenant Governor,,R,"Kasich, John",63
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,Attorney General,,R,"DeWine, Mike",60
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,Auditor of State,,R,"Yost, Dave",50
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,Secretary of State,,R,"Husted, Jon",51
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,Treasurer of State,,R,"Mandel, Josh",47
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,U.S. House of Representatives,12,R,"Tiberi, Pat",54
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,State Senate,31,R,"Hottinger, Jay",55
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,AFJ,BUCKEYE LAKE VILLAGE,Central,Columbus,1552,124,State House of Representatives,72,R,"Hayes, Bill",48
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,Governor/Lieutenant Governor,,R,"Kasich, John",178
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,Attorney General,,R,"DeWine, Mike",165
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,Auditor of State,,R,"Yost, Dave",160
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,Secretary of State,,R,"Husted, Jon",158
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,Treasurer of State,,R,"Mandel, Josh",160
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,U.S. House of Representatives,12,R,"Tiberi, Pat",169
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,State Senate,31,R,"Hottinger, Jay",158
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,State House of Representatives,71,R,"Cannon III, James W.",23
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,State House of Representatives,71,R,"Ryan, Scott K.",141
+Licking,ACL,BURLINGTON TOWNSHIP,Central,Columbus,858,323,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,Governor/Lieutenant Governor,,R,"Kasich, John",135
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,Attorney General,,R,"DeWine, Mike",119
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,Auditor of State,,R,"Yost, Dave",113
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,Secretary of State,,R,"Husted, Jon",115
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,Treasurer of State,,R,"Mandel, Josh",114
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,U.S. House of Representatives,12,R,"Tiberi, Pat",119
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,State Senate,31,R,"Hottinger, Jay",122
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,State House of Representatives,71,R,"Cannon III, James W.",8
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,State House of Representatives,71,R,"Ryan, Scott K.",57
+Licking,ACM,EDEN FALL TOWNSHIP,Central,Columbus,1352,254,State House of Representatives,72,R,"Hayes, Bill",61
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,Governor/Lieutenant Governor,,R,"Kasich, John",163
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,Attorney General,,R,"DeWine, Mike",162
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,Auditor of State,,R,"Yost, Dave",146
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,Secretary of State,,R,"Husted, Jon",147
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,Treasurer of State,,R,"Mandel, Josh",140
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,U.S. House of Representatives,12,R,"Tiberi, Pat",158
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,State Senate,31,R,"Hottinger, Jay",141
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ACN,ETNA TOWNSHIP A,Central,Columbus,1619,379,State House of Representatives,72,R,"Hayes, Bill",142
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,Governor/Lieutenant Governor,,R,"Kasich, John",185
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,Attorney General,,R,"DeWine, Mike",177
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,Auditor of State,,R,"Yost, Dave",158
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,Secretary of State,,R,"Husted, Jon",162
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,Treasurer of State,,R,"Mandel, Josh",163
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,U.S. House of Representatives,12,R,"Tiberi, Pat",178
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,State Senate,31,R,"Hottinger, Jay",157
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ACP,ETNA TOWNSHIP B,Central,Columbus,1064,341,State House of Representatives,72,R,"Hayes, Bill",161
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,Governor/Lieutenant Governor,,R,"Kasich, John",221
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,Attorney General,,R,"DeWine, Mike",198
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,Auditor of State,,R,"Yost, Dave",176
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,Secretary of State,,R,"Husted, Jon",177
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,Treasurer of State,,R,"Mandel, Josh",188
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,U.S. House of Representatives,12,R,"Tiberi, Pat",202
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,State Senate,31,R,"Hottinger, Jay",183
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ACQ,ETNA TOWNSHIP C,Central,Columbus,1458,450,State House of Representatives,72,R,"Hayes, Bill",179
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,Governor/Lieutenant Governor,,R,"Kasich, John",215
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,Attorney General,,R,"DeWine, Mike",204
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,Auditor of State,,R,"Yost, Dave",191
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,Secretary of State,,R,"Husted, Jon",190
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,Treasurer of State,,R,"Mandel, Josh",184
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,U.S. House of Representatives,12,R,"Tiberi, Pat",213
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,State Senate,31,R,"Hottinger, Jay",183
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ACR,ETNA TOWNSHIP D,Central,Columbus,1541,496,State House of Representatives,72,R,"Hayes, Bill",194
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,Governor/Lieutenant Governor,,R,"Kasich, John",112
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,Attorney General,,R,"DeWine, Mike",108
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,Auditor of State,,R,"Yost, Dave",102
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,Secretary of State,,R,"Husted, Jon",100
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,Treasurer of State,,R,"Mandel, Josh",102
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,U.S. House of Representatives,12,R,"Tiberi, Pat",107
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,State Senate,31,R,"Hottinger, Jay",103
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ACT,FRANKLIN TOWNSHIP,Central,Columbus,1503,203,State House of Representatives,72,R,"Hayes, Bill",101
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,Governor/Lieutenant Governor,,R,"Kasich, John",126
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,Attorney General,,R,"DeWine, Mike",118
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,Auditor of State,,R,"Yost, Dave",117
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,Secretary of State,,R,"Husted, Jon",119
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,Treasurer of State,,R,"Mandel, Josh",111
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,U.S. House of Representatives,12,R,"Tiberi, Pat",124
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,State Senate,31,R,"Hottinger, Jay",115
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,State House of Representatives,71,R,"Cannon III, James W.",8
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,State House of Representatives,71,R,"Ryan, Scott K.",123
+Licking,ACV,GRANVILLE TOWNSHIP A,Central,Columbus,982,239,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,Governor/Lieutenant Governor,,R,"Kasich, John",152
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,Attorney General,,R,"DeWine, Mike",149
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,Auditor of State,,R,"Yost, Dave",148
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,Secretary of State,,R,"Husted, Jon",145
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,Treasurer of State,,R,"Mandel, Josh",131
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,U.S. House of Representatives,12,R,"Tiberi, Pat",151
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,State Senate,31,R,"Hottinger, Jay",146
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,State House of Representatives,71,R,"Cannon III, James W.",19
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,State House of Representatives,71,R,"Ryan, Scott K.",126
+Licking,ACW,GRANVILLE TOWNSHIP B,Central,Columbus,928,275,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,Governor/Lieutenant Governor,,R,"Kasich, John",209
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,Attorney General,,R,"DeWine, Mike",199
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,Auditor of State,,R,"Yost, Dave",201
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,Secretary of State,,R,"Husted, Jon",198
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,Treasurer of State,,R,"Mandel, Josh",189
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,U.S. House of Representatives,12,R,"Tiberi, Pat",203
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,State Senate,31,R,"Hottinger, Jay",187
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,State House of Representatives,71,R,"Cannon III, James W.",20
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,State House of Representatives,71,R,"Ryan, Scott K.",194
+Licking,ACX,GRANVILLE TOWNSHIP C,Central,Columbus,1382,409,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,Governor/Lieutenant Governor,,R,"Kasich, John",138
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,Attorney General,,R,"DeWine, Mike",136
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,Auditor of State,,R,"Yost, Dave",129
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,Secretary of State,,R,"Husted, Jon",128
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,Treasurer of State,,R,"Mandel, Josh",126
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,U.S. House of Representatives,12,R,"Tiberi, Pat",136
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,State Senate,31,R,"Hottinger, Jay",127
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,State House of Representatives,71,R,"Cannon III, James W.",17
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,State House of Representatives,71,R,"Ryan, Scott K.",125
+Licking,ACZ,GRANVILLE VILLAGE A,Central,Columbus,1313,352,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,Governor/Lieutenant Governor,,R,"Kasich, John",173
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,Attorney General,,R,"DeWine, Mike",162
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,Auditor of State,,R,"Yost, Dave",150
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,Secretary of State,,R,"Husted, Jon",154
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,Treasurer of State,,R,"Mandel, Josh",144
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,U.S. House of Representatives,12,R,"Tiberi, Pat",161
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,State Senate,31,R,"Hottinger, Jay",159
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,State House of Representatives,71,R,"Cannon III, James W.",15
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,State House of Representatives,71,R,"Ryan, Scott K.",157
+Licking,ADB,GRANVILLE VILLAGE B,Central,Columbus,1238,292,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,Governor/Lieutenant Governor,,R,"Kasich, John",33
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,Attorney General,,R,"DeWine, Mike",36
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,Auditor of State,,R,"Yost, Dave",32
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,Secretary of State,,R,"Husted, Jon",32
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,Treasurer of State,,R,"Mandel, Josh",30
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,U.S. House of Representatives,12,R,"Tiberi, Pat",36
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,State Senate,31,R,"Hottinger, Jay",32
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,State House of Representatives,71,R,"Ryan, Scott K.",33
+Licking,ADC,GRANVILLE VILLAGE C,Central,Columbus,1994,124,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,Governor/Lieutenant Governor,,R,"Kasich, John",92
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,Attorney General,,R,"DeWine, Mike",90
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,Auditor of State,,R,"Yost, Dave",85
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,Secretary of State,,R,"Husted, Jon",85
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,Treasurer of State,,R,"Mandel, Josh",83
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,U.S. House of Representatives,12,R,"Tiberi, Pat",89
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,State Senate,31,R,"Hottinger, Jay",88
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADE,HANOVER TOWNSHIP,Central,Columbus,1145,157,State House of Representatives,72,R,"Hayes, Bill",85
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,Governor/Lieutenant Governor,,R,"Kasich, John",76
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,Attorney General,,R,"DeWine, Mike",72
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,Auditor of State,,R,"Yost, Dave",64
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,Secretary of State,,R,"Husted, Jon",64
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,Treasurer of State,,R,"Mandel, Josh",66
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,U.S. House of Representatives,12,R,"Tiberi, Pat",73
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,State Senate,31,R,"Hottinger, Jay",72
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADD,HANOVER VILLAGE,Central,Columbus,720,137,State House of Representatives,72,R,"Hayes, Bill",69
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,Governor/Lieutenant Governor,,R,"Kasich, John",181
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,Attorney General,,R,"DeWine, Mike",160
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,Auditor of State,,R,"Yost, Dave",150
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,Secretary of State,,R,"Husted, Jon",146
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,Treasurer of State,,R,"Mandel, Josh",145
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,U.S. House of Representatives,12,R,"Tiberi, Pat",174
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,State Senate,31,R,"Hottinger, Jay",147
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADH,HARRISON TOWNSHIP A,Central,Columbus,1008,346,State House of Representatives,72,R,"Hayes, Bill",166
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,Governor/Lieutenant Governor,,R,"Kasich, John",175
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,Attorney General,,R,"DeWine, Mike",176
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,Auditor of State,,R,"Yost, Dave",171
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,Secretary of State,,R,"Husted, Jon",165
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,Treasurer of State,,R,"Mandel, Josh",166
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,U.S. House of Representatives,12,R,"Tiberi, Pat",173
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,State Senate,31,R,"Hottinger, Jay",164
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADJ,HARRISON TOWNSHIP C,Central,Columbus,909,336,State House of Representatives,72,R,"Hayes, Bill",164
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,Governor/Lieutenant Governor,,R,"Kasich, John",281
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,Attorney General,,R,"DeWine, Mike",262
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,Auditor of State,,R,"Yost, Dave",239
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,Secretary of State,,R,"Husted, Jon",237
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,Treasurer of State,,R,"Mandel, Josh",230
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,U.S. House of Representatives,12,R,"Tiberi, Pat",270
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,State Senate,31,R,"Hottinger, Jay",242
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADK,HARRISON TOWNSHIP D,Central,Columbus,1385,521,State House of Representatives,72,R,"Hayes, Bill",268
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,Governor/Lieutenant Governor,,R,"Kasich, John",225
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,Attorney General,,R,"DeWine, Mike",202
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,Auditor of State,,R,"Yost, Dave",186
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,Secretary of State,,R,"Husted, Jon",188
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,Treasurer of State,,R,"Mandel, Josh",182
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,U.S. House of Representatives,12,R,"Tiberi, Pat",216
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,State Senate,31,R,"Hottinger, Jay",192
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADL,HARRISON TOWNSHIP E,Central,Columbus,1120,394,State House of Representatives,72,R,"Hayes, Bill",194
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,Governor/Lieutenant Governor,,R,"Kasich, John",235
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,Attorney General,,R,"DeWine, Mike",214
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,Auditor of State,,R,"Yost, Dave",200
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,Secretary of State,,R,"Husted, Jon",203
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,Treasurer of State,,R,"Mandel, Josh",198
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,U.S. House of Representatives,12,R,"Tiberi, Pat",223
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,State Senate,31,R,"Hottinger, Jay",200
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADI,HARRISON TWP B-KIRK,Central,Columbus,1315,471,State House of Representatives,72,R,"Hayes, Bill",207
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,Governor/Lieutenant Governor,,R,"Kasich, John",180
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,Attorney General,,R,"DeWine, Mike",177
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,Auditor of State,,R,"Yost, Dave",167
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,Secretary of State,,R,"Husted, Jon",159
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,Treasurer of State,,R,"Mandel, Josh",162
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,U.S. House of Representatives,12,R,"Tiberi, Pat",180
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,State Senate,31,R,"Hottinger, Jay",167
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,State House of Representatives,71,R,"Cannon III, James W.",23
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,State House of Representatives,71,R,"Ryan, Scott K.",144
+Licking,ADM,HARTFORD TWP-VLG,Central,Columbus,911,309,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,Governor/Lieutenant Governor,,R,"Kasich, John",101
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,Attorney General,,R,"DeWine, Mike",100
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,Auditor of State,,R,"Yost, Dave",96
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,Secretary of State,,R,"Husted, Jon",94
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,Treasurer of State,,R,"Mandel, Josh",89
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,U.S. House of Representatives,12,R,"Tiberi, Pat",99
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,State Senate,31,R,"Hottinger, Jay",101
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,State House of Representatives,71,R,"Cannon III, James W.",17
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,State House of Representatives,71,R,"Ryan, Scott K.",81
+Licking,AAA,HEATH 1-A,Central,Columbus,1266,174,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,Governor/Lieutenant Governor,,R,"Kasich, John",42
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,Attorney General,,R,"DeWine, Mike",42
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,Auditor of State,,R,"Yost, Dave",38
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,Secretary of State,,R,"Husted, Jon",36
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,Treasurer of State,,R,"Mandel, Josh",38
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,U.S. House of Representatives,12,R,"Tiberi, Pat",41
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,State Senate,31,R,"Hottinger, Jay",36
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,State House of Representatives,71,R,"Cannon III, James W.",5
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,State House of Representatives,71,R,"Ryan, Scott K.",35
+Licking,AAB,HEATH 1-B,Central,Columbus,974,80,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,Governor/Lieutenant Governor,,R,"Kasich, John",99
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,Attorney General,,R,"DeWine, Mike",91
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,Auditor of State,,R,"Yost, Dave",84
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,Secretary of State,,R,"Husted, Jon",83
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,Treasurer of State,,R,"Mandel, Josh",80
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,U.S. House of Representatives,12,R,"Tiberi, Pat",93
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,State Senate,31,R,"Hottinger, Jay",91
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,State House of Representatives,71,R,"Cannon III, James W.",14
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,State House of Representatives,71,R,"Ryan, Scott K.",81
+Licking,AAE,HEATH 2-A,Central,Columbus,1048,179,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,Governor/Lieutenant Governor,,R,"Kasich, John",62
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,Attorney General,,R,"DeWine, Mike",64
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,Auditor of State,,R,"Yost, Dave",60
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,Secretary of State,,R,"Husted, Jon",61
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,Treasurer of State,,R,"Mandel, Josh",58
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,U.S. House of Representatives,12,R,"Tiberi, Pat",63
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,State Senate,31,R,"Hottinger, Jay",60
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,State House of Representatives,71,R,"Cannon III, James W.",14
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,State House of Representatives,71,R,"Ryan, Scott K.",52
+Licking,AAD,HEATH 2-B,Central,Columbus,1106,114,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,Governor/Lieutenant Governor,,R,"Kasich, John",73
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,Attorney General,,R,"DeWine, Mike",69
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,Auditor of State,,R,"Yost, Dave",69
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,Secretary of State,,R,"Husted, Jon",71
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,Treasurer of State,,R,"Mandel, Josh",66
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,U.S. House of Representatives,12,R,"Tiberi, Pat",74
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,State Senate,31,R,"Hottinger, Jay",67
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,State House of Representatives,71,R,"Cannon III, James W.",8
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,State House of Representatives,71,R,"Ryan, Scott K.",70
+Licking,AAG,HEATH 3-A,Central,Columbus,1059,133,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,Governor/Lieutenant Governor,,R,"Kasich, John",102
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,Attorney General,,R,"DeWine, Mike",96
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,Auditor of State,,R,"Yost, Dave",93
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,Secretary of State,,R,"Husted, Jon",96
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,Treasurer of State,,R,"Mandel, Josh",89
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,U.S. House of Representatives,12,R,"Tiberi, Pat",101
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,State Senate,31,R,"Hottinger, Jay",93
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,State House of Representatives,71,R,"Cannon III, James W.",9
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,State House of Representatives,71,R,"Ryan, Scott K.",94
+Licking,AAH,HEATH 3-B,Central,Columbus,1235,167,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,Governor/Lieutenant Governor,,R,"Kasich, John",109
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,Attorney General,,R,"DeWine, Mike",105
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,Auditor of State,,R,"Yost, Dave",97
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,Secretary of State,,R,"Husted, Jon",95
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,Treasurer of State,,R,"Mandel, Josh",95
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,U.S. House of Representatives,12,R,"Tiberi, Pat",104
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,State Senate,31,R,"Hottinger, Jay",102
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,AFH,HEBRON VILLAGE,Central,Columbus,1482,204,State House of Representatives,72,R,"Hayes, Bill",98
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,Governor/Lieutenant Governor,,R,"Kasich, John",71
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,Attorney General,,R,"DeWine, Mike",70
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,Auditor of State,,R,"Yost, Dave",66
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,Secretary of State,,R,"Husted, Jon",64
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,Treasurer of State,,R,"Mandel, Josh",64
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,U.S. House of Representatives,12,R,"Tiberi, Pat",67
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,State Senate,31,R,"Hottinger, Jay",65
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADO,HOPEWELL TWP-GRATIOT VLG,Central,Columbus,884,146,State House of Representatives,72,R,"Hayes, Bill",60
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,Governor/Lieutenant Governor,,R,"Kasich, John",218
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,Attorney General,,R,"DeWine, Mike",195
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,Auditor of State,,R,"Yost, Dave",186
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,Secretary of State,,R,"Husted, Jon",190
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,Treasurer of State,,R,"Mandel, Josh",192
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,U.S. House of Representatives,12,R,"Tiberi, Pat",200
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,State Senate,31,R,"Hottinger, Jay",183
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,State House of Representatives,71,R,"Cannon III, James W.",22
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,State House of Representatives,71,R,"Ryan, Scott K.",161
+Licking,ADP,JERSEY TOWNSHIP A,Central,Columbus,1193,399,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,Governor/Lieutenant Governor,,R,"Kasich, John",117
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,Attorney General,,R,"DeWine, Mike",107
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,Auditor of State,,R,"Yost, Dave",99
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,Secretary of State,,R,"Husted, Jon",99
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,Treasurer of State,,R,"Mandel, Josh",105
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,U.S. House of Representatives,12,R,"Tiberi, Pat",113
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,State Senate,31,R,"Hottinger, Jay",106
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,State House of Representatives,71,R,"Cannon III, James W.",14
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,State House of Representatives,71,R,"Ryan, Scott K.",89
+Licking,ADQ,JERSEY TOWNSHIP B,Central,Columbus,818,179,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,Governor/Lieutenant Governor,,R,"Kasich, John",297
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,Attorney General,,R,"DeWine, Mike",289
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,Auditor of State,,R,"Yost, Dave",269
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,Secretary of State,,R,"Husted, Jon",257
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,Treasurer of State,,R,"Mandel, Josh",262
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,U.S. House of Representatives,12,R,"Tiberi, Pat",292
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,State Senate,31,R,"Hottinger, Jay",271
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,State House of Representatives,71,R,"Cannon III, James W.",39
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,State House of Representatives,71,R,"Ryan, Scott K.",215
+Licking,AEG,JOHNSTOWN VILLAGE A,Central,Columbus,1451,592,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,Governor/Lieutenant Governor,,R,"Kasich, John",213
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,Attorney General,,R,"DeWine, Mike",199
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,Auditor of State,,R,"Yost, Dave",181
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,Secretary of State,,R,"Husted, Jon",173
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,Treasurer of State,,R,"Mandel, Josh",181
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,U.S. House of Representatives,12,R,"Tiberi, Pat",212
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,State Senate,31,R,"Hottinger, Jay",193
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,State House of Representatives,71,R,"Cannon III, James W.",34
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,State House of Representatives,71,R,"Ryan, Scott K.",143
+Licking,AEI,JOHNSTOWN VILLAGE B,Central,Columbus,1617,419,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,Governor/Lieutenant Governor,,R,"Kasich, John",160
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,Attorney General,,R,"DeWine, Mike",154
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,Auditor of State,,R,"Yost, Dave",140
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,Secretary of State,,R,"Husted, Jon",139
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,Treasurer of State,,R,"Mandel, Josh",135
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,U.S. House of Representatives,12,R,"Tiberi, Pat",163
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,State Senate,31,R,"Hottinger, Jay",153
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,State House of Representatives,71,R,"Cannon III, James W.",13
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,State House of Representatives,71,R,"Ryan, Scott K.",120
+Licking,ADR,LIBERTY TOWNSHIP A,Central,Columbus,825,308,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,Governor/Lieutenant Governor,,R,"Kasich, John",196
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,Attorney General,,R,"DeWine, Mike",172
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,Auditor of State,,R,"Yost, Dave",166
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,Secretary of State,,R,"Husted, Jon",168
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,Treasurer of State,,R,"Mandel, Josh",163
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,U.S. House of Representatives,12,R,"Tiberi, Pat",187
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,State Senate,31,R,"Hottinger, Jay",172
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,State House of Representatives,71,R,"Cannon III, James W.",34
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,State House of Representatives,71,R,"Ryan, Scott K.",148
+Licking,ADS,LIBERTY TOWNSHIP B,Central,Columbus,943,333,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,Governor/Lieutenant Governor,,R,"Kasich, John",114
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,Attorney General,,R,"DeWine, Mike",106
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,Auditor of State,,R,"Yost, Dave",102
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,Secretary of State,,R,"Husted, Jon",93
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,Treasurer of State,,R,"Mandel, Josh",102
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,U.S. House of Representatives,12,R,"Tiberi, Pat",109
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,State Senate,31,R,"Hottinger, Jay",107
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADT,LICKING TOWNSHIP A,Central,Columbus,1419,187,State House of Representatives,72,R,"Hayes, Bill",99
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,Governor/Lieutenant Governor,,R,"Kasich, John",79
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,Attorney General,,R,"DeWine, Mike",73
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,Auditor of State,,R,"Yost, Dave",67
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,Secretary of State,,R,"Husted, Jon",65
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,Treasurer of State,,R,"Mandel, Josh",67
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,U.S. House of Representatives,12,R,"Tiberi, Pat",72
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,State Senate,31,R,"Hottinger, Jay",66
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADV,LICKING TOWNSHIP B,Central,Columbus,836,124,State House of Representatives,72,R,"Hayes, Bill",68
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,Governor/Lieutenant Governor,,R,"Kasich, John",55
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,Attorney General,,R,"DeWine, Mike",57
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,Auditor of State,,R,"Yost, Dave",55
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,Secretary of State,,R,"Husted, Jon",55
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,Treasurer of State,,R,"Mandel, Josh",53
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,U.S. House of Representatives,12,R,"Tiberi, Pat",55
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,State Senate,31,R,"Hottinger, Jay",54
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADW,LICKING TOWNSHIP C,Central,Columbus,1002,120,State House of Representatives,72,R,"Hayes, Bill",53
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,Governor/Lieutenant Governor,,R,"Kasich, John",99
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,Attorney General,,R,"DeWine, Mike",98
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,Auditor of State,,R,"Yost, Dave",93
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,Secretary of State,,R,"Husted, Jon",92
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,Treasurer of State,,R,"Mandel, Josh",93
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,U.S. House of Representatives,12,R,"Tiberi, Pat",100
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,State Senate,31,R,"Hottinger, Jay",102
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADX,MADISON TOWNSHIP A,Central,Columbus,1297,188,State House of Representatives,72,R,"Hayes, Bill",89
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,Governor/Lieutenant Governor,,R,"Kasich, John",55
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,Attorney General,,R,"DeWine, Mike",56
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,Auditor of State,,R,"Yost, Dave",52
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,Secretary of State,,R,"Husted, Jon",55
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,Treasurer of State,,R,"Mandel, Josh",51
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,U.S. House of Representatives,12,R,"Tiberi, Pat",55
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,State Senate,31,R,"Hottinger, Jay",58
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,ADZ,MADISON TOWNSHIP B,Central,Columbus,839,100,State House of Representatives,72,R,"Hayes, Bill",53
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,Governor/Lieutenant Governor,,R,"Kasich, John",85
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,Attorney General,,R,"DeWine, Mike",85
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,Auditor of State,,R,"Yost, Dave",72
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,Secretary of State,,R,"Husted, Jon",73
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,Treasurer of State,,R,"Mandel, Josh",75
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,U.S. House of Representatives,12,R,"Tiberi, Pat",82
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,State Senate,31,R,"Hottinger, Jay",79
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,AEA,MARY ANN TOWNSHIP,Central,Columbus,1333,151,State House of Representatives,72,R,"Hayes, Bill",74
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,Governor/Lieutenant Governor,,R,"Kasich, John",133
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,Attorney General,,R,"DeWine, Mike",121
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,Auditor of State,,R,"Yost, Dave",114
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,Secretary of State,,R,"Husted, Jon",111
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,Treasurer of State,,R,"Mandel, Josh",119
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,U.S. House of Representatives,12,R,"Tiberi, Pat",122
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,State Senate,31,R,"Hottinger, Jay",127
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,State House of Representatives,71,R,"Cannon III, James W.",20
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,State House of Representatives,71,R,"Ryan, Scott K.",111
+Licking,AEC,MCKEAN TOWNSHIP,Central,Columbus,1101,255,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,Governor/Lieutenant Governor,,R,"Kasich, John",152
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,Attorney General,,R,"DeWine, Mike",140
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,Auditor of State,,R,"Yost, Dave",130
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,Secretary of State,,R,"Husted, Jon",126
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,Treasurer of State,,R,"Mandel, Josh",133
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,U.S. House of Representatives,12,R,"Tiberi, Pat",149
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,State Senate,31,R,"Hottinger, Jay",133
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,State House of Representatives,71,R,"Cannon III, James W.",16
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,State House of Representatives,71,R,"Ryan, Scott K.",108
+Licking,AEE,MONROE TOWNSHIP A,Central,Columbus,795,279,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,Governor/Lieutenant Governor,,R,"Kasich, John",213
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,Attorney General,,R,"DeWine, Mike",196
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,Auditor of State,,R,"Yost, Dave",185
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,Secretary of State,,R,"Husted, Jon",183
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,Treasurer of State,,R,"Mandel, Josh",187
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,U.S. House of Representatives,12,R,"Tiberi, Pat",207
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,State Senate,31,R,"Hottinger, Jay",195
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,State House of Representatives,71,R,"Cannon III, James W.",29
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,State House of Representatives,71,R,"Ryan, Scott K.",144
+Licking,AEF,MONROE TOWNSHIP B,Central,Columbus,894,381,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,Governor/Lieutenant Governor,,R,"Kasich, John",56
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,Attorney General,,R,"DeWine, Mike",60
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,Auditor of State,,R,"Yost, Dave",55
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,Secretary of State,,R,"Husted, Jon",56
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,Treasurer of State,,R,"Mandel, Josh",56
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,U.S. House of Representatives,12,R,"Tiberi, Pat",59
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,State Senate,31,R,"Hottinger, Jay",58
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,State House of Representatives,71,R,"Cannon III, James W.",12
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,State House of Representatives,71,R,"Ryan, Scott K.",51
+Licking,AAJ,NEWARK 1-A,Central,Columbus,1794,129,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,Governor/Lieutenant Governor,,R,"Kasich, John",43
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,Attorney General,,R,"DeWine, Mike",43
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,Auditor of State,,R,"Yost, Dave",39
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,Secretary of State,,R,"Husted, Jon",39
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,Treasurer of State,,R,"Mandel, Josh",35
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,U.S. House of Representatives,12,R,"Tiberi, Pat",47
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,State Senate,31,R,"Hottinger, Jay",44
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,State House of Representatives,71,R,"Cannon III, James W.",16
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,State House of Representatives,71,R,"Ryan, Scott K.",33
+Licking,AAK,NEWARK 1-B,Central,Columbus,1686,116,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,Governor/Lieutenant Governor,,R,"Kasich, John",36
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,Attorney General,,R,"DeWine, Mike",39
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,Auditor of State,,R,"Yost, Dave",36
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,Secretary of State,,R,"Husted, Jon",36
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,Treasurer of State,,R,"Mandel, Josh",38
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,U.S. House of Representatives,12,R,"Tiberi, Pat",37
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,State Senate,31,R,"Hottinger, Jay",36
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,State House of Representatives,71,R,"Cannon III, James W.",4
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,State House of Representatives,71,R,"Ryan, Scott K.",35
+Licking,AAP,NEWARK 2-A,Central,Columbus,1091,82,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,Governor/Lieutenant Governor,,R,"Kasich, John",41
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,Attorney General,,R,"DeWine, Mike",42
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,Auditor of State,,R,"Yost, Dave",38
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,Secretary of State,,R,"Husted, Jon",37
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,Treasurer of State,,R,"Mandel, Josh",42
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,U.S. House of Representatives,12,R,"Tiberi, Pat",39
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,State Senate,31,R,"Hottinger, Jay",41
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,State House of Representatives,71,R,"Cannon III, James W.",5
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,State House of Representatives,71,R,"Ryan, Scott K.",38
+Licking,AAQ,NEWARK 2-B,Central,Columbus,1811,120,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,Governor/Lieutenant Governor,,R,"Kasich, John",18
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,Attorney General,,R,"DeWine, Mike",20
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,Auditor of State,,R,"Yost, Dave",21
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,Secretary of State,,R,"Husted, Jon",22
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,Treasurer of State,,R,"Mandel, Josh",18
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,U.S. House of Representatives,12,R,"Tiberi, Pat",19
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,State Senate,31,R,"Hottinger, Jay",20
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,State House of Representatives,71,R,"Cannon III, James W.",4
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,State House of Representatives,71,R,"Ryan, Scott K.",17
+Licking,AAS,NEWARK 2-C,Central,Columbus,877,60,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,Governor/Lieutenant Governor,,R,"Kasich, John",142
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,Attorney General,,R,"DeWine, Mike",137
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,Auditor of State,,R,"Yost, Dave",125
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,Secretary of State,,R,"Husted, Jon",123
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,Treasurer of State,,R,"Mandel, Josh",121
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,U.S. House of Representatives,12,R,"Tiberi, Pat",132
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,State Senate,31,R,"Hottinger, Jay",131
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,State House of Representatives,71,R,"Cannon III, James W.",19
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,State House of Representatives,71,R,"Ryan, Scott K.",128
+Licking,AAW,NEWARK 3-A,Central,Columbus,1592,248,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,Governor/Lieutenant Governor,,R,"Kasich, John",114
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,Attorney General,,R,"DeWine, Mike",113
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,Auditor of State,,R,"Yost, Dave",106
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,Secretary of State,,R,"Husted, Jon",107
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,Treasurer of State,,R,"Mandel, Josh",100
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,U.S. House of Representatives,12,R,"Tiberi, Pat",108
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,State Senate,31,R,"Hottinger, Jay",103
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,State House of Representatives,71,R,"Cannon III, James W.",15
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,State House of Representatives,71,R,"Ryan, Scott K.",104
+Licking,AAX,NEWARK 3-B,Central,Columbus,1434,204,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,Governor/Lieutenant Governor,,R,"Kasich, John",60
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,Attorney General,,R,"DeWine, Mike",56
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,Auditor of State,,R,"Yost, Dave",54
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,Secretary of State,,R,"Husted, Jon",54
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,Treasurer of State,,R,"Mandel, Josh",53
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,U.S. House of Representatives,12,R,"Tiberi, Pat",57
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,State Senate,31,R,"Hottinger, Jay",57
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,State House of Representatives,71,R,"Cannon III, James W.",13
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,State House of Representatives,71,R,"Ryan, Scott K.",47
+Licking,AAY,NEWARK 3-C,Central,Columbus,1033,108,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,Governor/Lieutenant Governor,,R,"Kasich, John",120
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,Attorney General,,R,"DeWine, Mike",120
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,Auditor of State,,R,"Yost, Dave",113
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,Secretary of State,,R,"Husted, Jon",112
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,Treasurer of State,,R,"Mandel, Josh",107
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,U.S. House of Representatives,12,R,"Tiberi, Pat",117
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,State Senate,31,R,"Hottinger, Jay",115
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,State House of Representatives,71,R,"Cannon III, James W.",17
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,State House of Representatives,71,R,"Ryan, Scott K.",109
+Licking,ABB,NEWARK 4-A,Central,Columbus,1450,202,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,Governor/Lieutenant Governor,,R,"Kasich, John",81
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,Attorney General,,R,"DeWine, Mike",78
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,Auditor of State,,R,"Yost, Dave",77
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,Secretary of State,,R,"Husted, Jon",73
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,Treasurer of State,,R,"Mandel, Josh",75
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,U.S. House of Representatives,12,R,"Tiberi, Pat",81
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,State Senate,31,R,"Hottinger, Jay",77
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,State House of Representatives,71,R,"Cannon III, James W.",10
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,State House of Representatives,71,R,"Ryan, Scott K.",75
+Licking,ABC,NEWARK 4-B,Central,Columbus,1345,167,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,Governor/Lieutenant Governor,,R,"Kasich, John",99
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,Attorney General,,R,"DeWine, Mike",97
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,Auditor of State,,R,"Yost, Dave",90
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,Secretary of State,,R,"Husted, Jon",91
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,Treasurer of State,,R,"Mandel, Josh",92
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,U.S. House of Representatives,12,R,"Tiberi, Pat",98
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,State Senate,31,R,"Hottinger, Jay",96
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,State House of Representatives,71,R,"Cannon III, James W.",11
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,State House of Representatives,71,R,"Ryan, Scott K.",94
+Licking,ABE,NEWARK 4-C,Central,Columbus,888,154,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,Governor/Lieutenant Governor,,R,"Kasich, John",56
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,Attorney General,,R,"DeWine, Mike",52
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,Auditor of State,,R,"Yost, Dave",48
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,Secretary of State,,R,"Husted, Jon",50
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,Treasurer of State,,R,"Mandel, Josh",51
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,U.S. House of Representatives,12,R,"Tiberi, Pat",56
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,State Senate,31,R,"Hottinger, Jay",50
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,State House of Representatives,71,R,"Cannon III, James W.",6
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,State House of Representatives,71,R,"Ryan, Scott K.",51
+Licking,ABF,NEWARK 4-D,Central,Columbus,918,113,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,Governor/Lieutenant Governor,,R,"Kasich, John",190
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,Attorney General,,R,"DeWine, Mike",184
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,Auditor of State,,R,"Yost, Dave",175
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,Secretary of State,,R,"Husted, Jon",173
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,Treasurer of State,,R,"Mandel, Josh",171
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,U.S. House of Representatives,12,R,"Tiberi, Pat",179
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,State Senate,31,R,"Hottinger, Jay",176
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,State House of Representatives,71,R,"Cannon III, James W.",10
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,State House of Representatives,71,R,"Ryan, Scott K.",178
+Licking,ABJ,NEWARK 5-A,Central,Columbus,999,265,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,Governor/Lieutenant Governor,,R,"Kasich, John",172
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,Attorney General,,R,"DeWine, Mike",164
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,Auditor of State,,R,"Yost, Dave",159
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,Secretary of State,,R,"Husted, Jon",159
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,Treasurer of State,,R,"Mandel, Josh",154
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,U.S. House of Representatives,12,R,"Tiberi, Pat",172
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,State Senate,31,R,"Hottinger, Jay",166
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,State House of Representatives,71,R,"Cannon III, James W.",18
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,State House of Representatives,71,R,"Ryan, Scott K.",164
+Licking,ABK,NEWARK 5-B,Central,Columbus,1292,250,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,Governor/Lieutenant Governor,,R,"Kasich, John",88
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,Attorney General,,R,"DeWine, Mike",88
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,Auditor of State,,R,"Yost, Dave",80
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,Secretary of State,,R,"Husted, Jon",80
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,Treasurer of State,,R,"Mandel, Josh",79
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,U.S. House of Representatives,12,R,"Tiberi, Pat",92
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,State Senate,31,R,"Hottinger, Jay",88
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,State House of Representatives,71,R,"Cannon III, James W.",16
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,State House of Representatives,71,R,"Ryan, Scott K.",86
+Licking,ABM,NEWARK 5-C,Central,Columbus,907,178,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,Governor/Lieutenant Governor,,R,"Kasich, John",89
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,Attorney General,,R,"DeWine, Mike",83
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,Auditor of State,,R,"Yost, Dave",75
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,Secretary of State,,R,"Husted, Jon",76
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,Treasurer of State,,R,"Mandel, Josh",77
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,U.S. House of Representatives,12,R,"Tiberi, Pat",83
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,State Senate,31,R,"Hottinger, Jay",84
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,State House of Representatives,71,R,"Cannon III, James W.",11
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,State House of Representatives,71,R,"Ryan, Scott K.",78
+Licking,ABO,NEWARK 5-D,Central,Columbus,900,168,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,Governor/Lieutenant Governor,,R,"Kasich, John",51
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,Attorney General,,R,"DeWine, Mike",53
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,Auditor of State,,R,"Yost, Dave",50
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,Secretary of State,,R,"Husted, Jon",53
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,Treasurer of State,,R,"Mandel, Josh",48
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,U.S. House of Representatives,12,R,"Tiberi, Pat",54
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,State Senate,31,R,"Hottinger, Jay",53
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,State House of Representatives,71,R,"Cannon III, James W.",8
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,State House of Representatives,71,R,"Ryan, Scott K.",46
+Licking,ABN,NEWARK 5-E,Central,Columbus,712,103,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,Governor/Lieutenant Governor,,R,"Kasich, John",84
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,Attorney General,,R,"DeWine, Mike",89
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,Auditor of State,,R,"Yost, Dave",76
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,Secretary of State,,R,"Husted, Jon",72
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,Treasurer of State,,R,"Mandel, Josh",75
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,U.S. House of Representatives,12,R,"Tiberi, Pat",80
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,State Senate,31,R,"Hottinger, Jay",77
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,State House of Representatives,71,R,"Cannon III, James W.",6
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,State House of Representatives,71,R,"Ryan, Scott K.",76
+Licking,ABR,NEWARK 6-A,Central,Columbus,1057,143,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,Governor/Lieutenant Governor,,R,"Kasich, John",75
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,Attorney General,,R,"DeWine, Mike",69
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,Auditor of State,,R,"Yost, Dave",68
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,Secretary of State,,R,"Husted, Jon",62
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,Treasurer of State,,R,"Mandel, Josh",67
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,U.S. House of Representatives,12,R,"Tiberi, Pat",69
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,State Senate,31,R,"Hottinger, Jay",73
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,State House of Representatives,71,R,"Cannon III, James W.",8
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,State House of Representatives,71,R,"Ryan, Scott K.",66
+Licking,ABS,NEWARK 6-B,Central,Columbus,1137,133,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,Governor/Lieutenant Governor,,R,"Kasich, John",73
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,Attorney General,,R,"DeWine, Mike",71
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,Auditor of State,,R,"Yost, Dave",69
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,Secretary of State,,R,"Husted, Jon",71
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,Treasurer of State,,R,"Mandel, Josh",67
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,U.S. House of Representatives,12,R,"Tiberi, Pat",71
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,State Senate,31,R,"Hottinger, Jay",73
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,State House of Representatives,71,R,"Cannon III, James W.",13
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,State House of Representatives,71,R,"Ryan, Scott K.",62
+Licking,ABT,NEWARK 6-C,Central,Columbus,818,105,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,Governor/Lieutenant Governor,,R,"Kasich, John",34
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,Attorney General,,R,"DeWine, Mike",32
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,Auditor of State,,R,"Yost, Dave",32
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,Secretary of State,,R,"Husted, Jon",32
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,Treasurer of State,,R,"Mandel, Josh",31
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,U.S. House of Representatives,12,R,"Tiberi, Pat",33
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,State Senate,31,R,"Hottinger, Jay",32
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,State House of Representatives,71,R,"Cannon III, James W.",4
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,State House of Representatives,71,R,"Ryan, Scott K.",30
+Licking,ABU,NEWARK 6-D,Central,Columbus,849,56,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,Governor/Lieutenant Governor,,R,"Kasich, John",95
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,Attorney General,,R,"DeWine, Mike",89
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,Auditor of State,,R,"Yost, Dave",85
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,Secretary of State,,R,"Husted, Jon",86
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,Treasurer of State,,R,"Mandel, Josh",80
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,U.S. House of Representatives,12,R,"Tiberi, Pat",91
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,State Senate,31,R,"Hottinger, Jay",86
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,State House of Representatives,71,R,"Cannon III, James W.",15
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,State House of Representatives,71,R,"Ryan, Scott K.",88
+Licking,ABV,NEWARK 6-E,Central,Columbus,979,155,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,Governor/Lieutenant Governor,,R,"Kasich, John",38
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,Attorney General,,R,"DeWine, Mike",36
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,Auditor of State,,R,"Yost, Dave",33
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,Secretary of State,,R,"Husted, Jon",35
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,Treasurer of State,,R,"Mandel, Josh",38
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,U.S. House of Representatives,12,R,"Tiberi, Pat",38
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,State Senate,31,R,"Hottinger, Jay",37
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,State House of Representatives,71,R,"Cannon III, James W.",7
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,State House of Representatives,71,R,"Ryan, Scott K.",29
+Licking,ABZ,NEWARK 7-A,Central,Columbus,1161,77,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,Governor/Lieutenant Governor,,R,"Kasich, John",59
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,Attorney General,,R,"DeWine, Mike",55
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,Auditor of State,,R,"Yost, Dave",53
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,Secretary of State,,R,"Husted, Jon",51
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,Treasurer of State,,R,"Mandel, Josh",53
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,U.S. House of Representatives,12,R,"Tiberi, Pat",57
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,State Senate,31,R,"Hottinger, Jay",57
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,State House of Representatives,71,R,"Cannon III, James W.",18
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,State House of Representatives,71,R,"Ryan, Scott K.",46
+Licking,ACA,NEWARK 7-B,Central,Columbus,1782,124,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,Governor/Lieutenant Governor,,R,"Kasich, John",30
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,Attorney General,,R,"DeWine, Mike",27
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,Auditor of State,,R,"Yost, Dave",28
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,Secretary of State,,R,"Husted, Jon",26
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,Treasurer of State,,R,"Mandel, Josh",25
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,U.S. House of Representatives,12,R,"Tiberi, Pat",27
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,State Senate,31,R,"Hottinger, Jay",28
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,State House of Representatives,71,R,"Cannon III, James W.",2
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,State House of Representatives,71,R,"Ryan, Scott K.",27
+Licking,ACB,NEWARK 7-C,Central,Columbus,832,69,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,Governor/Lieutenant Governor,,R,"Kasich, John",177
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,Attorney General,,R,"DeWine, Mike",168
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,Auditor of State,,R,"Yost, Dave",163
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,Secretary of State,,R,"Husted, Jon",160
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,Treasurer of State,,R,"Mandel, Josh",161
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,U.S. House of Representatives,12,R,"Tiberi, Pat",170
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,State Senate,31,R,"Hottinger, Jay",168
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,State House of Representatives,71,R,"Cannon III, James W.",25
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,State House of Representatives,71,R,"Ryan, Scott K.",150
+Licking,AEK,NEWARK TOWNSHIP,Central,Columbus,1507,275,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,Governor/Lieutenant Governor,,R,"Kasich, John",117
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,Attorney General,,R,"DeWine, Mike",106
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,Auditor of State,,R,"Yost, Dave",104
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,Secretary of State,,R,"Husted, Jon",106
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,Treasurer of State,,R,"Mandel, Josh",94
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,U.S. House of Representatives,12,R,"Tiberi, Pat",112
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,State Senate,31,R,"Hottinger, Jay",106
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,State House of Representatives,71,R,"Cannon III, James W.",12
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,State House of Representatives,71,R,"Ryan, Scott K.",106
+Licking,AEO,NEWTON TWP A,Central,Columbus,1296,226,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,Governor/Lieutenant Governor,,R,"Kasich, John",86
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,Attorney General,,R,"DeWine, Mike",81
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,Auditor of State,,R,"Yost, Dave",78
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,Secretary of State,,R,"Husted, Jon",77
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,Treasurer of State,,R,"Mandel, Josh",77
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,U.S. House of Representatives,12,R,"Tiberi, Pat",81
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,State Senate,31,R,"Hottinger, Jay",79
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,State House of Representatives,71,R,"Cannon III, James W.",20
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,State House of Representatives,71,R,"Ryan, Scott K.",67
+Licking,AEQ,NEWTON TWP B-ST LOU,Central,Columbus,865,165,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,Governor/Lieutenant Governor,,R,"Kasich, John",115
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,Attorney General,,R,"DeWine, Mike",114
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,Auditor of State,,R,"Yost, Dave",99
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,Secretary of State,,R,"Husted, Jon",92
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,Treasurer of State,,R,"Mandel, Josh",100
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,U.S. House of Representatives,12,R,"Tiberi, Pat",108
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,State Senate,31,R,"Hottinger, Jay",106
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,State House of Representatives,71,R,"Cannon III, James W.",16
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,State House of Representatives,71,R,"Ryan, Scott K.",93
+Licking,AES,PATASKALA 1-A,Central,Columbus,1321,206,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,Governor/Lieutenant Governor,,R,"Kasich, John",113
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,Attorney General,,R,"DeWine, Mike",106
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,Auditor of State,,R,"Yost, Dave",100
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,Secretary of State,,R,"Husted, Jon",95
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,Treasurer of State,,R,"Mandel, Josh",102
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,U.S. House of Representatives,12,R,"Tiberi, Pat",110
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,State Senate,31,R,"Hottinger, Jay",101
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,State House of Representatives,71,R,"Cannon III, James W.",26
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,State House of Representatives,71,R,"Ryan, Scott K.",75
+Licking,AET,PATASKALA 1-B,Central,Columbus,1319,229,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,Governor/Lieutenant Governor,,R,"Kasich, John",74
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,Attorney General,,R,"DeWine, Mike",69
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,Auditor of State,,R,"Yost, Dave",66
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,Secretary of State,,R,"Husted, Jon",65
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,Treasurer of State,,R,"Mandel, Josh",64
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,U.S. House of Representatives,12,R,"Tiberi, Pat",77
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,State Senate,31,R,"Hottinger, Jay",65
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,State House of Representatives,71,R,"Cannon III, James W.",13
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,State House of Representatives,71,R,"Ryan, Scott K.",55
+Licking,AEU,PATASKALA 2-A,Central,Columbus,1241,155,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,Governor/Lieutenant Governor,,R,"Kasich, John",57
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,Attorney General,,R,"DeWine, Mike",55
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,Auditor of State,,R,"Yost, Dave",55
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,Secretary of State,,R,"Husted, Jon",54
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,Treasurer of State,,R,"Mandel, Josh",48
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,U.S. House of Representatives,12,R,"Tiberi, Pat",54
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,State Senate,31,R,"Hottinger, Jay",52
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,State House of Representatives,71,R,"Cannon III, James W.",16
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,State House of Representatives,71,R,"Ryan, Scott K.",42
+Licking,AEV,PATASKALA 2-B,Central,Columbus,1140,96,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,Governor/Lieutenant Governor,,R,"Kasich, John",181
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,Attorney General,,R,"DeWine, Mike",171
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,Auditor of State,,R,"Yost, Dave",159
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,Secretary of State,,R,"Husted, Jon",155
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,Treasurer of State,,R,"Mandel, Josh",162
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,U.S. House of Representatives,12,R,"Tiberi, Pat",179
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,State Senate,31,R,"Hottinger, Jay",163
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,State House of Representatives,71,R,"Cannon III, James W.",16
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,State House of Representatives,71,R,"Ryan, Scott K.",147
+Licking,AEW,PATASKALA 3-A,Central,Columbus,1426,345,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,Governor/Lieutenant Governor,,R,"Kasich, John",197
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,Attorney General,,R,"DeWine, Mike",186
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,Auditor of State,,R,"Yost, Dave",175
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,Secretary of State,,R,"Husted, Jon",179
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,Treasurer of State,,R,"Mandel, Josh",162
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,U.S. House of Representatives,12,R,"Tiberi, Pat",198
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,State Senate,31,R,"Hottinger, Jay",172
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,State House of Representatives,71,R,"Cannon III, James W.",29
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,State House of Representatives,71,R,"Ryan, Scott K.",154
+Licking,AEX,PATASKALA 3-B,Central,Columbus,1295,417,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,Governor/Lieutenant Governor,,R,"Kasich, John",145
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,Attorney General,,R,"DeWine, Mike",138
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,Auditor of State,,R,"Yost, Dave",121
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,Secretary of State,,R,"Husted, Jon",119
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,Treasurer of State,,R,"Mandel, Josh",124
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,U.S. House of Representatives,12,R,"Tiberi, Pat",135
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,State Senate,31,R,"Hottinger, Jay",129
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,State House of Representatives,71,R,"Cannon III, James W.",8
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,State House of Representatives,71,R,"Ryan, Scott K.",117
+Licking,AEY,PATASKALA 4-A,Central,Columbus,1060,276,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,Governor/Lieutenant Governor,,R,"Kasich, John",190
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,Attorney General,,R,"DeWine, Mike",185
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,Auditor of State,,R,"Yost, Dave",170
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,Secretary of State,,R,"Husted, Jon",166
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,Treasurer of State,,R,"Mandel, Josh",165
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,U.S. House of Representatives,12,R,"Tiberi, Pat",186
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,State Senate,31,R,"Hottinger, Jay",163
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,State House of Representatives,71,R,"Cannon III, James W.",19
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,State House of Representatives,71,R,"Ryan, Scott K.",143
+Licking,AEZ,PATASKALA 4-B,Central,Columbus,1330,349,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,Governor/Lieutenant Governor,,R,"Kasich, John",91
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,Attorney General,,R,"DeWine, Mike",83
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,Auditor of State,,R,"Yost, Dave",77
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,Secretary of State,,R,"Husted, Jon",82
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,Treasurer of State,,R,"Mandel, Josh",75
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,U.S. House of Representatives,12,R,"Tiberi, Pat",84
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,State Senate,31,R,"Hottinger, Jay",90
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,AFA,PERRY TOWNSHIP,Central,Columbus,978,150,State House of Representatives,72,R,"Hayes, Bill",82
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,Governor/Lieutenant Governor,,R,"Kasich, John",36
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,Attorney General,,R,"DeWine, Mike",36
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,Auditor of State,,R,"Yost, Dave",32
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,Secretary of State,,R,"Husted, Jon",33
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,Treasurer of State,,R,"Mandel, Josh",34
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,U.S. House of Representatives,12,R,"Tiberi, Pat",36
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,State Senate,31,R,"Hottinger, Jay",28
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,State House of Representatives,71,R,"Cannon III, James W.",5
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,State House of Representatives,71,R,"Ryan, Scott K.",27
+Licking,AFR,REYNOLDSBURG 2-A,Central,Columbus,1084,72,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,Governor/Lieutenant Governor,,R,"Kasich, John",89
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,Attorney General,,R,"DeWine, Mike",91
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,Auditor of State,,R,"Yost, Dave",86
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,Secretary of State,,R,"Husted, Jon",85
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,Treasurer of State,,R,"Mandel, Josh",87
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,U.S. House of Representatives,12,R,"Tiberi, Pat",85
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,State Senate,31,R,"Hottinger, Jay",85
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,State House of Representatives,71,R,"Cannon III, James W.",17
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,State House of Representatives,71,R,"Ryan, Scott K.",69
+Licking,AFS,REYNOLDSBURG 3-A,Central,Columbus,1379,148,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,Governor/Lieutenant Governor,,R,"Kasich, John",50
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,Attorney General,,R,"DeWine, Mike",48
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,Auditor of State,,R,"Yost, Dave",44
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,Secretary of State,,R,"Husted, Jon",45
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,Treasurer of State,,R,"Mandel, Josh",40
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,U.S. House of Representatives,12,R,"Tiberi, Pat",46
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,State Senate,31,R,"Hottinger, Jay",40
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,State House of Representatives,71,R,"Cannon III, James W.",7
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,State House of Representatives,71,R,"Ryan, Scott K.",41
+Licking,AFT,REYNOLDSBURG 3-B,Central,Columbus,943,80,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,Governor/Lieutenant Governor,,R,"Kasich, John",45
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,Attorney General,,R,"DeWine, Mike",44
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,Auditor of State,,R,"Yost, Dave",41
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,Secretary of State,,R,"Husted, Jon",40
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,Treasurer of State,,R,"Mandel, Josh",44
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,U.S. House of Representatives,12,R,"Tiberi, Pat",42
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,State Senate,31,R,"Hottinger, Jay",39
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,State House of Representatives,71,R,"Cannon III, James W.",11
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,State House of Representatives,71,R,"Ryan, Scott K.",34
+Licking,AFU,REYNOLDSBURG 3-C,Central,Columbus,1324,107,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,Governor/Lieutenant Governor,,R,"Kasich, John",48
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,Attorney General,,R,"DeWine, Mike",48
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,Auditor of State,,R,"Yost, Dave",47
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,Secretary of State,,R,"Husted, Jon",45
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,Treasurer of State,,R,"Mandel, Josh",48
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,U.S. House of Representatives,12,R,"Tiberi, Pat",49
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,State Senate,31,R,"Hottinger, Jay",43
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,State House of Representatives,71,R,"Cannon III, James W.",13
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,State House of Representatives,71,R,"Ryan, Scott K.",34
+Licking,AFV,REYNOLDSBURG 3-D,Central,Columbus,1346,116,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,Governor/Lieutenant Governor,,R,"Kasich, John",174
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,Attorney General,,R,"DeWine, Mike",156
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,Auditor of State,,R,"Yost, Dave",148
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,Secretary of State,,R,"Husted, Jon",148
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,Treasurer of State,,R,"Mandel, Josh",147
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,U.S. House of Representatives,12,R,"Tiberi, Pat",162
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,State Senate,31,R,"Hottinger, Jay",150
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,AFC,ST ALBANS TWP A,Central,Columbus,825,292,State House of Representatives,72,R,"Hayes, Bill",136
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,Governor/Lieutenant Governor,,R,"Kasich, John",188
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,Attorney General,,R,"DeWine, Mike",179
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,Auditor of State,,R,"Yost, Dave",161
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,Secretary of State,,R,"Husted, Jon",160
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,Treasurer of State,,R,"Mandel, Josh",162
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,U.S. House of Representatives,12,R,"Tiberi, Pat",192
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,State Senate,31,R,"Hottinger, Jay",175
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,AFD,ST ALBANS TWP B-ALEX,Central,Columbus,987,342,State House of Representatives,72,R,"Hayes, Bill",162
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,Governor/Lieutenant Governor,,R,"Kasich, John",180
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,Attorney General,,R,"DeWine, Mike",176
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,Auditor of State,,R,"Yost, Dave",166
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,Secretary of State,,R,"Husted, Jon",165
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,Treasurer of State,,R,"Mandel, Josh",158
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,U.S. House of Representatives,12,R,"Tiberi, Pat",186
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,State Senate,31,R,"Hottinger, Jay",169
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,AFE,UNION TOWNSHIP A,Central,Columbus,1391,320,State House of Representatives,72,R,"Hayes, Bill",163
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,Governor/Lieutenant Governor,,R,"Kasich, John",209
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,Attorney General,,R,"DeWine, Mike",200
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,Auditor of State,,R,"Yost, Dave",184
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,Secretary of State,,R,"Husted, Jon",181
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,Treasurer of State,,R,"Mandel, Josh",178
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,U.S. House of Representatives,12,R,"Tiberi, Pat",192
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,State Senate,31,R,"Hottinger, Jay",193
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,State House of Representatives,71,R,"Cannon III, James W.",0
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,State House of Representatives,71,R,"Ryan, Scott K.",0
+Licking,AFF,UNION TOWNSHIP B,Central,Columbus,1375,341,State House of Representatives,72,R,"Hayes, Bill",183
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,Governor/Lieutenant Governor,,R,"Kasich, John",85
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,Attorney General,,R,"DeWine, Mike",80
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,Auditor of State,,R,"Yost, Dave",81
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,Secretary of State,,R,"Husted, Jon",78
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,Treasurer of State,,R,"Mandel, Josh",79
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,U.S. House of Representatives,12,R,"Tiberi, Pat",83
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,State Senate,31,R,"Hottinger, Jay",86
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,State House of Representatives,71,R,"Cannon III, James W.",10
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,State House of Representatives,71,R,"Ryan, Scott K.",79
+Licking,AFM,UTICA VILLAGE,Central,Columbus,1229,207,State House of Representatives,72,R,"Hayes, Bill",0
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,Governor/Lieutenant Governor,,R,"Kasich, John",74
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,Attorney General,,R,"DeWine, Mike",71
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,Auditor of State,,R,"Yost, Dave",70
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,Secretary of State,,R,"Husted, Jon",69
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,Treasurer of State,,R,"Mandel, Josh",67
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,U.S. House of Representatives,12,R,"Tiberi, Pat",70
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,State Senate,31,R,"Hottinger, Jay",67
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,State House of Representatives,71,R,"Cannon III, James W.",10
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,State House of Representatives,71,R,"Ryan, Scott K.",74
+Licking,AFL,WASHINGTON TOWNSHIP,Central,Columbus,654,147,State House of Representatives,72,R,"Hayes, Bill",0
