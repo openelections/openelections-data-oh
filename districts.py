@@ -1,5 +1,5 @@
 import json
-from csvkit import unicsv
+import unicsv
 
 def load_districts():
     with open('county_crosswalk.csv', 'rb') as csvfile:
