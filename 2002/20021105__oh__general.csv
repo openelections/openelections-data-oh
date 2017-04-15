@@ -1,0 +1,1740 @@
+county,candidate,votes,district,party,office
+Adams,Eva Braiman ,0,,WI,Governor
+Allen,Eva Braiman ,0,,WI,Governor
+Ashland,Eva Braiman ,0,,WI,Governor
+Ashtabula,Eva Braiman ,0,,WI,Governor
+Athens,Eva Braiman ,0,,WI,Governor
+Auglaize,Eva Braiman ,0,,WI,Governor
+Belmont,Eva Braiman ,0,,WI,Governor
+Brown,Eva Braiman ,0,,WI,Governor
+Butler,Eva Braiman ,0,,WI,Governor
+Carroll,Eva Braiman ,0,,WI,Governor
+Champaign,Eva Braiman ,0,,WI,Governor
+Clark,Eva Braiman ,1,,WI,Governor
+Clermont,Eva Braiman ,0,,WI,Governor
+Clinton,Eva Braiman ,0,,WI,Governor
+Columbiana,Eva Braiman ,0,,WI,Governor
+Coshocton,Eva Braiman ,0,,WI,Governor
+Crawford,Eva Braiman ,0,,WI,Governor
+Cuyahoga,Eva Braiman ,6,,WI,Governor
+Darke,Eva Braiman ,0,,WI,Governor
+Defiance,Eva Braiman ,0,,WI,Governor
+Delaware,Eva Braiman ,0,,WI,Governor
+Erie,Eva Braiman ,1,,WI,Governor
+Fairfield,Eva Braiman ,0,,WI,Governor
+Fayette,Eva Braiman ,0,,WI,Governor
+Franklin,Eva Braiman ,3,,WI,Governor
+Fulton,Eva Braiman ,0,,WI,Governor
+Gallia,Eva Braiman ,0,,WI,Governor
+Geauga,Eva Braiman ,0,,WI,Governor
+Greene,Eva Braiman ,0,,WI,Governor
+Guernsey,Eva Braiman ,1,,WI,Governor
+Hamilton,Eva Braiman ,2,,WI,Governor
+Hancock,Eva Braiman ,0,,WI,Governor
+Hardin,Eva Braiman ,0,,WI,Governor
+Harrison,Eva Braiman ,0,,WI,Governor
+Henry,Eva Braiman ,0,,WI,Governor
+Highland,Eva Braiman ,0,,WI,Governor
+Hocking,Eva Braiman ,0,,WI,Governor
+Holmes,Eva Braiman ,0,,WI,Governor
+Huron,Eva Braiman ,0,,WI,Governor
+Jackson,Eva Braiman ,0,,WI,Governor
+Jefferson,Eva Braiman ,0,,WI,Governor
+Knox,Eva Braiman ,0,,WI,Governor
+Lake,Eva Braiman ,1,,WI,Governor
+Lawrence,Eva Braiman ,0,,WI,Governor
+Licking,Eva Braiman ,0,,WI,Governor
+Logan,Eva Braiman ,0,,WI,Governor
+Lorain,Eva Braiman ,1,,WI,Governor
+Lucas,Eva Braiman ,1,,WI,Governor
+Madison,Eva Braiman ,0,,WI,Governor
+Mahoning,Eva Braiman ,62,,WI,Governor
+Marion,Eva Braiman ,0,,WI,Governor
+Medina,Eva Braiman ,0,,WI,Governor
+Meigs,Eva Braiman ,0,,WI,Governor
+Mercer,Eva Braiman ,0,,WI,Governor
+Miami,Eva Braiman ,0,,WI,Governor
+Monroe,Eva Braiman ,0,,WI,Governor
+Montgomery,Eva Braiman ,4,,WI,Governor
+Morgan,Eva Braiman ,0,,WI,Governor
+Morrow,Eva Braiman ,0,,WI,Governor
+Muskingum,Eva Braiman ,0,,WI,Governor
+Noble,Eva Braiman ,0,,WI,Governor
+Ottawa,Eva Braiman ,0,,WI,Governor
+Paulding,Eva Braiman ,0,,WI,Governor
+Perry,Eva Braiman ,0,,WI,Governor
+Pickaway,Eva Braiman ,0,,WI,Governor
+Pike,Eva Braiman ,0,,WI,Governor
+Portage,Eva Braiman ,0,,WI,Governor
+Preble,Eva Braiman ,0,,WI,Governor
+Putnam,Eva Braiman ,0,,WI,Governor
+Richland,Eva Braiman ,0,,WI,Governor
+Ross,Eva Braiman ,0,,WI,Governor
+Sandusky,Eva Braiman ,0,,WI,Governor
+Scioto,Eva Braiman ,0,,WI,Governor
+Seneca,Eva Braiman ,0,,WI,Governor
+Shelby,Eva Braiman ,0,,WI,Governor
+Stark,Eva Braiman ,0,,WI,Governor
+Summit,Eva Braiman ,0,,WI,Governor
+Trumbull,Eva Braiman ,0,,WI,Governor
+Tuscarawas,Eva Braiman ,0,,WI,Governor
+Union,Eva Braiman ,0,,WI,Governor
+Van Wert,Eva Braiman ,0,,WI,Governor
+Vinton,Eva Braiman ,0,,WI,Governor
+Warren,Eva Braiman ,0,,WI,Governor
+Washington,Eva Braiman ,0,,WI,Governor
+Wayne,Eva Braiman ,0,,WI,Governor
+Williams,Eva Braiman ,0,,WI,Governor
+Wood,Eva Braiman ,1,,WI,Governor
+Wyandot,Eva Braiman ,0,,WI,Governor
+Adams,John Eastman,302,,,Governor
+Allen,John Eastman,1891,,,Governor
+Ashland,John Eastman,529,,,Governor
+Ashtabula,John Eastman,1097,,,Governor
+Athens,John Eastman,930,,,Governor
+Auglaize,John Eastman,836,,,Governor
+Belmont,John Eastman,852,,,Governor
+Brown,John Eastman,488,,,Governor
+Butler,John Eastman,3689,,,Governor
+Carroll,John Eastman,394,,,Governor
+Champaign,John Eastman,658,,,Governor
+Clark,John Eastman,2273,,,Governor
+Clermont,John Eastman,1639,,,Governor
+Clinton,John Eastman,488,,,Governor
+Columbiana,John Eastman,1249,,,Governor
+Coshocton,John Eastman,508,,,Governor
+Crawford,John Eastman,619,,,Governor
+Cuyahoga,John Eastman,10481,,,Governor
+Darke,John Eastman,929,,,Governor
+Defiance,John Eastman,372,,,Governor
+Delaware,John Eastman,1771,,,Governor
+Erie,John Eastman,631,,,Governor
+Fairfield,John Eastman,2104,,,Governor
+Fayette,John Eastman,324,,,Governor
+Franklin,John Eastman,11465,,,Governor
+Fulton,John Eastman,412,,,Governor
+Gallia,John Eastman,426,,,Governor
+Geauga,John Eastman,955,,,Governor
+Greene,John Eastman,2265,,,Governor
+Guernsey,John Eastman,455,,,Governor
+Hamilton,John Eastman,9274,,,Governor
+Hancock,John Eastman,681,,,Governor
+Hardin,John Eastman,403,,,Governor
+Harrison,John Eastman,249,,,Governor
+Henry,John Eastman,273,,,Governor
+Highland,John Eastman,522,,,Governor
+Hocking,John Eastman,525,,,Governor
+Holmes,John Eastman,211,,,Governor
+Huron,John Eastman,528,,,Governor
+Jackson,John Eastman,455,,,Governor
+Jefferson,John Eastman,914,,,Governor
+Knox,John Eastman,777,,,Governor
+Lake,John Eastman,1751,,,Governor
+Lawrence,John Eastman,533,,,Governor
+Licking,John Eastman,2401,,,Governor
+Logan,John Eastman,691,,,Governor
+Lorain,John Eastman,2525,,,Governor
+Lucas,John Eastman,3263,,,Governor
+Madison,John Eastman,647,,,Governor
+Mahoning,John Eastman,3617,,,Governor
+Marion,John Eastman,1006,,,Governor
+Medina,John Eastman,1614,,,Governor
+Meigs,John Eastman,403,,,Governor
+Mercer,John Eastman,595,,,Governor
+Miami,John Eastman,1531,,,Governor
+Monroe,John Eastman,182,,,Governor
+Montgomery,John Eastman,5786,,,Governor
+Morgan,John Eastman,281,,,Governor
+Morrow,John Eastman,681,,,Governor
+Muskingum,John Eastman,1162,,,Governor
+Noble,John Eastman,217,,,Governor
+Ottawa,John Eastman,469,,,Governor
+Paulding,John Eastman,256,,,Governor
+Perry,John Eastman,540,,,Governor
+Pickaway,John Eastman,676,,,Governor
+Pike,John Eastman,284,,,Governor
+Portage,John Eastman,1933,,,Governor
+Preble,John Eastman,700,,,Governor
+Putnam,John Eastman,620,,,Governor
+Richland,John Eastman,1327,,,Governor
+Ross,John Eastman,725,,,Governor
+Sandusky,John Eastman,696,,,Governor
+Scioto,John Eastman,817,,,Governor
+Seneca,John Eastman,735,,,Governor
+Shelby,John Eastman,769,,,Governor
+Stark,John Eastman,4709,,,Governor
+Summit,John Eastman,5965,,,Governor
+Trumbull,John Eastman,2612,,,Governor
+Tuscarawas,John Eastman,993,,,Governor
+Union,John Eastman,762,,,Governor
+Van Wert,John Eastman,400,,,Governor
+Vinton,John Eastman,210,,,Governor
+Warren,John Eastman,1945,,,Governor
+Washington,John Eastman,728,,,Governor
+Wayne,John Eastman,1113,,,Governor
+Williams,John Eastman,492,,,Governor
+Wood,John Eastman,1189,,,Governor
+Wyandot,John Eastman,291,,,Governor
+Adams,Timothy Hagan ,2177,,D,Governor
+Allen,Timothy Hagan ,8581,,D,Governor
+Ashland,Timothy Hagan ,4607,,D,Governor
+Ashtabula,Timothy Hagan ,11472,,D,Governor
+Athens,Timothy Hagan ,8408,,D,Governor
+Auglaize,Timothy Hagan ,3096,,D,Governor
+Belmont,Timothy Hagan ,9492,,D,Governor
+Brown,Timothy Hagan ,3181,,D,Governor
+Butler,Timothy Hagan ,20896,,D,Governor
+Carroll,Timothy Hagan ,3104,,D,Governor
+Champaign,Timothy Hagan ,2880,,D,Governor
+Clark,Timothy Hagan ,12398,,D,Governor
+Clermont,Timothy Hagan ,9073,,D,Governor
+Clinton,Timothy Hagan ,2463,,D,Governor
+Columbiana,Timothy Hagan ,11419,,D,Governor
+Coshocton,Timothy Hagan ,2948,,D,Governor
+Crawford,Timothy Hagan ,3859,,D,Governor
+Cuyahoga,Timothy Hagan ,225582,,D,Governor
+Darke,Timothy Hagan ,4216,,D,Governor
+Defiance,Timothy Hagan ,3225,,D,Governor
+Delaware,Timothy Hagan ,9226,,D,Governor
+Erie,Timothy Hagan ,10673,,D,Governor
+Fairfield,Timothy Hagan ,10531,,D,Governor
+Fayette,Timothy Hagan ,1807,,D,Governor
+Franklin,Timothy Hagan ,108778,,D,Governor
+Fulton,Timothy Hagan ,2995,,D,Governor
+Gallia,Timothy Hagan ,2759,,D,Governor
+Geauga,Timothy Hagan ,11458,,D,Governor
+Greene,Timothy Hagan ,11780,,D,Governor
+Guernsey,Timothy Hagan ,4042,,D,Governor
+Hamilton,Timothy Hagan ,73843,,D,Governor
+Hancock,Timothy Hagan ,4151,,D,Governor
+Hardin,Timothy Hagan ,2829,,D,Governor
+Harrison,Timothy Hagan ,2327,,D,Governor
+Henry,Timothy Hagan ,2069,,D,Governor
+Highland,Timothy Hagan ,2992,,D,Governor
+Hocking,Timothy Hagan ,2881,,D,Governor
+Holmes,Timothy Hagan ,1429,,D,Governor
+Huron,Timothy Hagan ,4673,,D,Governor
+Jackson,Timothy Hagan ,2893,,D,Governor
+Jefferson,Timothy Hagan ,9206,,D,Governor
+Knox,Timothy Hagan ,4166,,D,Governor
+Lake,Timothy Hagan ,27370,,D,Governor
+Lawrence,Timothy Hagan ,5495,,D,Governor
+Licking,Timothy Hagan ,12653,,D,Governor
+Logan,Timothy Hagan ,2891,,D,Governor
+Lorain,Timothy Hagan ,38515,,D,Governor
+Lucas,Timothy Hagan ,49648,,D,Governor
+Madison,Timothy Hagan ,2932,,D,Governor
+Mahoning,Timothy Hagan ,43110,,D,Governor
+Marion,Timothy Hagan ,5704,,D,Governor
+Medina,Timothy Hagan ,17998,,D,Governor
+Meigs,Timothy Hagan ,1970,,D,Governor
+Mercer,Timothy Hagan ,3237,,D,Governor
+Miami,Timothy Hagan ,7297,,D,Governor
+Monroe,Timothy Hagan ,2421,,D,Governor
+Montgomery,Timothy Hagan ,59584,,D,Governor
+Morgan,Timothy Hagan ,1378,,D,Governor
+Morrow,Timothy Hagan ,2799,,D,Governor
+Muskingum,Timothy Hagan ,6279,,D,Governor
+Noble,Timothy Hagan ,1628,,D,Governor
+Ottawa,Timothy Hagan ,5073,,D,Governor
+Paulding,Timothy Hagan ,1939,,D,Governor
+Perry,Timothy Hagan ,3422,,D,Governor
+Pickaway,Timothy Hagan ,3775,,D,Governor
+Pike,Timothy Hagan ,3377,,D,Governor
+Portage,Timothy Hagan ,19708,,D,Governor
+Preble,Timothy Hagan ,3112,,D,Governor
+Putnam,Timothy Hagan ,3110,,D,Governor
+Richland,Timothy Hagan ,13520,,D,Governor
+Ross,Timothy Hagan ,6714,,D,Governor
+Sandusky,Timothy Hagan ,6149,,D,Governor
+Scioto,Timothy Hagan ,8867,,D,Governor
+Seneca,Timothy Hagan ,4780,,D,Governor
+Shelby,Timothy Hagan ,3812,,D,Governor
+Stark,Timothy Hagan ,44840,,D,Governor
+Summit,Timothy Hagan ,77928,,D,Governor
+Trumbull,Timothy Hagan ,35364,,D,Governor
+Tuscarawas,Timothy Hagan ,10639,,D,Governor
+Union,Timothy Hagan ,2723,,D,Governor
+Van Wert,Timothy Hagan ,2085,,D,Governor
+Vinton,Timothy Hagan ,1448,,D,Governor
+Warren,Timothy Hagan ,9833,,D,Governor
+Washington,Timothy Hagan ,6045,,D,Governor
+Wayne,Timothy Hagan ,9061,,D,Governor
+Williams,Timothy Hagan ,2967,,D,Governor
+Wood,Timothy Hagan ,11521,,D,Governor
+Wyandot,Timothy Hagan ,1618,,D,Governor
+Adams,Bob Taft,4296,,R,Governor
+Allen,Bob Taft,19226,,R,Governor
+Ashland,Bob Taft,9894,,R,Governor
+Ashtabula,Bob Taft,14825,,R,Governor
+Athens,Bob Taft,7018,,R,Governor
+Auglaize,Bob Taft,9559,,R,Governor
+Belmont,Bob Taft,10299,,R,Governor
+Brown,Bob Taft,7881,,R,Governor
+Butler,Bob Taft,62076,,R,Governor
+Carroll,Bob Taft,5254,,R,Governor
+Champaign,Bob Taft,7067,,R,Governor
+Clark,Bob Taft,22846,,R,Governor
+Clermont,Bob Taft,31723,,R,Governor
+Clinton,Bob Taft,7321,,R,Governor
+Columbiana,Bob Taft,18245,,R,Governor
+Coshocton,Bob Taft,6881,,R,Governor
+Crawford,Bob Taft,8676,,R,Governor
+Cuyahoga,Bob Taft,142874,,R,Governor
+Darke,Bob Taft,12310,,R,Governor
+Defiance,Bob Taft,7049,,R,Governor
+Delaware,Bob Taft,28200,,R,Governor
+Erie,Bob Taft,13656,,R,Governor
+Fairfield,Bob Taft,26256,,R,Governor
+Fayette,Bob Taft,4385,,R,Governor
+Franklin,Bob Taft,156712,,R,Governor
+Fulton,Bob Taft,9600,,R,Governor
+Gallia,Bob Taft,6057,,R,Governor
+Geauga,Bob Taft,19768,,R,Governor
+Greene,Bob Taft,28815,,R,Governor
+Guernsey,Bob Taft,6348,,R,Governor
+Hamilton,Bob Taft,160223,,R,Governor
+Hancock,Bob Taft,15757,,R,Governor
+Hardin,Bob Taft,5153,,R,Governor
+Harrison,Bob Taft,3131,,R,Governor
+Henry,Bob Taft,6814,,R,Governor
+Highland,Bob Taft,7426,,R,Governor
+Hocking,Bob Taft,4188,,R,Governor
+Holmes,Bob Taft,4552,,R,Governor
+Huron,Bob Taft,9993,,R,Governor
+Jackson,Bob Taft,5531,,R,Governor
+Jefferson,Bob Taft,12983,,R,Governor
+Knox,Bob Taft,9291,,R,Governor
+Lake,Bob Taft,37986,,R,Governor
+Lawrence,Bob Taft,9458,,R,Governor
+Licking,Bob Taft,32118,,R,Governor
+Logan,Bob Taft,8996,,R,Governor
+Lorain,Bob Taft,37423,,R,Governor
+Lucas,Bob Taft,76572,,R,Governor
+Madison,Bob Taft,6947,,R,Governor
+Mahoning,Bob Taft,40149,,R,Governor
+Marion,Bob Taft,10582,,R,Governor
+Medina,Bob Taft,27436,,R,Governor
+Meigs,Bob Taft,4517,,R,Governor
+Mercer,Bob Taft,11001,,R,Governor
+Miami,Bob Taft,20743,,R,Governor
+Monroe,Bob Taft,2482,,R,Governor
+Montgomery,Bob Taft,95891,,R,Governor
+Morgan,Bob Taft,2975,,R,Governor
+Morrow,Bob Taft,6093,,R,Governor
+Muskingum,Bob Taft,14990,,R,Governor
+Noble,Bob Taft,2438,,R,Governor
+Ottawa,Bob Taft,9428,,R,Governor
+Paulding,Bob Taft,3972,,R,Governor
+Perry,Bob Taft,5102,,R,Governor
+Pickaway,Bob Taft,7432,,R,Governor
+Pike,Bob Taft,4046,,R,Governor
+Portage,Bob Taft,19887,,R,Governor
+Preble,Bob Taft,7832,,R,Governor
+Putnam,Bob Taft,8592,,R,Governor
+Richland,Bob Taft,21963,,R,Governor
+Ross,Bob Taft,10871,,R,Governor
+Sandusky,Bob Taft,12187,,R,Governor
+Scioto,Bob Taft,12161,,R,Governor
+Seneca,Bob Taft,11101,,R,Governor
+Shelby,Bob Taft,10190,,R,Governor
+Stark,Bob Taft,64932,,R,Governor
+Summit,Bob Taft,75340,,R,Governor
+Trumbull,Bob Taft,33718,,R,Governor
+Tuscarawas,Bob Taft,13457,,R,Governor
+Union,Bob Taft,8631,,R,Governor
+Van Wert,Bob Taft,6561,,R,Governor
+Vinton,Bob Taft,2135,,R,Governor
+Warren,Bob Taft,37388,,R,Governor
+Washington,Bob Taft,11499,,R,Governor
+Wayne,Bob Taft,20340,,R,Governor
+Williams,Bob Taft,7731,,R,Governor
+Wood,Bob Taft,25172,,R,Governor
+Wyandot,Bob Taft,4383,,R,Governor
+Adams,James Whitman ,0,,WI,Governor
+Allen,James Whitman ,2,,WI,Governor
+Ashland,James Whitman ,7,,WI,Governor
+Ashtabula,James Whitman ,1,,WI,Governor
+Athens,James Whitman ,1,,WI,Governor
+Auglaize,James Whitman ,3,,WI,Governor
+Belmont,James Whitman ,0,,WI,Governor
+Brown,James Whitman ,0,,WI,Governor
+Butler,James Whitman ,2,,WI,Governor
+Carroll,James Whitman ,1,,WI,Governor
+Champaign,James Whitman ,0,,WI,Governor
+Clark,James Whitman ,4,,WI,Governor
+Clermont,James Whitman ,5,,WI,Governor
+Clinton,James Whitman ,0,,WI,Governor
+Columbiana,James Whitman ,4,,WI,Governor
+Coshocton,James Whitman ,0,,WI,Governor
+Crawford,James Whitman ,1,,WI,Governor
+Cuyahoga,James Whitman ,9,,WI,Governor
+Darke,James Whitman ,1,,WI,Governor
+Defiance,James Whitman ,0,,WI,Governor
+Delaware,James Whitman ,2,,WI,Governor
+Erie,James Whitman ,4,,WI,Governor
+Fairfield,James Whitman ,2,,WI,Governor
+Fayette,James Whitman ,0,,WI,Governor
+Franklin,James Whitman ,44,,WI,Governor
+Fulton,James Whitman ,1,,WI,Governor
+Gallia,James Whitman ,0,,WI,Governor
+Geauga,James Whitman ,9,,WI,Governor
+Greene,James Whitman ,4,,WI,Governor
+Guernsey,James Whitman ,0,,WI,Governor
+Hamilton,James Whitman ,3,,WI,Governor
+Hancock,James Whitman ,4,,WI,Governor
+Hardin,James Whitman ,2,,WI,Governor
+Harrison,James Whitman ,1,,WI,Governor
+Henry,James Whitman ,0,,WI,Governor
+Highland,James Whitman ,0,,WI,Governor
+Hocking,James Whitman ,1,,WI,Governor
+Holmes,James Whitman ,0,,WI,Governor
+Huron,James Whitman ,0,,WI,Governor
+Jackson,James Whitman ,1,,WI,Governor
+Jefferson,James Whitman ,1,,WI,Governor
+Knox,James Whitman ,0,,WI,Governor
+Lake,James Whitman ,5,,WI,Governor
+Lawrence,James Whitman ,0,,WI,Governor
+Licking,James Whitman ,7,,WI,Governor
+Logan,James Whitman ,4,,WI,Governor
+Lorain,James Whitman ,2,,WI,Governor
+Lucas,James Whitman ,2,,WI,Governor
+Madison,James Whitman ,0,,WI,Governor
+Mahoning,James Whitman ,62,,WI,Governor
+Marion,James Whitman ,0,,WI,Governor
+Medina,James Whitman ,0,,WI,Governor
+Meigs,James Whitman ,0,,WI,Governor
+Mercer,James Whitman ,1,,WI,Governor
+Miami,James Whitman ,11,,WI,Governor
+Monroe,James Whitman ,0,,WI,Governor
+Montgomery,James Whitman ,18,,WI,Governor
+Morgan,James Whitman ,0,,WI,Governor
+Morrow,James Whitman ,0,,WI,Governor
+Muskingum,James Whitman ,2,,WI,Governor
+Noble,James Whitman ,0,,WI,Governor
+Ottawa,James Whitman ,1,,WI,Governor
+Paulding,James Whitman ,0,,WI,Governor
+Perry,James Whitman ,0,,WI,Governor
+Pickaway,James Whitman ,0,,WI,Governor
+Pike,James Whitman ,0,,WI,Governor
+Portage,James Whitman ,2,,WI,Governor
+Preble,James Whitman ,2,,WI,Governor
+Putnam,James Whitman ,1,,WI,Governor
+Richland,James Whitman ,1,,WI,Governor
+Ross,James Whitman ,0,,WI,Governor
+Sandusky,James Whitman ,0,,WI,Governor
+Scioto,James Whitman ,0,,WI,Governor
+Seneca,James Whitman ,0,,WI,Governor
+Shelby,James Whitman ,18,,WI,Governor
+Stark,James Whitman ,2,,WI,Governor
+Summit,James Whitman ,13,,WI,Governor
+Trumbull,James Whitman ,1,,WI,Governor
+Tuscarawas,James Whitman ,1,,WI,Governor
+Union,James Whitman ,2,,WI,Governor
+Van Wert,James Whitman ,1,,WI,Governor
+Vinton,James Whitman ,0,,WI,Governor
+Warren,James Whitman ,2,,WI,Governor
+Washington,James Whitman ,2,,WI,Governor
+Wayne,James Whitman ,0,,WI,Governor
+Williams,James Whitman ,2,,WI,Governor
+Wood,James Whitman ,4,,WI,Governor
+Wyandot,James Whitman ,2,,WI,Governor
+Adams,Leigh Herington ,2139,,D,Attorney General
+Allen,Leigh Herington ,8070,,D,Attorney General
+Ashland,Leigh Herington ,4056,,D,Attorney General
+Ashtabula,Leigh Herington ,10731,,D,Attorney General
+Athens,Leigh Herington ,7964,,D,Attorney General
+Auglaize,Leigh Herington ,3086,,D,Attorney General
+Belmont,Leigh Herington ,10382,,D,Attorney General
+Brown,Leigh Herington ,3607,,D,Attorney General
+Butler,Leigh Herington ,23240,,D,Attorney General
+Carroll,Leigh Herington ,3080,,D,Attorney General
+Champaign,Leigh Herington ,2805,,D,Attorney General
+Clark,Leigh Herington ,13480,,D,Attorney General
+Clermont,Leigh Herington ,10823,,D,Attorney General
+Clinton,Leigh Herington ,2456,,D,Attorney General
+Columbiana,Leigh Herington ,11360,,D,Attorney General
+Coshocton,Leigh Herington ,3343,,D,Attorney General
+Crawford,Leigh Herington ,3755,,D,Attorney General
+Cuyahoga,Leigh Herington ,167782,,D,Attorney General
+Darke,Leigh Herington ,4093,,D,Attorney General
+Defiance,Leigh Herington ,3485,,D,Attorney General
+Delaware,Leigh Herington ,8316,,D,Attorney General
+Erie,Leigh Herington ,9671,,D,Attorney General
+Fairfield,Leigh Herington ,9346,,D,Attorney General
+Fayette,Leigh Herington ,1528,,D,Attorney General
+Franklin,Leigh Herington ,98721,,D,Attorney General
+Fulton,Leigh Herington ,3020,,D,Attorney General
+Gallia,Leigh Herington ,3059,,D,Attorney General
+Geauga,Leigh Herington ,8382,,D,Attorney General
+Greene,Leigh Herington ,11517,,D,Attorney General
+Guernsey,Leigh Herington ,3756,,D,Attorney General
+Hamilton,Leigh Herington ,84064,,D,Attorney General
+Hancock,Leigh Herington ,4111,,D,Attorney General
+Hardin,Leigh Herington ,2585,,D,Attorney General
+Harrison,Leigh Herington ,2517,,D,Attorney General
+Henry,Leigh Herington ,2051,,D,Attorney General
+Highland,Leigh Herington ,3093,,D,Attorney General
+Hocking,Leigh Herington ,2823,,D,Attorney General
+Holmes,Leigh Herington ,1279,,D,Attorney General
+Huron,Leigh Herington ,4349,,D,Attorney General
+Jackson,Leigh Herington ,2961,,D,Attorney General
+Jefferson,Leigh Herington ,11063,,D,Attorney General
+Knox,Leigh Herington ,3644,,D,Attorney General
+Lake,Leigh Herington ,20073,,D,Attorney General
+Lawrence,Leigh Herington ,6324,,D,Attorney General
+Licking,Leigh Herington ,12758,,D,Attorney General
+Logan,Leigh Herington ,2870,,D,Attorney General
+Lorain,Leigh Herington ,30303,,D,Attorney General
+Lucas,Leigh Herington ,45262,,D,Attorney General
+Madison,Leigh Herington ,2379,,D,Attorney General
+Mahoning,Leigh Herington ,33300,,D,Attorney General
+Marion,Leigh Herington ,5309,,D,Attorney General
+Medina,Leigh Herington ,13282,,D,Attorney General
+Meigs,Leigh Herington ,2227,,D,Attorney General
+Mercer,Leigh Herington ,3375,,D,Attorney General
+Miami,Leigh Herington ,7437,,D,Attorney General
+Monroe,Leigh Herington ,2600,,D,Attorney General
+Montgomery,Leigh Herington ,56073,,D,Attorney General
+Morgan,Leigh Herington ,1333,,D,Attorney General
+Morrow,Leigh Herington ,2675,,D,Attorney General
+Muskingum,Leigh Herington ,6523,,D,Attorney General
+Noble,Leigh Herington ,1550,,D,Attorney General
+Ottawa,Leigh Herington ,4927,,D,Attorney General
+Paulding,Leigh Herington ,2260,,D,Attorney General
+Perry,Leigh Herington ,3311,,D,Attorney General
+Pickaway,Leigh Herington ,3111,,D,Attorney General
+Pike,Leigh Herington ,3580,,D,Attorney General
+Portage,Leigh Herington ,22031,,D,Attorney General
+Preble,Leigh Herington ,3026,,D,Attorney General
+Putnam,Leigh Herington ,2872,,D,Attorney General
+Richland,Leigh Herington ,12508,,D,Attorney General
+Ross,Leigh Herington ,6009,,D,Attorney General
+Sandusky,Leigh Herington ,5732,,D,Attorney General
+Scioto,Leigh Herington ,9608,,D,Attorney General
+Seneca,Leigh Herington ,4592,,D,Attorney General
+Shelby,Leigh Herington ,3793,,D,Attorney General
+Stark,Leigh Herington ,42705,,D,Attorney General
+Summit,Leigh Herington ,69049,,D,Attorney General
+Trumbull,Leigh Herington ,30302,,D,Attorney General
+Tuscarawas,Leigh Herington ,9603,,D,Attorney General
+Union,Leigh Herington ,2545,,D,Attorney General
+Van Wert,Leigh Herington ,2380,,D,Attorney General
+Vinton,Leigh Herington ,1393,,D,Attorney General
+Warren,Leigh Herington ,10273,,D,Attorney General
+Washington,Leigh Herington ,6544,,D,Attorney General
+Wayne,Leigh Herington ,8396,,D,Attorney General
+Williams,Leigh Herington ,2992,,D,Attorney General
+Wood,Leigh Herington ,11063,,D,Attorney General
+Wyandot,Leigh Herington ,1467,,D,Attorney General
+Adams,Jim Petro ,4562,,R,Attorney General
+Allen,Jim Petro ,21330,,R,Attorney General
+Ashland,Jim Petro ,10726,,R,Attorney General
+Ashtabula,Jim Petro ,15850,,R,Attorney General
+Athens,Jim Petro ,7880,,R,Attorney General
+Auglaize,Jim Petro ,10186,,R,Attorney General
+Belmont,Jim Petro ,9698,,R,Attorney General
+Brown,Jim Petro ,7583,,R,Attorney General
+Butler,Jim Petro ,61322,,R,Attorney General
+Carroll,Jim Petro ,5454,,R,Attorney General
+Champaign,Jim Petro ,7724,,R,Attorney General
+Clark,Jim Petro ,24495,,R,Attorney General
+Clermont,Jim Petro ,31132,,R,Attorney General
+Clinton,Jim Petro ,7724,,R,Attorney General
+Columbiana,Jim Petro ,18805,,R,Attorney General
+Coshocton,Jim Petro ,6750,,R,Attorney General
+Crawford,Jim Petro ,9273,,R,Attorney General
+Cuyahoga,Jim Petro ,193774,,R,Attorney General
+Darke,Jim Petro ,12998,,R,Attorney General
+Defiance,Jim Petro ,7068,,R,Attorney General
+Delaware,Jim Petro ,30447,,R,Attorney General
+Erie,Jim Petro ,14598,,R,Attorney General
+Fairfield,Jim Petro ,29125,,R,Attorney General
+Fayette,Jim Petro ,4924,,R,Attorney General
+Franklin,Jim Petro ,172230,,R,Attorney General
+Fulton,Jim Petro ,9719,,R,Attorney General
+Gallia,Jim Petro ,5862,,R,Attorney General
+Geauga,Jim Petro ,22563,,R,Attorney General
+Greene,Jim Petro ,30696,,R,Attorney General
+Guernsey,Jim Petro ,6875,,R,Attorney General
+Hamilton,Jim Petro ,152681,,R,Attorney General
+Hancock,Jim Petro ,16126,,R,Attorney General
+Hardin,Jim Petro ,5586,,R,Attorney General
+Harrison,Jim Petro ,3050,,R,Attorney General
+Henry,Jim Petro ,6903,,R,Attorney General
+Highland,Jim Petro ,7772,,R,Attorney General
+Hocking,Jim Petro ,4644,,R,Attorney General
+Holmes,Jim Petro ,4680,,R,Attorney General
+Huron,Jim Petro ,10425,,R,Attorney General
+Jackson,Jim Petro ,5696,,R,Attorney General
+Jefferson,Jim Petro ,11507,,R,Attorney General
+Knox,Jim Petro ,10339,,R,Attorney General
+Lake,Jim Petro ,42253,,R,Attorney General
+Lawrence,Jim Petro ,8676,,R,Attorney General
+Licking,Jim Petro ,33756,,R,Attorney General
+Logan,Jim Petro ,9572,,R,Attorney General
+Lorain,Jim Petro ,45481,,R,Attorney General
+Lucas,Jim Petro ,73309,,R,Attorney General
+Madison,Jim Petro ,8016,,R,Attorney General
+Mahoning,Jim Petro ,47090,,R,Attorney General
+Marion,Jim Petro ,11810,,R,Attorney General
+Medina,Jim Petro ,32166,,R,Attorney General
+Meigs,Jim Petro ,4343,,R,Attorney General
+Mercer,Jim Petro ,10899,,R,Attorney General
+Miami,Jim Petro ,21925,,R,Attorney General
+Monroe,Jim Petro ,2264,,R,Attorney General
+Montgomery,Jim Petro ,101186,,R,Attorney General
+Morgan,Jim Petro ,3192,,R,Attorney General
+Morrow,Jim Petro ,6784,,R,Attorney General
+Muskingum,Jim Petro ,15620,,R,Attorney General
+Noble,Jim Petro ,2604,,R,Attorney General
+Ottawa,Jim Petro ,9809,,R,Attorney General
+Paulding,Jim Petro ,3784,,R,Attorney General
+Perry,Jim Petro ,5590,,R,Attorney General
+Pickaway,Jim Petro ,8566,,R,Attorney General
+Pike,Jim Petro ,3987,,R,Attorney General
+Portage,Jim Petro ,18875,,R,Attorney General
+Preble,Jim Petro ,8327,,R,Attorney General
+Putnam,Jim Petro ,9072,,R,Attorney General
+Richland,Jim Petro ,23790,,R,Attorney General
+Ross,Jim Petro ,11611,,R,Attorney General
+Sandusky,Jim Petro ,12954,,R,Attorney General
+Scioto,Jim Petro ,11829,,R,Attorney General
+Seneca,Jim Petro ,11833,,R,Attorney General
+Shelby,Jim Petro ,10455,,R,Attorney General
+Stark,Jim Petro ,68802,,R,Attorney General
+Summit,Jim Petro ,85609,,R,Attorney General
+Trumbull,Jim Petro ,38914,,R,Attorney General
+Tuscarawas,Jim Petro ,14856,,R,Attorney General
+Union,Jim Petro ,9416,,R,Attorney General
+Van Wert,Jim Petro ,6536,,R,Attorney General
+Vinton,Jim Petro ,2249,,R,Attorney General
+Warren,Jim Petro ,38074,,R,Attorney General
+Washington,Jim Petro ,11126,,R,Attorney General
+Wayne,Jim Petro ,21186,,R,Attorney General
+Williams,Jim Petro ,7859,,R,Attorney General
+Wood,Jim Petro ,25820,,R,Attorney General
+Wyandot,Jim Petro ,4754,,R,Attorney General
+Adams,Betty Montgomery ,4518,,R,Auditor of State
+Allen,Betty Montgomery ,21767,,R,Auditor of State
+Ashland,Betty Montgomery ,10560,,R,Auditor of State
+Ashtabula,Betty Montgomery ,15795,,R,Auditor of State
+Athens,Betty Montgomery ,8017,,R,Auditor of State
+Auglaize,Betty Montgomery ,10026,,R,Auditor of State
+Belmont,Betty Montgomery ,9480,,R,Auditor of State
+Brown,Betty Montgomery ,7645,,R,Auditor of State
+Butler,Betty Montgomery ,62058,,R,Auditor of State
+Carroll,Betty Montgomery ,5504,,R,Auditor of State
+Champaign,Betty Montgomery ,7703,,R,Auditor of State
+Clark,Betty Montgomery ,24826,,R,Auditor of State
+Clermont,Betty Montgomery ,31793,,R,Auditor of State
+Clinton,Betty Montgomery ,7654,,R,Auditor of State
+Columbiana,Betty Montgomery ,18219,,R,Auditor of State
+Coshocton,Betty Montgomery ,6643,,R,Auditor of State
+Crawford,Betty Montgomery ,9370,,R,Auditor of State
+Cuyahoga,Betty Montgomery ,178024,,R,Auditor of State
+Darke,Betty Montgomery ,12628,,R,Auditor of State
+Defiance,Betty Montgomery ,7019,,R,Auditor of State
+Delaware,Betty Montgomery ,30483,,R,Auditor of State
+Erie,Betty Montgomery ,15168,,R,Auditor of State
+Fairfield,Betty Montgomery ,28918,,R,Auditor of State
+Fayette,Betty Montgomery ,5000,,R,Auditor of State
+Franklin,Betty Montgomery ,173918,,R,Auditor of State
+Fulton,Betty Montgomery ,9705,,R,Auditor of State
+Gallia,Betty Montgomery ,5895,,R,Auditor of State
+Geauga,Betty Montgomery ,22735,,R,Auditor of State
+Greene,Betty Montgomery ,30530,,R,Auditor of State
+Guernsey,Betty Montgomery ,6995,,R,Auditor of State
+Hamilton,Betty Montgomery ,159504,,R,Auditor of State
+Hancock,Betty Montgomery ,15943,,R,Auditor of State
+Hardin,Betty Montgomery ,5706,,R,Auditor of State
+Harrison,Betty Montgomery ,3014,,R,Auditor of State
+Henry,Betty Montgomery ,6913,,R,Auditor of State
+Highland,Betty Montgomery ,7848,,R,Auditor of State
+Hocking,Betty Montgomery ,4718,,R,Auditor of State
+Holmes,Betty Montgomery ,4547,,R,Auditor of State
+Huron,Betty Montgomery ,10168,,R,Auditor of State
+Jackson,Betty Montgomery ,5942,,R,Auditor of State
+Jefferson,Betty Montgomery ,11325,,R,Auditor of State
+Knox,Betty Montgomery ,10325,,R,Auditor of State
+Lake,Betty Montgomery ,41197,,R,Auditor of State
+Lawrence,Betty Montgomery ,8397,,R,Auditor of State
+Licking,Betty Montgomery ,33901,,R,Auditor of State
+Logan,Betty Montgomery ,9596,,R,Auditor of State
+Lorain,Betty Montgomery ,44430,,R,Auditor of State
+Lucas,Betty Montgomery ,77742,,R,Auditor of State
+Madison,Betty Montgomery ,8091,,R,Auditor of State
+Mahoning,Betty Montgomery ,41023,,R,Auditor of State
+Marion,Betty Montgomery ,12037,,R,Auditor of State
+Medina,Betty Montgomery ,31944,,R,Auditor of State
+Meigs,Betty Montgomery ,4313,,R,Auditor of State
+Mercer,Betty Montgomery ,10746,,R,Auditor of State
+Miami,Betty Montgomery ,21511,,R,Auditor of State
+Monroe,Betty Montgomery ,2130,,R,Auditor of State
+Montgomery,Betty Montgomery ,102304,,R,Auditor of State
+Morgan,Betty Montgomery ,3118,,R,Auditor of State
+Morrow,Betty Montgomery ,6645,,R,Auditor of State
+Muskingum,Betty Montgomery ,15848,,R,Auditor of State
+Noble,Betty Montgomery ,2641,,R,Auditor of State
+Ottawa,Betty Montgomery ,10150,,R,Auditor of State
+Paulding,Betty Montgomery ,3771,,R,Auditor of State
+Perry,Betty Montgomery ,5573,,R,Auditor of State
+Pickaway,Betty Montgomery ,8642,,R,Auditor of State
+Pike,Betty Montgomery ,4040,,R,Auditor of State
+Portage,Betty Montgomery ,23875,,R,Auditor of State
+Preble,Betty Montgomery ,8258,,R,Auditor of State
+Putnam,Betty Montgomery ,8952,,R,Auditor of State
+Richland,Betty Montgomery ,23627,,R,Auditor of State
+Ross,Betty Montgomery ,11789,,R,Auditor of State
+Sandusky,Betty Montgomery ,12814,,R,Auditor of State
+Scioto,Betty Montgomery ,12075,,R,Auditor of State
+Seneca,Betty Montgomery ,11201,,R,Auditor of State
+Shelby,Betty Montgomery ,10323,,R,Auditor of State
+Stark,Betty Montgomery ,70858,,R,Auditor of State
+Summit,Betty Montgomery ,91387,,R,Auditor of State
+Trumbull,Betty Montgomery ,36283,,R,Auditor of State
+Tuscarawas,Betty Montgomery ,14887,,R,Auditor of State
+Union,Betty Montgomery ,9594,,R,Auditor of State
+Van Wert,Betty Montgomery ,6589,,R,Auditor of State
+Vinton,Betty Montgomery ,2301,,R,Auditor of State
+Warren,Betty Montgomery ,38293,,R,Auditor of State
+Washington,Betty Montgomery ,11194,,R,Auditor of State
+Wayne,Betty Montgomery ,21444,,R,Auditor of State
+Williams,Betty Montgomery ,7706,,R,Auditor of State
+Wood,Betty Montgomery ,27529,,R,Auditor of State
+Wyandot,Betty Montgomery ,4704,,R,Auditor of State
+Adams,Helen Smith ,2232,,D,Auditor of State
+Allen,Helen Smith ,7784,,D,Auditor of State
+Ashland,Helen Smith ,4239,,D,Auditor of State
+Ashtabula,Helen Smith ,10642,,D,Auditor of State
+Athens,Helen Smith ,7749,,D,Auditor of State
+Auglaize,Helen Smith ,3234,,D,Auditor of State
+Belmont,Helen Smith ,10484,,D,Auditor of State
+Brown,Helen Smith ,3598,,D,Auditor of State
+Butler,Helen Smith ,22553,,D,Auditor of State
+Carroll,Helen Smith ,3050,,D,Auditor of State
+Champaign,Helen Smith ,2793,,D,Auditor of State
+Clark,Helen Smith ,13183,,D,Auditor of State
+Clermont,Helen Smith ,9956,,D,Auditor of State
+Clinton,Helen Smith ,2526,,D,Auditor of State
+Columbiana,Helen Smith ,11766,,D,Auditor of State
+Coshocton,Helen Smith ,3513,,D,Auditor of State
+Crawford,Helen Smith ,3639,,D,Auditor of State
+Cuyahoga,Helen Smith ,179172,,D,Auditor of State
+Darke,Helen Smith ,4453,,D,Auditor of State
+Defiance,Helen Smith ,3507,,D,Auditor of State
+Delaware,Helen Smith ,8183,,D,Auditor of State
+Erie,Helen Smith ,9212,,D,Auditor of State
+Fairfield,Helen Smith ,9521,,D,Auditor of State
+Fayette,Helen Smith ,1483,,D,Auditor of State
+Franklin,Helen Smith ,96312,,D,Auditor of State
+Fulton,Helen Smith ,3017,,D,Auditor of State
+Gallia,Helen Smith ,3064,,D,Auditor of State
+Geauga,Helen Smith ,8197,,D,Auditor of State
+Greene,Helen Smith ,11589,,D,Auditor of State
+Guernsey,Helen Smith ,3682,,D,Auditor of State
+Hamilton,Helen Smith ,78631,,D,Auditor of State
+Hancock,Helen Smith ,4320,,D,Auditor of State
+Hardin,Helen Smith ,2512,,D,Auditor of State
+Harrison,Helen Smith ,2528,,D,Auditor of State
+Henry,Helen Smith ,2063,,D,Auditor of State
+Highland,Helen Smith ,3095,,D,Auditor of State
+Hocking,Helen Smith ,2770,,D,Auditor of State
+Holmes,Helen Smith ,1357,,D,Auditor of State
+Huron,Helen Smith ,4572,,D,Auditor of State
+Jackson,Helen Smith ,2821,,D,Auditor of State
+Jefferson,Helen Smith ,10935,,D,Auditor of State
+Knox,Helen Smith ,3626,,D,Auditor of State
+Lake,Helen Smith ,19828,,D,Auditor of State
+Lawrence,Helen Smith ,6452,,D,Auditor of State
+Licking,Helen Smith ,12668,,D,Auditor of State
+Logan,Helen Smith ,2912,,D,Auditor of State
+Lorain,Helen Smith ,30861,,D,Auditor of State
+Lucas,Helen Smith ,42734,,D,Auditor of State
+Madison,Helen Smith ,2374,,D,Auditor of State
+Mahoning,Helen Smith ,38102,,D,Auditor of State
+Marion,Helen Smith ,5154,,D,Auditor of State
+Medina,Helen Smith ,13320,,D,Auditor of State
+Meigs,Helen Smith ,2264,,D,Auditor of State
+Mercer,Helen Smith ,3561,,D,Auditor of State
+Miami,Helen Smith ,7759,,D,Auditor of State
+Monroe,Helen Smith ,2701,,D,Auditor of State
+Montgomery,Helen Smith ,55131,,D,Auditor of State
+Morgan,Helen Smith ,1403,,D,Auditor of State
+Morrow,Helen Smith ,2778,,D,Auditor of State
+Muskingum,Helen Smith ,6553,,D,Auditor of State
+Noble,Helen Smith ,1553,,D,Auditor of State
+Ottawa,Helen Smith ,4659,,D,Auditor of State
+Paulding,Helen Smith ,2217,,D,Auditor of State
+Perry,Helen Smith ,3360,,D,Auditor of State
+Pickaway,Helen Smith ,3057,,D,Auditor of State
+Pike,Helen Smith ,3598,,D,Auditor of State
+Portage,Helen Smith ,16272,,D,Auditor of State
+Preble,Helen Smith ,3043,,D,Auditor of State
+Putnam,Helen Smith ,3070,,D,Auditor of State
+Richland,Helen Smith ,12743,,D,Auditor of State
+Ross,Helen Smith ,5815,,D,Auditor of State
+Sandusky,Helen Smith ,5920,,D,Auditor of State
+Scioto,Helen Smith ,9413,,D,Auditor of State
+Seneca,Helen Smith ,5068,,D,Auditor of State
+Shelby,Helen Smith ,3962,,D,Auditor of State
+Stark,Helen Smith ,40579,,D,Auditor of State
+Summit,Helen Smith ,63182,,D,Auditor of State
+Trumbull,Helen Smith ,32380,,D,Auditor of State
+Tuscarawas,Helen Smith ,9506,,D,Auditor of State
+Union,Helen Smith ,2433,,D,Auditor of State
+Van Wert,Helen Smith ,2336,,D,Auditor of State
+Vinton,Helen Smith ,1389,,D,Auditor of State
+Warren,Helen Smith ,9957,,D,Auditor of State
+Washington,Helen Smith ,6492,,D,Auditor of State
+Wayne,Helen Smith ,8245,,D,Auditor of State
+Williams,Helen Smith ,3134,,D,Auditor of State
+Wood,Helen Smith ,9943,,D,Auditor of State
+Wyandot,Helen Smith ,1513,,D,Auditor of State
+Adams,J. Kenneth Blackwell ,4337,,R,Secretary of State
+Allen,J. Kenneth Blackwell ,20099,,R,Secretary of State
+Ashland,J. Kenneth Blackwell ,9874,,R,Secretary of State
+Ashtabula,J. Kenneth Blackwell ,14117,,R,Secretary of State
+Athens,J. Kenneth Blackwell ,7204,,R,Secretary of State
+Auglaize,J. Kenneth Blackwell ,9249,,R,Secretary of State
+Belmont,J. Kenneth Blackwell ,8107,,R,Secretary of State
+Brown,J. Kenneth Blackwell ,7291,,R,Secretary of State
+Butler,J. Kenneth Blackwell ,59962,,R,Secretary of State
+Carroll,J. Kenneth Blackwell ,4967,,R,Secretary of State
+Champaign,J. Kenneth Blackwell ,7010,,R,Secretary of State
+Clark,J. Kenneth Blackwell ,22496,,R,Secretary of State
+Clermont,J. Kenneth Blackwell ,30990,,R,Secretary of State
+Clinton,J. Kenneth Blackwell ,7381,,R,Secretary of State
+Columbiana,J. Kenneth Blackwell ,16873,,R,Secretary of State
+Coshocton,J. Kenneth Blackwell ,6251,,R,Secretary of State
+Crawford,J. Kenneth Blackwell ,8585,,R,Secretary of State
+Cuyahoga,J. Kenneth Blackwell ,152761,,R,Secretary of State
+Darke,J. Kenneth Blackwell ,11671,,R,Secretary of State
+Defiance,J. Kenneth Blackwell ,6379,,R,Secretary of State
+Delaware,J. Kenneth Blackwell ,28506,,R,Secretary of State
+Erie,J. Kenneth Blackwell ,12566,,R,Secretary of State
+Fairfield,J. Kenneth Blackwell ,26369,,R,Secretary of State
+Fayette,J. Kenneth Blackwell ,4588,,R,Secretary of State
+Franklin,J. Kenneth Blackwell ,161968,,R,Secretary of State
+Fulton,J. Kenneth Blackwell ,8654,,R,Secretary of State
+Gallia,J. Kenneth Blackwell ,5572,,R,Secretary of State
+Geauga,J. Kenneth Blackwell ,19847,,R,Secretary of State
+Greene,J. Kenneth Blackwell ,29028,,R,Secretary of State
+Guernsey,J. Kenneth Blackwell ,6196,,R,Secretary of State
+Hamilton,J. Kenneth Blackwell ,165762,,R,Secretary of State
+Hancock,J. Kenneth Blackwell ,15053,,R,Secretary of State
+Hardin,J. Kenneth Blackwell ,5147,,R,Secretary of State
+Harrison,J. Kenneth Blackwell ,2617,,R,Secretary of State
+Henry,J. Kenneth Blackwell ,6225,,R,Secretary of State
+Highland,J. Kenneth Blackwell ,7309,,R,Secretary of State
+Hocking,J. Kenneth Blackwell ,4150,,R,Secretary of State
+Holmes,J. Kenneth Blackwell ,4407,,R,Secretary of State
+Huron,J. Kenneth Blackwell ,9263,,R,Secretary of State
+Jackson,J. Kenneth Blackwell ,5308,,R,Secretary of State
+Jefferson,J. Kenneth Blackwell ,9474,,R,Secretary of State
+Knox,J. Kenneth Blackwell ,9547,,R,Secretary of State
+Lake,J. Kenneth Blackwell ,35056,,R,Secretary of State
+Lawrence,J. Kenneth Blackwell ,8354,,R,Secretary of State
+Licking,J. Kenneth Blackwell ,30942,,R,Secretary of State
+Logan,J. Kenneth Blackwell ,8838,,R,Secretary of State
+Lorain,J. Kenneth Blackwell ,37111,,R,Secretary of State
+Lucas,J. Kenneth Blackwell ,60404,,R,Secretary of State
+Madison,J. Kenneth Blackwell ,7226,,R,Secretary of State
+Mahoning,J. Kenneth Blackwell ,38232,,R,Secretary of State
+Marion,J. Kenneth Blackwell ,10869,,R,Secretary of State
+Medina,J. Kenneth Blackwell ,27845,,R,Secretary of State
+Meigs,J. Kenneth Blackwell ,4094,,R,Secretary of State
+Mercer,J. Kenneth Blackwell ,9559,,R,Secretary of State
+Miami,J. Kenneth Blackwell ,20163,,R,Secretary of State
+Monroe,J. Kenneth Blackwell ,1826,,R,Secretary of State
+Montgomery,J. Kenneth Blackwell ,95037,,R,Secretary of State
+Morgan,J. Kenneth Blackwell ,2935,,R,Secretary of State
+Morrow,J. Kenneth Blackwell ,6245,,R,Secretary of State
+Muskingum,J. Kenneth Blackwell ,14297,,R,Secretary of State
+Noble,J. Kenneth Blackwell ,2419,,R,Secretary of State
+Ottawa,J. Kenneth Blackwell ,8284,,R,Secretary of State
+Paulding,J. Kenneth Blackwell ,3485,,R,Secretary of State
+Perry,J. Kenneth Blackwell ,5005,,R,Secretary of State
+Pickaway,J. Kenneth Blackwell ,7552,,R,Secretary of State
+Pike,J. Kenneth Blackwell ,3603,,R,Secretary of State
+Portage,J. Kenneth Blackwell ,20719,,R,Secretary of State
+Preble,J. Kenneth Blackwell ,7586,,R,Secretary of State
+Putnam,J. Kenneth Blackwell ,8112,,R,Secretary of State
+Richland,J. Kenneth Blackwell ,21962,,R,Secretary of State
+Ross,J. Kenneth Blackwell ,10217,,R,Secretary of State
+Sandusky,J. Kenneth Blackwell ,11320,,R,Secretary of State
+Scioto,J. Kenneth Blackwell ,10964,,R,Secretary of State
+Seneca,J. Kenneth Blackwell ,10436,,R,Secretary of State
+Shelby,J. Kenneth Blackwell ,9240,,R,Secretary of State
+Stark,J. Kenneth Blackwell ,61743,,R,Secretary of State
+Summit,J. Kenneth Blackwell ,79863,,R,Secretary of State
+Trumbull,J. Kenneth Blackwell ,31787,,R,Secretary of State
+Tuscarawas,J. Kenneth Blackwell ,13523,,R,Secretary of State
+Union,J. Kenneth Blackwell ,8941,,R,Secretary of State
+Van Wert,J. Kenneth Blackwell ,6207,,R,Secretary of State
+Vinton,J. Kenneth Blackwell ,1996,,R,Secretary of State
+Warren,J. Kenneth Blackwell ,36254,,R,Secretary of State
+Washington,J. Kenneth Blackwell ,10315,,R,Secretary of State
+Wayne,J. Kenneth Blackwell ,20127,,R,Secretary of State
+Williams,J. Kenneth Blackwell ,7242,,R,Secretary of State
+Wood,J. Kenneth Blackwell ,22555,,R,Secretary of State
+Wyandot,J. Kenneth Blackwell ,4345,,R,Secretary of State
+Adams,Bryan Flannery ,2353,,D,Secretary of State
+Allen,Bryan Flannery ,8940,,D,Secretary of State
+Ashland,Bryan Flannery ,4614,,D,Secretary of State
+Ashtabula,Bryan Flannery ,12089,,D,Secretary of State
+Athens,Bryan Flannery ,8360,,D,Secretary of State
+Auglaize,Bryan Flannery ,3749,,D,Secretary of State
+Belmont,Bryan Flannery ,11695,,D,Secretary of State
+Brown,Bryan Flannery ,3998,,D,Secretary of State
+Butler,Bryan Flannery ,25184,,D,Secretary of State
+Carroll,Bryan Flannery ,3454,,D,Secretary of State
+Champaign,Bryan Flannery ,3290,,D,Secretary of State
+Clark,Bryan Flannery ,15070,,D,Secretary of State
+Clermont,Bryan Flannery ,11340,,D,Secretary of State
+Clinton,Bryan Flannery ,2749,,D,Secretary of State
+Columbiana,Bryan Flannery ,12757,,D,Secretary of State
+Coshocton,Bryan Flannery ,3673,,D,Secretary of State
+Crawford,Bryan Flannery ,4257,,D,Secretary of State
+Cuyahoga,Bryan Flannery ,200085,,D,Secretary of State
+Darke,Bryan Flannery ,5094,,D,Secretary of State
+Defiance,Bryan Flannery ,4185,,D,Secretary of State
+Delaware,Bryan Flannery ,9492,,D,Secretary of State
+Erie,Bryan Flannery ,11264,,D,Secretary of State
+Fairfield,Bryan Flannery ,11251,,D,Secretary of State
+Fayette,Bryan Flannery ,1774,,D,Secretary of State
+Franklin,Bryan Flannery ,103438,,D,Secretary of State
+Fulton,Bryan Flannery ,3816,,D,Secretary of State
+Gallia,Bryan Flannery ,3265,,D,Secretary of State
+Geauga,Bryan Flannery ,10154,,D,Secretary of State
+Greene,Bryan Flannery ,12690,,D,Secretary of State
+Guernsey,Bryan Flannery ,4198,,D,Secretary of State
+Hamilton,Bryan Flannery ,77504,,D,Secretary of State
+Hancock,Bryan Flannery ,4799,,D,Secretary of State
+Hardin,Bryan Flannery ,2923,,D,Secretary of State
+Harrison,Bryan Flannery ,2887,,D,Secretary of State
+Henry,Bryan Flannery ,2621,,D,Secretary of State
+Highland,Bryan Flannery ,3505,,D,Secretary of State
+Hocking,Bryan Flannery ,3215,,D,Secretary of State
+Holmes,Bryan Flannery ,1425,,D,Secretary of State
+Huron,Bryan Flannery ,5203,,D,Secretary of State
+Jackson,Bryan Flannery ,3191,,D,Secretary of State
+Jefferson,Bryan Flannery ,12655,,D,Secretary of State
+Knox,Bryan Flannery ,4019,,D,Secretary of State
+Lake,Bryan Flannery ,24391,,D,Secretary of State
+Lawrence,Bryan Flannery ,6547,,D,Secretary of State
+Licking,Bryan Flannery ,14630,,D,Secretary of State
+Logan,Bryan Flannery ,3362,,D,Secretary of State
+Lorain,Bryan Flannery ,36772,,D,Secretary of State
+Lucas,Bryan Flannery ,54632,,D,Secretary of State
+Madison,Bryan Flannery ,2937,,D,Secretary of State
+Mahoning,Bryan Flannery ,41992,,D,Secretary of State
+Marion,Bryan Flannery ,6118,,D,Secretary of State
+Medina,Bryan Flannery ,16395,,D,Secretary of State
+Meigs,Bryan Flannery ,2387,,D,Secretary of State
+Mercer,Bryan Flannery ,4394,,D,Secretary of State
+Miami,Bryan Flannery ,8700,,D,Secretary of State
+Monroe,Bryan Flannery ,2952,,D,Secretary of State
+Montgomery,Bryan Flannery ,60451,,D,Secretary of State
+Morgan,Bryan Flannery ,1477,,D,Secretary of State
+Morrow,Bryan Flannery ,3062,,D,Secretary of State
+Muskingum,Bryan Flannery ,7375,,D,Secretary of State
+Noble,Bryan Flannery ,1667,,D,Secretary of State
+Ottawa,Bryan Flannery ,6070,,D,Secretary of State
+Paulding,Bryan Flannery ,2525,,D,Secretary of State
+Perry,Bryan Flannery ,3755,,D,Secretary of State
+Pickaway,Bryan Flannery ,3629,,D,Secretary of State
+Pike,Bryan Flannery ,3908,,D,Secretary of State
+Portage,Bryan Flannery ,18835,,D,Secretary of State
+Preble,Bryan Flannery ,3588,,D,Secretary of State
+Putnam,Bryan Flannery ,3621,,D,Secretary of State
+Richland,Bryan Flannery ,14010,,D,Secretary of State
+Ross,Bryan Flannery ,6858,,D,Secretary of State
+Sandusky,Bryan Flannery ,6941,,D,Secretary of State
+Scioto,Bryan Flannery ,10358,,D,Secretary of State
+Seneca,Bryan Flannery ,5578,,D,Secretary of State
+Shelby,Bryan Flannery ,4697,,D,Secretary of State
+Stark,Bryan Flannery ,47613,,D,Secretary of State
+Summit,Bryan Flannery ,71550,,D,Secretary of State
+Trumbull,Bryan Flannery ,36185,,D,Secretary of State
+Tuscarawas,Bryan Flannery ,10492,,D,Secretary of State
+Union,Bryan Flannery ,2929,,D,Secretary of State
+Van Wert,Bryan Flannery ,2560,,D,Secretary of State
+Vinton,Bryan Flannery ,1574,,D,Secretary of State
+Warren,Bryan Flannery ,12020,,D,Secretary of State
+Washington,Bryan Flannery ,6914,,D,Secretary of State
+Wayne,Bryan Flannery ,9069,,D,Secretary of State
+Williams,Bryan Flannery ,3521,,D,Secretary of State
+Wood,Bryan Flannery ,13406,,D,Secretary of State
+Wyandot,Bryan Flannery ,1756,,D,Secretary of State
+Adams,Mary Boyle ,2494,,D,Treasure of State
+Allen,Mary Boyle ,9481,,D,Treasure of State
+Ashland,Mary Boyle ,5247,,D,Treasure of State
+Ashtabula,Mary Boyle ,14407,,D,Treasure of State
+Athens,Mary Boyle ,9638,,D,Treasure of State
+Auglaize,Mary Boyle ,4291,,D,Treasure of State
+Belmont,Mary Boyle ,12779,,D,Treasure of State
+Brown,Mary Boyle ,4045,,D,Treasure of State
+Butler,Mary Boyle ,25749,,D,Treasure of State
+Carroll,Mary Boyle ,3932,,D,Treasure of State
+Champaign,Mary Boyle ,3754,,D,Treasure of State
+Clark,Mary Boyle ,16470,,D,Treasure of State
+Clermont,Mary Boyle ,11351,,D,Treasure of State
+Clinton,Mary Boyle ,3067,,D,Treasure of State
+Columbiana,Mary Boyle ,14564,,D,Treasure of State
+Coshocton,Mary Boyle ,4286,,D,Treasure of State
+Crawford,Mary Boyle ,5365,,D,Treasure of State
+Cuyahoga,Mary Boyle ,233262,,D,Treasure of State
+Darke,Mary Boyle ,5807,,D,Treasure of State
+Defiance,Mary Boyle ,4337,,D,Treasure of State
+Delaware,Mary Boyle ,11251,,D,Treasure of State
+Erie,Mary Boyle ,12745,,D,Treasure of State
+Fairfield,Mary Boyle ,13526,,D,Treasure of State
+Fayette,Mary Boyle ,2060,,D,Treasure of State
+Franklin,Mary Boyle ,121953,,D,Treasure of State
+Fulton,Mary Boyle ,4546,,D,Treasure of State
+Gallia,Mary Boyle ,3810,,D,Treasure of State
+Geauga,Mary Boyle ,12690,,D,Treasure of State
+Greene,Mary Boyle ,15380,,D,Treasure of State
+Guernsey,Mary Boyle ,4997,,D,Treasure of State
+Hamilton,Mary Boyle ,86444,,D,Treasure of State
+Hancock,Mary Boyle ,5543,,D,Treasure of State
+Hardin,Mary Boyle ,3210,,D,Treasure of State
+Harrison,Mary Boyle ,3335,,D,Treasure of State
+Henry,Mary Boyle ,3043,,D,Treasure of State
+Highland,Mary Boyle ,3661,,D,Treasure of State
+Hocking,Mary Boyle ,3594,,D,Treasure of State
+Holmes,Mary Boyle ,1873,,D,Treasure of State
+Huron,Mary Boyle ,6312,,D,Treasure of State
+Jackson,Mary Boyle ,3594,,D,Treasure of State
+Jefferson,Mary Boyle ,13543,,D,Treasure of State
+Knox,Mary Boyle ,4971,,D,Treasure of State
+Lake,Mary Boyle ,30546,,D,Treasure of State
+Lawrence,Mary Boyle ,7132,,D,Treasure of State
+Licking,Mary Boyle ,17721,,D,Treasure of State
+Logan,Mary Boyle ,3899,,D,Treasure of State
+Lorain,Mary Boyle ,42999,,D,Treasure of State
+Lucas,Mary Boyle ,65365,,D,Treasure of State
+Madison,Mary Boyle ,3359,,D,Treasure of State
+Mahoning,Mary Boyle ,47412,,D,Treasure of State
+Marion,Mary Boyle ,6866,,D,Treasure of State
+Medina,Mary Boyle ,19889,,D,Treasure of State
+Meigs,Mary Boyle ,2866,,D,Treasure of State
+Mercer,Mary Boyle ,5297,,D,Treasure of State
+Miami,Mary Boyle ,9631,,D,Treasure of State
+Monroe,Mary Boyle ,3211,,D,Treasure of State
+Montgomery,Mary Boyle ,73720,,D,Treasure of State
+Morgan,Mary Boyle ,1737,,D,Treasure of State
+Morrow,Mary Boyle ,3580,,D,Treasure of State
+Muskingum,Mary Boyle ,8521,,D,Treasure of State
+Noble,Mary Boyle ,2028,,D,Treasure of State
+Ottawa,Mary Boyle ,6875,,D,Treasure of State
+Paulding,Mary Boyle ,2705,,D,Treasure of State
+Perry,Mary Boyle ,4223,,D,Treasure of State
+Pickaway,Mary Boyle ,4129,,D,Treasure of State
+Pike,Mary Boyle ,4224,,D,Treasure of State
+Portage,Mary Boyle ,22419,,D,Treasure of State
+Preble,Mary Boyle ,3894,,D,Treasure of State
+Putnam,Mary Boyle ,3531,,D,Treasure of State
+Richland,Mary Boyle ,16771,,D,Treasure of State
+Ross,Mary Boyle ,8003,,D,Treasure of State
+Sandusky,Mary Boyle ,7930,,D,Treasure of State
+Scioto,Mary Boyle ,11582,,D,Treasure of State
+Seneca,Mary Boyle ,6851,,D,Treasure of State
+Shelby,Mary Boyle ,5440,,D,Treasure of State
+Stark,Mary Boyle ,55167,,D,Treasure of State
+Summit,Mary Boyle ,87147,,D,Treasure of State
+Trumbull,Mary Boyle ,40150,,D,Treasure of State
+Tuscarawas,Mary Boyle ,13732,,D,Treasure of State
+Union,Mary Boyle ,3461,,D,Treasure of State
+Van Wert,Mary Boyle ,2991,,D,Treasure of State
+Vinton,Mary Boyle ,1764,,D,Treasure of State
+Warren,Mary Boyle ,12154,,D,Treasure of State
+Washington,Mary Boyle ,8022,,D,Treasure of State
+Wayne,Mary Boyle ,11638,,D,Treasure of State
+Williams,Mary Boyle ,4006,,D,Treasure of State
+Wood,Mary Boyle ,15894,,D,Treasure of State
+Wyandot,Mary Boyle ,2224,,D,Treasure of State
+Adams,Joseph Deters ,4295,,R,Treasure of State
+Allen,Joseph Deters ,19716,,R,Treasure of State
+Ashland,Joseph Deters ,9326,,R,Treasure of State
+Ashtabula,Joseph Deters ,12143,,R,Treasure of State
+Athens,Joseph Deters ,6042,,R,Treasure of State
+Auglaize,Joseph Deters ,8903,,R,Treasure of State
+Belmont,Joseph Deters ,7346,,R,Treasure of State
+Brown,Joseph Deters ,7318,,R,Treasure of State
+Butler,Joseph Deters ,60170,,R,Treasure of State
+Carroll,Joseph Deters ,4582,,R,Treasure of State
+Champaign,Joseph Deters ,6693,,R,Treasure of State
+Clark,Joseph Deters ,21435,,R,Treasure of State
+Clermont,Joseph Deters ,31668,,R,Treasure of State
+Clinton,Joseph Deters ,7165,,R,Treasure of State
+Columbiana,Joseph Deters ,15365,,R,Treasure of State
+Coshocton,Joseph Deters ,5607,,R,Treasure of State
+Crawford,Joseph Deters ,7592,,R,Treasure of State
+Cuyahoga,Joseph Deters ,129082,,R,Treasure of State
+Darke,Joseph Deters ,11140,,R,Treasure of State
+Defiance,Joseph Deters ,6100,,R,Treasure of State
+Delaware,Joseph Deters ,27019,,R,Treasure of State
+Erie,Joseph Deters ,11359,,R,Treasure of State
+Fairfield,Joseph Deters ,24393,,R,Treasure of State
+Fayette,Joseph Deters ,4376,,R,Treasure of State
+Franklin,Joseph Deters ,145722,,R,Treasure of State
+Fulton,Joseph Deters ,8031,,R,Treasure of State
+Gallia,Joseph Deters ,5070,,R,Treasure of State
+Geauga,Joseph Deters ,17824,,R,Treasure of State
+Greene,Joseph Deters ,26763,,R,Treasure of State
+Guernsey,Joseph Deters ,5526,,R,Treasure of State
+Hamilton,Joseph Deters ,158180,,R,Treasure of State
+Hancock,Joseph Deters ,14361,,R,Treasure of State
+Hardin,Joseph Deters ,4829,,R,Treasure of State
+Harrison,Joseph Deters ,2225,,R,Treasure of State
+Henry,Joseph Deters ,5804,,R,Treasure of State
+Highland,Joseph Deters ,7222,,R,Treasure of State
+Hocking,Joseph Deters ,3846,,R,Treasure of State
+Holmes,Joseph Deters ,4005,,R,Treasure of State
+Huron,Joseph Deters ,8307,,R,Treasure of State
+Jackson,Joseph Deters ,4970,,R,Treasure of State
+Jefferson,Joseph Deters ,9055,,R,Treasure of State
+Knox,Joseph Deters ,8730,,R,Treasure of State
+Lake,Joseph Deters ,31114,,R,Treasure of State
+Lawrence,Joseph Deters ,7850,,R,Treasure of State
+Licking,Joseph Deters ,28501,,R,Treasure of State
+Logan,Joseph Deters ,8447,,R,Treasure of State
+Lorain,Joseph Deters ,32303,,R,Treasure of State
+Lucas,Joseph Deters ,52607,,R,Treasure of State
+Madison,Joseph Deters ,6933,,R,Treasure of State
+Mahoning,Joseph Deters ,33954,,R,Treasure of State
+Marion,Joseph Deters ,10246,,R,Treasure of State
+Medina,Joseph Deters ,25191,,R,Treasure of State
+Meigs,Joseph Deters ,3616,,R,Treasure of State
+Mercer,Joseph Deters ,8850,,R,Treasure of State
+Miami,Joseph Deters ,19426,,R,Treasure of State
+Monroe,Joseph Deters ,1670,,R,Treasure of State
+Montgomery,Joseph Deters ,83777,,R,Treasure of State
+Morgan,Joseph Deters ,2726,,R,Treasure of State
+Morrow,Joseph Deters ,5814,,R,Treasure of State
+Muskingum,Joseph Deters ,13466,,R,Treasure of State
+Noble,Joseph Deters ,2101,,R,Treasure of State
+Ottawa,Joseph Deters ,7566,,R,Treasure of State
+Paulding,Joseph Deters ,3276,,R,Treasure of State
+Perry,Joseph Deters ,4647,,R,Treasure of State
+Pickaway,Joseph Deters ,7303,,R,Treasure of State
+Pike,Joseph Deters ,3382,,R,Treasure of State
+Portage,Joseph Deters ,17687,,R,Treasure of State
+Preble,Joseph Deters ,7422,,R,Treasure of State
+Putnam,Joseph Deters ,8398,,R,Treasure of State
+Richland,Joseph Deters ,19844,,R,Treasure of State
+Ross,Joseph Deters ,9503,,R,Treasure of State
+Sandusky,Joseph Deters ,10383,,R,Treasure of State
+Scioto,Joseph Deters ,9848,,R,Treasure of State
+Seneca,Joseph Deters ,9320,,R,Treasure of State
+Shelby,Joseph Deters ,8856,,R,Treasure of State
+Stark,Joseph Deters ,55497,,R,Treasure of State
+Summit,Joseph Deters ,65668,,R,Treasure of State
+Trumbull,Joseph Deters ,28584,,R,Treasure of State
+Tuscarawas,Joseph Deters ,10537,,R,Treasure of State
+Union,Joseph Deters ,8494,,R,Treasure of State
+Van Wert,Joseph Deters ,5863,,R,Treasure of State
+Vinton,Joseph Deters ,1853,,R,Treasure of State
+Warren,Joseph Deters ,36524,,R,Treasure of State
+Washington,Joseph Deters ,9302,,R,Treasure of State
+Wayne,Joseph Deters ,17750,,R,Treasure of State
+Williams,Joseph Deters ,6781,,R,Treasure of State
+Wood,Joseph Deters ,20723,,R,Treasure of State
+Wyandot,Joseph Deters ,3936,,R,Treasure of State
+Adams,Robert Martin ,0,,WI,Treasure of State
+Allen,Robert Martin ,0,,WI,Treasure of State
+Ashland,Robert Martin ,0,,WI,Treasure of State
+Ashtabula,Robert Martin ,0,,WI,Treasure of State
+Athens,Robert Martin ,0,,WI,Treasure of State
+Auglaize,Robert Martin ,0,,WI,Treasure of State
+Belmont,Robert Martin ,0,,WI,Treasure of State
+Brown,Robert Martin ,0,,WI,Treasure of State
+Butler,Robert Martin ,0,,WI,Treasure of State
+Carroll,Robert Martin ,0,,WI,Treasure of State
+Champaign,Robert Martin ,0,,WI,Treasure of State
+Clark,Robert Martin ,1,,WI,Treasure of State
+Clermont,Robert Martin ,0,,WI,Treasure of State
+Clinton,Robert Martin ,0,,WI,Treasure of State
+Columbiana,Robert Martin ,0,,WI,Treasure of State
+Coshocton,Robert Martin ,0,,WI,Treasure of State
+Crawford,Robert Martin ,0,,WI,Treasure of State
+Cuyahoga,Robert Martin ,6,,WI,Treasure of State
+Darke,Robert Martin ,0,,WI,Treasure of State
+Defiance,Robert Martin ,0,,WI,Treasure of State
+Delaware,Robert Martin ,0,,WI,Treasure of State
+Erie,Robert Martin ,1,,WI,Treasure of State
+Fairfield,Robert Martin ,0,,WI,Treasure of State
+Fayette,Robert Martin ,0,,WI,Treasure of State
+Franklin,Robert Martin ,1,,WI,Treasure of State
+Fulton,Robert Martin ,0,,WI,Treasure of State
+Gallia,Robert Martin ,0,,WI,Treasure of State
+Geauga,Robert Martin ,5,,WI,Treasure of State
+Greene,Robert Martin ,0,,WI,Treasure of State
+Guernsey,Robert Martin ,0,,WI,Treasure of State
+Hamilton,Robert Martin ,1,,WI,Treasure of State
+Hancock,Robert Martin ,4,,WI,Treasure of State
+Hardin,Robert Martin ,1,,WI,Treasure of State
+Harrison,Robert Martin ,0,,WI,Treasure of State
+Henry,Robert Martin ,0,,WI,Treasure of State
+Highland,Robert Martin ,0,,WI,Treasure of State
+Hocking,Robert Martin ,0,,WI,Treasure of State
+Holmes,Robert Martin ,0,,WI,Treasure of State
+Huron,Robert Martin ,0,,WI,Treasure of State
+Jackson,Robert Martin ,0,,WI,Treasure of State
+Jefferson,Robert Martin ,1,,WI,Treasure of State
+Knox,Robert Martin ,0,,WI,Treasure of State
+Lake,Robert Martin ,3,,WI,Treasure of State
+Lawrence,Robert Martin ,0,,WI,Treasure of State
+Licking,Robert Martin ,1,,WI,Treasure of State
+Logan,Robert Martin ,0,,WI,Treasure of State
+Lorain,Robert Martin ,0,,WI,Treasure of State
+Lucas,Robert Martin ,4,,WI,Treasure of State
+Madison,Robert Martin ,0,,WI,Treasure of State
+Mahoning,Robert Martin ,69,,WI,Treasure of State
+Marion,Robert Martin ,0,,WI,Treasure of State
+Medina,Robert Martin ,1,,WI,Treasure of State
+Meigs,Robert Martin ,0,,WI,Treasure of State
+Mercer,Robert Martin ,0,,WI,Treasure of State
+Miami,Robert Martin ,0,,WI,Treasure of State
+Monroe,Robert Martin ,0,,WI,Treasure of State
+Montgomery,Robert Martin ,0,,WI,Treasure of State
+Morgan,Robert Martin ,0,,WI,Treasure of State
+Morrow,Robert Martin ,1,,WI,Treasure of State
+Muskingum,Robert Martin ,0,,WI,Treasure of State
+Noble,Robert Martin ,0,,WI,Treasure of State
+Ottawa,Robert Martin ,1,,WI,Treasure of State
+Paulding,Robert Martin ,0,,WI,Treasure of State
+Perry,Robert Martin ,0,,WI,Treasure of State
+Pickaway,Robert Martin ,0,,WI,Treasure of State
+Pike,Robert Martin ,0,,WI,Treasure of State
+Portage,Robert Martin ,2,,WI,Treasure of State
+Preble,Robert Martin ,0,,WI,Treasure of State
+Putnam,Robert Martin ,0,,WI,Treasure of State
+Richland,Robert Martin ,0,,WI,Treasure of State
+Ross,Robert Martin ,0,,WI,Treasure of State
+Sandusky,Robert Martin ,0,,WI,Treasure of State
+Scioto,Robert Martin ,0,,WI,Treasure of State
+Seneca,Robert Martin ,0,,WI,Treasure of State
+Shelby,Robert Martin ,0,,WI,Treasure of State
+Stark,Robert Martin ,0,,WI,Treasure of State
+Summit,Robert Martin ,2,,WI,Treasure of State
+Trumbull,Robert Martin ,0,,WI,Treasure of State
+Tuscarawas,Robert Martin ,0,,WI,Treasure of State
+Union,Robert Martin ,1,,WI,Treasure of State
+Van Wert,Robert Martin ,0,,WI,Treasure of State
+Vinton,Robert Martin ,0,,WI,Treasure of State
+Warren,Robert Martin ,0,,WI,Treasure of State
+Washington,Robert Martin ,0,,WI,Treasure of State
+Wayne,Robert Martin ,0,,WI,Treasure of State
+Williams,Robert Martin ,0,,WI,Treasure of State
+Wood,Robert Martin ,2,,WI,Treasure of State
+Wyandot,Robert Martin ,0,,WI,Treasure of State
+Hamilton,Sandra Hall ,9118,33,R,State Representative
+Hamilton,Tyrone Yates ,18532,33,D,State Representative
+Hamilton,Tom Brinkman Jr. ,23748,34,R,State Representative
+Hamilton,Dave Schaff ,13896,34,D,State Representative
+Hamilton,Michelle Schneider ,17996,35,R,State Representative
+Warren,Michelle Schneider ,13834,35,R,State Representative
+Portage,Michael Grimm ,4738,43,D,State Representative
+Summit,Michael Grimm ,13442,43,D,State Representative
+Portage,Mary Taylor ,5735,43,R,State Representative
+Summit,Mary Taylor ,15278,43,R,State Representative
+Huron,Kenneth Bailey ,5992,58,D,State Representative
+Lorain,Kenneth Bailey ,6157,58,D,State Representative
+Seneca,Kenneth Bailey ,1129,58,D,State Representative
+Huron,Kathleen Walcher ,9201,58,R,State Representative
+Lorain,Kathleen Walcher ,7469,58,R,State Representative
+Seneca,Kathleen Walcher ,1695,58,R,State Representative
+Carroll,John Boccieri ,4827,61,D,State Representative
+Mahoning,John Boccieri ,6242,61,D,State Representative
+Stark,John Boccieri ,6039,61,D,State Representative
+Tuscarawas,John Boccieri ,2996,61,D,State Representative
+Carroll,Randy Pope ,3880,61,R,State Representative
+Mahoning,Randy Pope ,3620,61,R,State Representative
+Stark,Randy Pope ,4270,61,R,State Representative
+Tuscarawas,Randy Pope ,1183,61,R,State Representative
+Clermont,Jean Schmidt ,23606,66,R,State Representative
+Defiance,Stephen Buehrer ,8002,74,R,State Representative
+Fulton,Stephen Buehrer ,10492,74,R,State Representative
+Williams,Stephen Buehrer ,8985,74,R,State Representative
+Defiance,James Hoops ,297,75,R,State Representative
+Henry,James Hoops ,8056,75,R,State Representative
+Paulding,James Hoops ,4530,75,R,State Representative
+Putnam,James Hoops ,10192,75,R,State Representative
+Van Wert,James Hoops ,7578,75,R,State Representative
+Auglaize,Mike Gilb ,2963,76,R,State Representative
+Hancock,Mike Gilb ,14944,76,R,State Representative
+Hardin,Mike Gilb ,4534,76,R,State Representative
+Auglaize,Kenneth Ludwig ,1218,76,D,State Representative
+Hancock,Kenneth Ludwig ,5244,76,D,State Representative
+Hardin,Kenneth Ludwig ,3662,76,D,State Representative
+Darke,Benjamin Amstutz ,2829,77,D,State Representative
+Mercer,Benjamin Amstutz ,3172,77,D,State Representative
+Preble,Benjamin Amstutz ,3482,77,D,State Representative
+Darke,Keith Faber ,9145,77,R,State Representative
+Mercer,Keith Faber ,11742,77,R,State Representative
+Preble,Keith Faber ,7466,77,R,State Representative
+Auglaize,John Adams ,3500,78,R,State Representative
+Champaign,John Adams ,5250,78,R,State Representative
+Shelby,John Adams ,5880,78,R,State Representative
+Auglaize,Derrick Seaver ,5818,78,D,State Representative
+Champaign,Derrick Seaver ,5375,78,D,State Representative
+Shelby,Derrick Seaver ,9241,78,D,State Representative
+Darke,Diana Fessler ,3847,79,R,State Representative
+Miami,Diana Fessler ,19946,79,R,State Representative
+Darke,Carol McKeever ,1488,79,D,State Representative
+Miami,Carol McKeever ,9317,79,D,State Representative
+Erie,J. Tom Lendrum ,11025,80,R,State Representative
+Ottawa,J. Tom Lendrum ,4837,80,R,State Representative
+Erie,Chris Redfern ,13760,80,D,State Representative
+Ottawa,Chris Redfern ,6875,80,D,State Representative
+Ottawa,James Melle ,1394,81,D,State Representative
+Sandusky,James Melle ,8748,81,D,State Representative
+Seneca,James Melle ,6301,81,D,State Representative
+Ottawa,Jeff Wagner ,1764,81,R,State Representative
+Sandusky,Jeff Wagner ,10071,81,R,State Representative
+Seneca,Jeff Wagner ,7521,81,R,State Representative
+Crawford,Steven Chaffin ,3732,82,D,State Representative
+Marion,Steven Chaffin ,4395,82,D,State Representative
+Wyandot,Steven Chaffin ,1724,82,D,State Representative
+Crawford,Steve Reinhard ,9409,82,R,State Representative
+Marion,Steve Reinhard ,5836,82,R,State Representative
+Wyandot,Steve Reinhard ,4460,82,R,State Representative
+Logan,Anthony Core ,9154,83,R,State Representative
+Marion,Anthony Core ,4373,83,R,State Representative
+Union,Anthony Core ,8429,83,R,State Representative
+Logan,Stacy Roberts ,3425,83,D,State Representative
+Marion,Stacy Roberts ,2561,83,D,State Representative
+Union,Stacy Roberts ,3345,83,D,State Representative
+Clark,Natalie Tackett ,5286,84,D,State Representative
+Greene,Natalie Tackett ,4479,84,D,State Representative
+Madison,Natalie Tackett ,3209,84,D,State Representative
+Clark,Chris Widener ,6845,84,R,State Representative
+Greene,Chris Widener ,7784,84,R,State Representative
+Madison,Chris Widener ,7101,84,R,State Representative
+Fayette,John Schlichter ,4640,85,R,State Representative
+Pickaway,John Schlichter ,3322,85,R,State Representative
+Ross,John Schlichter ,7032,85,R,State Representative
+Fayette,Joseph Sulzer ,1934,85,D,State Representative
+Pickaway,Joseph Sulzer ,2124,85,D,State Representative
+Ross,Joseph Sulzer ,8672,85,D,State Representative
+Clinton,David Daniels ,6983,86,R,State Representative
+Highland,David Daniels ,7202,86,R,State Representative
+Pike,David Daniels ,3594,86,R,State Representative
+Clinton,Bill Horne,2645,86,,State Representative
+Highland,Bill Horne,3586,86,,State Representative
+Pike,Bill Horne,3402,86,,State Representative
+Gallia,Fred Deel ,4400,87,D,State Representative
+Jackson,Fred Deel ,3850,87,D,State Representative
+Lawrence,Fred Deel ,3017,87,D,State Representative
+Ross,Fred Deel ,1273,87,D,State Representative
+Vinton,Fred Deel ,1776,87,D,State Representative
+Gallia,Clyde Evans ,5121,87,R,State Representative
+Jackson,Clyde Evans ,5088,87,R,State Representative
+Lawrence,Clyde Evans ,4412,87,R,State Representative
+Ross,Clyde Evans ,1375,87,R,State Representative
+Vinton,Clyde Evans ,2000,87,R,State Representative
+Adams,Tom Niehaus ,3029,88,R,State Representative
+Brown,Tom Niehaus ,9004,88,R,State Representative
+Clermont,Tom Niehaus ,10697,88,R,State Representative
+Adams,Todd Book ,1028,89,D,State Representative
+Lawrence,Todd Book ,4157,89,D,State Representative
+Scioto,Todd Book ,14152,89,D,State Representative
+Adams,Harold Sayre ,1599,89,R,State Representative
+Lawrence,Harold Sayre ,3790,89,R,State Representative
+Scioto,Harold Sayre ,8167,89,R,State Representative
+Ashland,Thom Collier ,2405,90,R,State Representative
+Knox,Thom Collier ,10037,90,R,State Representative
+Morrow,Thom Collier ,5432,90,R,State Representative
+Richland,Thom Collier ,3617,90,R,State Representative
+Ashland,Howard Hoffman ,1213,90,D,State Representative
+Knox,Howard Hoffman ,3690,90,D,State Representative
+Morrow,Howard Hoffman ,3456,90,D,State Representative
+Richland,Howard Hoffman ,2275,90,D,State Representative
+Hocking,Brad Gothard ,2765,91,D,State Representative
+Licking,Brad Gothard ,3150,91,D,State Representative
+Perry,Brad Gothard ,3482,91,D,State Representative
+Pickaway,Brad Gothard ,1842,91,D,State Representative
+Hocking,Larry Householder ,4713,91,R,State Representative
+Licking,Larry Householder ,7949,91,R,State Representative
+Perry,Larry Householder ,5671,91,R,State Representative
+Pickaway,Larry Householder ,4147,91,R,State Representative
+Athens,James Pancake ,8182,92,D,State Representative
+Meigs,James Pancake ,2259,92,D,State Representative
+Morgan,James Pancake ,1739,92,D,State Representative
+Washington,James Pancake ,1835,92,D,State Representative
+Athens,Jimmy Stewart ,8060,92,R,State Representative
+Meigs,Jimmy Stewart ,4750,92,R,State Representative
+Morgan,Jimmy Stewart ,2958,92,R,State Representative
+Washington,Jimmy Stewart ,3655,92,R,State Representative
+Guernsey,Nancy Hollister ,6259,93,R,State Representative
+Monroe,Nancy Hollister ,2054,93,R,State Representative
+Muskingum,Nancy Hollister ,902,93,R,State Representative
+Noble,Nancy Hollister ,2611,93,R,State Representative
+Washington,Nancy Hollister ,8362,93,R,State Representative
+Guernsey,William Moore ,4340,93,D,State Representative
+Monroe,William Moore ,3075,93,D,State Representative
+Muskingum,William Moore ,362,93,D,State Representative
+Noble,William Moore ,1641,93,D,State Representative
+Washington,William Moore ,4719,93,D,State Representative
+Coshocton,Jim Aslanides ,8450,94,R,State Representative
+Muskingum,Jim Aslanides ,15506,94,R,State Representative
+Belmont,John Domenick ,8109,95,D,State Representative
+Jefferson,John Domenick ,13245,95,D,State Representative
+Belmont,Frank Sentich Jr. ,3960,95,R,State Representative
+Jefferson,Frank Sentich Jr. ,10212,95,R,State Representative
+Belmont,Greg Erb ,2522,96,R,State Representative
+Harrison,Greg Erb ,2036,96,R,State Representative
+Tuscarawas,Greg Erb ,8839,96,R,State Representative
+Belmont,Charlie Wilson ,6309,96,D,State Representative
+Harrison,Charlie Wilson ,3643,96,D,State Representative
+Tuscarawas,Charlie Wilson ,11888,96,D,State Representative
+Ashland,Bob Gibbs ,6375,97,R,State Representative
+Holmes,Bob Gibbs ,4697,97,R,State Representative
+Medina,Bob Gibbs ,7110,97,R,State Representative
+Ashland,Thomas Mason ,4728,97,D,State Representative
+Holmes,Thomas Mason ,1468,97,D,State Representative
+Medina,Thomas Mason ,4743,97,D,State Representative
+Cuyahoga,Meg Cacciacarro ,2876,98,D,State Representative
+Geauga,Meg Cacciacarro ,8596,98,D,State Representative
+Cuyahoga,Timothy Grendell ,4056,98,R,State Representative
+Geauga,Timothy Grendell ,22307,98,R,State Representative
+Ashtabula,L. George Distel ,17918,99,D,State Representative
+Trumbull,L. George Distel ,841,99,D,State Representative
+Ashtabula,Robert Rennie ,8909,99,R,State Representative
+Trumbull,Robert Rennie ,836,99,R,State Representative
+Ashtabula,Donald Rogers ,1,99,WI,State Representative
+Trumbull,Donald Rogers ,11,99,WI,State Representative
+Butler,Steve Chabot ,6195,1,R,US Representative
+Hamilton,Steve Chabot ,104565,1,R,US Representative
+Butler,Greg Harris ,1881,1,D,US Representative
+Hamilton,Greg Harris ,58287,1,D,US Representative
+Adams,James Condit Jr. ,0,2,WI,US Representative
+Brown,James Condit Jr. ,0,2,WI,US Representative
+Clermont,James Condit Jr. ,6,2,WI,US Representative
+Hamilton,James Condit Jr. ,7,2,WI,US Representative
+Pike,James Condit Jr. ,0,2,WI,US Representative
+Scioto,James Condit Jr. ,0,2,WI,US Representative
+Warren,James Condit Jr. ,0,2,WI,US Representative
+Adams,Rob Portman ,4938,2,R,US Representative
+Brown,Rob Portman ,8651,2,R,US Representative
+Clermont,Rob Portman ,34058,2,R,US Representative
+Hamilton,Rob Portman ,63037,2,R,US Representative
+Pike,Rob Portman ,3441,2,R,US Representative
+Scioto,Rob Portman ,6299,2,R,US Representative
+Warren,Rob Portman ,18794,2,R,US Representative
+Adams,Charles Sanders ,2033,2,D,US Representative
+Brown,Charles Sanders ,3052,2,D,US Representative
+Clermont,Charles Sanders ,9142,2,D,US Representative
+Hamilton,Charles Sanders ,20198,2,D,US Representative
+Pike,Charles Sanders ,4110,2,D,US Representative
+Scioto,Charles Sanders ,5980,2,D,US Representative
+Warren,Charles Sanders ,4270,2,D,US Representative
+Clinton,Rick Carne ,3190,3,D,US Representative
+Highland,Rick Carne ,4007,3,D,US Representative
+Montgomery,Rick Carne ,64407,3,D,US Representative
+Warren,Rick Carne ,6703,3,D,US Representative
+Clinton,Michael Turner ,7028,3,R,US Representative
+Highland,Michael Turner ,6816,3,R,US Representative
+Montgomery,Michael Turner ,78533,3,R,US Representative
+Warren,Michael Turner ,19253,3,R,US Representative
+Clinton,Ronald Williamitis ,2,3,WI,US Representative
+Highland,Ronald Williamitis ,0,3,WI,US Representative
+Montgomery,Ronald Williamitis ,10,3,WI,US Representative
+Warren,Ronald Williamitis ,2,3,WI,US Representative
+Allen,Jim Clark ,9956,4,D,US Representative
+Auglaize,Jim Clark ,3752,4,D,US Representative
+Champaign,Jim Clark ,3811,4,D,US Representative
+Hancock,Jim Clark ,5787,4,D,US Representative
+Hardin,Jim Clark ,2994,4,D,US Representative
+Logan,Jim Clark ,3186,4,D,US Representative
+Marion,Jim Clark ,6074,4,D,US Representative
+Morrow,Jim Clark ,3163,4,D,US Representative
+Richland,Jim Clark ,13794,4,D,US Representative
+Shelby,Jim Clark ,4119,4,D,US Representative
+Wyandot,Jim Clark ,1090,4,D,US Representative
+Allen,Michael Oxley ,19872,4,R,US Representative
+Auglaize,Michael Oxley ,9933,4,R,US Representative
+Champaign,Michael Oxley ,6488,4,R,US Representative
+Hancock,Michael Oxley ,14729,4,R,US Representative
+Hardin,Michael Oxley ,5412,4,R,US Representative
+Logan,Michael Oxley ,9330,4,R,US Representative
+Marion,Michael Oxley ,11407,4,R,US Representative
+Morrow,Michael Oxley ,6303,4,R,US Representative
+Richland,Michael Oxley ,23721,4,R,US Representative
+Shelby,Michael Oxley ,10497,4,R,US Representative
+Wyandot,Michael Oxley ,2309,4,R,US Representative
+Ashland,Roger Anderson ,1118,5,D,US Representative
+Crawford,Roger Anderson ,3660,5,D,US Representative
+Defiance,Roger Anderson ,3071,5,D,US Representative
+Fulton,Roger Anderson ,3283,5,D,US Representative
+Henry,Roger Anderson ,1877,5,D,US Representative
+Huron,Roger Anderson ,3927,5,D,US Representative
+Lucas,Roger Anderson ,1698,5,D,US Representative
+Mercer,Roger Anderson ,884,5,D,US Representative
+Paulding,Roger Anderson ,1888,5,D,US Representative
+Putnam,Roger Anderson ,2385,5,D,US Representative
+Sandusky,Roger Anderson ,5460,5,D,US Representative
+Seneca,Roger Anderson ,4586,5,D,US Representative
+Van Wert,Roger Anderson ,1906,5,D,US Representative
+Williams,Roger Anderson ,2637,5,D,US Representative
+Wood,Roger Anderson ,12795,5,D,US Representative
+Wyandot,Roger Anderson ,697,5,D,US Representative
+Ashland,Paul Gillmor ,1892,5,R,US Representative
+Crawford,Paul Gillmor ,8574,5,R,US Representative
+Defiance,Paul Gillmor ,7093,5,R,US Representative
+Fulton,Paul Gillmor ,8791,5,R,US Representative
+Henry,Paul Gillmor ,6813,5,R,US Representative
+Huron,Paul Gillmor ,10317,5,R,US Representative
+Lucas,Paul Gillmor ,3536,5,R,US Representative
+Mercer,Paul Gillmor ,2536,5,R,US Representative
+Paulding,Paul Gillmor ,4035,5,R,US Representative
+Putnam,Paul Gillmor ,9402,5,R,US Representative
+Sandusky,Paul Gillmor ,12500,5,R,US Representative
+Seneca,Paul Gillmor ,11415,5,R,US Representative
+Van Wert,Paul Gillmor ,6696,5,R,US Representative
+Williams,Paul Gillmor ,7906,5,R,US Representative
+Wood,Paul Gillmor ,22703,5,R,US Representative
+Wyandot,Paul Gillmor ,2077,5,R,US Representative
+Ashland,John Green,293,5,,US Representative
+Crawford,John Green,813,5,,US Representative
+Defiance,John Green,536,5,,US Representative
+Fulton,John Green,716,5,,US Representative
+Henry,John Green,482,5,,US Representative
+Huron,John Green,709,5,,US Representative
+Lucas,John Green,391,5,,US Representative
+Mercer,John Green,222,5,,US Representative
+Paulding,John Green,292,5,,US Representative
+Putnam,John Green,586,5,,US Representative
+Sandusky,John Green,950,5,,US Representative
+Seneca,John Green,837,5,,US Representative
+Van Wert,John Green,517,5,,US Representative
+Williams,John Green,647,5,,US Representative
+Wood,John Green,1921,5,,US Representative
+Wyandot,John Green,184,5,,US Representative
+Athens,Mike Halleck ,3292,6,R,US Representative
+Belmont,Mike Halleck ,4878,6,R,US Representative
+Columbiana,Mike Halleck ,15415,6,R,US Representative
+Gallia,Mike Halleck ,3832,6,R,US Representative
+Jefferson,Mike Halleck ,8806,6,R,US Representative
+Lawrence,Mike Halleck ,6548,6,R,US Representative
+Mahoning,Mike Halleck ,18194,6,R,US Representative
+Meigs,Mike Halleck ,2948,6,R,US Representative
+Monroe,Mike Halleck ,1445,6,R,US Representative
+Noble,Mike Halleck ,2090,6,R,US Representative
+Scioto,Mike Halleck ,2544,6,R,US Representative
+Washington,Mike Halleck ,7651,6,R,US Representative
+Athens,Ted Strickland ,8227,6,D,US Representative
+Belmont,Ted Strickland ,11582,6,D,US Representative
+Columbiana,Ted Strickland ,15503,6,D,US Representative
+Gallia,Ted Strickland ,5653,6,D,US Representative
+Jefferson,Ted Strickland ,14661,6,D,US Representative
+Lawrence,Ted Strickland ,9253,6,D,US Representative
+Mahoning,Ted Strickland ,20818,6,D,US Representative
+Meigs,Ted Strickland ,4151,6,D,US Representative
+Monroe,Ted Strickland ,3716,6,D,US Representative
+Noble,Ted Strickland ,2210,6,D,US Representative
+Scioto,Ted Strickland ,7106,6,D,US Representative
+Washington,Ted Strickland ,11092,6,D,US Representative
+Clark,Kara Anastasio ,10915,7,D,US Representative
+Fairfield,Kara Anastasio ,8900,7,D,US Representative
+Fayette,Kara Anastasio ,1292,7,D,US Representative
+Franklin,Kara Anastasio ,7625,7,D,US Representative
+Greene,Kara Anastasio ,9969,7,D,US Representative
+Perry,Kara Anastasio ,3366,7,D,US Representative
+Pickaway,Kara Anastasio ,2880,7,D,US Representative
+Ross,Kara Anastasio ,621,7,D,US Representative
+Clark,Frank Doden,2023,7,,US Representative
+Fairfield,Frank Doden,1759,7,,US Representative
+Fayette,Frank Doden,270,7,,US Representative
+Franklin,Frank Doden,1268,7,,US Representative
+Greene,Frank Doden,2214,7,,US Representative
+Perry,Frank Doden,591,7,,US Representative
+Pickaway,Frank Doden,587,7,,US Representative
+Ross,Frank Doden,100,7,,US Representative
+Clark,Dave Hobson ,26093,7,R,US Representative
+Fairfield,Dave Hobson ,27338,7,R,US Representative
+Fayette,Dave Hobson ,4979,7,R,US Representative
+Franklin,Dave Hobson ,9807,7,R,US Representative
+Greene,Dave Hobson ,30821,7,R,US Representative
+Perry,Dave Hobson ,4547,7,R,US Representative
+Pickaway,Dave Hobson ,8046,7,R,US Representative
+Ross,Dave Hobson ,1621,7,R,US Representative
+Butler,John Boehner ,56928,8,R,US Representative
+Darke,John Boehner ,13368,8,R,US Representative
+Mercer,John Boehner ,8969,8,R,US Representative
+Miami,John Boehner ,21133,8,R,US Representative
+Montgomery,John Boehner ,11358,8,R,US Representative
+Preble,John Boehner ,8191,8,R,US Representative
+Butler,Jeff Hardenbrook ,22071,8,D,US Representative
+Darke,Jeff Hardenbrook ,4228,8,D,US Representative
+Mercer,Jeff Hardenbrook ,2422,8,D,US Representative
+Miami,Jeff Hardenbrook ,8486,8,D,US Representative
+Montgomery,Jeff Hardenbrook ,8946,8,D,US Representative
+Preble,Jeff Hardenbrook ,3291,8,D,US Representative
+Erie,Ed Emery ,9472,9,R,US Representative
+Lorain,Ed Emery ,8777,9,R,US Representative
+Lucas,Ed Emery ,23230,9,R,US Representative
+Ottawa,Ed Emery ,5002,9,R,US Representative
+Erie,Marcy Kaptur ,14116,9,D,US Representative
+Lorain,Marcy Kaptur ,12040,9,D,US Representative
+Lucas,Marcy Kaptur ,96410,9,D,US Representative
+Ottawa,Marcy Kaptur ,9670,9,D,US Representative
+Delaware,Edward Brown ,8784,12,D,US Representative
+Franklin,Edward Brown ,47315,12,D,US Representative
+Licking,Edward Brown ,8608,12,D,US Representative
+Delaware,Pat Tiberi ,30397,12,R,US Representative
+Franklin,Pat Tiberi ,64214,12,R,US Representative
+Licking,Pat Tiberi ,22371,12,R,US Representative
+Cuyahoga,Sherrod Brown ,17932,13,D,US Representative
+Lorain,Sherrod Brown ,41165,13,D,US Representative
+Medina,Sherrod Brown ,9556,13,D,US Representative
+Summit,Sherrod Brown ,54372,13,D,US Representative
+Cuyahoga,Ed Oliveros ,12153,13,R,US Representative
+Lorain,Ed Oliveros ,14822,13,R,US Representative
+Medina,Ed Oliveros ,4543,13,R,US Representative
+Summit,Ed Oliveros ,23839,13,R,US Representative
+Ashtabula,Dale Blanchard ,9438,14,D,US Representative
+Cuyahoga,Dale Blanchard ,4276,14,D,US Representative
+Geauga,Dale Blanchard ,7274,14,D,US Representative
+Lake,Dale Blanchard ,14485,14,D,US Representative
+Portage,Dale Blanchard ,2906,14,D,US Representative
+Summit,Dale Blanchard ,12157,14,D,US Representative
+Trumbull,Dale Blanchard ,1310,14,D,US Representative
+Ashtabula,Steven LaTourette ,17901,14,R,US Representative
+Cuyahoga,Steven LaTourette ,11738,14,R,US Representative
+Geauga,Steven LaTourette ,23730,14,R,US Representative
+Lake,Steven LaTourette ,50721,14,R,US Representative
+Portage,Steven LaTourette ,6227,14,R,US Representative
+Summit,Steven LaTourette ,22138,14,R,US Representative
+Trumbull,Steven LaTourette ,1958,14,R,US Representative
+Ashtabula,Sid Stone ,16,14,WI,US Representative
+Cuyahoga,Sid Stone ,1,14,WI,US Representative
+Geauga,Sid Stone ,25,14,WI,US Representative
+Lake,Sid Stone ,65,14,WI,US Representative
+Portage,Sid Stone ,0,14,WI,US Representative
+Summit,Sid Stone ,5,14,WI,US Representative
+Trumbull,Sid Stone ,1,14,WI,US Representative
+Franklin,Mark Brown ,48742,15,D,US Representative
+Madison,Mark Brown ,2615,15,D,US Representative
+Union,Mark Brown ,2929,15,D,US Representative
+Franklin,Deborah Pryce ,91242,15,R,US Representative
+Madison,Deborah Pryce ,7848,15,R,US Representative
+Union,Deborah Pryce ,9103,15,R,US Representative
+Ashland,Ralph Regula ,8174,16,R,US Representative
+Medina,Ralph Regula ,20692,16,R,US Representative
+Stark,Ralph Regula ,77801,16,R,US Representative
+Wayne,Ralph Regula ,23067,16,R,US Representative
+Ashland,Jim Rice ,3170,16,D,US Representative
+Medina,Jim Rice ,10311,16,D,US Representative
+Stark,Jim Rice ,37718,16,D,US Representative
+Wayne,Jim Rice ,7445,16,D,US Representative
+Mahoning,Timothy Ryan ,24235,17,D,US Representative
+Portage,Timothy Ryan ,14379,17,D,US Representative
+Summit,Timothy Ryan ,18593,17,D,US Representative
+Trumbull,Timothy Ryan ,37234,17,D,US Representative
+Mahoning,James Traficant Jr.,9838,17,,US Representative
+Portage,James Traficant Jr.,3308,17,,US Representative
+Summit,James Traficant Jr.,3040,17,,US Representative
+Trumbull,James Traficant Jr.,11859,17,,US Representative
+Mahoning,Ann Womer Benjamin ,13057,17,R,US Representative
+Portage,Ann Womer Benjamin ,14956,17,R,US Representative
+Summit,Ann Womer Benjamin ,13137,17,R,US Representative
+Trumbull,Ann Womer Benjamin ,21038,17,R,US Representative
+Athens,Bob Ney ,2611,18,R,US Representative
+Belmont,Bob Ney ,3821,18,R,US Representative
+Carroll,Bob Ney ,6831,18,R,US Representative
+Coshocton,Bob Ney ,8373,18,R,US Representative
+Guernsey,Bob Ney ,9072,18,R,US Representative
+Harrison,Bob Ney ,4710,18,R,US Representative
+Hocking,Bob Ney ,4801,18,R,US Representative
+Holmes,Bob Ney ,4875,18,R,US Representative
+Jackson,Bob Ney ,5802,18,R,US Representative
+Knox,Bob Ney ,9551,18,R,US Representative
+Licking,Bob Ney ,11787,18,R,US Representative
+Morgan,Bob Ney ,3677,18,R,US Representative
+Muskingum,Bob Ney ,18631,18,R,US Representative
+Ross,Bob Ney ,9044,18,R,US Representative
+Tuscarawas,Bob Ney ,19798,18,R,US Representative
+Vinton,Bob Ney ,2162,18,R,US Representative
+Auglaize,William Flanary ,1280,1,D,State Senate
+Defiance,William Flanary ,4417,1,D,State Senate
+Fulton,William Flanary ,4083,1,D,State Senate
+Hancock,William Flanary ,5407,1,D,State Senate
+Hardin,William Flanary ,3045,1,D,State Senate
+Henry,William Flanary ,2913,1,D,State Senate
+Paulding,William Flanary ,2538,1,D,State Senate
+Putnam,William Flanary ,3256,1,D,State Senate
+Van Wert,William Flanary ,2424,1,D,State Senate
+Williams,William Flanary ,3740,1,D,State Senate
+Auglaize,Lynn Wachtmann ,2916,1,R,State Senate
+Defiance,Lynn Wachtmann ,6297,1,R,State Senate
+Fulton,Lynn Wachtmann ,8524,1,R,State Senate
+Hancock,Lynn Wachtmann ,14409,1,R,State Senate
+Hardin,Lynn Wachtmann ,5002,1,R,State Senate
+Henry,Lynn Wachtmann ,6203,1,R,State Senate
+Paulding,Lynn Wachtmann ,3666,1,R,State Senate
+Putnam,Lynn Wachtmann ,9228,1,R,State Senate
+Van Wert,Lynn Wachtmann ,6673,1,R,State Senate
+Williams,Lynn Wachtmann ,7228,1,R,State Senate
+Darke,Mike Osgood ,3975,5,R,State Senate
+Miami,Mike Osgood ,19935,5,R,State Senate
+Montgomery,Mike Osgood ,17249,5,R,State Senate
+Darke,Tom Roberts ,1466,5,D,State Senate
+Miami,Tom Roberts ,9257,5,D,State Senate
+Montgomery,Tom Roberts ,34689,5,D,State Senate
+Hamilton,Tony Fischer ,17907,7,D,State Senate
+Warren,Tony Fischer ,12325,7,D,State Senate
+Hamilton,Robert Schuler ,40528,7,R,State Senate
+Warren,Robert Schuler ,34787,7,R,State Senate
+Huron,Jeffry Armbruster ,9121,13,R,State Senate
+Lorain,Jeffry Armbruster ,36978,13,R,State Senate
+Seneca,Jeffry Armbruster ,1758,13,R,State Senate
+Huron,Sue Morano ,5773,13,D,State Senate
+Lorain,Sue Morano ,40610,13,D,State Senate
+Seneca,Sue Morano ,1102,13,D,State Senate
+Clinton,John Carey Jr. ,6861,17,R,State Senate
+Fayette,John Carey Jr. ,4026,17,R,State Senate
+Gallia,John Carey Jr. ,6170,17,R,State Senate
+Highland,John Carey Jr. ,6360,17,R,State Senate
+Jackson,John Carey Jr. ,6350,17,R,State Senate
+Lawrence,John Carey Jr. ,4851,17,R,State Senate
+Pickaway,John Carey Jr. ,2857,17,R,State Senate
+Pike,John Carey Jr. ,2777,17,R,State Senate
+Ross,John Carey Jr. ,6217,17,R,State Senate
+Vinton,John Carey Jr. ,2124,17,R,State Senate
+Clinton,Michael Shoemaker ,3350,17,D,State Senate
+Fayette,Michael Shoemaker ,2520,17,D,State Senate
+Gallia,Michael Shoemaker ,3372,17,D,State Senate
+Highland,Michael Shoemaker ,4638,17,D,State Senate
+Jackson,Michael Shoemaker ,2929,17,D,State Senate
+Lawrence,Michael Shoemaker ,2788,17,D,State Senate
+Pickaway,Michael Shoemaker ,2658,17,D,State Senate
+Pike,Michael Shoemaker ,5107,17,D,State Senate
+Ross,Michael Shoemaker ,12422,17,D,State Senate
+Vinton,Michael Shoemaker ,1817,17,D,State Senate
+Ashland,Jack Campbell ,1233,19,D,State Senate
+Delaware,Jack Campbell ,10586,19,D,State Senate
+Knox,Jack Campbell ,3897,19,D,State Senate
+Morrow,Jack Campbell ,3325,19,D,State Senate
+Richland,Jack Campbell ,13535,19,D,State Senate
+Ashland,Bill Harris ,2550,19,R,State Senate
+Delaware,Bill Harris ,26427,19,R,State Senate
+Knox,Bill Harris ,9777,19,R,State Senate
+Morrow,Bill Harris ,5827,19,R,State Senate
+Richland,Bill Harris ,23334,19,R,State Senate
+Fairfield,Jay Hottinger ,30411,31,R,State Senate
+Hocking,Jay Hottinger ,5031,31,R,State Senate
+Licking,Jay Hottinger ,37923,31,R,State Senate
+Perry,Jay Hottinger ,6341,31,R,State Senate
+Pickaway,Jay Hottinger ,4068,31,R,State Senate
+Carroll,Robert Hagan ,4308,33,D,State Senate
+Mahoning,Robert Hagan ,58702,33,D,State Senate
+Stark,Robert Hagan ,5755,33,D,State Senate
+Tuscarawas,Robert Hagan ,2704,33,D,State Senate
+Carroll,Holly Hanni ,4063,33,R,State Senate
+Mahoning,Holly Hanni ,23910,33,R,State Senate
+Stark,Holly Hanni ,4277,33,R,State Senate
+Tuscarawas,Holly Hanni ,1321,33,R,State Senate
