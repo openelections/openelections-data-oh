@@ -30,4 +30,5 @@ df4 = df4.drop(['1', '2'], 1)
 
 df5 = pd.concat([df3, df4])
 df5 = df5[df5['votes'] != 0]
+df5 = df5.dropna()
 df5.to_csv('20121106__oh__general__precinct.csv')
