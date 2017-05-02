@@ -38,6 +38,9 @@ df2 = df2.drop(['1'], 1)
 df4 = pd.concat([df2, df3])
 df4 = df4[df4['votes'] != 0]
 df4 = df4[~df4['Precinct Name'].str.contains('TOTAL')]
+
+counties = pd.read_csv('ohio_counties.tsv', sep='\t').to_dict()
+df4['county'].map(counti
 df4.to_csv('20100504__oh__primary__precinct.csv', index=False)
 
 ### General Election Data
@@ -74,4 +77,4 @@ df5 = pd.concat([df3, df4])
 df5 = df5[df5['votes'] != 0]
 df5 = df5.dropna(subset=['Precinct Name'])
 df5 = df5[~df5['Precinct Name'].str.contains('TOTAL')]
-df5.to_csv('20100504__oh__general__precinct.csv', index=False)
+df5.to_csv('20101102__oh__general__precinct.csv', index=False)
