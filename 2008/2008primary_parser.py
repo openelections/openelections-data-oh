@@ -262,4 +262,4 @@ def make_results():
     return results
 
 results = make_results()
-results.to_csv('20080304__oh__primary.csv', index=False)
+results.to_csv('20080304__oh__primary.csv', index=False, encoding='latin')
