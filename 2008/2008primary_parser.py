@@ -17,7 +17,7 @@ def make_state_representative_df():
                   'candidate1', 'candidate2', 'candidate3', 'candidate4', 'candidate5']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('DISTRICT')].index.tolist()
-
+    splits.append(df.shape[0])
 
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
@@ -45,7 +45,7 @@ def make_state_representative_df():
                   'candidate1', 'candidate2', 'candidate3', 'candidate4', 'candidate5']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('DISTRICT')].index.tolist()
-
+    splits.append(df.shape[0])
 
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
@@ -78,7 +78,8 @@ def make_USrepresentative_df():
                   'candidate3', 'candidate4', 'candidate5', 'candidate6']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('DISTRICT')].index.tolist()
-
+    splits.append(df.shape[0])
+    
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
         df_ = df_.drop(df_.index[0])
@@ -105,7 +106,8 @@ def make_USrepresentative_df():
                   'candidate3', 'candidate4', 'candidate5']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('DISTRICT')].index.tolist()
-
+    splits.append(df.shape[0])
+    
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
         df_ = df_.drop(df_.index[0])
@@ -136,7 +138,8 @@ def make_state_senate_df():
                   'candidate1', 'candidate2']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('DISTRICT')].index.tolist()
-
+    splits.append(df.shape[0])
+    
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
         df_ = df_.drop(df_.index[0])
@@ -162,7 +165,8 @@ def make_state_senate_df():
                   'candidate1', 'candidate2', 'candidate3']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('DISTRICT')].index.tolist()
-
+    splits.append(df.shape[0])
+    
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
         df_ = df_.drop(df_.index[0])
@@ -193,7 +197,8 @@ def make_president_df():
                   'candidate1', 'candidate2', 'candidate3']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('DISTRICT')].index.tolist()
-
+    splits.append(df.shape[0])
+    
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
         df_ = df_.drop(df_.index[0])
@@ -220,7 +225,8 @@ def make_president_df():
                   'candidate5']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('DISTRICT')].index.tolist()
-
+    splits.append(df.shape[0])
+    
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
         df_ = df_.drop(df_.index[0])

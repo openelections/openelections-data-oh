@@ -73,17 +73,19 @@ def make_state_representative_df():
                   'candidate1', 'candidate2', 'candidate3']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('State Representative')].index.tolist()
+    splits.append(df.shape[0])
 
     representative_df = pd.DataFrame()
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
+        district_num = df_.iloc[0]['county'].split(' ')[-1]
         df_ = df_.drop(df_.index[0])
         df_.columns = df_.iloc[0]
         df_ = df_.drop(df_.index[0])
         df_.columns = ['county'] + list(df_.columns[1:])
         df_ = df_.dropna(subset=[df_.columns.values[1]])
         df_ = df_.dropna(axis=1)
-        
+  
         df_ = pd.melt(df_, id_vars=['county'], value_vars=list(df_.columns[1:]))
         party_df = df_[df_['county'] == ''][['variable','value']]
         party_df.columns = ['candidate', 'party']
@@ -96,6 +98,7 @@ def make_state_representative_df():
         df_['candidate'] = df_['candidate'].str.replace('\((.*?)\)', '')
         df_['candidate'] = df_['candidate'].str.rstrip('()')
         df_['office'] = 'State Representative'
+        df_['district'] = district_num
         representative_df = representative_df.append(df_)
 
     return representative_df
@@ -106,10 +109,12 @@ def make_USrepresentative_df():
                   'candidate3', 'candidate4', 'candidate5']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('U.S. Representative')].index.tolist()
-
+    splits.append(df.shape[0])
+    
     representative_df = pd.DataFrame()
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
+        district_num = df_.iloc[0]['county'].split(' ')[-1]
         df_ = df_.drop(df_.index[0])
         df_.columns = df_.iloc[0]
         df_ = df_.drop(df_.index[0])
@@ -129,9 +134,12 @@ def make_USrepresentative_df():
         df_['candidate'] = df_['candidate'].str.replace('\((.*?)\)', '')
         df_['candidate'] = df_['candidate'].str.rstrip('()')
         df_['office'] = 'US Representative'
+        df_['district'] = district_num
         representative_df = representative_df.append(df_)
 
     return representative_df
+
+df = make_USrepresentative_df()
 
 def make_state_senate_df():
     df = pd.read_html(URLS['state senate'])[0]
@@ -139,10 +147,12 @@ def make_state_senate_df():
                   'candidate1', 'candidate2', 'candidate3']
     df['county'] = df['county'].fillna('') 
     splits = df[df.county.str.startswith('State Senate')].index.tolist()
-
+    splits.append(df.shape[0])
+    
     representative_df = pd.DataFrame()
     for split in range(len(splits) - 1):
         df_ = df.iloc[splits[split]:splits[split+1]]
+        district_num = df_.iloc[0]['county'].split(' ')[-1]
         df_ = df_.drop(df_.index[0])
         df_.columns = df_.iloc[0]
         df_ = df_.drop(df_.index[0])
@@ -162,6 +172,7 @@ def make_state_senate_df():
         df_['candidate'] = df_['candidate'].str.replace('\((.*?)\)', '')
         df_['candidate'] = df_['candidate'].str.rstrip('()')
         df_['office'] = 'State Senate'
+        df_['district'] = district_num
         representative_df = representative_df.append(df_)
 
     return representative_df
