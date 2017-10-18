@@ -217,6 +217,7 @@ def make_state_senate_df(url_dict, party):
 def make_primary_df():
     dfs = []
     dfs.append(make_governor_df(DEMOCRATIC_PRIMARY_URLS, 'Democratic'))
+    dfs.append(make_attorney_general_df(DEMOCRATIC_PRIMARY_URLS, 'Democratic'))
     dfs.append(make_secretary_of_state_df(DEMOCRATIC_PRIMARY_URLS, 'Democratic'))
     dfs.append(make_state_auditor_df(DEMOCRATIC_PRIMARY_URLS, 'Democratic'))
     dfs.append(make_state_representatives_df(DEMOCRATIC_PRIMARY_URLS, 'Democratic'))
@@ -226,6 +227,7 @@ def make_primary_df():
     dfs.append(make_us_senate_df(DEMOCRATIC_PRIMARY_URLS, 'Democratic'))
     
     dfs.append(make_governor_df(REPUBLICAN_PRIMARY_URLS, 'Republican'))
+    dfs.append(make_attorney_general_df(REPUBLICAN_PRIMARY_URLS, 'Republican'))
     dfs.append(make_secretary_of_state_df(REPUBLICAN_PRIMARY_URLS, 'Republican'))
     dfs.append(make_state_auditor_df(REPUBLICAN_PRIMARY_URLS, 'Republican'))
     dfs.append(make_state_representatives_df(REPUBLICAN_PRIMARY_URLS, 'Republican'))
