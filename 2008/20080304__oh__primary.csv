@@ -1,0 +1,1887 @@
+county,candidate,votes,party,office,district
+Butler,Hillary Clinton,2143,Democratic,President,1
+Hamilton,Hillary Clinton,40123,Democratic,President,1
+Butler,John Edwards,52,Democratic,President,1
+Hamilton,John Edwards,816,Democratic,President,1
+Butler,Barack Obama,1139,Democratic,President,1
+Hamilton,Barack Obama,74021,Democratic,President,1
+Adams,Hillary Clinton,2829,Democratic,President,2
+Brown,Hillary Clinton,5487,Democratic,President,2
+Clermont,Hillary Clinton,16488,Democratic,President,2
+Hamilton,Hillary Clinton,19311,Democratic,President,2
+Pike,Hillary Clinton,4282,Democratic,President,2
+Scioto,Hillary Clinton,6961,Democratic,President,2
+Warren,Hillary Clinton,7028,Democratic,President,2
+Adams,John Edwards,145,Democratic,President,2
+Brown,John Edwards,277,Democratic,President,2
+Clermont,John Edwards,438,Democratic,President,2
+Hamilton,John Edwards,310,Democratic,President,2
+Pike,John Edwards,210,Democratic,President,2
+Scioto,John Edwards,238,Democratic,President,2
+Warren,John Edwards,149,Democratic,President,2
+Adams,Barack Obama,829,Democratic,President,2
+Brown,Barack Obama,1947,Democratic,President,2
+Clermont,Barack Obama,10399,Democratic,President,2
+Hamilton,Barack Obama,29273,Democratic,President,2
+Pike,Barack Obama,1153,Democratic,President,2
+Scioto,Barack Obama,1576,Democratic,President,2
+Warren,Barack Obama,6057,Democratic,President,2
+Clinton,Hillary Clinton,3321,Democratic,President,3
+Highland,Hillary Clinton,4147,Democratic,President,3
+Montgomery,Hillary Clinton,41937,Democratic,President,3
+Warren,Hillary Clinton,8942,Democratic,President,3
+Clinton,John Edwards,101,Democratic,President,3
+Highland,John Edwards,157,Democratic,President,3
+Montgomery,John Edwards,1085,Democratic,President,3
+Warren,John Edwards,234,Democratic,President,3
+Clinton,Barack Obama,1874,Democratic,President,3
+Highland,Barack Obama,1482,Democratic,President,3
+Montgomery,Barack Obama,57414,Democratic,President,3
+Warren,Barack Obama,6296,Democratic,President,3
+Allen,Hillary Clinton,7200,Democratic,President,4
+Auglaize,Hillary Clinton,3008,Democratic,President,4
+Champaign,Hillary Clinton,3613,Democratic,President,4
+Hancock,Hillary Clinton,4878,Democratic,President,4
+Hardin,Hillary Clinton,2526,Democratic,President,4
+Logan,Hillary Clinton,3249,Democratic,President,4
+Marion,Hillary Clinton,7248,Democratic,President,4
+Morrow,Hillary Clinton,3554,Democratic,President,4
+Richland,Hillary Clinton,12393,Democratic,President,4
+Shelby,Hillary Clinton,4111,Democratic,President,4
+Wyandot,Hillary Clinton,929,Democratic,President,4
+Allen,John Edwards,350,Democratic,President,4
+Auglaize,John Edwards,185,Democratic,President,4
+Champaign,John Edwards,164,Democratic,President,4
+Hancock,John Edwards,124,Democratic,President,4
+Hardin,John Edwards,133,Democratic,President,4
+Logan,John Edwards,152,Democratic,President,4
+Marion,John Edwards,283,Democratic,President,4
+Morrow,John Edwards,167,Democratic,President,4
+Richland,John Edwards,486,Democratic,President,4
+Shelby,John Edwards,252,Democratic,President,4
+Wyandot,John Edwards,45,Democratic,President,4
+Allen,Barack Obama,6801,Democratic,President,4
+Auglaize,Barack Obama,2085,Democratic,President,4
+Champaign,Barack Obama,2294,Democratic,President,4
+Hancock,Barack Obama,3806,Democratic,President,4
+Hardin,Barack Obama,1231,Democratic,President,4
+Logan,Barack Obama,2223,Democratic,President,4
+Marion,Barack Obama,3596,Democratic,President,4
+Morrow,Barack Obama,1809,Democratic,President,4
+Richland,Barack Obama,8924,Democratic,President,4
+Shelby,Barack Obama,2746,Democratic,President,4
+Wyandot,Barack Obama,668,Democratic,President,4
+Ashland,Hillary Clinton,1088,Democratic,President,5
+Crawford,Hillary Clinton,4144,Democratic,President,5
+Defiance,Hillary Clinton,3318,Democratic,President,5
+Fulton,Hillary Clinton,4149,Democratic,President,5
+Henry,Hillary Clinton,2540,Democratic,President,5
+Huron,Hillary Clinton,5119,Democratic,President,5
+Lucas,Hillary Clinton,2352,Democratic,President,5
+Mercer,Hillary Clinton,766,Democratic,President,5
+Paulding,Hillary Clinton,1872,Democratic,President,5
+Putnam,Hillary Clinton,2463,Democratic,President,5
+Sandusky,Hillary Clinton,7042,Democratic,President,5
+Seneca,Hillary Clinton,5478,Democratic,President,5
+Van Wert,Hillary Clinton,2119,Democratic,President,5
+Williams,Hillary Clinton,3020,Democratic,President,5
+Wood,Hillary Clinton,14012,Democratic,President,5
+Wyandot,Hillary Clinton,845,Democratic,President,5
+Ashland,John Edwards,53,Democratic,President,5
+Crawford,John Edwards,229,Democratic,President,5
+Defiance,John Edwards,164,Democratic,President,5
+Fulton,John Edwards,94,Democratic,President,5
+Henry,John Edwards,75,Democratic,President,5
+Huron,John Edwards,170,Democratic,President,5
+Lucas,John Edwards,42,Democratic,President,5
+Mercer,John Edwards,57,Democratic,President,5
+Paulding,John Edwards,124,Democratic,President,5
+Putnam,John Edwards,276,Democratic,President,5
+Sandusky,John Edwards,237,Democratic,President,5
+Seneca,John Edwards,261,Democratic,President,5
+Van Wert,John Edwards,126,Democratic,President,5
+Williams,John Edwards,88,Democratic,President,5
+Wood,John Edwards,292,Democratic,President,5
+Wyandot,John Edwards,37,Democratic,President,5
+Ashland,Barack Obama,602,Democratic,President,5
+Crawford,Barack Obama,2375,Democratic,President,5
+Defiance,Barack Obama,2456,Democratic,President,5
+Fulton,Barack Obama,2536,Democratic,President,5
+Henry,Barack Obama,1805,Democratic,President,5
+Huron,Barack Obama,3030,Democratic,President,5
+Lucas,Barack Obama,1658,Democratic,President,5
+Mercer,Barack Obama,542,Democratic,President,5
+Paulding,Barack Obama,843,Democratic,President,5
+Putnam,Barack Obama,2066,Democratic,President,5
+Sandusky,Barack Obama,4823,Democratic,President,5
+Seneca,Barack Obama,3773,Democratic,President,5
+Van Wert,Barack Obama,1258,Democratic,President,5
+Williams,Barack Obama,2184,Democratic,President,5
+Wood,Barack Obama,9349,Democratic,President,5
+Wyandot,Barack Obama,560,Democratic,President,5
+Athens,Hillary Clinton,4873,Democratic,President,6
+Belmont,Hillary Clinton,11185,Democratic,President,6
+Columbiana,Hillary Clinton,14741,Democratic,President,6
+Gallia,Hillary Clinton,3681,Democratic,President,6
+Jefferson,Hillary Clinton,14006,Democratic,President,6
+Lawrence,Hillary Clinton,8542,Democratic,President,6
+Mahoning,Hillary Clinton,23076,Democratic,President,6
+Meigs,Hillary Clinton,2834,Democratic,President,6
+Monroe,Hillary Clinton,3212,Democratic,President,6
+Noble,Hillary Clinton,1651,Democratic,President,6
+Scioto,Hillary Clinton,5347,Democratic,President,6
+Washington,Hillary Clinton,8319,Democratic,President,6
+Athens,John Edwards,201,Democratic,President,6
+Belmont,John Edwards,737,Democratic,President,6
+Columbiana,John Edwards,579,Democratic,President,6
+Gallia,John Edwards,159,Democratic,President,6
+Jefferson,John Edwards,1075,Democratic,President,6
+Lawrence,John Edwards,310,Democratic,President,6
+Mahoning,John Edwards,753,Democratic,President,6
+Meigs,John Edwards,124,Democratic,President,6
+Monroe,John Edwards,283,Democratic,President,6
+Noble,John Edwards,142,Democratic,President,6
+Scioto,John Edwards,141,Democratic,President,6
+Washington,John Edwards,335,Democratic,President,6
+Athens,Barack Obama,5845,Democratic,President,6
+Belmont,Barack Obama,3514,Democratic,President,6
+Columbiana,Barack Obama,5555,Democratic,President,6
+Gallia,Barack Obama,879,Democratic,President,6
+Jefferson,Barack Obama,5907,Democratic,President,6
+Lawrence,Barack Obama,2116,Democratic,President,6
+Mahoning,Barack Obama,9611,Democratic,President,6
+Meigs,Barack Obama,745,Democratic,President,6
+Monroe,Barack Obama,1021,Democratic,President,6
+Noble,Barack Obama,542,Democratic,President,6
+Scioto,Barack Obama,883,Democratic,President,6
+Washington,Barack Obama,3060,Democratic,President,6
+Clark,Hillary Clinton,16066,Democratic,President,7
+Fairfield,Hillary Clinton,14721,Democratic,President,7
+Fayette,Hillary Clinton,2511,Democratic,President,7
+Franklin,Hillary Clinton,8181,Democratic,President,7
+Greene,Hillary Clinton,13727,Democratic,President,7
+Perry,Hillary Clinton,4797,Democratic,President,7
+Pickaway,Hillary Clinton,6395,Democratic,President,7
+Ross,Hillary Clinton,1281,Democratic,President,7
+Clark,John Edwards,511,Democratic,President,7
+Fairfield,John Edwards,482,Democratic,President,7
+Fayette,John Edwards,76,Democratic,President,7
+Franklin,John Edwards,215,Democratic,President,7
+Greene,John Edwards,370,Democratic,President,7
+Perry,John Edwards,182,Democratic,President,7
+Pickaway,John Edwards,250,Democratic,President,7
+Ross,John Edwards,33,Democratic,President,7
+Clark,Barack Obama,10693,Democratic,President,7
+Fairfield,Barack Obama,9623,Democratic,President,7
+Fayette,Barack Obama,1057,Democratic,President,7
+Franklin,Barack Obama,9794,Democratic,President,7
+Greene,Barack Obama,13241,Democratic,President,7
+Perry,Barack Obama,1460,Democratic,President,7
+Pickaway,Barack Obama,2747,Democratic,President,7
+Ross,Barack Obama,501,Democratic,President,7
+Butler,Hillary Clinton,25456,Democratic,President,8
+Darke,Hillary Clinton,3985,Democratic,President,8
+Mercer,Hillary Clinton,2114,Democratic,President,8
+Miami,Hillary Clinton,9005,Democratic,President,8
+Montgomery,Hillary Clinton,9759,Democratic,President,8
+Preble,Hillary Clinton,4342,Democratic,President,8
+Butler,John Edwards,537,Democratic,President,8
+Darke,John Edwards,197,Democratic,President,8
+Mercer,John Edwards,152,Democratic,President,8
+Miami,John Edwards,363,Democratic,President,8
+Montgomery,John Edwards,257,Democratic,President,8
+Preble,John Edwards,198,Democratic,President,8
+Butler,Barack Obama,21685,Democratic,President,8
+Darke,Barack Obama,2738,Democratic,President,8
+Mercer,Barack Obama,1737,Democratic,President,8
+Miami,Barack Obama,6480,Democratic,President,8
+Montgomery,Barack Obama,6818,Democratic,President,8
+Preble,Barack Obama,2007,Democratic,President,8
+Erie,Hillary Clinton,9938,Democratic,President,9
+Lorain,Hillary Clinton,9984,Democratic,President,9
+Lucas,Hillary Clinton,50033,Democratic,President,9
+Ottawa,Hillary Clinton,5922,Democratic,President,9
+Erie,John Edwards,304,Democratic,President,9
+Lorain,John Edwards,364,Democratic,President,9
+Lucas,John Edwards,966,Democratic,President,9
+Ottawa,John Edwards,202,Democratic,President,9
+Erie,Barack Obama,7523,Democratic,President,9
+Lorain,Barack Obama,7477,Democratic,President,9
+Lucas,Barack Obama,46184,Democratic,President,9
+Ottawa,Barack Obama,3440,Democratic,President,9
+Cuyahoga,Hillary Clinton,89312,Democratic,President,10
+Cuyahoga,John Edwards,2311,Democratic,President,10
+Cuyahoga,Barack Obama,55211,Democratic,President,10
+Cuyahoga,Hillary Clinton,50309,Democratic,President,11
+Cuyahoga,John Edwards,837,Democratic,President,11
+Cuyahoga,Barack Obama,121058,Democratic,President,11
+Delaware,Hillary Clinton,14495,Democratic,President,12
+Franklin,Hillary Clinton,35639,Democratic,President,12
+Licking,Hillary Clinton,10881,Democratic,President,12
+Delaware,John Edwards,240,Democratic,President,12
+Franklin,John Edwards,692,Democratic,President,12
+Licking,John Edwards,354,Democratic,President,12
+Delaware,Barack Obama,14873,Democratic,President,12
+Franklin,Barack Obama,64631,Democratic,President,12
+Licking,Barack Obama,7834,Democratic,President,12
+Cuyahoga,Hillary Clinton,13446,Democratic,President,13
+Lorain,Hillary Clinton,27750,Democratic,President,13
+Medina,Hillary Clinton,7556,Democratic,President,13
+Summit,Hillary Clinton,34606,Democratic,President,13
+Cuyahoga,John Edwards,275,Democratic,President,13
+Lorain,John Edwards,822,Democratic,President,13
+Medina,John Edwards,168,Democratic,President,13
+Summit,John Edwards,986,Democratic,President,13
+Cuyahoga,Barack Obama,8542,Democratic,President,13
+Lorain,Barack Obama,20107,Democratic,President,13
+Medina,Barack Obama,3987,Democratic,President,13
+Summit,Barack Obama,32954,Democratic,President,13
+Ashtabula,Hillary Clinton,13231,Democratic,President,14
+Cuyahoga,Hillary Clinton,6986,Democratic,President,14
+Geauga,Hillary Clinton,10521,Democratic,President,14
+Lake,Hillary Clinton,31452,Democratic,President,14
+Portage,Hillary Clinton,3865,Democratic,President,14
+Summit,Hillary Clinton,18101,Democratic,President,14
+Trumbull,Hillary Clinton,1475,Democratic,President,14
+Ashtabula,John Edwards,412,Democratic,President,14
+Cuyahoga,John Edwards,89,Democratic,President,14
+Geauga,John Edwards,248,Democratic,President,14
+Lake,John Edwards,755,Democratic,President,14
+Portage,John Edwards,117,Democratic,President,14
+Summit,John Edwards,394,Democratic,President,14
+Trumbull,John Edwards,91,Democratic,President,14
+Ashtabula,Barack Obama,6375,Democratic,President,14
+Cuyahoga,Barack Obama,6091,Democratic,President,14
+Geauga,Barack Obama,8486,Democratic,President,14
+Lake,Barack Obama,18413,Democratic,President,14
+Portage,Barack Obama,2711,Democratic,President,14
+Summit,Barack Obama,13890,Democratic,President,14
+Trumbull,Barack Obama,795,Democratic,President,14
+Franklin,Hillary Clinton,52683,Democratic,President,15
+Madison,Hillary Clinton,3259,Democratic,President,15
+Union,Hillary Clinton,3826,Democratic,President,15
+Franklin,John Edwards,1053,Democratic,President,15
+Madison,John Edwards,92,Democratic,President,15
+Union,John Edwards,117,Democratic,President,15
+Franklin,Barack Obama,56073,Democratic,President,15
+Madison,Barack Obama,1618,Democratic,President,15
+Union,Barack Obama,2729,Democratic,President,15
+Ashland,Hillary Clinton,2825,Democratic,President,16
+Medina,Hillary Clinton,12627,Democratic,President,16
+Stark,Hillary Clinton,49236,Democratic,President,16
+Wayne,Hillary Clinton,9953,Democratic,President,16
+Ashland,John Edwards,100,Democratic,President,16
+Medina,John Edwards,361,Democratic,President,16
+Stark,John Edwards,2045,Democratic,President,16
+Wayne,John Edwards,334,Democratic,President,16
+Ashland,Barack Obama,1985,Democratic,President,16
+Medina,Barack Obama,8584,Democratic,President,16
+Stark,Barack Obama,32923,Democratic,President,16
+Wayne,Barack Obama,6539,Democratic,President,16
+Mahoning,Hillary Clinton,27520,Democratic,President,17
+Portage,Hillary Clinton,16718,Democratic,President,17
+Summit,Hillary Clinton,18468,Democratic,President,17
+Trumbull,Hillary Clinton,42056,Democratic,President,17
+Mahoning,John Edwards,749,Democratic,President,17
+Portage,John Edwards,605,Democratic,President,17
+Summit,John Edwards,581,Democratic,President,17
+Trumbull,John Edwards,1572,Democratic,President,17
+Mahoning,Barack Obama,18083,Democratic,President,17
+Portage,Barack Obama,10649,Democratic,President,17
+Summit,Barack Obama,11704,Democratic,President,17
+Trumbull,Barack Obama,19507,Democratic,President,17
+Athens,Hillary Clinton,2717,Democratic,President,18
+Belmont,Hillary Clinton,3019,Democratic,President,18
+Carroll,Hillary Clinton,3663,Democratic,President,18
+Coshocton,Hillary Clinton,4128,Democratic,President,18
+Guernsey,Hillary Clinton,4736,Democratic,President,18
+Harrison,Hillary Clinton,2765,Democratic,President,18
+Hocking,Hillary Clinton,3814,Democratic,President,18
+Holmes,Hillary Clinton,1487,Democratic,President,18
+Jackson,Hillary Clinton,3878,Democratic,President,18
+Knox,Hillary Clinton,4798,Democratic,President,18
+Licking,Hillary Clinton,6322,Democratic,President,18
+Morgan,Hillary Clinton,1586,Democratic,President,18
+Muskingum,Hillary Clinton,9443,Democratic,President,18
+Ross,Hillary Clinton,8300,Democratic,President,18
+Tuscarawas,Hillary Clinton,12525,Democratic,President,18
+Vinton,Hillary Clinton,1924,Democratic,President,18
+Athens,John Edwards,161,Democratic,President,18
+Belmont,John Edwards,195,Democratic,President,18
+Carroll,John Edwards,232,Democratic,President,18
+Coshocton,John Edwards,190,Democratic,President,18
+Guernsey,John Edwards,212,Democratic,President,18
+Harrison,John Edwards,213,Democratic,President,18
+Hocking,John Edwards,161,Democratic,President,18
+Holmes,John Edwards,81,Democratic,President,18
+Jackson,John Edwards,140,Democratic,President,18
+Knox,John Edwards,167,Democratic,President,18
+Licking,John Edwards,256,Democratic,President,18
+Morgan,John Edwards,72,Democratic,President,18
+Muskingum,John Edwards,344,Democratic,President,18
+Ross,John Edwards,276,Democratic,President,18
+Tuscarawas,John Edwards,746,Democratic,President,18
+Vinton,John Edwards,110,Democratic,President,18
+Athens,Barack Obama,1551,Democratic,President,18
+Belmont,Barack Obama,1122,Democratic,President,18
+Carroll,Barack Obama,1731,Democratic,President,18
+Coshocton,Barack Obama,1997,Democratic,President,18
+Guernsey,Barack Obama,1737,Democratic,President,18
+Harrison,Barack Obama,967,Democratic,President,18
+Hocking,Barack Obama,1723,Democratic,President,18
+Holmes,Barack Obama,1087,Democratic,President,18
+Jackson,Barack Obama,795,Democratic,President,18
+Knox,Barack Obama,3645,Democratic,President,18
+Licking,Barack Obama,3152,Democratic,President,18
+Morgan,Barack Obama,640,Democratic,President,18
+Muskingum,Barack Obama,4367,Democratic,President,18
+Ross,Barack Obama,3491,Democratic,President,18
+Tuscarawas,Barack Obama,6568,Democratic,President,18
+Vinton,Barack Obama,458,Democratic,President,18
+Butler,Mike Huckabee,1515,Republican,President,1
+Hamilton,Mike Huckabee,12907,Republican,President,1
+Butler,John McCain,1931,Republican,President,1
+Hamilton,John McCain,26101,Republican,President,1
+Butler,Ron Paul,127,Republican,President,1
+Hamilton,Ron Paul,2304,Republican,President,1
+Butler,Mitt Romney,162,Republican,President,1
+Hamilton,Mitt Romney,2887,Republican,President,1
+Butler,Fred Thompson,88,Republican,President,1
+Hamilton,Fred Thompson,1219,Republican,President,1
+Adams,Mike Huckabee,1482,Republican,President,2
+Brown,Mike Huckabee,1945,Republican,President,2
+Clermont,Mike Huckabee,9204,Republican,President,2
+Hamilton,Mike Huckabee,7266,Republican,President,2
+Pike,Mike Huckabee,941,Republican,President,2
+Scioto,Mike Huckabee,1328,Republican,President,2
+Warren,Mike Huckabee,4911,Republican,President,2
+Adams,John McCain,1492,Republican,President,2
+Brown,John McCain,2307,Republican,President,2
+Clermont,John McCain,14530,Republican,President,2
+Hamilton,John McCain,19990,Republican,President,2
+Pike,John McCain,906,Republican,President,2
+Scioto,John McCain,1698,Republican,President,2
+Warren,John McCain,6767,Republican,President,2
+Adams,Ron Paul,75,Republican,President,2
+Brown,Ron Paul,199,Republican,President,2
+Clermont,Ron Paul,1181,Republican,President,2
+Hamilton,Ron Paul,1523,Republican,President,2
+Pike,Ron Paul,63,Republican,President,2
+Scioto,Ron Paul,63,Republican,President,2
+Warren,Ron Paul,507,Republican,President,2
+Adams,Mitt Romney,104,Republican,President,2
+Brown,Mitt Romney,177,Republican,President,2
+Clermont,Mitt Romney,1339,Republican,President,2
+Hamilton,Mitt Romney,2266,Republican,President,2
+Pike,Mitt Romney,53,Republican,President,2
+Scioto,Mitt Romney,111,Republican,President,2
+Warren,Mitt Romney,711,Republican,President,2
+Adams,Fred Thompson,67,Republican,President,2
+Brown,Fred Thompson,91,Republican,President,2
+Clermont,Fred Thompson,683,Republican,President,2
+Hamilton,Fred Thompson,641,Republican,President,2
+Pike,Fred Thompson,54,Republican,President,2
+Scioto,Fred Thompson,75,Republican,President,2
+Warren,Fred Thompson,283,Republican,President,2
+Clinton,Mike Huckabee,2362,Republican,President,3
+Highland,Mike Huckabee,2187,Republican,President,3
+Montgomery,Mike Huckabee,15006,Republican,President,3
+Warren,Mike Huckabee,5591,Republican,President,3
+Clinton,John McCain,2973,Republican,President,3
+Highland,John McCain,2590,Republican,President,3
+Montgomery,John McCain,22116,Republican,President,3
+Warren,John McCain,7238,Republican,President,3
+Clinton,Ron Paul,196,Republican,President,3
+Highland,Ron Paul,125,Republican,President,3
+Montgomery,Ron Paul,1724,Republican,President,3
+Warren,Ron Paul,496,Republican,President,3
+Clinton,Mitt Romney,183,Republican,President,3
+Highland,Mitt Romney,173,Republican,President,3
+Montgomery,Mitt Romney,2089,Republican,President,3
+Warren,Mitt Romney,717,Republican,President,3
+Clinton,Fred Thompson,123,Republican,President,3
+Highland,Fred Thompson,135,Republican,President,3
+Montgomery,Fred Thompson,960,Republican,President,3
+Warren,Fred Thompson,328,Republican,President,3
+Allen,Mike Huckabee,4067,Republican,President,4
+Auglaize,Mike Huckabee,1742,Republican,President,4
+Champaign,Mike Huckabee,2350,Republican,President,4
+Hancock,Mike Huckabee,3610,Republican,President,4
+Hardin,Mike Huckabee,1413,Republican,President,4
+Logan,Mike Huckabee,2663,Republican,President,4
+Marion,Mike Huckabee,2330,Republican,President,4
+Morrow,Mike Huckabee,1972,Republican,President,4
+Richland,Mike Huckabee,4623,Republican,President,4
+Shelby,Mike Huckabee,2147,Republican,President,4
+Wyandot,Mike Huckabee,489,Republican,President,4
+Allen,John McCain,6813,Republican,President,4
+Auglaize,John McCain,2615,Republican,President,4
+Champaign,John McCain,3231,Republican,President,4
+Hancock,John McCain,5645,Republican,President,4
+Hardin,John McCain,2213,Republican,President,4
+Logan,John McCain,3489,Republican,President,4
+Marion,John McCain,3494,Republican,President,4
+Morrow,John McCain,2271,Republican,President,4
+Richland,John McCain,6292,Republican,President,4
+Shelby,John McCain,2516,Republican,President,4
+Wyandot,John McCain,650,Republican,President,4
+Allen,Ron Paul,848,Republican,President,4
+Auglaize,Ron Paul,490,Republican,President,4
+Champaign,Ron Paul,238,Republican,President,4
+Hancock,Ron Paul,895,Republican,President,4
+Hardin,Ron Paul,263,Republican,President,4
+Logan,Ron Paul,297,Republican,President,4
+Marion,Ron Paul,207,Republican,President,4
+Morrow,Ron Paul,283,Republican,President,4
+Richland,Ron Paul,836,Republican,President,4
+Shelby,Ron Paul,323,Republican,President,4
+Wyandot,Ron Paul,109,Republican,President,4
+Allen,Mitt Romney,738,Republican,President,4
+Auglaize,Mitt Romney,282,Republican,President,4
+Champaign,Mitt Romney,236,Republican,President,4
+Hancock,Mitt Romney,507,Republican,President,4
+Hardin,Mitt Romney,180,Republican,President,4
+Logan,Mitt Romney,337,Republican,President,4
+Marion,Mitt Romney,305,Republican,President,4
+Morrow,Mitt Romney,207,Republican,President,4
+Richland,Mitt Romney,833,Republican,President,4
+Shelby,Mitt Romney,221,Republican,President,4
+Wyandot,Mitt Romney,79,Republican,President,4
+Allen,Fred Thompson,323,Republican,President,4
+Auglaize,Fred Thompson,124,Republican,President,4
+Champaign,Fred Thompson,152,Republican,President,4
+Hancock,Fred Thompson,249,Republican,President,4
+Hardin,Fred Thompson,123,Republican,President,4
+Logan,Fred Thompson,176,Republican,President,4
+Marion,Fred Thompson,168,Republican,President,4
+Morrow,Fred Thompson,148,Republican,President,4
+Richland,Fred Thompson,359,Republican,President,4
+Shelby,Fred Thompson,102,Republican,President,4
+Wyandot,Fred Thompson,46,Republican,President,4
+Ashland,Mike Huckabee,537,Republican,President,5
+Crawford,Mike Huckabee,1784,Republican,President,5
+Defiance,Mike Huckabee,1577,Republican,President,5
+Fulton,Mike Huckabee,2104,Republican,President,5
+Henry,Mike Huckabee,1087,Republican,President,5
+Huron,Mike Huckabee,1578,Republican,President,5
+Lucas,Mike Huckabee,669,Republican,President,5
+Mercer,Mike Huckabee,409,Republican,President,5
+Paulding,Mike Huckabee,908,Republican,President,5
+Putnam,Mike Huckabee,1858,Republican,President,5
+Sandusky,Mike Huckabee,2501,Republican,President,5
+Seneca,Mike Huckabee,2435,Republican,President,5
+Van Wert,Mike Huckabee,1550,Republican,President,5
+Williams,Mike Huckabee,1695,Republican,President,5
+Wood,Mike Huckabee,3668,Republican,President,5
+Wyandot,Mike Huckabee,477,Republican,President,5
+Ashland,John McCain,588,Republican,President,5
+Crawford,John McCain,2307,Republican,President,5
+Defiance,John McCain,2336,Republican,President,5
+Fulton,John McCain,2583,Republican,President,5
+Henry,John McCain,1706,Republican,President,5
+Huron,John McCain,2276,Republican,President,5
+Lucas,John McCain,1018,Republican,President,5
+Mercer,John McCain,568,Republican,President,5
+Paulding,John McCain,1044,Republican,President,5
+Putnam,John McCain,2911,Republican,President,5
+Sandusky,John McCain,3645,Republican,President,5
+Seneca,John McCain,4039,Republican,President,5
+Van Wert,John McCain,2239,Republican,President,5
+Williams,John McCain,2391,Republican,President,5
+Wood,John McCain,6390,Republican,President,5
+Wyandot,John McCain,690,Republican,President,5
+Ashland,Ron Paul,100,Republican,President,5
+Crawford,Ron Paul,214,Republican,President,5
+Defiance,Ron Paul,320,Republican,President,5
+Fulton,Ron Paul,323,Republican,President,5
+Henry,Ron Paul,110,Republican,President,5
+Huron,Ron Paul,296,Republican,President,5
+Lucas,Ron Paul,165,Republican,President,5
+Mercer,Ron Paul,98,Republican,President,5
+Paulding,Ron Paul,261,Republican,President,5
+Putnam,Ron Paul,410,Republican,President,5
+Sandusky,Ron Paul,503,Republican,President,5
+Seneca,Ron Paul,558,Republican,President,5
+Van Wert,Ron Paul,345,Republican,President,5
+Williams,Ron Paul,325,Republican,President,5
+Wood,Ron Paul,956,Republican,President,5
+Wyandot,Ron Paul,61,Republican,President,5
+Ashland,Mitt Romney,62,Republican,President,5
+Crawford,Mitt Romney,268,Republican,President,5
+Defiance,Mitt Romney,243,Republican,President,5
+Fulton,Mitt Romney,297,Republican,President,5
+Henry,Mitt Romney,155,Republican,President,5
+Huron,Mitt Romney,213,Republican,President,5
+Lucas,Mitt Romney,179,Republican,President,5
+Mercer,Mitt Romney,51,Republican,President,5
+Paulding,Mitt Romney,77,Republican,President,5
+Putnam,Mitt Romney,354,Republican,President,5
+Sandusky,Mitt Romney,462,Republican,President,5
+Seneca,Mitt Romney,545,Republican,President,5
+Van Wert,Mitt Romney,237,Republican,President,5
+Williams,Mitt Romney,266,Republican,President,5
+Wood,Mitt Romney,896,Republican,President,5
+Wyandot,Mitt Romney,78,Republican,President,5
+Ashland,Fred Thompson,39,Republican,President,5
+Crawford,Fred Thompson,122,Republican,President,5
+Defiance,Fred Thompson,140,Republican,President,5
+Fulton,Fred Thompson,171,Republican,President,5
+Henry,Fred Thompson,56,Republican,President,5
+Huron,Fred Thompson,122,Republican,President,5
+Lucas,Fred Thompson,62,Republican,President,5
+Mercer,Fred Thompson,28,Republican,President,5
+Paulding,Fred Thompson,68,Republican,President,5
+Putnam,Fred Thompson,126,Republican,President,5
+Sandusky,Fred Thompson,213,Republican,President,5
+Seneca,Fred Thompson,239,Republican,President,5
+Van Wert,Fred Thompson,106,Republican,President,5
+Williams,Fred Thompson,127,Republican,President,5
+Wood,Fred Thompson,339,Republican,President,5
+Wyandot,Fred Thompson,56,Republican,President,5
+Athens,Mike Huckabee,789,Republican,President,6
+Belmont,Mike Huckabee,874,Republican,President,6
+Columbiana,Mike Huckabee,3293,Republican,President,6
+Gallia,Mike Huckabee,1609,Republican,President,6
+Jefferson,Mike Huckabee,1618,Republican,President,6
+Lawrence,Mike Huckabee,2809,Republican,President,6
+Mahoning,Mike Huckabee,2460,Republican,President,6
+Meigs,Mike Huckabee,1159,Republican,President,6
+Monroe,Mike Huckabee,351,Republican,President,6
+Noble,Mike Huckabee,727,Republican,President,6
+Scioto,Mike Huckabee,1346,Republican,President,6
+Washington,Mike Huckabee,2533,Republican,President,6
+Athens,John McCain,1430,Republican,President,6
+Belmont,John McCain,1484,Republican,President,6
+Columbiana,John McCain,4616,Republican,President,6
+Gallia,John McCain,2595,Republican,President,6
+Jefferson,John McCain,2703,Republican,President,6
+Lawrence,John McCain,3802,Republican,President,6
+Mahoning,John McCain,3695,Republican,President,6
+Meigs,John McCain,2125,Republican,President,6
+Monroe,John McCain,397,Republican,President,6
+Noble,John McCain,1192,Republican,President,6
+Scioto,John McCain,1201,Republican,President,6
+Washington,John McCain,4242,Republican,President,6
+Athens,Ron Paul,283,Republican,President,6
+Belmont,Ron Paul,96,Republican,President,6
+Columbiana,Ron Paul,712,Republican,President,6
+Gallia,Ron Paul,105,Republican,President,6
+Jefferson,Ron Paul,243,Republican,President,6
+Lawrence,Ron Paul,203,Republican,President,6
+Mahoning,Ron Paul,459,Republican,President,6
+Meigs,Ron Paul,165,Republican,President,6
+Monroe,Ron Paul,54,Republican,President,6
+Noble,Ron Paul,68,Republican,President,6
+Scioto,Ron Paul,69,Republican,President,6
+Washington,Ron Paul,505,Republican,President,6
+Athens,Mitt Romney,89,Republican,President,6
+Belmont,Mitt Romney,132,Republican,President,6
+Columbiana,Mitt Romney,455,Republican,President,6
+Gallia,Mitt Romney,96,Republican,President,6
+Jefferson,Mitt Romney,269,Republican,President,6
+Lawrence,Mitt Romney,223,Republican,President,6
+Mahoning,Mitt Romney,487,Republican,President,6
+Meigs,Mitt Romney,88,Republican,President,6
+Monroe,Mitt Romney,37,Republican,President,6
+Noble,Mitt Romney,64,Republican,President,6
+Scioto,Mitt Romney,92,Republican,President,6
+Washington,Mitt Romney,238,Republican,President,6
+Athens,Fred Thompson,49,Republican,President,6
+Belmont,Fred Thompson,158,Republican,President,6
+Columbiana,Fred Thompson,267,Republican,President,6
+Gallia,Fred Thompson,109,Republican,President,6
+Jefferson,Fred Thompson,172,Republican,President,6
+Lawrence,Fred Thompson,165,Republican,President,6
+Mahoning,Fred Thompson,157,Republican,President,6
+Meigs,Fred Thompson,99,Republican,President,6
+Monroe,Fred Thompson,34,Republican,President,6
+Noble,Fred Thompson,86,Republican,President,6
+Scioto,Fred Thompson,65,Republican,President,6
+Washington,Fred Thompson,155,Republican,President,6
+Clark,Mike Huckabee,5860,Republican,President,7
+Fairfield,Mike Huckabee,6942,Republican,President,7
+Fayette,Mike Huckabee,1400,Republican,President,7
+Franklin,Mike Huckabee,2203,Republican,President,7
+Greene,Mike Huckabee,8946,Republican,President,7
+Perry,Mike Huckabee,1401,Republican,President,7
+Pickaway,Mike Huckabee,2026,Republican,President,7
+Ross,Mike Huckabee,401,Republican,President,7
+Clark,John McCain,8491,Republican,President,7
+Fairfield,John McCain,12062,Republican,President,7
+Fayette,John McCain,2041,Republican,President,7
+Franklin,John McCain,3304,Republican,President,7
+Greene,John McCain,12437,Republican,President,7
+Perry,John McCain,1827,Republican,President,7
+Pickaway,John McCain,2649,Republican,President,7
+Ross,John McCain,453,Republican,President,7
+Clark,Ron Paul,482,Republican,President,7
+Fairfield,Ron Paul,1057,Republican,President,7
+Fayette,Ron Paul,110,Republican,President,7
+Franklin,Ron Paul,267,Republican,President,7
+Greene,Ron Paul,785,Republican,President,7
+Perry,Ron Paul,158,Republican,President,7
+Pickaway,Ron Paul,210,Republican,President,7
+Ross,Ron Paul,36,Republican,President,7
+Clark,Mitt Romney,510,Republican,President,7
+Fairfield,Mitt Romney,814,Republican,President,7
+Fayette,Mitt Romney,140,Republican,President,7
+Franklin,Mitt Romney,344,Republican,President,7
+Greene,Mitt Romney,954,Republican,President,7
+Perry,Mitt Romney,107,Republican,President,7
+Pickaway,Mitt Romney,168,Republican,President,7
+Ross,Mitt Romney,60,Republican,President,7
+Clark,Fred Thompson,267,Republican,President,7
+Fairfield,Fred Thompson,521,Republican,President,7
+Fayette,Fred Thompson,86,Republican,President,7
+Franklin,Fred Thompson,209,Republican,President,7
+Greene,Fred Thompson,462,Republican,President,7
+Perry,Fred Thompson,108,Republican,President,7
+Pickaway,Fred Thompson,142,Republican,President,7
+Ross,Fred Thompson,28,Republican,President,7
+Butler,Mike Huckabee,12243,Republican,President,8
+Darke,Mike Huckabee,2603,Republican,President,8
+Mercer,Mike Huckabee,1235,Republican,President,8
+Miami,Mike Huckabee,5660,Republican,President,8
+Montgomery,Mike Huckabee,2736,Republican,President,8
+Preble,Mike Huckabee,2636,Republican,President,8
+Butler,John McCain,17894,Republican,President,8
+Darke,John McCain,3406,Republican,President,8
+Mercer,John McCain,1714,Republican,President,8
+Miami,John McCain,8098,Republican,President,8
+Montgomery,John McCain,3189,Republican,President,8
+Preble,John McCain,2966,Republican,President,8
+Butler,Ron Paul,1052,Republican,President,8
+Darke,Ron Paul,285,Republican,President,8
+Mercer,Ron Paul,299,Republican,President,8
+Miami,Ron Paul,618,Republican,President,8
+Montgomery,Ron Paul,257,Republican,President,8
+Preble,Ron Paul,258,Republican,President,8
+Butler,Mitt Romney,1645,Republican,President,8
+Darke,Mitt Romney,261,Republican,President,8
+Mercer,Mitt Romney,175,Republican,President,8
+Miami,Mitt Romney,808,Republican,President,8
+Montgomery,Mitt Romney,309,Republican,President,8
+Preble,Mitt Romney,239,Republican,President,8
+Butler,Fred Thompson,757,Republican,President,8
+Darke,Fred Thompson,159,Republican,President,8
+Mercer,Fred Thompson,64,Republican,President,8
+Miami,Fred Thompson,341,Republican,President,8
+Montgomery,Fred Thompson,188,Republican,President,8
+Preble,Fred Thompson,158,Republican,President,8
+Erie,Mike Huckabee,1823,Republican,President,9
+Lorain,Mike Huckabee,1696,Republican,President,9
+Lucas,Mike Huckabee,6238,Republican,President,9
+Ottawa,Mike Huckabee,1109,Republican,President,9
+Erie,John McCain,3435,Republican,President,9
+Lorain,John McCain,3087,Republican,President,9
+Lucas,John McCain,11802,Republican,President,9
+Ottawa,John McCain,1997,Republican,President,9
+Erie,Ron Paul,317,Republican,President,9
+Lorain,Ron Paul,304,Republican,President,9
+Lucas,Ron Paul,1726,Republican,President,9
+Ottawa,Ron Paul,199,Republican,President,9
+Erie,Mitt Romney,341,Republican,President,9
+Lorain,Mitt Romney,356,Republican,President,9
+Lucas,Mitt Romney,1761,Republican,President,9
+Ottawa,Mitt Romney,254,Republican,President,9
+Erie,Fred Thompson,129,Republican,President,9
+Lorain,Fred Thompson,169,Republican,President,9
+Lucas,Fred Thompson,549,Republican,President,9
+Ottawa,Fred Thompson,85,Republican,President,9
+Cuyahoga,Mike Huckabee,7418,Republican,President,10
+Cuyahoga,John McCain,21838,Republican,President,10
+Cuyahoga,Ron Paul,1867,Republican,President,10
+Cuyahoga,Mitt Romney,1662,Republican,President,10
+Cuyahoga,Fred Thompson,645,Republican,President,10
+Cuyahoga,Mike Huckabee,2625,Republican,President,11
+Cuyahoga,John McCain,9064,Republican,President,11
+Cuyahoga,Ron Paul,845,Republican,President,11
+Cuyahoga,Mitt Romney,712,Republican,President,11
+Cuyahoga,Fred Thompson,289,Republican,President,11
+Delaware,Mike Huckabee,6714,Republican,President,12
+Franklin,Mike Huckabee,8958,Republican,President,12
+Licking,Mike Huckabee,4583,Republican,President,12
+Delaware,John McCain,14132,Republican,President,12
+Franklin,John McCain,18402,Republican,President,12
+Licking,John McCain,7814,Republican,President,12
+Delaware,Ron Paul,1141,Republican,President,12
+Franklin,Ron Paul,1700,Republican,President,12
+Licking,Ron Paul,865,Republican,President,12
+Delaware,Mitt Romney,1067,Republican,President,12
+Franklin,Mitt Romney,1822,Republican,President,12
+Licking,Mitt Romney,783,Republican,President,12
+Delaware,Fred Thompson,438,Republican,President,12
+Franklin,Fred Thompson,928,Republican,President,12
+Licking,Fred Thompson,410,Republican,President,12
+Cuyahoga,Mike Huckabee,2067,Republican,President,13
+Lorain,Mike Huckabee,3208,Republican,President,13
+Medina,Mike Huckabee,1195,Republican,President,13
+Summit,Mike Huckabee,5089,Republican,President,13
+Cuyahoga,John McCain,5835,Republican,President,13
+Lorain,John McCain,7454,Republican,President,13
+Medina,John McCain,2548,Republican,President,13
+Summit,John McCain,9189,Republican,President,13
+Cuyahoga,Ron Paul,472,Republican,President,13
+Lorain,Ron Paul,566,Republican,President,13
+Medina,Ron Paul,256,Republican,President,13
+Summit,Ron Paul,1025,Republican,President,13
+Cuyahoga,Mitt Romney,533,Republican,President,13
+Lorain,Mitt Romney,609,Republican,President,13
+Medina,Mitt Romney,249,Republican,President,13
+Summit,Mitt Romney,1289,Republican,President,13
+Cuyahoga,Fred Thompson,175,Republican,President,13
+Lorain,Fred Thompson,320,Republican,President,13
+Medina,Fred Thompson,146,Republican,President,13
+Summit,Fred Thompson,461,Republican,President,13
+Ashtabula,Mike Huckabee,2769,Republican,President,14
+Cuyahoga,Mike Huckabee,746,Republican,President,14
+Geauga,Mike Huckabee,2487,Republican,President,14
+Lake,Mike Huckabee,5135,Republican,President,14
+Portage,Mike Huckabee,804,Republican,President,14
+Summit,Mike Huckabee,3273,Republican,President,14
+Trumbull,Mike Huckabee,346,Republican,President,14
+Ashtabula,John McCain,3818,Republican,President,14
+Cuyahoga,John McCain,3645,Republican,President,14
+Geauga,John McCain,6013,Republican,President,14
+Lake,John McCain,12203,Republican,President,14
+Portage,John McCain,2021,Republican,President,14
+Summit,John McCain,7373,Republican,President,14
+Trumbull,John McCain,400,Republican,President,14
+Ashtabula,Ron Paul,682,Republican,President,14
+Cuyahoga,Ron Paul,174,Republican,President,14
+Geauga,Ron Paul,674,Republican,President,14
+Lake,Ron Paul,1282,Republican,President,14
+Portage,Ron Paul,205,Republican,President,14
+Summit,Ron Paul,553,Republican,President,14
+Trumbull,Ron Paul,62,Republican,President,14
+Ashtabula,Mitt Romney,329,Republican,President,14
+Cuyahoga,Mitt Romney,251,Republican,President,14
+Geauga,Mitt Romney,511,Republican,President,14
+Lake,Mitt Romney,981,Republican,President,14
+Portage,Mitt Romney,224,Republican,President,14
+Summit,Mitt Romney,893,Republican,President,14
+Trumbull,Mitt Romney,48,Republican,President,14
+Ashtabula,Fred Thompson,214,Republican,President,14
+Cuyahoga,Fred Thompson,63,Republican,President,14
+Geauga,Fred Thompson,199,Republican,President,14
+Lake,Fred Thompson,458,Republican,President,14
+Portage,Fred Thompson,76,Republican,President,14
+Summit,Fred Thompson,285,Republican,President,14
+Trumbull,Fred Thompson,38,Republican,President,14
+Franklin,Mike Huckabee,12768,Republican,President,15
+Madison,Mike Huckabee,1709,Republican,President,15
+Union,Mike Huckabee,2767,Republican,President,15
+Franklin,John McCain,25436,Republican,President,15
+Madison,John McCain,2844,Republican,President,15
+Union,John McCain,4418,Republican,President,15
+Franklin,Ron Paul,2627,Republican,President,15
+Madison,Ron Paul,187,Republican,President,15
+Union,Ron Paul,330,Republican,President,15
+Franklin,Mitt Romney,2794,Republican,President,15
+Madison,Mitt Romney,175,Republican,President,15
+Union,Mitt Romney,378,Republican,President,15
+Franklin,Fred Thompson,1331,Republican,President,15
+Madison,Fred Thompson,122,Republican,President,15
+Union,Fred Thompson,240,Republican,President,15
+Ashland,Mike Huckabee,2150,Republican,President,16
+Medina,Mike Huckabee,3951,Republican,President,16
+Stark,Mike Huckabee,12414,Republican,President,16
+Wayne,Mike Huckabee,5254,Republican,President,16
+Ashland,John McCain,2754,Republican,President,16
+Medina,John McCain,7777,Republican,President,16
+Stark,John McCain,22130,Republican,President,16
+Wayne,John McCain,6634,Republican,President,16
+Ashland,Ron Paul,444,Republican,President,16
+Medina,Ron Paul,754,Republican,President,16
+Stark,Ron Paul,2432,Republican,President,16
+Wayne,Ron Paul,903,Republican,President,16
+Ashland,Mitt Romney,276,Republican,President,16
+Medina,Mitt Romney,895,Republican,President,16
+Stark,Mitt Romney,2133,Republican,President,16
+Wayne,Mitt Romney,762,Republican,President,16
+Ashland,Fred Thompson,141,Republican,President,16
+Medina,Fred Thompson,404,Republican,President,16
+Stark,Fred Thompson,950,Republican,President,16
+Wayne,Fred Thompson,350,Republican,President,16
+Mahoning,Mike Huckabee,178,Republican,President,17
+Portage,Mike Huckabee,2303,Republican,President,17
+Summit,Mike Huckabee,2711,Republican,President,17
+Trumbull,Mike Huckabee,3513,Republican,President,17
+Mahoning,John McCain,1780,Republican,President,17
+Portage,John McCain,3480,Republican,President,17
+Summit,John McCain,3888,Republican,President,17
+Trumbull,John McCain,5368,Republican,President,17
+Mahoning,Ron Paul,248,Republican,President,17
+Portage,Ron Paul,534,Republican,President,17
+Summit,Ron Paul,485,Republican,President,17
+Trumbull,Ron Paul,739,Republican,President,17
+Mahoning,Mitt Romney,212,Republican,President,17
+Portage,Mitt Romney,432,Republican,President,17
+Summit,Mitt Romney,480,Republican,President,17
+Trumbull,Mitt Romney,538,Republican,President,17
+Mahoning,Fred Thompson,128,Republican,President,17
+Portage,Fred Thompson,222,Republican,President,17
+Summit,Fred Thompson,218,Republican,President,17
+Trumbull,Fred Thompson,314,Republican,President,17
+Athens,Mike Huckabee,229,Republican,President,18
+Belmont,Mike Huckabee,409,Republican,President,18
+Carroll,Mike Huckabee,1308,Republican,President,18
+Coshocton,Mike Huckabee,1638,Republican,President,18
+Guernsey,Mike Huckabee,1586,Republican,President,18
+Harrison,Mike Huckabee,487,Republican,President,18
+Hocking,Mike Huckabee,960,Republican,President,18
+Holmes,Mike Huckabee,1544,Republican,President,18
+Jackson,Mike Huckabee,1515,Republican,President,18
+Knox,Mike Huckabee,2834,Republican,President,18
+Licking,Mike Huckabee,2331,Republican,President,18
+Morgan,Mike Huckabee,877,Republican,President,18
+Muskingum,Mike Huckabee,4754,Republican,President,18
+Ross,Mike Huckabee,2229,Republican,President,18
+Tuscarawas,Mike Huckabee,2816,Republican,President,18
+Vinton,Mike Huckabee,572,Republican,President,18
+Athens,John McCain,341,Republican,President,18
+Belmont,John McCain,691,Republican,President,18
+Carroll,John McCain,1839,Republican,President,18
+Coshocton,John McCain,2256,Republican,President,18
+Guernsey,John McCain,2179,Republican,President,18
+Harrison,John McCain,796,Republican,President,18
+Hocking,John McCain,1293,Republican,President,18
+Holmes,John McCain,1765,Republican,President,18
+Jackson,John McCain,2077,Republican,President,18
+Knox,John McCain,3724,Republican,President,18
+Licking,John McCain,3517,Republican,President,18
+Morgan,John McCain,1261,Republican,President,18
+Muskingum,John McCain,6302,Republican,President,18
+Ross,John McCain,2739,Republican,President,18
+Tuscarawas,John McCain,3674,Republican,President,18
+Vinton,John McCain,808,Republican,President,18
+Athens,Ron Paul,125,Republican,President,18
+Belmont,Ron Paul,36,Republican,President,18
+Carroll,Ron Paul,275,Republican,President,18
+Coshocton,Ron Paul,235,Republican,President,18
+Guernsey,Ron Paul,182,Republican,President,18
+Harrison,Ron Paul,60,Republican,President,18
+Hocking,Ron Paul,175,Republican,President,18
+Holmes,Ron Paul,223,Republican,President,18
+Jackson,Ron Paul,109,Republican,President,18
+Knox,Ron Paul,590,Republican,President,18
+Licking,Ron Paul,472,Republican,President,18
+Morgan,Ron Paul,164,Republican,President,18
+Muskingum,Ron Paul,561,Republican,President,18
+Ross,Ron Paul,193,Republican,President,18
+Tuscarawas,Ron Paul,400,Republican,President,18
+Vinton,Ron Paul,39,Republican,President,18
+Athens,Mitt Romney,19,Republican,President,18
+Belmont,Mitt Romney,69,Republican,President,18
+Carroll,Mitt Romney,166,Republican,President,18
+Coshocton,Mitt Romney,159,Republican,President,18
+Guernsey,Mitt Romney,164,Republican,President,18
+Harrison,Mitt Romney,62,Republican,President,18
+Hocking,Mitt Romney,56,Republican,President,18
+Holmes,Mitt Romney,222,Republican,President,18
+Jackson,Mitt Romney,87,Republican,President,18
+Knox,Mitt Romney,357,Republican,President,18
+Licking,Mitt Romney,276,Republican,President,18
+Morgan,Mitt Romney,45,Republican,President,18
+Muskingum,Mitt Romney,444,Republican,President,18
+Ross,Mitt Romney,231,Republican,President,18
+Tuscarawas,Mitt Romney,313,Republican,President,18
+Vinton,Mitt Romney,36,Republican,President,18
+Athens,Fred Thompson,22,Republican,President,18
+Belmont,Fred Thompson,55,Republican,President,18
+Carroll,Fred Thompson,103,Republican,President,18
+Coshocton,Fred Thompson,106,Republican,President,18
+Guernsey,Fred Thompson,113,Republican,President,18
+Harrison,Fred Thompson,55,Republican,President,18
+Hocking,Fred Thompson,76,Republican,President,18
+Holmes,Fred Thompson,105,Republican,President,18
+Jackson,Fred Thompson,100,Republican,President,18
+Knox,Fred Thompson,221,Republican,President,18
+Licking,Fred Thompson,212,Republican,President,18
+Morgan,Fred Thompson,43,Republican,President,18
+Muskingum,Fred Thompson,308,Republican,President,18
+Ross,Fred Thompson,140,Republican,President,18
+Tuscarawas,Fred Thompson,167,Republican,President,18
+Vinton,Fred Thompson,43,Republican,President,18
+Columbiana,Linda S. Bolon,17130,Democratic,State Representative,1
+Delaware,Janice Lanier,12296,Democratic,State Representative,2
+Delaware,Kelley Wenzlaff,5505,Democratic,State Representative,2
+Wayne,Merle Joe Miller,10569,Democratic,State Representative,3
+Wood,Jeffery P. Bretz,13896,Democratic,State Representative,6
+Cuyahoga,Kenny Yuko,18705,Democratic,State Representative,7
+Cuyahoga,Armond Budish,22507,Democratic,State Representative,8
+Cuyahoga,Barbara Boyd,20153,Democratic,State Representative,9
+Cuyahoga,Eugene R. Miller,8644,Democratic,State Representative,10
+Cuyahoga,Freddie Moore,5868,Democratic,State Representative,10
+Cuyahoga,Sandra Williams,11392,Democratic,State Representative,11
+Cuyahoga,Michael DeBose,19838,Democratic,State Representative,12
+Cuyahoga,Michael J. Skindell,11537,Democratic,State Representative,13
+Cuyahoga,Mike Foley,14599,Democratic,State Representative,14
+Cuyahoga,Timothy J. DeGeeter,17453,Democratic,State Representative,15
+Cuyahoga,Jennifer Brady,16355,Democratic,State Representative,16
+Cuyahoga,Bob Belovich,16189,Democratic,State Representative,17
+Cuyahoga,Matt Patten,13830,Democratic,State Representative,18
+Franklin,Marian Harris,16364,Democratic,State Representative,19
+Franklin,Bev Campbell,7924,Democratic,State Representative,20
+Franklin,Nancy Garland,10324,Democratic,State Representative,20
+Franklin,Jay G. Perez,12852,Democratic,State Representative,21
+Franklin,John Patrick Carney,15468,Democratic,State Representative,22
+Franklin,Keith Goldhardt,12357,Democratic,State Representative,23
+Franklin,Ted Celeste,15489,Democratic,State Representative,24
+Franklin,Dan Stewart,13457,Democratic,State Representative,25
+Franklin,Tracy Heard,18446,Democratic,State Representative,26
+Franklin,Mayo Makinde,2130,Democratic,State Representative,27
+Franklin,H. Lee Thompson,5470,Democratic,State Representative,27
+Franklin,W. Carlton Weddington,10723,Democratic,State Representative,27
+Hamilton,Connie Pillich,12772,Democratic,State Representative,28
+Hamilton,Adam Noe,10649,Democratic,State Representative,29
+Hamilton,Bob Klug,7806,Democratic,State Representative,30
+Hamilton,Denise Driehaus,7709,Democratic,State Representative,31
+Hamilton,Dale Mallory,13321,Democratic,State Representative,32
+Hamilton,Tyrone K. Yates,18121,Democratic,State Representative,33
+Hamilton,Jeff Sinnard,10579,Democratic,State Representative,34
+Montgomery,Charles Morton,11400,Democratic,State Representative,36
+Montgomery,Andi Eveslage,11010,Democratic,State Representative,37
+Montgomery,Susan W. Lienesch,12070,Democratic,State Representative,38
+Montgomery,Clayton Luckie,12745,Democratic,State Representative,39
+Montgomery,Vic Harris,8349,Democratic,State Representative,40
+Montgomery,Roland Winburn,10550,Democratic,State Representative,40
+Summit,Brian G. Williams,19803,Democratic,State Representative,41
+Summit,Mike Moran,15957,Democratic,State Representative,42
+Portage,Stephen Dyer,5376,Democratic,State Representative,43
+Summit,Stephen Dyer,13407,Democratic,State Representative,43
+Summit,Vernon Sykes,19106,Democratic,State Representative,44
+Summit,John R. Otterman,16408,Democratic,State Representative,45
+Lucas,Darlene Dunn,14909,Democratic,State Representative,46
+Lucas,Peter Ujvagi,14131,Democratic,State Representative,47
+Lucas,Edna Brown,18568,Democratic,State Representative,48
+Lucas,Matthew A. Szollosi,15069,Democratic,State Representative,49
+Stark,Celeste M. DeHoff,7882,Democratic,State Representative,50
+Stark,Nick Guarnieri,1618,Democratic,State Representative,50
+Stark,Martin Olson,2410,Democratic,State Representative,50
+Stark,Mike Stevens,7585,Democratic,State Representative,50
+Stark,Vincent J. Strasavich,1336,Democratic,State Representative,50
+Stark,James O. Babcock,4050,Democratic,State Representative,52
+Stark,Richard A. Hiles,824,Democratic,State Representative,52
+Stark,John M. Rinaldi,5380,Democratic,State Representative,52
+Stark,Stephen Slesnick,6204,Democratic,State Representative,52
+Stark,Thomas E. West,4923,Democratic,State Representative,52
+Butler,Rocky Day,7656,Democratic,State Representative,53
+Butler,Arnold Engel,4102,Democratic,State Representative,54
+Butler,Ken Keith,7331,Democratic,State Representative,54
+Butler,Tony Klimek,8839,Democratic,State Representative,55
+Lorain,Joseph F. Koziura,17866,Democratic,State Representative,56
+Lorain,Matt Lundy,19334,Democratic,State Representative,57
+Huron,Matthew Barrett,5536,Democratic,State Representative,58
+Lorain,Matthew Barrett,6945,Democratic,State Representative,58
+Seneca,Matthew Barrett,1062,Democratic,State Representative,58
+Mahoning,Ronald V. Gerberry,29149,Democratic,State Representative,59
+Mahoning,Robert F. Hagan,22213,Democratic,State Representative,60
+Carroll,Mark D. Okey,4413,Democratic,State Representative,61
+Mahoning,Mark D. Okey,4984,Democratic,State Representative,61
+Stark,Mark D. Okey,5368,Democratic,State Representative,61
+Tuscarawas,Mark D. Okey,2805,Democratic,State Representative,61
+Lake,Lorraine M. Fende,17485,Democratic,State Representative,62
+Lake,Mark A. Schneider,14059,Democratic,State Representative,63
+Trumbull,Tom Letson,19797,Democratic,State Representative,64
+Trumbull,Sandra Stabile Harwood,23849,Democratic,State Representative,65
+Portage,Kathleen Chandler,17646,Democratic,State Representative,68
+Medina,Jack Schira,14643,Democratic,State Representative,69
+Greene,Matt Nisenoff,10341,Democratic,State Representative,70
+Licking,Howard H. Hill,12743,Democratic,State Representative,71
+Clark,Richard G. Spangler,12109,Democratic,State Representative,72
+Richland,Jay Goyal,13381,Democratic,State Representative,73
+Defiance,David J. Pilliod,3484,Democratic,State Representative,74
+Fulton,David J. Pilliod,4159,Democratic,State Representative,74
+Williams,David J. Pilliod,2832,Democratic,State Representative,74
+Darke,Melissa A. Stanley,1281,Democratic,State Representative,79
+Miami,Melissa A. Stanley,9966,Democratic,State Representative,79
+Erie,Dennis E. Murray,12869,Democratic,State Representative,80
+Ottawa,Dennis E. Murray,5439,Democratic,State Representative,80
+Ottawa,Andrew Kashmer,1331,Democratic,State Representative,81
+Sandusky,Andrew Kashmer,7588,Democratic,State Representative,81
+Seneca,Andrew Kashmer,5011,Democratic,State Representative,81
+Crawford,Wanda L. Sharrock,3945,Democratic,State Representative,82
+Marion,Wanda L. Sharrock,2574,Democratic,State Representative,82
+Wyandot,Wanda L. Sharrock,1132,Democratic,State Representative,82
+Crawford,Craig S. Swartz,1629,Democratic,State Representative,82
+Marion,Craig S. Swartz,2831,Democratic,State Representative,82
+Wyandot,Craig S. Swartz,1437,Democratic,State Representative,82
+Clark,Connie Crockett,4757,Democratic,State Representative,84
+Greene,Connie Crockett,4173,Democratic,State Representative,84
+Madison,Connie Crockett,3156,Democratic,State Representative,84
+Fayette,Raymond A. Pryor,2367,Democratic,State Representative,85
+Pickaway,Raymond A. Pryor,2379,Democratic,State Representative,85
+Ross,Raymond A. Pryor,7647,Democratic,State Representative,85
+Clinton,Joy L. Brubaker,2494,Democratic,State Representative,86
+Highland,Joy L. Brubaker,1652,Democratic,State Representative,86
+Pike,Joy L. Brubaker,1921,Democratic,State Representative,86
+Clinton,"William Horne, Jr.",2009,Democratic,State Representative,86
+Highland,"William Horne, Jr.",3203,Democratic,State Representative,86
+Pike,"William Horne, Jr.",2372,Democratic,State Representative,86
+Gallia,Aaron Shane Meldick,2483,Democratic,State Representative,87
+Jackson,Aaron Shane Meldick,2915,Democratic,State Representative,87
+Lawrence,Aaron Shane Meldick,3388,Democratic,State Representative,87
+Ross,Aaron Shane Meldick,1163,Democratic,State Representative,87
+Vinton,Aaron Shane Meldick,1577,Democratic,State Representative,87
+Adams,Todd Book,921,Democratic,State Representative,89
+Lawrence,Todd Book,3929,Democratic,State Representative,89
+Scioto,Todd Book,13050,Democratic,State Representative,89
+Adams,Larry Joe Clark,745,Democratic,State Representative,89
+Lawrence,Larry Joe Clark,2219,Democratic,State Representative,89
+Scioto,Larry Joe Clark,3896,Democratic,State Representative,89
+Ashland,Duane Grassbaugh,1055,Democratic,State Representative,90
+Knox,Duane Grassbaugh,5515,Democratic,State Representative,90
+Morrow,Duane Grassbaugh,3065,Democratic,State Representative,90
+Richland,Duane Grassbaugh,1764,Democratic,State Representative,90
+Hocking,Dan Dodd,3974,Democratic,State Representative,91
+Licking,Dan Dodd,4279,Democratic,State Representative,91
+Perry,Dan Dodd,4801,Democratic,State Representative,91
+Pickaway,Dan Dodd,2833,Democratic,State Representative,91
+Athens,Debbie Phillips,10727,Democratic,State Representative,92
+Meigs,Debbie Phillips,2595,Democratic,State Representative,92
+Morgan,Debbie Phillips,1545,Democratic,State Representative,92
+Washington,Debbie Phillips,2340,Democratic,State Representative,92
+Guernsey,Jennifer D. Garrison,5116,Democratic,State Representative,93
+Monroe,Jennifer D. Garrison,3383,Democratic,State Representative,93
+Muskingum,Jennifer D. Garrison,463,Democratic,State Representative,93
+Noble,Jennifer D. Garrison,1798,Democratic,State Representative,93
+Washington,Jennifer D. Garrison,6192,Democratic,State Representative,93
+Coshocton,Jennifer Stewart,4062,Democratic,State Representative,94
+Muskingum,Jennifer Stewart,9550,Democratic,State Representative,94
+Belmont,John Domenick,8913,Democratic,State Representative,95
+Jefferson,John Domenick,11399,Democratic,State Representative,95
+Belmont,Jerry W. Krupinski,1940,Democratic,State Representative,95
+Jefferson,Jerry W. Krupinski,7708,Democratic,State Representative,95
+Belmont,Allan Sayre,5363,Democratic,State Representative,96
+Harrison,Allan Sayre,2855,Democratic,State Representative,96
+Tuscarawas,Allan Sayre,12387,Democratic,State Representative,96
+Ashland,Luke Brewer,2829,Democratic,State Representative,97
+Holmes,Luke Brewer,1590,Democratic,State Representative,97
+Medina,Luke Brewer,4562,Democratic,State Representative,97
+Ashtabula,Deborah A. Newcomb,14014,Democratic,State Representative,99
+Trumbull,Deborah A. Newcomb,791,Democratic,State Representative,99
+Columbiana,Sharmian Daub,6660,Republican,State Representative,1
+Delaware,Douglas P. Crowl,1412,Republican,State Representative,2
+Delaware,Kris Jordan,10362,Republican,State Representative,2
+Delaware,Jeff Mayle,5912,Republican,State Representative,2
+Delaware,"Donald E. Rankey, Jr.",1753,Republican,State Representative,2
+Wayne,Ron Amstutz,8979,Republican,State Representative,3
+Wayne,Charles D. Hardman,5058,Republican,State Representative,3
+Allen,Matt Huffman,11478,Republican,State Representative,4
+Fairfield,Gerald L. Stebelton,15672,Republican,State Representative,5
+Wood,Randy Gardner,10776,Republican,State Representative,6
+Cuyahoga,Beverly Valencic,2571,Republican,State Representative,7
+Cuyahoga,Jerry V. Powell,1692,Republican,State Representative,8
+Cuyahoga,Charles C. Drake,1287,Republican,State Representative,9
+Cuyahoga,Rosalind A. McAllister,943,Republican,State Representative,11
+Cuyahoga,Bryan Glencer,922,Republican,State Representative,12
+Cuyahoga,Mary-Louise Kirk,1923,Republican,State Representative,13
+Cuyahoga,David Morris,2507,Republican,State Representative,14
+Cuyahoga,Craig A Niederriter,3679,Republican,State Representative,15
+Cuyahoga,Nan A Baker,7428,Republican,State Representative,16
+Cuyahoga,Josh Mandel,9047,Republican,State Representative,17
+Cuyahoga,Bob Spada,6382,Republican,State Representative,18
+Franklin,Brad Lewis,9897,Republican,State Representative,19
+Franklin,Jim Mc Gregor,8097,Republican,State Representative,20
+Franklin,Kevin Bacon,7262,Republican,State Representative,21
+Franklin,Michael H. Keenan,8611,Republican,State Representative,22
+Franklin,Cheryl L. Grossman,9853,Republican,State Representative,23
+Franklin,Brian Kitchen,1881,Republican,State Representative,24
+Franklin,Tim Rankin,6900,Republican,State Representative,24
+Franklin,Daryl P. Hennessy,4199,Republican,State Representative,25
+Franklin,Joseph A. Healy,2247,Republican,State Representative,26
+Franklin,Jim Hunter,1312,Republican,State Representative,27
+Hamilton,Jim Raussen,8355,Republican,State Representative,28
+Hamilton,"Louis W. Blessing, Jr.",8496,Republican,State Representative,29
+Hamilton,Richard L. Hammersmith,6992,Republican,State Representative,30
+Hamilton,Bob Mecklenborg,10255,Republican,State Representative,30
+Hamilton,Scott Gehring,3067,Republican,State Representative,31
+Hamilton,Theo Barnes,1901,Republican,State Representative,32
+Hamilton,Thomas G. Brown,2168,Republican,State Representative,33
+Hamilton,Greg Delev,4405,Republican,State Representative,34
+Hamilton,Russ Jackson,4111,Republican,State Representative,34
+Hamilton,Peter Stautberg,4615,Republican,State Representative,34
+Hamilton,Grace L. Kendrick,1955,Republican,State Representative,35
+Warren,Grace L. Kendrick,1788,Republican,State Representative,35
+Hamilton,Ron Maag,2384,Republican,State Representative,35
+Warren,Ron Maag,4528,Republican,State Representative,35
+Hamilton,John Rabenold,4028,Republican,State Representative,35
+Warren,John Rabenold,2376,Republican,State Representative,35
+Montgomery,Seth A. Morgan,9506,Republican,State Representative,36
+Montgomery,Peggy Lehner,9518,Republican,State Representative,37
+Montgomery,Terry Blair,7114,Republican,State Representative,38
+Montgomery,Tom Young,5753,Republican,State Representative,38
+Montgomery,Joshua S. Smith,1591,Republican,State Representative,39
+Montgomery,Ann E. Siefker,3334,Republican,State Representative,40
+Summit,Randy Cole,7938,Republican,State Representative,41
+Summit,Richard Nero,4906,Republican,State Representative,42
+Summit,"Dennis L. Robart, Jr.",4489,Republican,State Representative,42
+Portage,Judy Jones,1677,Republican,State Representative,43
+Summit,Judy Jones,5213,Republican,State Representative,43
+Summit,Joe M. Fazek,3173,Republican,State Representative,45
+Lucas,Barbara R. Sears,7922,Republican,State Representative,46
+Lucas,Carolyn J. Eyre,1497,Republican,State Representative,48
+Lucas,Jeff Wingate,3662,Republican,State Representative,49
+Stark,Christina M. Hagan,5074,Republican,State Representative,50
+Stark,Todd A. Snitchler,7378,Republican,State Representative,50
+Stark,Scott Oelslager,14069,Republican,State Representative,51
+Stark,John M. Easterday,4493,Republican,State Representative,52
+Butler,Timothy Derickson,4935,Republican,State Representative,53
+Butler,Terri King,2214,Republican,State Representative,53
+Butler,Paul D. Nenni,4881,Republican,State Representative,53
+Butler,Courtney E. Combs,8438,Republican,State Representative,54
+Butler,Bill Coley,9986,Republican,State Representative,55
+Lorain,Sean P. Stipe,2375,Republican,State Representative,56
+Lorain,Daniel C. Urban,6685,Republican,State Representative,57
+Huron,Terry R. Boose,3486,Republican,State Representative,58
+Lorain,Terry R. Boose,2512,Republican,State Representative,58
+Seneca,Terry R. Boose,1005,Republican,State Representative,58
+Mahoning,Dick McCarthy,4066,Republican,State Representative,59
+Mahoning,"Timothy A. Gordon, Jr.",960,Republican,State Representative,60
+Carroll,Kirk Susany,2555,Republican,State Representative,61
+Mahoning,Kirk Susany,1496,Republican,State Representative,61
+Stark,Kirk Susany,2336,Republican,State Representative,61
+Tuscarawas,Kirk Susany,629,Republican,State Representative,61
+Lake,Mike Gutierrez,6664,Republican,State Representative,62
+Lake,Carol-Ann Schindel,7814,Republican,State Representative,63
+Trumbull,Thomas Montgomery,4252,Republican,State Representative,64
+Trumbull,Lyle A. Waddell,3639,Republican,State Representative,65
+Clermont,Joe Uecker,14765,Republican,State Representative,66
+Warren,Shannon Jones,13768,Republican,State Representative,67
+Portage,W. Roak Zeller,4764,Republican,State Representative,68
+Medina,William G. Batchelder,10830,Republican,State Representative,69
+Greene,Frank Cervone,1774,Republican,State Representative,70
+Greene,Brian E. Lampton,3008,Republican,State Representative,70
+Greene,Jarrod B. Martin,4259,Republican,State Representative,70
+Greene,Bill Miller,2460,Republican,State Representative,70
+Greene,Jay A. Tieber,2977,Republican,State Representative,70
+Licking,Jay Hottinger,13724,Republican,State Representative,71
+Clark,Ross W. McGregor,7932,Republican,State Representative,72
+Richland,W. James Balcolm,6575,Republican,State Representative,73
+Defiance,Bruce W. Goodwin,3734,Republican,State Representative,74
+Fulton,Bruce W. Goodwin,4013,Republican,State Representative,74
+Williams,Bruce W. Goodwin,3201,Republican,State Representative,74
+Defiance,Lynn R. Wachtmann,157,Republican,State Representative,75
+Henry,Lynn R. Wachtmann,2620,Republican,State Representative,75
+Paulding,Lynn R. Wachtmann,1904,Republican,State Representative,75
+Putnam,Lynn R. Wachtmann,4720,Republican,State Representative,75
+Van Wert,Lynn R. Wachtmann,3753,Republican,State Representative,75
+Auglaize,Clifford K. Hite,1465,Republican,State Representative,76
+Hancock,Clifford K. Hite,9369,Republican,State Representative,76
+Hardin,Clifford K. Hite,3188,Republican,State Representative,76
+Darke,James J. Zehringer,3420,Republican,State Representative,77
+Mercer,James J. Zehringer,4016,Republican,State Representative,77
+Preble,James J. Zehringer,4673,Republican,State Representative,77
+Auglaize,John Adams,2706,Republican,State Representative,78
+Champaign,John Adams,5027,Republican,State Representative,78
+Shelby,John Adams,4452,Republican,State Representative,78
+Darke,Richard Adams,856,Republican,State Representative,79
+Miami,Richard Adams,10010,Republican,State Representative,79
+Darke,Joe LeMaster,622,Republican,State Representative,79
+Miami,Joe LeMaster,3373,Republican,State Representative,79
+Erie,Ed Enderle,5131,Republican,State Representative,80
+Ottawa,Ed Enderle,2183,Republican,State Representative,80
+Ottawa,Gene Damschroder,210,Republican,State Representative,81
+Sandusky,Gene Damschroder,1984,Republican,State Representative,81
+Seneca,Gene Damschroder,1217,Republican,State Representative,81
+Ottawa,Jeff Wagner,503,Republican,State Representative,81
+Sandusky,Jeff Wagner,5560,Republican,State Representative,81
+Seneca,Jeff Wagner,5478,Republican,State Representative,81
+Crawford,Lois Fisher,1718,Republican,State Representative,82
+Marion,Lois Fisher,2164,Republican,State Representative,82
+Wyandot,Lois Fisher,398,Republican,State Representative,82
+Crawford,Jeffrey A. McClain,2535,Republican,State Representative,82
+Marion,Jeffrey A. McClain,1518,Republican,State Representative,82
+Wyandot,Jeffrey A. McClain,2563,Republican,State Representative,82
+Logan,Dave Burke,1684,Republican,State Representative,83
+Marion,Dave Burke,996,Republican,State Representative,83
+Union,Dave Burke,5631,Republican,State Representative,83
+Logan,Jack Reser,4972,Republican,State Representative,83
+Marion,Jack Reser,1167,Republican,State Representative,83
+Union,Jack Reser,1578,Republican,State Representative,83
+Logan,Carson Wasserbeck,459,Republican,State Representative,83
+Marion,Carson Wasserbeck,692,Republican,State Representative,83
+Union,Carson Wasserbeck,587,Republican,State Representative,83
+Clark,Robert D. Hackett,2371,Republican,State Representative,84
+Greene,Robert D. Hackett,2157,Republican,State Representative,84
+Madison,Robert D. Hackett,3421,Republican,State Representative,84
+Clark,Craig W. Saunders,2457,Republican,State Representative,84
+Greene,Craig W. Saunders,3154,Republican,State Representative,84
+Madison,Craig W. Saunders,1343,Republican,State Representative,84
+Fayette,John M. Schlichter,3180,Republican,State Representative,85
+Pickaway,John M. Schlichter,1830,Republican,State Representative,85
+Ross,John M. Schlichter,4531,Republican,State Representative,85
+Clinton,David T. Daniels,4805,Republican,State Representative,86
+Highland,David T. Daniels,4295,Republican,State Representative,86
+Pike,David T. Daniels,1417,Republican,State Representative,86
+Gallia,Clyde Evans,4268,Republican,State Representative,87
+Jackson,Clyde Evans,3527,Republican,State Representative,87
+Lawrence,Clyde Evans,2990,Republican,State Representative,87
+Ross,Clyde Evans,847,Republican,State Representative,87
+Vinton,Clyde Evans,1318,Republican,State Representative,87
+Gallia,Daryl L. Petrie,5,Republican,State Representative,87
+Jackson,Daryl L. Petrie,7,Republican,State Representative,87
+Lawrence,Daryl L. Petrie,0,Republican,State Representative,87
+Ross,Daryl L. Petrie,0,Republican,State Representative,87
+Vinton,Daryl L. Petrie,10,Republican,State Representative,87
+Adams,Danny R. Bubp,1631,Republican,State Representative,88
+Brown,Danny R. Bubp,4146,Republican,State Representative,88
+Clermont,Danny R. Bubp,5905,Republican,State Representative,88
+Ashland,Margaret Ann Ruhl,650,Republican,State Representative,90
+Knox,Margaret Ann Ruhl,5248,Republican,State Representative,90
+Morrow,Margaret Ann Ruhl,1755,Republican,State Representative,90
+Richland,Margaret Ann Ruhl,817,Republican,State Representative,90
+Ashland,Tom Whiston,855,Republican,State Representative,90
+Knox,Tom Whiston,2200,Republican,State Representative,90
+Morrow,Tom Whiston,2938,Republican,State Representative,90
+Richland,Tom Whiston,1308,Republican,State Representative,90
+Hocking,Bill Hayes,1167,Republican,State Representative,91
+Licking,Bill Hayes,3611,Republican,State Representative,91
+Perry,Bill Hayes,2156,Republican,State Representative,91
+Pickaway,Bill Hayes,795,Republican,State Representative,91
+Hocking,Chuck Wellman,965,Republican,State Representative,91
+Licking,Chuck Wellman,1284,Republican,State Representative,91
+Perry,Chuck Wellman,843,Republican,State Representative,91
+Pickaway,Chuck Wellman,1865,Republican,State Representative,91
+Athens,Jill Thompson,2950,Republican,State Representative,92
+Meigs,Jill Thompson,2689,Republican,State Representative,92
+Morgan,Jill Thompson,1646,Republican,State Representative,92
+Washington,Jill Thompson,1972,Republican,State Representative,92
+Guernsey,Chelsi L. Smith,2781,Republican,State Representative,93
+Monroe,Chelsi L. Smith,607,Republican,State Representative,93
+Muskingum,Chelsi L. Smith,539,Republican,State Representative,93
+Noble,Chelsi L. Smith,1325,Republican,State Representative,93
+Washington,Chelsi L. Smith,3391,Republican,State Representative,93
+Coshocton,Troy Balderson,2664,Republican,State Representative,94
+Muskingum,Troy Balderson,8288,Republican,State Representative,94
+Coshocton,Patrick Johnston,1581,Republican,State Representative,94
+Muskingum,Patrick Johnston,3662,Republican,State Representative,94
+Belmont,Daniel Z. Jenkins,1097,Republican,State Representative,95
+Jefferson,Daniel Z. Jenkins,3241,Republican,State Representative,95
+Belmont,Robert Andy Ballard,1732,Republican,State Representative,96
+Harrison,Robert Andy Ballard,988,Republican,State Representative,96
+Tuscarawas,Robert Andy Ballard,4137,Republican,State Representative,96
+Ashland,Dave Hall,3818,Republican,State Representative,97
+Holmes,Dave Hall,3060,Republican,State Representative,97
+Medina,Dave Hall,3466,Republican,State Representative,97
+Cuyahoga,Matthew J. Dolan,1571,Republican,State Representative,98
+Geauga,Matthew J. Dolan,8190,Republican,State Representative,98
+Ashtabula,Tom Nizen,5991,Republican,State Representative,99
+Trumbull,Tom Nizen,374,Republican,State Representative,99
+Butler,Steve Driehaus,1891,Democratic,US Representative,1
+Hamilton,Steve Driehaus,58563,Democratic,US Representative,1
+Adams,Stephen L. Black,1158,Democratic,US Representative,2
+Brown,Stephen L. Black,2585,Democratic,US Representative,2
+Clermont,Stephen L. Black,7600,Democratic,US Representative,2
+Hamilton,Stephen L. Black,10733,Democratic,US Representative,2
+Pike,Stephen L. Black,1747,Democratic,US Representative,2
+Scioto,Stephen L. Black,2583,Democratic,US Representative,2
+Warren,Stephen L. Black,3210,Democratic,US Representative,2
+Adams,William R. Smith,542,Democratic,US Representative,2
+Brown,William R. Smith,1095,Democratic,US Representative,2
+Clermont,William R. Smith,3162,Democratic,US Representative,2
+Hamilton,William R. Smith,3667,Democratic,US Representative,2
+Pike,William R. Smith,996,Democratic,US Representative,2
+Scioto,William R. Smith,1429,Democratic,US Representative,2
+Warren,William R. Smith,1564,Democratic,US Representative,2
+Adams,Victoria Wulsin,1758,Democratic,US Representative,2
+Brown,Victoria Wulsin,3399,Democratic,US Representative,2
+Clermont,Victoria Wulsin,13359,Democratic,US Representative,2
+Hamilton,Victoria Wulsin,26971,Democratic,US Representative,2
+Pike,Victoria Wulsin,2065,Democratic,US Representative,2
+Scioto,Victoria Wulsin,3767,Democratic,US Representative,2
+Warren,Victoria Wulsin,6354,Democratic,US Representative,2
+Clinton,David Esrati,387,Democratic,US Representative,3
+Highland,David Esrati,385,Democratic,US Representative,3
+Montgomery,David Esrati,9091,Democratic,US Representative,3
+Warren,David Esrati,1301,Democratic,US Representative,3
+Clinton,Jane Mitakides,2061,Democratic,US Representative,3
+Highland,Jane Mitakides,1560,Democratic,US Representative,3
+Montgomery,Jane Mitakides,42204,Democratic,US Representative,3
+Warren,Jane Mitakides,5591,Democratic,US Representative,3
+Clinton,Charles W. Sanders,1823,Democratic,US Representative,3
+Highland,Charles W. Sanders,2440,Democratic,US Representative,3
+Montgomery,Charles W. Sanders,24714,Democratic,US Representative,3
+Warren,Charles W. Sanders,4291,Democratic,US Representative,3
+Allen,Mike Carroll,10041,Democratic,US Representative,4
+Auglaize,Mike Carroll,3722,Democratic,US Representative,4
+Champaign,Mike Carroll,4136,Democratic,US Representative,4
+Hancock,Mike Carroll,5547,Democratic,US Representative,4
+Hardin,Mike Carroll,2620,Democratic,US Representative,4
+Logan,Mike Carroll,3847,Democratic,US Representative,4
+Marion,Mike Carroll,7697,Democratic,US Representative,4
+Morrow,Mike Carroll,3537,Democratic,US Representative,4
+Richland,Mike Carroll,12498,Democratic,US Representative,4
+Shelby,Mike Carroll,4975,Democratic,US Representative,4
+Wyandot,Mike Carroll,1073,Democratic,US Representative,4
+Ashland,George F. Mays,994,Democratic,US Representative,5
+Crawford,George F. Mays,4048,Democratic,US Representative,5
+Defiance,George F. Mays,3889,Democratic,US Representative,5
+Fulton,George F. Mays,3962,Democratic,US Representative,5
+Henry,George F. Mays,2696,Democratic,US Representative,5
+Huron,George F. Mays,5231,Democratic,US Representative,5
+Lucas,George F. Mays,2136,Democratic,US Representative,5
+Mercer,George F. Mays,825,Democratic,US Representative,5
+Paulding,George F. Mays,1950,Democratic,US Representative,5
+Putnam,George F. Mays,3298,Democratic,US Representative,5
+Sandusky,George F. Mays,8182,Democratic,US Representative,5
+Seneca,George F. Mays,6546,Democratic,US Representative,5
+Van Wert,George F. Mays,2345,Democratic,US Representative,5
+Williams,George F. Mays,3089,Democratic,US Representative,5
+Wood,George F. Mays,14312,Democratic,US Representative,5
+Wyandot,George F. Mays,947,Democratic,US Representative,5
+Athens,Charlie Wilson,8134,Democratic,US Representative,6
+Belmont,Charlie Wilson,14232,Democratic,US Representative,6
+Columbiana,Charlie Wilson,17803,Democratic,US Representative,6
+Gallia,Charlie Wilson,3072,Democratic,US Representative,6
+Jefferson,Charlie Wilson,18121,Democratic,US Representative,6
+Lawrence,Charlie Wilson,8439,Democratic,US Representative,6
+Mahoning,Charlie Wilson,22441,Democratic,US Representative,6
+Meigs,Charlie Wilson,2799,Democratic,US Representative,6
+Monroe,Charlie Wilson,3927,Democratic,US Representative,6
+Noble,Charlie Wilson,1870,Democratic,US Representative,6
+Scioto,Charlie Wilson,4782,Democratic,US Representative,6
+Washington,Charlie Wilson,8789,Democratic,US Representative,6
+Clark,Bill Conner,8005,Democratic,US Representative,7
+Fairfield,Bill Conner,5544,Democratic,US Representative,7
+Fayette,Bill Conner,931,Democratic,US Representative,7
+Franklin,Bill Conner,5072,Democratic,US Representative,7
+Greene,Bill Conner,5009,Democratic,US Representative,7
+Perry,Bill Conner,1841,Democratic,US Representative,7
+Pickaway,Bill Conner,2953,Democratic,US Representative,7
+Ross,Bill Conner,674,Democratic,US Representative,7
+Clark,Sharen Swartz Neuhardt,9500,Democratic,US Representative,7
+Fairfield,Sharen Swartz Neuhardt,6090,Democratic,US Representative,7
+Fayette,Sharen Swartz Neuhardt,823,Democratic,US Representative,7
+Franklin,Sharen Swartz Neuhardt,4014,Democratic,US Representative,7
+Greene,Sharen Swartz Neuhardt,8817,Democratic,US Representative,7
+Perry,Sharen Swartz Neuhardt,1558,Democratic,US Representative,7
+Pickaway,Sharen Swartz Neuhardt,1649,Democratic,US Representative,7
+Ross,Sharen Swartz Neuhardt,375,Democratic,US Representative,7
+Clark,Jack D. Null,1583,Democratic,US Representative,7
+Fairfield,Jack D. Null,1230,Democratic,US Representative,7
+Fayette,Jack D. Null,255,Democratic,US Representative,7
+Franklin,Jack D. Null,818,Democratic,US Representative,7
+Greene,Jack D. Null,1242,Democratic,US Representative,7
+Perry,Jack D. Null,473,Democratic,US Representative,7
+Pickaway,Jack D. Null,388,Democratic,US Representative,7
+Ross,Jack D. Null,129,Democratic,US Representative,7
+Clark,Thomas L. Scrivens,903,Democratic,US Representative,7
+Fairfield,Thomas L. Scrivens,854,Democratic,US Representative,7
+Fayette,Thomas L. Scrivens,150,Democratic,US Representative,7
+Franklin,Thomas L. Scrivens,928,Democratic,US Representative,7
+Greene,Thomas L. Scrivens,1629,Democratic,US Representative,7
+Perry,Thomas L. Scrivens,234,Democratic,US Representative,7
+Pickaway,Thomas L. Scrivens,270,Democratic,US Representative,7
+Ross,Thomas L. Scrivens,56,Democratic,US Representative,7
+Clark,Dave Woolever,1060,Democratic,US Representative,7
+Fairfield,Dave Woolever,2473,Democratic,US Representative,7
+Fayette,Dave Woolever,510,Democratic,US Representative,7
+Franklin,Dave Woolever,880,Democratic,US Representative,7
+Greene,Dave Woolever,2059,Democratic,US Representative,7
+Perry,Dave Woolever,379,Democratic,US Representative,7
+Pickaway,Dave Woolever,1783,Democratic,US Representative,7
+Ross,Dave Woolever,99,Democratic,US Representative,7
+Clark,Richard J. Wyderski,1019,Democratic,US Representative,7
+Fairfield,Richard J. Wyderski,1204,Democratic,US Representative,7
+Fayette,Richard J. Wyderski,121,Democratic,US Representative,7
+Franklin,Richard J. Wyderski,755,Democratic,US Representative,7
+Greene,Richard J. Wyderski,1379,Democratic,US Representative,7
+Perry,Richard J. Wyderski,458,Democratic,US Representative,7
+Pickaway,Richard J. Wyderski,265,Democratic,US Representative,7
+Ross,Richard J. Wyderski,35,Democratic,US Representative,7
+Butler,Nicholas A. Von Stein,25202,Democratic,US Representative,8
+Darke,Nicholas A. Von Stein,4242,Democratic,US Representative,8
+Mercer,Nicholas A. Von Stein,2268,Democratic,US Representative,8
+Miami,Nicholas A. Von Stein,9665,Democratic,US Representative,8
+Montgomery,Nicholas A. Von Stein,6943,Democratic,US Representative,8
+Preble,Nicholas A. Von Stein,4282,Democratic,US Representative,8
+Erie,Marcy Kaptur,14326,Democratic,US Representative,9
+Lorain,Marcy Kaptur,12393,Democratic,US Representative,9
+Lucas,Marcy Kaptur,83681,Democratic,US Representative,9
+Ottawa,Marcy Kaptur,8414,Democratic,US Representative,9
+Cuyahoga,Joe Cimperman,50760,Democratic,US Representative,10
+Cuyahoga,Barbara Anne Ferris,9362,Democratic,US Representative,10
+Cuyahoga,Dennis J. Kucinich,72646,Democratic,US Representative,10
+Cuyahoga,Thomas E O'Grady,7264,Democratic,US Representative,10
+Cuyahoga,Rosemary A. Palmer,4339,Democratic,US Representative,10
+Cuyahoga,Stephanie Tubbs Jones,131857,Democratic,US Representative,11
+Delaware,Aaron J. Dagres,2627,Democratic,US Representative,12
+Franklin,Aaron J. Dagres,9508,Democratic,US Representative,12
+Licking,Aaron J. Dagres,1733,Democratic,US Representative,12
+Delaware,Russ Goodwin,5991,Democratic,US Representative,12
+Franklin,Russ Goodwin,22719,Democratic,US Representative,12
+Licking,Russ Goodwin,4126,Democratic,US Representative,12
+Delaware,David Robinson,9069,Democratic,US Representative,12
+Franklin,David Robinson,33363,Democratic,US Representative,12
+Licking,David Robinson,6441,Democratic,US Representative,12
+Cuyahoga,Betty Sutton,13139,Democratic,US Representative,13
+Lorain,Betty Sutton,35921,Democratic,US Representative,13
+Medina,Betty Sutton,7730,Democratic,US Representative,13
+Summit,Betty Sutton,49012,Democratic,US Representative,13
+Ashtabula,Dale Virgil Blanchard,2462,Democratic,US Representative,14
+Cuyahoga,Dale Virgil Blanchard,1482,Democratic,US Representative,14
+Geauga,Dale Virgil Blanchard,1736,Democratic,US Representative,14
+Lake,Dale Virgil Blanchard,6119,Democratic,US Representative,14
+Portage,Dale Virgil Blanchard,830,Democratic,US Representative,14
+Summit,Dale Virgil Blanchard,3375,Democratic,US Representative,14
+Trumbull,Dale Virgil Blanchard,335,Democratic,US Representative,14
+Ashtabula,"John H. Greene, Jr.",3848,Democratic,US Representative,14
+Cuyahoga,"John H. Greene, Jr.",1306,Democratic,US Representative,14
+Geauga,"John H. Greene, Jr.",2298,Democratic,US Representative,14
+Lake,"John H. Greene, Jr.",7075,Democratic,US Representative,14
+Portage,"John H. Greene, Jr.",1007,Democratic,US Representative,14
+Summit,"John H. Greene, Jr.",5273,Democratic,US Representative,14
+Trumbull,"John H. Greene, Jr.",545,Democratic,US Representative,14
+Ashtabula,Bill O'Neill,9803,Democratic,US Representative,14
+Cuyahoga,Bill O'Neill,4696,Democratic,US Representative,14
+Geauga,Bill O'Neill,9328,Democratic,US Representative,14
+Lake,Bill O'Neill,22250,Democratic,US Representative,14
+Portage,Bill O'Neill,2752,Democratic,US Representative,14
+Summit,Bill O'Neill,12635,Democratic,US Representative,14
+Trumbull,Bill O'Neill,799,Democratic,US Representative,14
+Franklin,Mary Jo Kilroy,77314,Democratic,US Representative,15
+Madison,Mary Jo Kilroy,3798,Democratic,US Representative,15
+Union,Mary Jo Kilroy,4728,Democratic,US Representative,15
+Ashland,John A. Boccieri,2795,Democratic,US Representative,16
+Medina,John A. Boccieri,10865,Democratic,US Representative,16
+Stark,John A. Boccieri,47804,Democratic,US Representative,16
+Wayne,John A. Boccieri,9574,Democratic,US Representative,16
+Ashland,Mary M. Cirelli,1257,Democratic,US Representative,16
+Medina,Mary M. Cirelli,6054,Democratic,US Representative,16
+Stark,Mary M. Cirelli,28546,Democratic,US Representative,16
+Wayne,Mary M. Cirelli,4572,Democratic,US Representative,16
+Mahoning,Tim Ryan,37578,Democratic,US Representative,17
+Portage,Tim Ryan,21840,Democratic,US Representative,17
+Summit,Tim Ryan,22229,Democratic,US Representative,17
+Trumbull,Tim Ryan,56963,Democratic,US Representative,17
+Athens,Mark Pitrone,739,Democratic,US Representative,18
+Belmont,Mark Pitrone,953,Democratic,US Representative,18
+Carroll,Mark Pitrone,1081,Democratic,US Representative,18
+Coshocton,Mark Pitrone,754,Democratic,US Representative,18
+Guernsey,Mark Pitrone,852,Democratic,US Representative,18
+Harrison,Mark Pitrone,553,Democratic,US Representative,18
+Hocking,Mark Pitrone,866,Democratic,US Representative,18
+Holmes,Mark Pitrone,523,Democratic,US Representative,18
+Jackson,Mark Pitrone,897,Democratic,US Representative,18
+Knox,Mark Pitrone,1217,Democratic,US Representative,18
+Licking,Mark Pitrone,1864,Democratic,US Representative,18
+Morgan,Mark Pitrone,304,Democratic,US Representative,18
+Muskingum,Mark Pitrone,1687,Democratic,US Representative,18
+Ross,Mark Pitrone,1587,Democratic,US Representative,18
+Tuscarawas,Mark Pitrone,1674,Democratic,US Representative,18
+Vinton,Mark Pitrone,429,Democratic,US Representative,18
+Athens,Zack Space,3227,Democratic,US Representative,18
+Belmont,Zack Space,2969,Democratic,US Representative,18
+Carroll,Zack Space,3986,Democratic,US Representative,18
+Coshocton,Zack Space,5122,Democratic,US Representative,18
+Guernsey,Zack Space,5331,Democratic,US Representative,18
+Harrison,Zack Space,3296,Democratic,US Representative,18
+Hocking,Zack Space,4050,Democratic,US Representative,18
+Holmes,Zack Space,1685,Democratic,US Representative,18
+Jackson,Zack Space,3189,Democratic,US Representative,18
+Knox,Zack Space,6390,Democratic,US Representative,18
+Licking,Zack Space,6614,Democratic,US Representative,18
+Morgan,Zack Space,1720,Democratic,US Representative,18
+Muskingum,Zack Space,11229,Democratic,US Representative,18
+Ross,Zack Space,9130,Democratic,US Representative,18
+Tuscarawas,Zack Space,17766,Democratic,US Representative,18
+Vinton,Zack Space,1799,Democratic,US Representative,18
+Butler,Steve Chabot,3417,Republican,US Representative,1
+Hamilton,Steve Chabot,42991,Republican,US Representative,1
+Adams,Nathan W. Bailey,91,Republican,US Representative,2
+Brown,Nathan W. Bailey,119,Republican,US Representative,2
+Clermont,Nathan W. Bailey,718,Republican,US Representative,2
+Hamilton,Nathan W. Bailey,639,Republican,US Representative,2
+Pike,Nathan W. Bailey,125,Republican,US Representative,2
+Scioto,Nathan W. Bailey,107,Republican,US Representative,2
+Warren,Nathan W. Bailey,327,Republican,US Representative,2
+Adams,Tom Brinkman,1084,Republican,US Representative,2
+Brown,Tom Brinkman,1587,Republican,US Representative,2
+Clermont,Tom Brinkman,7845,Republican,US Representative,2
+Hamilton,Tom Brinkman,12054,Republican,US Representative,2
+Pike,Tom Brinkman,590,Republican,US Representative,2
+Scioto,Tom Brinkman,1046,Republican,US Representative,2
+Warren,Tom Brinkman,4691,Republican,US Representative,2
+Adams,Jean Schmidt,1858,Republican,US Representative,2
+Brown,Jean Schmidt,2529,Republican,US Representative,2
+Clermont,Jean Schmidt,14812,Republican,US Representative,2
+Hamilton,Jean Schmidt,13822,Republican,US Representative,2
+Pike,Jean Schmidt,1084,Republican,US Representative,2
+Scioto,Jean Schmidt,1947,Republican,US Representative,2
+Warren,Jean Schmidt,5935,Republican,US Representative,2
+Clinton,Mike Turner,5251,Republican,US Representative,3
+Highland,Mike Turner,4549,Republican,US Representative,3
+Montgomery,Mike Turner,39455,Republican,US Representative,3
+Warren,Mike Turner,12660,Republican,US Representative,3
+Allen,Jim Jordan,12055,Republican,US Representative,4
+Auglaize,Jim Jordan,4834,Republican,US Representative,4
+Champaign,Jim Jordan,5803,Republican,US Representative,4
+Hancock,Jim Jordan,9826,Republican,US Representative,4
+Hardin,Jim Jordan,3540,Republican,US Representative,4
+Logan,Jim Jordan,6249,Republican,US Representative,4
+Marion,Jim Jordan,5292,Republican,US Representative,4
+Morrow,Jim Jordan,3754,Republican,US Representative,4
+Richland,Jim Jordan,9299,Republican,US Representative,4
+Shelby,Jim Jordan,5001,Republican,US Representative,4
+Wyandot,Jim Jordan,1118,Republican,US Representative,4
+Ashland,Bob Latta,803,Republican,US Representative,5
+Crawford,Bob Latta,3214,Republican,US Representative,5
+Defiance,Bob Latta,3399,Republican,US Representative,5
+Fulton,Bob Latta,3967,Republican,US Representative,5
+Henry,Bob Latta,2595,Republican,US Representative,5
+Huron,Bob Latta,3129,Republican,US Representative,5
+Lucas,Bob Latta,1480,Republican,US Representative,5
+Mercer,Bob Latta,787,Republican,US Representative,5
+Paulding,Bob Latta,1762,Republican,US Representative,5
+Putnam,Bob Latta,4667,Republican,US Representative,5
+Sandusky,Bob Latta,5624,Republican,US Representative,5
+Seneca,Bob Latta,5800,Republican,US Representative,5
+Van Wert,Bob Latta,3188,Republican,US Representative,5
+Williams,Bob Latta,3616,Republican,US Representative,5
+Wood,Bob Latta,9025,Republican,US Representative,5
+Wyandot,Bob Latta,1037,Republican,US Representative,5
+Ashland,Scott B. Radcliffe,183,Republican,US Representative,5
+Crawford,Scott B. Radcliffe,527,Republican,US Representative,5
+Defiance,Scott B. Radcliffe,920,Republican,US Representative,5
+Fulton,Scott B. Radcliffe,1082,Republican,US Representative,5
+Henry,Scott B. Radcliffe,395,Republican,US Representative,5
+Huron,Scott B. Radcliffe,445,Republican,US Representative,5
+Lucas,Scott B. Radcliffe,356,Republican,US Representative,5
+Mercer,Scott B. Radcliffe,163,Republican,US Representative,5
+Paulding,Scott B. Radcliffe,369,Republican,US Representative,5
+Putnam,Scott B. Radcliffe,585,Republican,US Representative,5
+Sandusky,Scott B. Radcliffe,1070,Republican,US Representative,5
+Seneca,Scott B. Radcliffe,1355,Republican,US Representative,5
+Van Wert,Scott B. Radcliffe,839,Republican,US Representative,5
+Williams,Scott B. Radcliffe,878,Republican,US Representative,5
+Wood,Scott B. Radcliffe,2988,Republican,US Representative,5
+Wyandot,Scott B. Radcliffe,192,Republican,US Representative,5
+Ashland,Michael L. Reynolds,189,Republican,US Representative,5
+Crawford,Michael L. Reynolds,641,Republican,US Representative,5
+Defiance,Michael L. Reynolds,368,Republican,US Representative,5
+Fulton,Michael L. Reynolds,380,Republican,US Representative,5
+Henry,Michael L. Reynolds,168,Republican,US Representative,5
+Huron,Michael L. Reynolds,513,Republican,US Representative,5
+Lucas,Michael L. Reynolds,102,Republican,US Representative,5
+Mercer,Michael L. Reynolds,132,Republican,US Representative,5
+Paulding,Michael L. Reynolds,204,Republican,US Representative,5
+Putnam,Michael L. Reynolds,417,Republican,US Representative,5
+Sandusky,Michael L. Reynolds,567,Republican,US Representative,5
+Seneca,Michael L. Reynolds,726,Republican,US Representative,5
+Van Wert,Michael L. Reynolds,397,Republican,US Representative,5
+Williams,Michael L. Reynolds,352,Republican,US Representative,5
+Wood,Michael L. Reynolds,541,Republican,US Representative,5
+Wyandot,Michael L. Reynolds,176,Republican,US Representative,5
+Athens,Richard D. Stobbs,1938,Republican,US Representative,6
+Belmont,Richard D. Stobbs,2111,Republican,US Representative,6
+Columbiana,Richard D. Stobbs,7186,Republican,US Representative,6
+Gallia,Richard D. Stobbs,2652,Republican,US Representative,6
+Jefferson,Richard D. Stobbs,3408,Republican,US Representative,6
+Lawrence,Richard D. Stobbs,4906,Republican,US Representative,6
+Mahoning,Richard D. Stobbs,4491,Republican,US Representative,6
+Meigs,Richard D. Stobbs,2523,Republican,US Representative,6
+Monroe,Richard D. Stobbs,633,Republican,US Representative,6
+Noble,Richard D. Stobbs,1316,Republican,US Representative,6
+Scioto,Richard D. Stobbs,1804,Republican,US Representative,6
+Washington,Richard D. Stobbs,5433,Republican,US Representative,6
+Clark,Steve Austria,9751,Republican,US Representative,7
+Fairfield,Steve Austria,9397,Republican,US Representative,7
+Fayette,Steve Austria,1854,Republican,US Representative,7
+Franklin,Steve Austria,2334,Republican,US Representative,7
+Greene,Steve Austria,15939,Republican,US Representative,7
+Perry,Steve Austria,1131,Republican,US Representative,7
+Pickaway,Steve Austria,1785,Republican,US Representative,7
+Ross,Steve Austria,308,Republican,US Representative,7
+Clark,Dan Harkins,1635,Republican,US Representative,7
+Fairfield,Dan Harkins,1373,Republican,US Representative,7
+Fayette,Dan Harkins,100,Republican,US Representative,7
+Franklin,Dan Harkins,477,Republican,US Representative,7
+Greene,Dan Harkins,640,Republican,US Representative,7
+Perry,Dan Harkins,195,Republican,US Representative,7
+Pickaway,Dan Harkins,267,Republican,US Representative,7
+Ross,Dan Harkins,130,Republican,US Representative,7
+Clark,Ron Hood,3506,Republican,US Representative,7
+Fairfield,Ron Hood,7699,Republican,US Representative,7
+Fayette,Ron Hood,1598,Republican,US Representative,7
+Franklin,Ron Hood,2486,Republican,US Representative,7
+Greene,Ron Hood,5778,Republican,US Representative,7
+Perry,Ron Hood,1948,Republican,US Representative,7
+Pickaway,Ron Hood,2633,Republican,US Representative,7
+Ross,Ron Hood,336,Republican,US Representative,7
+Clark,John Mitchel,484,Republican,US Representative,7
+Fairfield,John Mitchel,1194,Republican,US Representative,7
+Fayette,John Mitchel,162,Republican,US Representative,7
+Franklin,John Mitchel,592,Republican,US Representative,7
+Greene,John Mitchel,972,Republican,US Representative,7
+Perry,John Mitchel,192,Republican,US Representative,7
+Pickaway,John Mitchel,330,Republican,US Representative,7
+Ross,John Mitchel,104,Republican,US Representative,7
+Butler,John A. Boehner,30394,Republican,US Representative,8
+Darke,John A. Boehner,6213,Republican,US Representative,8
+Mercer,John A. Boehner,3241,Republican,US Representative,8
+Miami,John A. Boehner,14270,Republican,US Representative,8
+Montgomery,John A. Boehner,5441,Republican,US Representative,8
+Preble,John A. Boehner,5712,Republican,US Representative,8
+Erie,Ed Emery,2182,Republican,US Representative,9
+Lorain,Ed Emery,1770,Republican,US Representative,9
+Lucas,Ed Emery,6341,Republican,US Representative,9
+Ottawa,Ed Emery,1400,Republican,US Representative,9
+Erie,Bradley S. Leavitt,2329,Republican,US Representative,9
+Lorain,Bradley S. Leavitt,2091,Republican,US Representative,9
+Lucas,Bradley S. Leavitt,8801,Republican,US Representative,9
+Ottawa,Bradley S. Leavitt,1482,Republican,US Representative,9
+Cuyahoga,Jim Trakas,22401,Republican,US Representative,10
+Cuyahoga,Jason Werner,5844,Republican,US Representative,10
+Cuyahoga,Thomas Pekarek,9123,Republican,US Representative,11
+Delaware,David Ryon,2336,Republican,US Representative,12
+Franklin,David Ryon,3030,Republican,US Representative,12
+Licking,David Ryon,1315,Republican,US Representative,12
+Delaware,Pat Tiberi,21354,Republican,US Representative,12
+Franklin,Pat Tiberi,29101,Republican,US Representative,12
+Licking,Pat Tiberi,12995,Republican,US Representative,12
+Cuyahoga,Frank Chestney,1979,Republican,US Representative,13
+Lorain,Frank Chestney,3178,Republican,US Representative,13
+Medina,Frank Chestney,1360,Republican,US Representative,13
+Summit,Frank Chestney,3576,Republican,US Representative,13
+Cuyahoga,Frances L. Kalapodis,1193,Republican,US Representative,13
+Lorain,Frances L. Kalapodis,1750,Republican,US Representative,13
+Medina,Frances L. Kalapodis,484,Republican,US Representative,13
+Summit,Frances L. Kalapodis,4425,Republican,US Representative,13
+Cuyahoga,David S. Potter,2474,Republican,US Representative,13
+Lorain,David S. Potter,3747,Republican,US Representative,13
+Medina,David S. Potter,1250,Republican,US Representative,13
+Summit,David S. Potter,4593,Republican,US Representative,13
+Ashtabula,Steven C. Latourette,7041,Republican,US Representative,14
+Cuyahoga,Steven C. Latourette,4259,Republican,US Representative,14
+Geauga,Steven C. Latourette,8920,Republican,US Representative,14
+Lake,Steven C. Latourette,19221,Republican,US Representative,14
+Portage,Steven C. Latourette,2644,Republican,US Representative,14
+Summit,Steven C. Latourette,10237,Republican,US Representative,14
+Trumbull,Steven C. Latourette,714,Republican,US Representative,14
+Franklin,Steve Stivers,27844,Republican,US Representative,15
+Madison,Steve Stivers,2502,Republican,US Representative,15
+Union,Steve Stivers,3492,Republican,US Representative,15
+Franklin,Robert Wagner,12355,Republican,US Representative,15
+Madison,Robert Wagner,1871,Republican,US Representative,15
+Union,Robert Wagner,3273,Republican,US Representative,15
+Ashland,Matt Miller,5044,Republican,US Representative,16
+Medina,Matt Miller,6075,Republican,US Representative,16
+Stark,Matt Miller,11029,Republican,US Representative,16
+Wayne,Matt Miller,7587,Republican,US Representative,16
+Ashland,Paul R. Schiffer,307,Republican,US Representative,16
+Medina,Paul R. Schiffer,2220,Republican,US Representative,16
+Stark,Paul R. Schiffer,3358,Republican,US Representative,16
+Wayne,Paul R. Schiffer,1563,Republican,US Representative,16
+Ashland,Kirk Schuring,699,Republican,US Representative,16
+Medina,Kirk Schuring,3244,Republican,US Representative,16
+Stark,Kirk Schuring,25524,Republican,US Representative,16
+Wayne,Kirk Schuring,4067,Republican,US Representative,16
+Mahoning,Duane V. Grassell,2185,Republican,US Representative,17
+Portage,Duane V. Grassell,4245,Republican,US Representative,17
+Summit,Duane V. Grassell,5261,Republican,US Representative,17
+Trumbull,Duane V. Grassell,6992,Republican,US Representative,17
+Athens,Beau M. Bromberg,31,Republican,US Representative,18
+Belmont,Beau M. Bromberg,74,Republican,US Representative,18
+Carroll,Beau M. Bromberg,288,Republican,US Representative,18
+Coshocton,Beau M. Bromberg,348,Republican,US Representative,18
+Guernsey,Beau M. Bromberg,179,Republican,US Representative,18
+Harrison,Beau M. Bromberg,124,Republican,US Representative,18
+Hocking,Beau M. Bromberg,143,Republican,US Representative,18
+Holmes,Beau M. Bromberg,259,Republican,US Representative,18
+Jackson,Beau M. Bromberg,167,Republican,US Representative,18
+Knox,Beau M. Bromberg,319,Republican,US Representative,18
+Licking,Beau M. Bromberg,941,Republican,US Representative,18
+Morgan,Beau M. Bromberg,163,Republican,US Representative,18
+Muskingum,Beau M. Bromberg,562,Republican,US Representative,18
+Ross,Beau M. Bromberg,257,Republican,US Representative,18
+Tuscarawas,Beau M. Bromberg,660,Republican,US Representative,18
+Vinton,Beau M. Bromberg,105,Republican,US Representative,18
+Athens,Fred Dailey,304,Republican,US Representative,18
+Belmont,Fred Dailey,380,Republican,US Representative,18
+Carroll,Fred Dailey,1242,Republican,US Representative,18
+Coshocton,Fred Dailey,1576,Republican,US Representative,18
+Guernsey,Fred Dailey,1272,Republican,US Representative,18
+Harrison,Fred Dailey,520,Republican,US Representative,18
+Hocking,Fred Dailey,801,Republican,US Representative,18
+Holmes,Fred Dailey,1105,Republican,US Representative,18
+Jackson,Fred Dailey,1265,Republican,US Representative,18
+Knox,Fred Dailey,4023,Republican,US Representative,18
+Licking,Fred Dailey,1872,Republican,US Representative,18
+Morgan,Fred Dailey,855,Republican,US Representative,18
+Muskingum,Fred Dailey,4456,Republican,US Representative,18
+Ross,Fred Dailey,1225,Republican,US Representative,18
+Tuscarawas,Fred Dailey,2202,Republican,US Representative,18
+Vinton,Fred Dailey,500,Republican,US Representative,18
+Athens,Jeannette Moll,204,Republican,US Representative,18
+Belmont,Jeannette Moll,438,Republican,US Representative,18
+Carroll,Jeannette Moll,1031,Republican,US Representative,18
+Coshocton,Jeannette Moll,1253,Republican,US Representative,18
+Guernsey,Jeannette Moll,1763,Republican,US Representative,18
+Harrison,Jeannette Moll,386,Republican,US Representative,18
+Hocking,Jeannette Moll,695,Republican,US Representative,18
+Holmes,Jeannette Moll,1263,Republican,US Representative,18
+Jackson,Jeannette Moll,935,Republican,US Representative,18
+Knox,Jeannette Moll,1406,Republican,US Representative,18
+Licking,Jeannette Moll,1491,Republican,US Representative,18
+Morgan,Jeannette Moll,665,Republican,US Representative,18
+Muskingum,Jeannette Moll,3967,Republican,US Representative,18
+Ross,Jeannette Moll,946,Republican,US Representative,18
+Tuscarawas,Jeannette Moll,1707,Republican,US Representative,18
+Vinton,Jeannette Moll,462,Republican,US Representative,18
+Athens,Paul Phillips,105,Republican,US Representative,18
+Belmont,Paul Phillips,197,Republican,US Representative,18
+Carroll,Paul Phillips,577,Republican,US Representative,18
+Coshocton,Paul Phillips,720,Republican,US Representative,18
+Guernsey,Paul Phillips,554,Republican,US Representative,18
+Harrison,Paul Phillips,246,Republican,US Representative,18
+Hocking,Paul Phillips,418,Republican,US Representative,18
+Holmes,Paul Phillips,470,Republican,US Representative,18
+Jackson,Paul Phillips,945,Republican,US Representative,18
+Knox,Paul Phillips,1197,Republican,US Representative,18
+Licking,Paul Phillips,1484,Republican,US Representative,18
+Morgan,Paul Phillips,371,Republican,US Representative,18
+Muskingum,Paul Phillips,2169,Republican,US Representative,18
+Ross,Paul Phillips,2475,Republican,US Representative,18
+Tuscarawas,Paul Phillips,1336,Republican,US Representative,18
+Vinton,Paul Phillips,219,Republican,US Representative,18
+Erie,Darwitt R. Garrett,4615,Democratic,State Senate,2
+Lucas,Darwitt R. Garrett,4455,Democratic,State Senate,2
+Ottawa,Darwitt R. Garrett,1957,Democratic,State Senate,2
+Wood,Darwitt R. Garrett,4261,Democratic,State Senate,2
+Erie,Sylvia Washburn,8867,Democratic,State Senate,2
+Lucas,Sylvia Washburn,11110,Democratic,State Senate,2
+Ottawa,Sylvia Washburn,3876,Democratic,State Senate,2
+Wood,Sylvia Washburn,11298,Democratic,State Senate,2
+Butler,Kathryn Bridgman,21808,Democratic,State Senate,4
+Butler,Erik Rivera,8973,Democratic,State Senate,4
+Montgomery,John R. Doll,34492,Democratic,State Senate,6
+Hamilton,Daniel J. McCarthy,30688,Democratic,State Senate,8
+Clark,Roger Tackett,20689,Democratic,State Senate,10
+Greene,Roger Tackett,16171,Democratic,State Senate,10
+Madison,Roger Tackett,3255,Democratic,State Senate,10
+Allen,Thomas Matthew,9308,Democratic,State Senate,12
+Auglaize,Thomas Matthew,2522,Democratic,State Senate,12
+Champaign,Thomas Matthew,3818,Democratic,State Senate,12
+Darke,Thomas Matthew,2807,Democratic,State Senate,12
+Mercer,Thomas Matthew,2825,Democratic,State Senate,12
+Preble,Thomas Matthew,4105,Democratic,State Senate,12
+Shelby,Thomas Matthew,4613,Democratic,State Senate,12
+Adams,Holly Stutz,2217,Democratic,State Senate,14
+Brown,Holly Stutz,5033,Democratic,State Senate,14
+Clermont,Holly Stutz,16276,Democratic,State Senate,14
+Lawrence,Holly Stutz,3520,Democratic,State Senate,14
+Scioto,Holly Stutz,8614,Democratic,State Senate,14
+Franklin,Danielle R. Blue,38453,Democratic,State Senate,16
+Cuyahoga,Amy Diamond,2891,Democratic,State Senate,18
+Geauga,Amy Diamond,10647,Democratic,State Senate,18
+Lake,Amy Diamond,28042,Democratic,State Senate,18
+Athens,Rick C. Shriver,9585,Democratic,State Senate,20
+Coshocton,Rick C. Shriver,3757,Democratic,State Senate,20
+Guernsey,Rick C. Shriver,3835,Democratic,State Senate,20
+Meigs,Rick C. Shriver,2280,Democratic,State Senate,20
+Monroe,Rick C. Shriver,2813,Democratic,State Senate,20
+Morgan,Rick C. Shriver,1824,Democratic,State Senate,20
+Muskingum,Rick C. Shriver,8621,Democratic,State Senate,20
+Noble,Rick C. Shriver,1432,Democratic,State Senate,20
+Washington,Rick C. Shriver,7064,Democratic,State Senate,20
+Ashland,James E. Riley,3017,Democratic,State Senate,22
+Holmes,James E. Riley,1452,Democratic,State Senate,22
+Medina,James E. Riley,18889,Democratic,State Senate,22
+Wayne,James E. Riley,10268,Democratic,State Senate,22
+Cuyahoga,Emanuel J. Cotronakis,43746,Democratic,State Senate,24
+Crawford,Thomas L. Kruse,4044,Democratic,State Senate,26
+Logan,Thomas L. Kruse,3584,Democratic,State Senate,26
+Marion,Thomas L. Kruse,7125,Democratic,State Senate,26
+Ottawa,Thomas L. Kruse,1331,Democratic,State Senate,26
+Sandusky,Thomas L. Kruse,7630,Democratic,State Senate,26
+Seneca,Thomas L. Kruse,5071,Democratic,State Senate,26
+Union,Thomas L. Kruse,4046,Democratic,State Senate,26
+Wyandot,Thomas L. Kruse,1945,Democratic,State Senate,26
+Portage,Thomas C. Sawyer,23418,Democratic,State Senate,28
+Summit,Thomas C. Sawyer,33112,Democratic,State Senate,28
+Belmont,Jason H. Wilson,15271,Democratic,State Senate,30
+Columbiana,Jason H. Wilson,14806,Democratic,State Senate,30
+Harrison,Jason H. Wilson,2880,Democratic,State Senate,30
+Jefferson,Jason H. Wilson,13703,Democratic,State Senate,30
+Tuscarawas,Jason H. Wilson,10683,Democratic,State Senate,30
+Ashtabula,Capri S. Cafaro,14798,Democratic,State Senate,32
+Trumbull,Capri S. Cafaro,45967,Democratic,State Senate,32
+Erie,Mark Hollenbaugh,818,Republican,State Senate,2
+Lucas,Mark Hollenbaugh,617,Republican,State Senate,2
+Ottawa,Mark Hollenbaugh,281,Republican,State Senate,2
+Wood,Mark Hollenbaugh,1936,Republican,State Senate,2
+Erie,John F. Schulte,834,Republican,State Senate,2
+Lucas,John F. Schulte,602,Republican,State Senate,2
+Ottawa,John F. Schulte,443,Republican,State Senate,2
+Wood,John F. Schulte,1560,Republican,State Senate,2
+Erie,Mark Wagoner,3164,Republican,State Senate,2
+Lucas,Mark Wagoner,8876,Republican,State Senate,2
+Ottawa,Mark Wagoner,1744,Republican,State Senate,2
+Wood,Mark Wagoner,6508,Republican,State Senate,2
+Butler,Gary Cates,27855,Republican,State Senate,4
+Montgomery,Jon Husted,31240,Republican,State Senate,6
+Hamilton,William J. Seitz,27645,Republican,State Senate,8
+Clark,James E. Howard,1496,Republican,State Senate,10
+Greene,James E. Howard,2520,Republican,State Senate,10
+Madison,James E. Howard,310,Republican,State Senate,10
+Clark,W. Reed Madden,1793,Republican,State Senate,10
+Greene,W. Reed Madden,6782,Republican,State Senate,10
+Madison,W. Reed Madden,362,Republican,State Senate,10
+Clark,Chris Widener,11031,Republican,State Senate,10
+Greene,Chris Widener,11605,Republican,State Senate,10
+Madison,Chris Widener,4265,Republican,State Senate,10
+Allen,Keith Faber,10251,Republican,State Senate,12
+Auglaize,Keith Faber,2640,Republican,State Senate,12
+Champaign,Keith Faber,4612,Republican,State Senate,12
+Darke,Keith Faber,4045,Republican,State Senate,12
+Mercer,Keith Faber,4138,Republican,State Senate,12
+Preble,Keith Faber,5038,Republican,State Senate,12
+Shelby,Keith Faber,4024,Republican,State Senate,12
+Adams,Tom Niehaus,2384,Republican,State Senate,14
+Brown,Tom Niehaus,4039,Republican,State Senate,14
+Clermont,Tom Niehaus,20974,Republican,State Senate,14
+Lawrence,Tom Niehaus,2338,Republican,State Senate,14
+Scioto,Tom Niehaus,4477,Republican,State Senate,14
+Franklin,Jim Hughes,27888,Republican,State Senate,16
+Cuyahoga,Timothy J. Grendell,1562,Republican,State Senate,18
+Geauga,Timothy J. Grendell,8422,Republican,State Senate,18
+Lake,Timothy J. Grendell,15542,Republican,State Senate,18
+Athens,Jimmy Stewart,3002,Republican,State Senate,20
+Coshocton,Jimmy Stewart,2910,Republican,State Senate,20
+Guernsey,Jimmy Stewart,2894,Republican,State Senate,20
+Meigs,Jimmy Stewart,3303,Republican,State Senate,20
+Monroe,Jimmy Stewart,635,Republican,State Senate,20
+Morgan,Jimmy Stewart,2165,Republican,State Senate,20
+Muskingum,Jimmy Stewart,8487,Republican,State Senate,20
+Noble,Jimmy Stewart,1348,Republican,State Senate,20
+Washington,Jimmy Stewart,5954,Republican,State Senate,20
+Ashland,Bob Gibbs,4350,Republican,State Senate,22
+Holmes,Bob Gibbs,3410,Republican,State Senate,22
+Medina,Bob Gibbs,12999,Republican,State Senate,22
+Wayne,Bob Gibbs,9907,Republican,State Senate,22
+Cuyahoga,Thomas F. Patton,21327,Republican,State Senate,24
+Crawford,Karen Gillmor,1773,Republican,State Senate,26
+Logan,Karen Gillmor,3887,Republican,State Senate,26
+Marion,Karen Gillmor,3370,Republican,State Senate,26
+Ottawa,Karen Gillmor,532,Republican,State Senate,26
+Sandusky,Karen Gillmor,5700,Republican,State Senate,26
+Seneca,Karen Gillmor,5183,Republican,State Senate,26
+Union,Karen Gillmor,3963,Republican,State Senate,26
+Wyandot,Karen Gillmor,1234,Republican,State Senate,26
+Crawford,Steve Reinhard,3053,Republican,State Senate,26
+Logan,Steve Reinhard,2650,Republican,State Senate,26
+Marion,Steve Reinhard,3096,Republican,State Senate,26
+Ottawa,Steve Reinhard,186,Republican,State Senate,26
+Sandusky,Steve Reinhard,1721,Republican,State Senate,26
+Seneca,Steve Reinhard,1571,Republican,State Senate,26
+Union,Steve Reinhard,3148,Republican,State Senate,26
+Wyandot,Steve Reinhard,1757,Republican,State Senate,26
+Portage,James R. Carr,6666,Republican,State Senate,28
+Summit,James R. Carr,7054,Republican,State Senate,28
+Belmont,Tim Ginter,2800,Republican,State Senate,30
+Columbiana,Tim Ginter,7089,Republican,State Senate,30
+Harrison,Tim Ginter,992,Republican,State Senate,30
+Jefferson,Tim Ginter,3411,Republican,State Senate,30
+Tuscarawas,Tim Ginter,4209,Republican,State Senate,30
