@@ -1,0 +1,2962 @@
+county,precinct,precinct_code,office,district,party,candidate,votes
+Delaware,PRECINCT COLUMBUS CITY A,AAA,U.S. House,12,R,Troy Balderson,101
+Delaware,PRECINCT COLUMBUS CITY A,AAA,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT COLUMBUS CITY A,AAA,U.S. House,12,D,Danny O'Connor,114
+Delaware,PRECINCT DELAWARE CITY 1-A,AAB,U.S. House,12,R,Troy Balderson,168
+Delaware,PRECINCT DELAWARE CITY 1-A,AAB,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT DELAWARE CITY 1-A,AAB,U.S. House,12,D,Danny O'Connor,121
+Delaware,PRECINCT DELAWARE CITY 1-B,AAC,U.S. House,12,R,Troy Balderson,263
+Delaware,PRECINCT DELAWARE CITY 1-B,AAC,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 1-B,AAC,U.S. House,12,D,Danny O'Connor,266
+Delaware,PRECINCT DELAWARE CITY 1-C,AAD,U.S. House,12,R,Troy Balderson,229
+Delaware,PRECINCT DELAWARE CITY 1-C,AAD,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT DELAWARE CITY 1-C,AAD,U.S. House,12,D,Danny O'Connor,169
+Delaware,PRECINCT DELAWARE CITY 1-D,AAE,U.S. House,12,R,Troy Balderson,146
+Delaware,PRECINCT DELAWARE CITY 1-D,AAE,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT DELAWARE CITY 1-D,AAE,U.S. House,12,D,Danny O'Connor,144
+Delaware,PRECINCT DELAWARE CITY 1-E,AAF,U.S. House,12,R,Troy Balderson,84
+Delaware,PRECINCT DELAWARE CITY 1-E,AAF,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 1-E,AAF,U.S. House,12,D,Danny O'Connor,117
+Delaware,PRECINCT DELAWARE CITY 1-F,AAG,U.S. House,12,R,Troy Balderson,169
+Delaware,PRECINCT DELAWARE CITY 1-F,AAG,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT DELAWARE CITY 1-F,AAG,U.S. House,12,D,Danny O'Connor,193
+Delaware,PRECINCT DELAWARE CITY 1-G,AAH,U.S. House,12,R,Troy Balderson,162
+Delaware,PRECINCT DELAWARE CITY 1-G,AAH,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT DELAWARE CITY 1-G,AAH,U.S. House,12,D,Danny O'Connor,159
+Delaware,PRECINCT DELAWARE CITY 2-A,AAI,U.S. House,12,R,Troy Balderson,289
+Delaware,PRECINCT DELAWARE CITY 2-A,AAI,U.S. House,12,G,Joe Manchik,5
+Delaware,PRECINCT DELAWARE CITY 2-A,AAI,U.S. House,12,D,Danny O'Connor,204
+Delaware,PRECINCT DELAWARE CITY 2-B,AAJ,U.S. House,12,R,Troy Balderson,238
+Delaware,PRECINCT DELAWARE CITY 2-B,AAJ,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT DELAWARE CITY 2-B,AAJ,U.S. House,12,D,Danny O'Connor,236
+Delaware,PRECINCT DELAWARE CITY 2-C,AAK,U.S. House,12,R,Troy Balderson,150
+Delaware,PRECINCT DELAWARE CITY 2-C,AAK,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT DELAWARE CITY 2-C,AAK,U.S. House,12,D,Danny O'Connor,144
+Delaware,PRECINCT DELAWARE CITY 2-D,AAL,U.S. House,12,R,Troy Balderson,118
+Delaware,PRECINCT DELAWARE CITY 2-D,AAL,U.S. House,12,G,Joe Manchik,5
+Delaware,PRECINCT DELAWARE CITY 2-D,AAL,U.S. House,12,D,Danny O'Connor,124
+Delaware,PRECINCT DELAWARE CITY 3-A,AAM,U.S. House,12,R,Troy Balderson,49
+Delaware,PRECINCT DELAWARE CITY 3-A,AAM,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 3-A,AAM,U.S. House,12,D,Danny O'Connor,69
+Delaware,PRECINCT DELAWARE CITY 3-B,AAN,U.S. House,12,R,Troy Balderson,143
+Delaware,PRECINCT DELAWARE CITY 3-B,AAN,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT DELAWARE CITY 3-B,AAN,U.S. House,12,D,Danny O'Connor,89
+Delaware,PRECINCT DELAWARE CITY 3-C,AAO,U.S. House,12,R,Troy Balderson,91
+Delaware,PRECINCT DELAWARE CITY 3-C,AAO,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 3-C,AAO,U.S. House,12,D,Danny O'Connor,121
+Delaware,PRECINCT DELAWARE CITY 3-D,AAP,U.S. House,12,R,Troy Balderson,207
+Delaware,PRECINCT DELAWARE CITY 3-D,AAP,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT DELAWARE CITY 3-D,AAP,U.S. House,12,D,Danny O'Connor,237
+Delaware,PRECINCT DELAWARE CITY 3-E,AAQ,U.S. House,12,R,Troy Balderson,190
+Delaware,PRECINCT DELAWARE CITY 3-E,AAQ,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 3-E,AAQ,U.S. House,12,D,Danny O'Connor,198
+Delaware,PRECINCT DELAWARE CITY 4-A,AAR,U.S. House,12,R,Troy Balderson,210
+Delaware,PRECINCT DELAWARE CITY 4-A,AAR,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 4-A,AAR,U.S. House,12,D,Danny O'Connor,329
+Delaware,PRECINCT DELAWARE CITY 4-B,AAS,U.S. House,12,R,Troy Balderson,168
+Delaware,PRECINCT DELAWARE CITY 4-B,AAS,U.S. House,12,G,Joe Manchik,8
+Delaware,PRECINCT DELAWARE CITY 4-B,AAS,U.S. House,12,D,Danny O'Connor,313
+Delaware,PRECINCT DELAWARE CITY 4-C,AAT,U.S. House,12,R,Troy Balderson,119
+Delaware,PRECINCT DELAWARE CITY 4-C,AAT,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT DELAWARE CITY 4-C,AAT,U.S. House,12,D,Danny O'Connor,277
+Delaware,PRECINCT DELAWARE CITY 4-D,AAU,U.S. House,12,R,Troy Balderson,81
+Delaware,PRECINCT DELAWARE CITY 4-D,AAU,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT DELAWARE CITY 4-D,AAU,U.S. House,12,D,Danny O'Connor,97
+Delaware,PRECINCT DELAWARE CITY 4-E,AAV,U.S. House,12,R,Troy Balderson,146
+Delaware,PRECINCT DELAWARE CITY 4-E,AAV,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 4-E,AAV,U.S. House,12,D,Danny O'Connor,121
+Delaware,PRECINCT DELAWARE CITY 4-F,AAW,U.S. House,12,R,Troy Balderson,146
+Delaware,PRECINCT DELAWARE CITY 4-F,AAW,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT DELAWARE CITY 4-F,AAW,U.S. House,12,D,Danny O'Connor,151
+Delaware,PRECINCT DUBLIN CITY A,AAY,U.S. House,12,R,Troy Balderson,205
+Delaware,PRECINCT DUBLIN CITY A,AAY,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT DUBLIN CITY A,AAY,U.S. House,12,D,Danny O'Connor,134
+Delaware,PRECINCT DUBLIN CITY B,AAZ,U.S. House,12,R,Troy Balderson,198
+Delaware,PRECINCT DUBLIN CITY B,AAZ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT DUBLIN CITY B,AAZ,U.S. House,12,D,Danny O'Connor,145
+Delaware,PRECINCT DUBLIN CITY C,ABA,U.S. House,12,R,Troy Balderson,262
+Delaware,PRECINCT DUBLIN CITY C,ABA,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT DUBLIN CITY C,ABA,U.S. House,12,D,Danny O'Connor,207
+Delaware,PRECINCT DUBLIN CITY D,ABB,U.S. House,12,R,Troy Balderson,268
+Delaware,PRECINCT DUBLIN CITY D,ABB,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT DUBLIN CITY D,ABB,U.S. House,12,D,Danny O'Connor,217
+Delaware,PRECINCT WESTERVILLE CITY A,ABC,U.S. House,12,R,Troy Balderson,222
+Delaware,PRECINCT WESTERVILLE CITY A,ABC,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT WESTERVILLE CITY A,ABC,U.S. House,12,D,Danny O'Connor,274
+Delaware,PRECINCT WESTERVILLE CITY B,ABD,U.S. House,12,R,Troy Balderson,164
+Delaware,PRECINCT WESTERVILLE CITY B,ABD,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT WESTERVILLE CITY B,ABD,U.S. House,12,D,Danny O'Connor,188
+Delaware,PRECINCT WESTERVILLE CITY C,ABE,U.S. House,12,R,Troy Balderson,185
+Delaware,PRECINCT WESTERVILLE CITY C,ABE,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT WESTERVILLE CITY C,ABE,U.S. House,12,D,Danny O'Connor,215
+Delaware,PRECINCT WESTERVILLE CITY D,ABF,U.S. House,12,R,Troy Balderson,213
+Delaware,PRECINCT WESTERVILLE CITY D,ABF,U.S. House,12,G,Joe Manchik,7
+Delaware,PRECINCT WESTERVILLE CITY D,ABF,U.S. House,12,D,Danny O'Connor,227
+Delaware,PRECINCT WESTERVILLE CITY E,ABG,U.S. House,12,R,Troy Balderson,227
+Delaware,PRECINCT WESTERVILLE CITY E,ABG,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT WESTERVILLE CITY E,ABG,U.S. House,12,D,Danny O'Connor,245
+Delaware,PRECINCT GALENA,ABH,U.S. House,12,R,Troy Balderson,138
+Delaware,PRECINCT GALENA,ABH,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT GALENA,ABH,U.S. House,12,D,Danny O'Connor,93
+Delaware,PRECINCT BERKSHIRE A,ABI,U.S. House,12,R,Troy Balderson,150
+Delaware,PRECINCT BERKSHIRE A,ABI,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT BERKSHIRE A,ABI,U.S. House,12,D,Danny O'Connor,68
+Delaware,PRECINCT BERKSHIRE B,ABJ,U.S. House,12,R,Troy Balderson,161
+Delaware,PRECINCT BERKSHIRE B,ABJ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT BERKSHIRE B,ABJ,U.S. House,12,D,Danny O'Connor,98
+Delaware,PRECINCT SUNBURY A,ABK,U.S. House,12,R,Troy Balderson,240
+Delaware,PRECINCT SUNBURY A,ABK,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT SUNBURY A,ABK,U.S. House,12,D,Danny O'Connor,139
+Delaware,PRECINCT SUNBURY B,ABL,U.S. House,12,R,Troy Balderson,183
+Delaware,PRECINCT SUNBURY B,ABL,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT SUNBURY B,ABL,U.S. House,12,D,Danny O'Connor,100
+Delaware,PRECINCT SUNBURY C,ABM,U.S. House,12,R,Troy Balderson,132
+Delaware,PRECINCT SUNBURY C,ABM,U.S. House,12,G,Joe Manchik,5
+Delaware,PRECINCT SUNBURY C,ABM,U.S. House,12,D,Danny O'Connor,105
+Delaware,PRECINCT BERLIN A,ABN,U.S. House,12,R,Troy Balderson,288
+Delaware,PRECINCT BERLIN A,ABN,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT BERLIN A,ABN,U.S. House,12,D,Danny O'Connor,180
+Delaware,PRECINCT BERLIN B,ABO,U.S. House,12,R,Troy Balderson,314
+Delaware,PRECINCT BERLIN B,ABO,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT BERLIN B,ABO,U.S. House,12,D,Danny O'Connor,204
+Delaware,PRECINCT BERLIN C,ABP,U.S. House,12,R,Troy Balderson,141
+Delaware,PRECINCT BERLIN C,ABP,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT BERLIN C,ABP,U.S. House,12,D,Danny O'Connor,97
+Delaware,PRECINCT BROWN,ABQ,U.S. House,12,R,Troy Balderson,373
+Delaware,PRECINCT BROWN,ABQ,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT BROWN,ABQ,U.S. House,12,D,Danny O'Connor,150
+Delaware,PRECINCT CONCORD A,ABS,U.S. House,12,R,Troy Balderson,255
+Delaware,PRECINCT CONCORD A,ABS,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT CONCORD A,ABS,U.S. House,12,D,Danny O'Connor,146
+Delaware,PRECINCT CONCORD B,ABT,U.S. House,12,R,Troy Balderson,207
+Delaware,PRECINCT CONCORD B,ABT,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT CONCORD B,ABT,U.S. House,12,D,Danny O'Connor,103
+Delaware,PRECINCT CONCORD C,ABU,U.S. House,12,R,Troy Balderson,211
+Delaware,PRECINCT CONCORD C,ABU,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT CONCORD C,ABU,U.S. House,12,D,Danny O'Connor,128
+Delaware,PRECINCT CONCORD D,ABV,U.S. House,12,R,Troy Balderson,132
+Delaware,PRECINCT CONCORD D,ABV,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT CONCORD D,ABV,U.S. House,12,D,Danny O'Connor,78
+Delaware,PRECINCT SHAWNEE HILLS,ABW,U.S. House,12,R,Troy Balderson,116
+Delaware,PRECINCT SHAWNEE HILLS,ABW,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT SHAWNEE HILLS,ABW,U.S. House,12,D,Danny O'Connor,165
+Delaware,PRECINCT DELAWARE A,ABX,U.S. House,12,R,Troy Balderson,138
+Delaware,PRECINCT DELAWARE A,ABX,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT DELAWARE A,ABX,U.S. House,12,D,Danny O'Connor,87
+Delaware,PRECINCT DELAWARE B,ABY,U.S. House,12,R,Troy Balderson,303
+Delaware,PRECINCT DELAWARE B,ABY,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT DELAWARE B,ABY,U.S. House,12,D,Danny O'Connor,189
+Delaware,PRECINCT GENOA A,ABZ,U.S. House,12,R,Troy Balderson,237
+Delaware,PRECINCT GENOA A,ABZ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA A,ABZ,U.S. House,12,D,Danny O'Connor,183
+Delaware,PRECINCT GENOA B,ACA,U.S. House,12,R,Troy Balderson,259
+Delaware,PRECINCT GENOA B,ACA,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT GENOA B,ACA,U.S. House,12,D,Danny O'Connor,112
+Delaware,PRECINCT GENOA C,ACB,U.S. House,12,R,Troy Balderson,265
+Delaware,PRECINCT GENOA C,ACB,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA C,ACB,U.S. House,12,D,Danny O'Connor,211
+Delaware,PRECINCT GENOA D,ACC,U.S. House,12,R,Troy Balderson,242
+Delaware,PRECINCT GENOA D,ACC,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA D,ACC,U.S. House,12,D,Danny O'Connor,259
+Delaware,PRECINCT GENOA E,ACD,U.S. House,12,R,Troy Balderson,194
+Delaware,PRECINCT GENOA E,ACD,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA E,ACD,U.S. House,12,D,Danny O'Connor,139
+Delaware,PRECINCT GENOA F,ACE,U.S. House,12,R,Troy Balderson,243
+Delaware,PRECINCT GENOA F,ACE,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA F,ACE,U.S. House,12,D,Danny O'Connor,148
+Delaware,PRECINCT GENOA G,ACF,U.S. House,12,R,Troy Balderson,224
+Delaware,PRECINCT GENOA G,ACF,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA G,ACF,U.S. House,12,D,Danny O'Connor,203
+Delaware,PRECINCT GENOA H,ACG,U.S. House,12,R,Troy Balderson,185
+Delaware,PRECINCT GENOA H,ACG,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA H,ACG,U.S. House,12,D,Danny O'Connor,181
+Delaware,PRECINCT HARLEM A,ACH,U.S. House,12,R,Troy Balderson,297
+Delaware,PRECINCT HARLEM A,ACH,U.S. House,12,G,Joe Manchik,5
+Delaware,PRECINCT HARLEM A,ACH,U.S. House,12,D,Danny O'Connor,122
+Delaware,PRECINCT HARLEM B,ACI,U.S. House,12,R,Troy Balderson,319
+Delaware,PRECINCT HARLEM B,ACI,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT HARLEM B,ACI,U.S. House,12,D,Danny O'Connor,145
+Delaware,PRECINCT HARLEM C,ACJ,U.S. House,12,R,Troy Balderson,266
+Delaware,PRECINCT HARLEM C,ACJ,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT HARLEM C,ACJ,U.S. House,12,D,Danny O'Connor,113
+Delaware,PRECINCT HARLEM D,ACK,U.S. House,12,R,Troy Balderson,87
+Delaware,PRECINCT HARLEM D,ACK,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT HARLEM D,ACK,U.S. House,12,D,Danny O'Connor,49
+Delaware,PRECINCT KINGSTON A,ACL,U.S. House,12,R,Troy Balderson,299
+Delaware,PRECINCT KINGSTON A,ACL,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT KINGSTON A,ACL,U.S. House,12,D,Danny O'Connor,119
+Delaware,PRECINCT KINGSTON B,ACM,U.S. House,12,R,Troy Balderson,231
+Delaware,PRECINCT KINGSTON B,ACM,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT KINGSTON B,ACM,U.S. House,12,D,Danny O'Connor,98
+Delaware,PRECINCT LIBERTY A,ACN,U.S. House,12,R,Troy Balderson,270
+Delaware,PRECINCT LIBERTY A,ACN,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT LIBERTY A,ACN,U.S. House,12,D,Danny O'Connor,234
+Delaware,PRECINCT LIBERTY B,ACO,U.S. House,12,R,Troy Balderson,221
+Delaware,PRECINCT LIBERTY B,ACO,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT LIBERTY B,ACO,U.S. House,12,D,Danny O'Connor,114
+Delaware,PRECINCT LIBERTY C,ACP,U.S. House,12,R,Troy Balderson,239
+Delaware,PRECINCT LIBERTY C,ACP,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT LIBERTY C,ACP,U.S. House,12,D,Danny O'Connor,158
+Delaware,PRECINCT LIBERTY D,ACQ,U.S. House,12,R,Troy Balderson,253
+Delaware,PRECINCT LIBERTY D,ACQ,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT LIBERTY D,ACQ,U.S. House,12,D,Danny O'Connor,200
+Delaware,PRECINCT LIBERTY E,ACR,U.S. House,12,R,Troy Balderson,231
+Delaware,PRECINCT LIBERTY E,ACR,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT LIBERTY E,ACR,U.S. House,12,D,Danny O'Connor,146
+Delaware,PRECINCT LIBERTY F,ACS,U.S. House,12,R,Troy Balderson,273
+Delaware,PRECINCT LIBERTY F,ACS,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT LIBERTY F,ACS,U.S. House,12,D,Danny O'Connor,153
+Delaware,PRECINCT LIBERTY G,ACT,U.S. House,12,R,Troy Balderson,213
+Delaware,PRECINCT LIBERTY G,ACT,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT LIBERTY G,ACT,U.S. House,12,D,Danny O'Connor,224
+Delaware,PRECINCT LIBERTY H,ACU,U.S. House,12,R,Troy Balderson,328
+Delaware,PRECINCT LIBERTY H,ACU,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT LIBERTY H,ACU,U.S. House,12,D,Danny O'Connor,255
+Delaware,PRECINCT POWELL A,ACV,U.S. House,12,R,Troy Balderson,165
+Delaware,PRECINCT POWELL A,ACV,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT POWELL A,ACV,U.S. House,12,D,Danny O'Connor,160
+Delaware,PRECINCT POWELL B,ACW,U.S. House,12,R,Troy Balderson,196
+Delaware,PRECINCT POWELL B,ACW,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT POWELL B,ACW,U.S. House,12,D,Danny O'Connor,157
+Delaware,PRECINCT POWELL C,ACX,U.S. House,12,R,Troy Balderson,276
+Delaware,PRECINCT POWELL C,ACX,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT POWELL C,ACX,U.S. House,12,D,Danny O'Connor,239
+Delaware,PRECINCT POWELL D,ACY,U.S. House,12,R,Troy Balderson,207
+Delaware,PRECINCT POWELL D,ACY,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT POWELL D,ACY,U.S. House,12,D,Danny O'Connor,160
+Delaware,PRECINCT POWELL E,ACZ,U.S. House,12,R,Troy Balderson,234
+Delaware,PRECINCT POWELL E,ACZ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT POWELL E,ACZ,U.S. House,12,D,Danny O'Connor,366
+Delaware,PRECINCT MARLBORO,ADA,U.S. House,12,R,Troy Balderson,98
+Delaware,PRECINCT MARLBORO,ADA,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT MARLBORO,ADA,U.S. House,12,D,Danny O'Connor,19
+Delaware,PRECINCT ORANGE A,ADB,U.S. House,12,R,Troy Balderson,167
+Delaware,PRECINCT ORANGE A,ADB,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT ORANGE A,ADB,U.S. House,12,D,Danny O'Connor,224
+Delaware,PRECINCT ORANGE B,ADC,U.S. House,12,R,Troy Balderson,269
+Delaware,PRECINCT ORANGE B,ADC,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ORANGE B,ADC,U.S. House,12,D,Danny O'Connor,260
+Delaware,PRECINCT ORANGE C,ADD,U.S. House,12,R,Troy Balderson,186
+Delaware,PRECINCT ORANGE C,ADD,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ORANGE C,ADD,U.S. House,12,D,Danny O'Connor,189
+Delaware,PRECINCT ORANGE D,ADE,U.S. House,12,R,Troy Balderson,190
+Delaware,PRECINCT ORANGE D,ADE,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ORANGE D,ADE,U.S. House,12,D,Danny O'Connor,150
+Delaware,PRECINCT ORANGE E,ADF,U.S. House,12,R,Troy Balderson,239
+Delaware,PRECINCT ORANGE E,ADF,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT ORANGE E,ADF,U.S. House,12,D,Danny O'Connor,229
+Delaware,PRECINCT ORANGE F,ADG,U.S. House,12,R,Troy Balderson,252
+Delaware,PRECINCT ORANGE F,ADG,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT ORANGE F,ADG,U.S. House,12,D,Danny O'Connor,213
+Delaware,PRECINCT ORANGE G,ADH,U.S. House,12,R,Troy Balderson,165
+Delaware,PRECINCT ORANGE G,ADH,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT ORANGE G,ADH,U.S. House,12,D,Danny O'Connor,229
+Delaware,PRECINCT ORANGE H,ADI,U.S. House,12,R,Troy Balderson,230
+Delaware,PRECINCT ORANGE H,ADI,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ORANGE H,ADI,U.S. House,12,D,Danny O'Connor,270
+Delaware,PRECINCT OXFORD,ADJ,U.S. House,12,R,Troy Balderson,178
+Delaware,PRECINCT OXFORD,ADJ,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT OXFORD,ADJ,U.S. House,12,D,Danny O'Connor,93
+Delaware,PRECINCT ASHLEY,ADK,U.S. House,12,R,Troy Balderson,106
+Delaware,PRECINCT ASHLEY,ADK,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ASHLEY,ADK,U.S. House,12,D,Danny O'Connor,84
+Delaware,PRECINCT PORTER A,ADM,U.S. House,12,R,Troy Balderson,253
+Delaware,PRECINCT PORTER A,ADM,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT PORTER A,ADM,U.S. House,12,D,Danny O'Connor,106
+Delaware,PRECINCT PORTER B,ADN,U.S. House,12,R,Troy Balderson,279
+Delaware,PRECINCT PORTER B,ADN,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT PORTER B,ADN,U.S. House,12,D,Danny O'Connor,130
+Delaware,PRECINCT RADNOR,ADO,U.S. House,12,R,Troy Balderson,446
+Delaware,PRECINCT RADNOR,ADO,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT RADNOR,ADO,U.S. House,12,D,Danny O'Connor,193
+Delaware,PRECINCT OSTRANDER,ADQ,U.S. House,12,R,Troy Balderson,138
+Delaware,PRECINCT OSTRANDER,ADQ,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT OSTRANDER,ADQ,U.S. House,12,D,Danny O'Connor,94
+Delaware,PRECINCT SCIOTO A,ADR,U.S. House,12,R,Troy Balderson,307
+Delaware,PRECINCT SCIOTO A,ADR,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT SCIOTO A,ADR,U.S. House,12,D,Danny O'Connor,146
+Delaware,PRECINCT SCIOTO B,ADS,U.S. House,12,R,Troy Balderson,278
+Delaware,PRECINCT SCIOTO B,ADS,U.S. House,12,G,Joe Manchik,5
+Delaware,PRECINCT SCIOTO B,ADS,U.S. House,12,D,Danny O'Connor,149
+Delaware,PRECINCT THOMPSON,ADT,U.S. House,12,R,Troy Balderson,153
+Delaware,PRECINCT THOMPSON,ADT,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT THOMPSON,ADT,U.S. House,12,D,Danny O'Connor,62
+Delaware,PRECINCT TRENTON A,ADU,U.S. House,12,R,Troy Balderson,219
+Delaware,PRECINCT TRENTON A,ADU,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT TRENTON A,ADU,U.S. House,12,D,Danny O'Connor,105
+Delaware,PRECINCT TRENTON B,ADV,U.S. House,12,R,Troy Balderson,273
+Delaware,PRECINCT TRENTON B,ADV,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT TRENTON B,ADV,U.S. House,12,D,Danny O'Connor,112
+Delaware,PRECINCT TROY A,ADW,U.S. House,12,R,Troy Balderson,210
+Delaware,PRECINCT TROY A,ADW,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT TROY A,ADW,U.S. House,12,D,Danny O'Connor,85
+Delaware,PRECINCT TROY B,ADX,U.S. House,12,R,Troy Balderson,205
+Delaware,PRECINCT TROY B,ADX,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT TROY B,ADX,U.S. House,12,D,Danny O'Connor,112
+Delaware,PRECINCT ORANGE I,ADZ,U.S. House,12,R,Troy Balderson,189
+Delaware,PRECINCT ORANGE I,ADZ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT ORANGE I,ADZ,U.S. House,12,D,Danny O'Connor,153
+Delaware,PRECINCT GENOA I,AEA,U.S. House,12,R,Troy Balderson,272
+Delaware,PRECINCT GENOA I,AEA,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT GENOA I,AEA,U.S. House,12,D,Danny O'Connor,234
+Delaware,PRECINCT ORANGE J,AEB,U.S. House,12,R,Troy Balderson,183
+Delaware,PRECINCT ORANGE J,AEB,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ORANGE J,AEB,U.S. House,12,D,Danny O'Connor,244
+Delaware,PRECINCT COLUMBUS CITY B,AEC,U.S. House,12,R,Troy Balderson,141
+Delaware,PRECINCT COLUMBUS CITY B,AEC,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT COLUMBUS CITY B,AEC,U.S. House,12,D,Danny O'Connor,212
+Delaware,PRECINCT WESTERVILLE CITY F,AED,U.S. House,12,R,Troy Balderson,172
+Delaware,PRECINCT WESTERVILLE CITY F,AED,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT WESTERVILLE CITY F,AED,U.S. House,12,D,Danny O'Connor,137
+Delaware,PRECINCT GENOA J,AEE,U.S. House,12,R,Troy Balderson,197
+Delaware,PRECINCT GENOA J,AEE,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT GENOA J,AEE,U.S. House,12,D,Danny O'Connor,178
+Delaware,PRECINCT GENOA K,AEF,U.S. House,12,R,Troy Balderson,319
+Delaware,PRECINCT GENOA K,AEF,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT GENOA K,AEF,U.S. House,12,D,Danny O'Connor,232
+Delaware,PRECINCT LIBERTY I,AEG,U.S. House,12,R,Troy Balderson,164
+Delaware,PRECINCT LIBERTY I,AEG,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT LIBERTY I,AEG,U.S. House,12,D,Danny O'Connor,132
+Delaware,PRECINCT COLUMBUS CITY C,AEH,U.S. House,12,R,Troy Balderson,82
+Delaware,PRECINCT COLUMBUS CITY C,AEH,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT COLUMBUS CITY C,AEH,U.S. House,12,D,Danny O'Connor,247
+Delaware,PRECINCT GENOA L,AEI,U.S. House,12,R,Troy Balderson,325
+Delaware,PRECINCT GENOA L,AEI,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT GENOA L,AEI,U.S. House,12,D,Danny O'Connor,236
+Delaware,PRECINCT GENOA M,AEJ,U.S. House,12,R,Troy Balderson,279
+Delaware,PRECINCT GENOA M,AEJ,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT GENOA M,AEJ,U.S. House,12,D,Danny O'Connor,318
+Delaware,PRECINCT POWELL F,AEK,U.S. House,12,R,Troy Balderson,173
+Delaware,PRECINCT POWELL F,AEK,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT POWELL F,AEK,U.S. House,12,D,Danny O'Connor,214
+Delaware,PRECINCT POWELL G,AEL,U.S. House,12,R,Troy Balderson,245
+Delaware,PRECINCT POWELL G,AEL,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT POWELL G,AEL,U.S. House,12,D,Danny O'Connor,246
+Delaware,PRECINCT ORANGE K,AEM,U.S. House,12,R,Troy Balderson,223
+Delaware,PRECINCT ORANGE K,AEM,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT ORANGE K,AEM,U.S. House,12,D,Danny O'Connor,183
+Delaware,PRECINCT BERLIN D,AEN,U.S. House,12,R,Troy Balderson,257
+Delaware,PRECINCT BERLIN D,AEN,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT BERLIN D,AEN,U.S. House,12,D,Danny O'Connor,249
+Delaware,PRECINCT CONCORD E,AEO,U.S. House,12,R,Troy Balderson,194
+Delaware,PRECINCT CONCORD E,AEO,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT CONCORD E,AEO,U.S. House,12,D,Danny O'Connor,116
+Delaware,PRECINCT LIBERTY J,AEP,U.S. House,12,R,Troy Balderson,185
+Delaware,PRECINCT LIBERTY J,AEP,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT LIBERTY J,AEP,U.S. House,12,D,Danny O'Connor,183
+Delaware,PRECINCT LIBERTY K,AEQ,U.S. House,12,R,Troy Balderson,281
+Delaware,PRECINCT LIBERTY K,AEQ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT LIBERTY K,AEQ,U.S. House,12,D,Danny O'Connor,190
+Delaware,PRECINCT ORANGE L,AER,U.S. House,12,R,Troy Balderson,243
+Delaware,PRECINCT ORANGE L,AER,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ORANGE L,AER,U.S. House,12,D,Danny O'Connor,244
+Delaware,PRECINCT DELAWARE CITY 2-E,AES,U.S. House,12,R,Troy Balderson,23
+Delaware,PRECINCT DELAWARE CITY 2-E,AES,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 2-E,AES,U.S. House,12,D,Danny O'Connor,80
+Delaware,PRECINCT DELAWARE CITY 2-F,AET,U.S. House,12,R,Troy Balderson,150
+Delaware,PRECINCT DELAWARE CITY 2-F,AET,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT DELAWARE CITY 2-F,AET,U.S. House,12,D,Danny O'Connor,169
+Delaware,PRECINCT GENOA N,AEU,U.S. House,12,R,Troy Balderson,235
+Delaware,PRECINCT GENOA N,AEU,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT GENOA N,AEU,U.S. House,12,D,Danny O'Connor,237
+Delaware,PRECINCT COLUMBUS CITY D,AEV,U.S. House,12,R,Troy Balderson,68
+Delaware,PRECINCT COLUMBUS CITY D,AEV,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT COLUMBUS CITY D,AEV,U.S. House,12,D,Danny O'Connor,112
+Delaware,PRECINCT CONCORD F,AEW,U.S. House,12,R,Troy Balderson,246
+Delaware,PRECINCT CONCORD F,AEW,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT CONCORD F,AEW,U.S. House,12,D,Danny O'Connor,214
+Delaware,PRECINCT GENOA O,AEX,U.S. House,12,R,Troy Balderson,252
+Delaware,PRECINCT GENOA O,AEX,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA O,AEX,U.S. House,12,D,Danny O'Connor,220
+Delaware,PRECINCT POWELL H,AEY,U.S. House,12,R,Troy Balderson,221
+Delaware,PRECINCT POWELL H,AEY,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT POWELL H,AEY,U.S. House,12,D,Danny O'Connor,184
+Delaware,PRECINCT ORANGE M,AEZ,U.S. House,12,R,Troy Balderson,143
+Delaware,PRECINCT ORANGE M,AEZ,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ORANGE M,AEZ,U.S. House,12,D,Danny O'Connor,177
+Delaware,PRECINCT ORANGE N,AFA,U.S. House,12,R,Troy Balderson,240
+Delaware,PRECINCT ORANGE N,AFA,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT ORANGE N,AFA,U.S. House,12,D,Danny O'Connor,243
+Delaware,PRECINCT DELAWARE CITY 2-G,AFB,U.S. House,12,R,Troy Balderson,235
+Delaware,PRECINCT DELAWARE CITY 2-G,AFB,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT DELAWARE CITY 2-G,AFB,U.S. House,12,D,Danny O'Connor,196
+Delaware,PRECINCT BERLIN E,AFC,U.S. House,12,R,Troy Balderson,286
+Delaware,PRECINCT BERLIN E,AFC,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT BERLIN E,AFC,U.S. House,12,D,Danny O'Connor,184
+Delaware,PRECINCT DELAWARE CITY 3-F,AFE,U.S. House,12,R,Troy Balderson,199
+Delaware,PRECINCT DELAWARE CITY 3-F,AFE,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT DELAWARE CITY 3-F,AFE,U.S. House,12,D,Danny O'Connor,274
+Delaware,PRECINCT GENOA P,AFF,U.S. House,12,R,Troy Balderson,304
+Delaware,PRECINCT GENOA P,AFF,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA P,AFF,U.S. House,12,D,Danny O'Connor,197
+Delaware,PRECINCT CONCORD G,AFH,U.S. House,12,R,Troy Balderson,246
+Delaware,PRECINCT CONCORD G,AFH,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT CONCORD G,AFH,U.S. House,12,D,Danny O'Connor,218
+Delaware,PRECINCT SUNBURY D,AFI,U.S. House,12,R,Troy Balderson,212
+Delaware,PRECINCT SUNBURY D,AFI,U.S. House,12,G,Joe Manchik,4
+Delaware,PRECINCT SUNBURY D,AFI,U.S. House,12,D,Danny O'Connor,151
+Delaware,PRECINCT WESTERVILLE CITY G,AFJ,U.S. House,12,R,Troy Balderson,185
+Delaware,PRECINCT WESTERVILLE CITY G,AFJ,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT WESTERVILLE CITY G,AFJ,U.S. House,12,D,Danny O'Connor,255
+Delaware,PRECINCT GENOA Q,AFK,U.S. House,12,R,Troy Balderson,243
+Delaware,PRECINCT GENOA Q,AFK,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT GENOA Q,AFK,U.S. House,12,D,Danny O'Connor,240
+Delaware,PRECINCT LIBERTY L,AFL,U.S. House,12,R,Troy Balderson,282
+Delaware,PRECINCT LIBERTY L,AFL,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT LIBERTY L,AFL,U.S. House,12,D,Danny O'Connor,257
+Delaware,PRECINCT ORANGE O,AFM,U.S. House,12,R,Troy Balderson,244
+Delaware,PRECINCT ORANGE O,AFM,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT ORANGE O,AFM,U.S. House,12,D,Danny O'Connor,254
+Delaware,PRECINCT COLUMBUS CITY E,AFN,U.S. House,12,R,Troy Balderson,128
+Delaware,PRECINCT COLUMBUS CITY E,AFN,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT COLUMBUS CITY E,AFN,U.S. House,12,D,Danny O'Connor,209
+Delaware,PRECINCT CONCORD H,AFO,U.S. House,12,R,Troy Balderson,197
+Delaware,PRECINCT CONCORD H,AFO,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT CONCORD H,AFO,U.S. House,12,D,Danny O'Connor,247
+Delaware,PRECINCT GENOA R,AFQ,U.S. House,12,R,Troy Balderson,212
+Delaware,PRECINCT GENOA R,AFQ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA R,AFQ,U.S. House,12,D,Danny O'Connor,108
+Delaware,PRECINCT ORANGE P,AFR,U.S. House,12,R,Troy Balderson,194
+Delaware,PRECINCT ORANGE P,AFR,U.S. House,12,G,Joe Manchik,2
+Delaware,PRECINCT ORANGE P,AFR,U.S. House,12,D,Danny O'Connor,178
+Delaware,PRECINCT ORANGE Q,AFS,U.S. House,12,R,Troy Balderson,221
+Delaware,PRECINCT ORANGE Q,AFS,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT ORANGE Q,AFS,U.S. House,12,D,Danny O'Connor,205
+Delaware,PRECINCT POWELL I,AFT,U.S. House,12,R,Troy Balderson,189
+Delaware,PRECINCT POWELL I,AFT,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT POWELL I,AFT,U.S. House,12,D,Danny O'Connor,242
+Delaware,PRECINCT POWELL J,AFU,U.S. House,12,R,Troy Balderson,231
+Delaware,PRECINCT POWELL J,AFU,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT POWELL J,AFU,U.S. House,12,D,Danny O'Connor,210
+Delaware,PRECINCT GENOA S,AFV,U.S. House,12,R,Troy Balderson,132
+Delaware,PRECINCT GENOA S,AFV,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA S,AFV,U.S. House,12,D,Danny O'Connor,147
+Delaware,PRECINCT COLUMBUS CITY F,AFW,U.S. House,12,R,Troy Balderson,116
+Delaware,PRECINCT COLUMBUS CITY F,AFW,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT COLUMBUS CITY F,AFW,U.S. House,12,D,Danny O'Connor,188
+Delaware,PRECINCT CONCORD I,AFX,U.S. House,12,R,Troy Balderson,317
+Delaware,PRECINCT CONCORD I,AFX,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT CONCORD I,AFX,U.S. House,12,D,Danny O'Connor,246
+Delaware,PRECINCT DELAWARE CITY 3-G,AFY,U.S. House,12,R,Troy Balderson,136
+Delaware,PRECINCT DELAWARE CITY 3-G,AFY,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT DELAWARE CITY 3-G,AFY,U.S. House,12,D,Danny O'Connor,195
+Delaware,PRECINCT LIBERTY M,AFZ,U.S. House,12,R,Troy Balderson,144
+Delaware,PRECINCT LIBERTY M,AFZ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT LIBERTY M,AFZ,U.S. House,12,D,Danny O'Connor,90
+Delaware,PRECINCT ORANGE R,AGA,U.S. House,12,R,Troy Balderson,154
+Delaware,PRECINCT ORANGE R,AGA,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT ORANGE R,AGA,U.S. House,12,D,Danny O'Connor,145
+Delaware,PRECINCT ORANGE S,AGB,U.S. House,12,R,Troy Balderson,265
+Delaware,PRECINCT ORANGE S,AGB,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT ORANGE S,AGB,U.S. House,12,D,Danny O'Connor,191
+Delaware,PRECINCT WESTERVILLE CITY H,AGC,U.S. House,12,R,Troy Balderson,185
+Delaware,PRECINCT WESTERVILLE CITY H,AGC,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT WESTERVILLE CITY H,AGC,U.S. House,12,D,Danny O'Connor,194
+Delaware,PRECINCT BERKSHIRE C,AGD,U.S. House,12,R,Troy Balderson,162
+Delaware,PRECINCT BERKSHIRE C,AGD,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT BERKSHIRE C,AGD,U.S. House,12,D,Danny O'Connor,73
+Delaware,PRECINCT COLUMBUS CITY G,AGE,U.S. House,12,R,Troy Balderson,99
+Delaware,PRECINCT COLUMBUS CITY G,AGE,U.S. House,12,G,Joe Manchik,3
+Delaware,PRECINCT COLUMBUS CITY G,AGE,U.S. House,12,D,Danny O'Connor,219
+Delaware,PRECINCT BERKSHIRE D,AGF,U.S. House,12,R,Troy Balderson,216
+Delaware,PRECINCT BERKSHIRE D,AGF,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT BERKSHIRE D,AGF,U.S. House,12,D,Danny O'Connor,97
+Delaware,PRECINCT BERKSHIRE E,AGG,U.S. House,12,R,Troy Balderson,75
+Delaware,PRECINCT BERKSHIRE E,AGG,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT BERKSHIRE E,AGG,U.S. House,12,D,Danny O'Connor,47
+Delaware,PRECINCT GENOA T,AGH,U.S. House,12,R,Troy Balderson,179
+Delaware,PRECINCT GENOA T,AGH,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT GENOA T,AGH,U.S. House,12,D,Danny O'Connor,222
+Delaware,PRECINCT DELAWARE CITY 4-G,AGI,U.S. House,12,R,Troy Balderson,109
+Delaware,PRECINCT DELAWARE CITY 4-G,AGI,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT DELAWARE CITY 4-G,AGI,U.S. House,12,D,Danny O'Connor,106
+Delaware,PRECINCT ORANGE T,AGJ,U.S. House,12,R,Troy Balderson,247
+Delaware,PRECINCT ORANGE T,AGJ,U.S. House,12,G,Joe Manchik,0
+Delaware,PRECINCT ORANGE T,AGJ,U.S. House,12,D,Danny O'Connor,180
+Delaware,PRECINCT LIBERTY N,AGK,U.S. House,12,R,Troy Balderson,142
+Delaware,PRECINCT LIBERTY N,AGK,U.S. House,12,G,Joe Manchik,1
+Delaware,PRECINCT LIBERTY N,AGK,U.S. House,12,D,Danny O'Connor,122
+Franklin,COLS 16-A,ADG,U.S. House,12,R,Troy Balderson,26
+Franklin,COLS 16-A,ADG,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 16-A,ADG,U.S. House,12,D,Danny O'Connor,242
+Franklin,COLS 16-B,ADH,U.S. House,12,R,Troy Balderson,32
+Franklin,COLS 16-B,ADH,U.S. House,12,G,Joe Manchik,5
+Franklin,COLS 16-B,ADH,U.S. House,12,D,Danny O'Connor,181
+Franklin,COLS 16-D,ADJ,U.S. House,12,R,Troy Balderson,1
+Franklin,COLS 16-D,ADJ,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 16-D,ADJ,U.S. House,12,D,Danny O'Connor,27
+Franklin,COLS 16-E,ADK,U.S. House,12,R,Troy Balderson,7
+Franklin,COLS 16-E,ADK,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 16-E,ADK,U.S. House,12,D,Danny O'Connor,94
+Franklin,COLS 18-A,ADQ,U.S. House,12,R,Troy Balderson,30
+Franklin,COLS 18-A,ADQ,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 18-A,ADQ,U.S. House,12,D,Danny O'Connor,364
+Franklin,COLS 18-B,ADR,U.S. House,12,R,Troy Balderson,39
+Franklin,COLS 18-B,ADR,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 18-B,ADR,U.S. House,12,D,Danny O'Connor,434
+Franklin,COLS 18-C,ADS,U.S. House,12,R,Troy Balderson,33
+Franklin,COLS 18-C,ADS,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 18-C,ADS,U.S. House,12,D,Danny O'Connor,465
+Franklin,COLS 18-D,ADT,U.S. House,12,R,Troy Balderson,36
+Franklin,COLS 18-D,ADT,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 18-D,ADT,U.S. House,12,D,Danny O'Connor,390
+Franklin,COLS 18-E,ADU,U.S. House,12,R,Troy Balderson,39
+Franklin,COLS 18-E,ADU,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 18-E,ADU,U.S. House,12,D,Danny O'Connor,516
+Franklin,COLS 18-F,ADV,U.S. House,12,R,Troy Balderson,25
+Franklin,COLS 18-F,ADV,U.S. House,12,G,Joe Manchik,5
+Franklin,COLS 18-F,ADV,U.S. House,12,D,Danny O'Connor,378
+Franklin,COLS 19-A,ADW,U.S. House,12,R,Troy Balderson,93
+Franklin,COLS 19-A,ADW,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 19-A,ADW,U.S. House,12,D,Danny O'Connor,403
+Franklin,COLS 19-B,ADX,U.S. House,12,R,Troy Balderson,101
+Franklin,COLS 19-B,ADX,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 19-B,ADX,U.S. House,12,D,Danny O'Connor,464
+Franklin,COLS 19-C,ADY,U.S. House,12,R,Troy Balderson,129
+Franklin,COLS 19-C,ADY,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 19-C,ADY,U.S. House,12,D,Danny O'Connor,509
+Franklin,COLS 19-D,ADZ,U.S. House,12,R,Troy Balderson,128
+Franklin,COLS 19-D,ADZ,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 19-D,ADZ,U.S. House,12,D,Danny O'Connor,520
+Franklin,COLS 19-E,AEA,U.S. House,12,R,Troy Balderson,103
+Franklin,COLS 19-E,AEA,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 19-E,AEA,U.S. House,12,D,Danny O'Connor,410
+Franklin,COLS 19-F,AEB,U.S. House,12,R,Troy Balderson,80
+Franklin,COLS 19-F,AEB,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 19-F,AEB,U.S. House,12,D,Danny O'Connor,464
+Franklin,COLS 19-G,AEC,U.S. House,12,R,Troy Balderson,121
+Franklin,COLS 19-G,AEC,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 19-G,AEC,U.S. House,12,D,Danny O'Connor,435
+Franklin,COLS 19-H,AED,U.S. House,12,R,Troy Balderson,54
+Franklin,COLS 19-H,AED,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 19-H,AED,U.S. House,12,D,Danny O'Connor,626
+Franklin,COLS 20-A,AEE,U.S. House,12,R,Troy Balderson,165
+Franklin,COLS 20-A,AEE,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 20-A,AEE,U.S. House,12,D,Danny O'Connor,793
+Franklin,COLS 20-B,AEF,U.S. House,12,R,Troy Balderson,21
+Franklin,COLS 20-B,AEF,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 20-B,AEF,U.S. House,12,D,Danny O'Connor,290
+Franklin,COLS 20-C,AEG,U.S. House,12,R,Troy Balderson,51
+Franklin,COLS 20-C,AEG,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 20-C,AEG,U.S. House,12,D,Danny O'Connor,535
+Franklin,COLS 21-A,AEH,U.S. House,12,R,Troy Balderson,125
+Franklin,COLS 21-A,AEH,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 21-A,AEH,U.S. House,12,D,Danny O'Connor,395
+Franklin,COLS 21-B,AEI,U.S. House,12,R,Troy Balderson,139
+Franklin,COLS 21-B,AEI,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 21-B,AEI,U.S. House,12,D,Danny O'Connor,546
+Franklin,COLS 21-C,AEJ,U.S. House,12,R,Troy Balderson,113
+Franklin,COLS 21-C,AEJ,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 21-C,AEJ,U.S. House,12,D,Danny O'Connor,353
+Franklin,COLS 21-D,AEK,U.S. House,12,R,Troy Balderson,31
+Franklin,COLS 21-D,AEK,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 21-D,AEK,U.S. House,12,D,Danny O'Connor,178
+Franklin,COLS 21-E,AEL,U.S. House,12,R,Troy Balderson,164
+Franklin,COLS 21-E,AEL,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 21-E,AEL,U.S. House,12,D,Danny O'Connor,526
+Franklin,COLS 21-F,AEM,U.S. House,12,R,Troy Balderson,132
+Franklin,COLS 21-F,AEM,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 21-F,AEM,U.S. House,12,D,Danny O'Connor,441
+Franklin,COLS 22-A,AEN,U.S. House,12,R,Troy Balderson,138
+Franklin,COLS 22-A,AEN,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 22-A,AEN,U.S. House,12,D,Danny O'Connor,464
+Franklin,COLS 22-B,AEO,U.S. House,12,R,Troy Balderson,79
+Franklin,COLS 22-B,AEO,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 22-B,AEO,U.S. House,12,D,Danny O'Connor,397
+Franklin,COLS 22-C,AEP,U.S. House,12,R,Troy Balderson,108
+Franklin,COLS 22-C,AEP,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 22-C,AEP,U.S. House,12,D,Danny O'Connor,500
+Franklin,COLS 22-G,AET,U.S. House,12,R,Troy Balderson,95
+Franklin,COLS 22-G,AET,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 22-G,AET,U.S. House,12,D,Danny O'Connor,460
+Franklin,COLS 30-B,AGH,U.S. House,12,R,Troy Balderson,20
+Franklin,COLS 30-B,AGH,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 30-B,AGH,U.S. House,12,D,Danny O'Connor,31
+Franklin,COLS 30-C,AGI,U.S. House,12,R,Troy Balderson,93
+Franklin,COLS 30-C,AGI,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 30-C,AGI,U.S. House,12,D,Danny O'Connor,172
+Franklin,COLS 41-A,AIE,U.S. House,12,R,Troy Balderson,1
+Franklin,COLS 41-A,AIE,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 41-A,AIE,U.S. House,12,D,Danny O'Connor,48
+Franklin,COLS 41-C,AIG,U.S. House,12,R,Troy Balderson,4
+Franklin,COLS 41-C,AIG,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 41-C,AIG,U.S. House,12,D,Danny O'Connor,45
+Franklin,COLS 41-E,AII,U.S. House,12,R,Troy Balderson,0
+Franklin,COLS 41-E,AII,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 41-E,AII,U.S. House,12,D,Danny O'Connor,17
+Franklin,COLS 59-C,AMX,U.S. House,12,R,Troy Balderson,138
+Franklin,COLS 59-C,AMX,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 59-C,AMX,U.S. House,12,D,Danny O'Connor,271
+Franklin,COLS 60-A,ANB,U.S. House,12,R,Troy Balderson,88
+Franklin,COLS 60-A,ANB,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 60-A,ANB,U.S. House,12,D,Danny O'Connor,256
+Franklin,COLS 60-B,ANC,U.S. House,12,R,Troy Balderson,141
+Franklin,COLS 60-B,ANC,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 60-B,ANC,U.S. House,12,D,Danny O'Connor,245
+Franklin,COLS 60-C,AND,U.S. House,12,R,Troy Balderson,183
+Franklin,COLS 60-C,AND,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 60-C,AND,U.S. House,12,D,Danny O'Connor,308
+Franklin,COLS 60-D,ANE,U.S. House,12,R,Troy Balderson,48
+Franklin,COLS 60-D,ANE,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 60-D,ANE,U.S. House,12,D,Danny O'Connor,56
+Franklin,COLS 60-F,ANG,U.S. House,12,R,Troy Balderson,245
+Franklin,COLS 60-F,ANG,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 60-F,ANG,U.S. House,12,D,Danny O'Connor,282
+Franklin,COLS 60-G,ANH,U.S. House,12,R,Troy Balderson,98
+Franklin,COLS 60-G,ANH,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 60-G,ANH,U.S. House,12,D,Danny O'Connor,213
+Franklin,COLS 61-D,ANL,U.S. House,12,R,Troy Balderson,0
+Franklin,COLS 61-D,ANL,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 61-D,ANL,U.S. House,12,D,Danny O'Connor,0
+Franklin,COLS 63-A,ANV,U.S. House,12,R,Troy Balderson,145
+Franklin,COLS 63-A,ANV,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 63-A,ANV,U.S. House,12,D,Danny O'Connor,156
+Franklin,COLS 64-B,AOG,U.S. House,12,R,Troy Balderson,11
+Franklin,COLS 64-B,AOG,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 64-B,AOG,U.S. House,12,D,Danny O'Connor,21
+Franklin,COLS 65-A,AOL,U.S. House,12,R,Troy Balderson,111
+Franklin,COLS 65-A,AOL,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 65-A,AOL,U.S. House,12,D,Danny O'Connor,230
+Franklin,COLS 65-B,AOM,U.S. House,12,R,Troy Balderson,122
+Franklin,COLS 65-B,AOM,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 65-B,AOM,U.S. House,12,D,Danny O'Connor,221
+Franklin,COLS 65-C,AON,U.S. House,12,R,Troy Balderson,132
+Franklin,COLS 65-C,AON,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 65-C,AON,U.S. House,12,D,Danny O'Connor,274
+Franklin,COLS 65-D,AOO,U.S. House,12,R,Troy Balderson,130
+Franklin,COLS 65-D,AOO,U.S. House,12,G,Joe Manchik,5
+Franklin,COLS 65-D,AOO,U.S. House,12,D,Danny O'Connor,297
+Franklin,COLS 65-E,AOP,U.S. House,12,R,Troy Balderson,123
+Franklin,COLS 65-E,AOP,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 65-E,AOP,U.S. House,12,D,Danny O'Connor,263
+Franklin,COLS 65-F,AOQ,U.S. House,12,R,Troy Balderson,101
+Franklin,COLS 65-F,AOQ,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 65-F,AOQ,U.S. House,12,D,Danny O'Connor,234
+Franklin,COLS 65-G,AOR,U.S. House,12,R,Troy Balderson,148
+Franklin,COLS 65-G,AOR,U.S. House,12,G,Joe Manchik,5
+Franklin,COLS 65-G,AOR,U.S. House,12,D,Danny O'Connor,286
+Franklin,COLS 69-A,APL,U.S. House,12,R,Troy Balderson,114
+Franklin,COLS 69-A,APL,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 69-A,APL,U.S. House,12,D,Danny O'Connor,204
+Franklin,COLS 69-F,APQ,U.S. House,12,R,Troy Balderson,134
+Franklin,COLS 69-F,APQ,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 69-F,APQ,U.S. House,12,D,Danny O'Connor,216
+Franklin,COLS 69-G,APR,U.S. House,12,R,Troy Balderson,0
+Franklin,COLS 69-G,APR,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 69-G,APR,U.S. House,12,D,Danny O'Connor,0
+Franklin,COLS 70-D,APX,U.S. House,12,R,Troy Balderson,167
+Franklin,COLS 70-D,APX,U.S. House,12,G,Joe Manchik,5
+Franklin,COLS 70-D,APX,U.S. House,12,D,Danny O'Connor,334
+Franklin,COLS 70-E,APY,U.S. House,12,R,Troy Balderson,62
+Franklin,COLS 70-E,APY,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 70-E,APY,U.S. House,12,D,Danny O'Connor,104
+Franklin,COLS 71-A,APZ,U.S. House,12,R,Troy Balderson,169
+Franklin,COLS 71-A,APZ,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 71-A,APZ,U.S. House,12,D,Danny O'Connor,329
+Franklin,COLS 71-B,AQA,U.S. House,12,R,Troy Balderson,89
+Franklin,COLS 71-B,AQA,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 71-B,AQA,U.S. House,12,D,Danny O'Connor,165
+Franklin,COLS 72-A,AQL,U.S. House,12,R,Troy Balderson,187
+Franklin,COLS 72-A,AQL,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 72-A,AQL,U.S. House,12,D,Danny O'Connor,278
+Franklin,COLS 72-B,AQM,U.S. House,12,R,Troy Balderson,174
+Franklin,COLS 72-B,AQM,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 72-B,AQM,U.S. House,12,D,Danny O'Connor,274
+Franklin,COLS 72-C,AQN,U.S. House,12,R,Troy Balderson,164
+Franklin,COLS 72-C,AQN,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 72-C,AQN,U.S. House,12,D,Danny O'Connor,241
+Franklin,COLS 72-D,AQO,U.S. House,12,R,Troy Balderson,157
+Franklin,COLS 72-D,AQO,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 72-D,AQO,U.S. House,12,D,Danny O'Connor,296
+Franklin,COLS 72-E,AQP,U.S. House,12,R,Troy Balderson,192
+Franklin,COLS 72-E,AQP,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 72-E,AQP,U.S. House,12,D,Danny O'Connor,354
+Franklin,COLS 72-F,AQQ,U.S. House,12,R,Troy Balderson,242
+Franklin,COLS 72-F,AQQ,U.S. House,12,G,Joe Manchik,5
+Franklin,COLS 72-F,AQQ,U.S. House,12,D,Danny O'Connor,286
+Franklin,COLS 74-A,AQY,U.S. House,12,R,Troy Balderson,159
+Franklin,COLS 74-A,AQY,U.S. House,12,G,Joe Manchik,4
+Franklin,COLS 74-A,AQY,U.S. House,12,D,Danny O'Connor,240
+Franklin,COLS 74-B,AQZ,U.S. House,12,R,Troy Balderson,139
+Franklin,COLS 74-B,AQZ,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 74-B,AQZ,U.S. House,12,D,Danny O'Connor,183
+Franklin,COLS 74-C,ARA,U.S. House,12,R,Troy Balderson,186
+Franklin,COLS 74-C,ARA,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 74-C,ARA,U.S. House,12,D,Danny O'Connor,255
+Franklin,COLS 74-D,ARB,U.S. House,12,R,Troy Balderson,70
+Franklin,COLS 74-D,ARB,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 74-D,ARB,U.S. House,12,D,Danny O'Connor,177
+Franklin,COLS 74-E,ARC,U.S. House,12,R,Troy Balderson,115
+Franklin,COLS 74-E,ARC,U.S. House,12,G,Joe Manchik,3
+Franklin,COLS 74-E,ARC,U.S. House,12,D,Danny O'Connor,238
+Franklin,COLS 74-F,ARD,U.S. House,12,R,Troy Balderson,48
+Franklin,COLS 74-F,ARD,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 74-F,ARD,U.S. House,12,D,Danny O'Connor,222
+Franklin,COLS 74-G,ARE,U.S. House,12,R,Troy Balderson,138
+Franklin,COLS 74-G,ARE,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 74-G,ARE,U.S. House,12,D,Danny O'Connor,303
+Franklin,DUB 1-A,ARG,U.S. House,12,R,Troy Balderson,253
+Franklin,DUB 1-A,ARG,U.S. House,12,G,Joe Manchik,1
+Franklin,DUB 1-A,ARG,U.S. House,12,D,Danny O'Connor,371
+Franklin,DUB 1-B,ARH,U.S. House,12,R,Troy Balderson,143
+Franklin,DUB 1-B,ARH,U.S. House,12,G,Joe Manchik,3
+Franklin,DUB 1-B,ARH,U.S. House,12,D,Danny O'Connor,152
+Franklin,DUB 1-C,ARI,U.S. House,12,R,Troy Balderson,198
+Franklin,DUB 1-C,ARI,U.S. House,12,G,Joe Manchik,0
+Franklin,DUB 1-C,ARI,U.S. House,12,D,Danny O'Connor,300
+Franklin,DUB 1-D,ARJ,U.S. House,12,R,Troy Balderson,185
+Franklin,DUB 1-D,ARJ,U.S. House,12,G,Joe Manchik,1
+Franklin,DUB 1-D,ARJ,U.S. House,12,D,Danny O'Connor,206
+Franklin,DUB 1-E,ARK,U.S. House,12,R,Troy Balderson,250
+Franklin,DUB 1-E,ARK,U.S. House,12,G,Joe Manchik,0
+Franklin,DUB 1-E,ARK,U.S. House,12,D,Danny O'Connor,239
+Franklin,DUB 2-A,ARL,U.S. House,12,R,Troy Balderson,161
+Franklin,DUB 2-A,ARL,U.S. House,12,G,Joe Manchik,2
+Franklin,DUB 2-A,ARL,U.S. House,12,D,Danny O'Connor,221
+Franklin,DUB 2-B,ARM,U.S. House,12,R,Troy Balderson,84
+Franklin,DUB 2-B,ARM,U.S. House,12,G,Joe Manchik,3
+Franklin,DUB 2-B,ARM,U.S. House,12,D,Danny O'Connor,130
+Franklin,DUB 2-C,ARN,U.S. House,12,R,Troy Balderson,81
+Franklin,DUB 2-C,ARN,U.S. House,12,G,Joe Manchik,1
+Franklin,DUB 2-C,ARN,U.S. House,12,D,Danny O'Connor,147
+Franklin,DUB 2-D,ARO,U.S. House,12,R,Troy Balderson,172
+Franklin,DUB 2-D,ARO,U.S. House,12,G,Joe Manchik,0
+Franklin,DUB 2-D,ARO,U.S. House,12,D,Danny O'Connor,224
+Franklin,DUB 2-E,ARP,U.S. House,12,R,Troy Balderson,157
+Franklin,DUB 2-E,ARP,U.S. House,12,G,Joe Manchik,2
+Franklin,DUB 2-E,ARP,U.S. House,12,D,Danny O'Connor,210
+Franklin,DUB 3-A,ARQ,U.S. House,12,R,Troy Balderson,322
+Franklin,DUB 3-A,ARQ,U.S. House,12,G,Joe Manchik,1
+Franklin,DUB 3-A,ARQ,U.S. House,12,D,Danny O'Connor,323
+Franklin,DUB 4-A,ARR,U.S. House,12,R,Troy Balderson,192
+Franklin,DUB 4-A,ARR,U.S. House,12,G,Joe Manchik,3
+Franklin,DUB 4-A,ARR,U.S. House,12,D,Danny O'Connor,267
+Franklin,DUB 4-B,ARS,U.S. House,12,R,Troy Balderson,130
+Franklin,DUB 4-B,ARS,U.S. House,12,G,Joe Manchik,0
+Franklin,DUB 4-B,ARS,U.S. House,12,D,Danny O'Connor,168
+Franklin,DUB 4-C,ART,U.S. House,12,R,Troy Balderson,127
+Franklin,DUB 4-C,ART,U.S. House,12,G,Joe Manchik,2
+Franklin,DUB 4-C,ART,U.S. House,12,D,Danny O'Connor,201
+Franklin,DUB 4-D,ARU,U.S. House,12,R,Troy Balderson,214
+Franklin,DUB 4-D,ARU,U.S. House,12,G,Joe Manchik,0
+Franklin,DUB 4-D,ARU,U.S. House,12,D,Danny O'Connor,305
+Franklin,DUB 4-E,ARV,U.S. House,12,R,Troy Balderson,184
+Franklin,DUB 4-E,ARV,U.S. House,12,G,Joe Manchik,2
+Franklin,DUB 4-E,ARV,U.S. House,12,D,Danny O'Connor,233
+Franklin,GAH 1-A,ARW,U.S. House,12,R,Troy Balderson,133
+Franklin,GAH 1-A,ARW,U.S. House,12,G,Joe Manchik,2
+Franklin,GAH 1-A,ARW,U.S. House,12,D,Danny O'Connor,181
+Franklin,GAH 2-A,ASC,U.S. House,12,R,Troy Balderson,159
+Franklin,GAH 2-A,ASC,U.S. House,12,G,Joe Manchik,1
+Franklin,GAH 2-A,ASC,U.S. House,12,D,Danny O'Connor,229
+Franklin,GAH 2-D,ASF,U.S. House,12,R,Troy Balderson,95
+Franklin,GAH 2-D,ASF,U.S. House,12,G,Joe Manchik,1
+Franklin,GAH 2-D,ASF,U.S. House,12,D,Danny O'Connor,134
+Franklin,GAH 2-E,ASG,U.S. House,12,R,Troy Balderson,81
+Franklin,GAH 2-E,ASG,U.S. House,12,G,Joe Manchik,4
+Franklin,GAH 2-E,ASG,U.S. House,12,D,Danny O'Connor,109
+Franklin,GAH 3-B,ASI,U.S. House,12,R,Troy Balderson,138
+Franklin,GAH 3-B,ASI,U.S. House,12,G,Joe Manchik,2
+Franklin,GAH 3-B,ASI,U.S. House,12,D,Danny O'Connor,154
+Franklin,GAH 3-E,ASL,U.S. House,12,R,Troy Balderson,198
+Franklin,GAH 3-E,ASL,U.S. House,12,G,Joe Manchik,1
+Franklin,GAH 3-E,ASL,U.S. House,12,D,Danny O'Connor,208
+Franklin,GAH 4-A,ASN,U.S. House,12,R,Troy Balderson,19
+Franklin,GAH 4-A,ASN,U.S. House,12,G,Joe Manchik,0
+Franklin,GAH 4-A,ASN,U.S. House,12,D,Danny O'Connor,34
+Franklin,GAH 4-B,ASO,U.S. House,12,R,Troy Balderson,88
+Franklin,GAH 4-B,ASO,U.S. House,12,G,Joe Manchik,0
+Franklin,GAH 4-B,ASO,U.S. House,12,D,Danny O'Connor,178
+Franklin,GAH 4-D,ASQ,U.S. House,12,R,Troy Balderson,202
+Franklin,GAH 4-D,ASQ,U.S. House,12,G,Joe Manchik,4
+Franklin,GAH 4-D,ASQ,U.S. House,12,D,Danny O'Connor,290
+Franklin,GAH 4-F,ASS,U.S. House,12,R,Troy Balderson,124
+Franklin,GAH 4-F,ASS,U.S. House,12,G,Joe Manchik,2
+Franklin,GAH 4-F,ASS,U.S. House,12,D,Danny O'Connor,227
+Franklin,GAH 4-G,AST,U.S. House,12,R,Troy Balderson,190
+Franklin,GAH 4-G,AST,U.S. House,12,G,Joe Manchik,2
+Franklin,GAH 4-G,AST,U.S. House,12,D,Danny O'Connor,281
+Franklin,HILL 4-A,AUD,U.S. House,12,R,Troy Balderson,4
+Franklin,HILL 4-A,AUD,U.S. House,12,G,Joe Manchik,0
+Franklin,HILL 4-A,AUD,U.S. House,12,D,Danny O'Connor,1
+Franklin,WESTERVILLE 1-A,AWI,U.S. House,12,R,Troy Balderson,146
+Franklin,WESTERVILLE 1-A,AWI,U.S. House,12,G,Joe Manchik,4
+Franklin,WESTERVILLE 1-A,AWI,U.S. House,12,D,Danny O'Connor,199
+Franklin,WESTERVILLE 1-B,AWJ,U.S. House,12,R,Troy Balderson,238
+Franklin,WESTERVILLE 1-B,AWJ,U.S. House,12,G,Joe Manchik,3
+Franklin,WESTERVILLE 1-B,AWJ,U.S. House,12,D,Danny O'Connor,279
+Franklin,WESTERVILLE 1-C,AWK,U.S. House,12,R,Troy Balderson,153
+Franklin,WESTERVILLE 1-C,AWK,U.S. House,12,G,Joe Manchik,0
+Franklin,WESTERVILLE 1-C,AWK,U.S. House,12,D,Danny O'Connor,193
+Franklin,WESTERVILLE 1-D,AWL,U.S. House,12,R,Troy Balderson,121
+Franklin,WESTERVILLE 1-D,AWL,U.S. House,12,G,Joe Manchik,0
+Franklin,WESTERVILLE 1-D,AWL,U.S. House,12,D,Danny O'Connor,165
+Franklin,WESTERVILLE 1-E,AWM,U.S. House,12,R,Troy Balderson,170
+Franklin,WESTERVILLE 1-E,AWM,U.S. House,12,G,Joe Manchik,0
+Franklin,WESTERVILLE 1-E,AWM,U.S. House,12,D,Danny O'Connor,230
+Franklin,WESTERVILLE 2-A,AWN,U.S. House,12,R,Troy Balderson,220
+Franklin,WESTERVILLE 2-A,AWN,U.S. House,12,G,Joe Manchik,2
+Franklin,WESTERVILLE 2-A,AWN,U.S. House,12,D,Danny O'Connor,292
+Franklin,WESTERVILLE 2-B,AWO,U.S. House,12,R,Troy Balderson,282
+Franklin,WESTERVILLE 2-B,AWO,U.S. House,12,G,Joe Manchik,2
+Franklin,WESTERVILLE 2-B,AWO,U.S. House,12,D,Danny O'Connor,334
+Franklin,WESTERVILLE 2-C,AWP,U.S. House,12,R,Troy Balderson,144
+Franklin,WESTERVILLE 2-C,AWP,U.S. House,12,G,Joe Manchik,2
+Franklin,WESTERVILLE 2-C,AWP,U.S. House,12,D,Danny O'Connor,188
+Franklin,WESTERVILLE 2-D,AWQ,U.S. House,12,R,Troy Balderson,153
+Franklin,WESTERVILLE 2-D,AWQ,U.S. House,12,G,Joe Manchik,3
+Franklin,WESTERVILLE 2-D,AWQ,U.S. House,12,D,Danny O'Connor,197
+Franklin,WESTERVILLE 2-E,AWR,U.S. House,12,R,Troy Balderson,216
+Franklin,WESTERVILLE 2-E,AWR,U.S. House,12,G,Joe Manchik,2
+Franklin,WESTERVILLE 2-E,AWR,U.S. House,12,D,Danny O'Connor,258
+Franklin,WESTERVILLE 2-F,AWS,U.S. House,12,R,Troy Balderson,210
+Franklin,WESTERVILLE 2-F,AWS,U.S. House,12,G,Joe Manchik,3
+Franklin,WESTERVILLE 2-F,AWS,U.S. House,12,D,Danny O'Connor,227
+Franklin,WESTERVILLE 3-A,AWT,U.S. House,12,R,Troy Balderson,165
+Franklin,WESTERVILLE 3-A,AWT,U.S. House,12,G,Joe Manchik,1
+Franklin,WESTERVILLE 3-A,AWT,U.S. House,12,D,Danny O'Connor,173
+Franklin,WESTERVILLE 3-B,AWU,U.S. House,12,R,Troy Balderson,97
+Franklin,WESTERVILLE 3-B,AWU,U.S. House,12,G,Joe Manchik,4
+Franklin,WESTERVILLE 3-B,AWU,U.S. House,12,D,Danny O'Connor,130
+Franklin,WESTERVILLE 3-C,AWV,U.S. House,12,R,Troy Balderson,84
+Franklin,WESTERVILLE 3-C,AWV,U.S. House,12,G,Joe Manchik,1
+Franklin,WESTERVILLE 3-C,AWV,U.S. House,12,D,Danny O'Connor,126
+Franklin,WESTERVILLE 4-A,AWY,U.S. House,12,R,Troy Balderson,215
+Franklin,WESTERVILLE 4-A,AWY,U.S. House,12,G,Joe Manchik,4
+Franklin,WESTERVILLE 4-A,AWY,U.S. House,12,D,Danny O'Connor,311
+Franklin,WESTERVILLE 4-B,AWZ,U.S. House,12,R,Troy Balderson,286
+Franklin,WESTERVILLE 4-B,AWZ,U.S. House,12,G,Joe Manchik,5
+Franklin,WESTERVILLE 4-B,AWZ,U.S. House,12,D,Danny O'Connor,419
+Franklin,WESTERVILLE 4-C,AXA,U.S. House,12,R,Troy Balderson,222
+Franklin,WESTERVILLE 4-C,AXA,U.S. House,12,G,Joe Manchik,1
+Franklin,WESTERVILLE 4-C,AXA,U.S. House,12,D,Danny O'Connor,248
+Franklin,WESTERVILLE 5-A,AXC,U.S. House,12,R,Troy Balderson,115
+Franklin,WESTERVILLE 5-A,AXC,U.S. House,12,G,Joe Manchik,2
+Franklin,WESTERVILLE 5-A,AXC,U.S. House,12,D,Danny O'Connor,265
+Franklin,WESTERVILLE 5-B,AXD,U.S. House,12,R,Troy Balderson,53
+Franklin,WESTERVILLE 5-B,AXD,U.S. House,12,G,Joe Manchik,1
+Franklin,WESTERVILLE 5-B,AXD,U.S. House,12,D,Danny O'Connor,111
+Franklin,WESTERVILLE 5-C,AXE,U.S. House,12,R,Troy Balderson,172
+Franklin,WESTERVILLE 5-C,AXE,U.S. House,12,G,Joe Manchik,0
+Franklin,WESTERVILLE 5-C,AXE,U.S. House,12,D,Danny O'Connor,239
+Franklin,WESTERVILLE 5-D,AXF,U.S. House,12,R,Troy Balderson,169
+Franklin,WESTERVILLE 5-D,AXF,U.S. House,12,G,Joe Manchik,2
+Franklin,WESTERVILLE 5-D,AXF,U.S. House,12,D,Danny O'Connor,210
+Franklin,WESTERVILLE 5-E,AXG,U.S. House,12,R,Troy Balderson,177
+Franklin,WESTERVILLE 5-E,AXG,U.S. House,12,G,Joe Manchik,3
+Franklin,WESTERVILLE 5-E,AXG,U.S. House,12,D,Danny O'Connor,247
+Franklin,WORTH 1-A,AXU,U.S. House,12,R,Troy Balderson,146
+Franklin,WORTH 1-A,AXU,U.S. House,12,G,Joe Manchik,6
+Franklin,WORTH 1-A,AXU,U.S. House,12,D,Danny O'Connor,378
+Franklin,WORTH 1-B,AXV,U.S. House,12,R,Troy Balderson,142
+Franklin,WORTH 1-B,AXV,U.S. House,12,G,Joe Manchik,1
+Franklin,WORTH 1-B,AXV,U.S. House,12,D,Danny O'Connor,377
+Franklin,WORTH 1-C,AXW,U.S. House,12,R,Troy Balderson,205
+Franklin,WORTH 1-C,AXW,U.S. House,12,G,Joe Manchik,1
+Franklin,WORTH 1-C,AXW,U.S. House,12,D,Danny O'Connor,340
+Franklin,WORTH 1-D,AXX,U.S. House,12,R,Troy Balderson,105
+Franklin,WORTH 1-D,AXX,U.S. House,12,G,Joe Manchik,0
+Franklin,WORTH 1-D,AXX,U.S. House,12,D,Danny O'Connor,166
+Franklin,WORTH 2-A,AXY,U.S. House,12,R,Troy Balderson,126
+Franklin,WORTH 2-A,AXY,U.S. House,12,G,Joe Manchik,5
+Franklin,WORTH 2-A,AXY,U.S. House,12,D,Danny O'Connor,435
+Franklin,WORTH 2-B,AXZ,U.S. House,12,R,Troy Balderson,99
+Franklin,WORTH 2-B,AXZ,U.S. House,12,G,Joe Manchik,2
+Franklin,WORTH 2-B,AXZ,U.S. House,12,D,Danny O'Connor,391
+Franklin,WORTH 2-C,AYA,U.S. House,12,R,Troy Balderson,87
+Franklin,WORTH 2-C,AYA,U.S. House,12,G,Joe Manchik,2
+Franklin,WORTH 2-C,AYA,U.S. House,12,D,Danny O'Connor,424
+Franklin,WORTH 3-A,AYB,U.S. House,12,R,Troy Balderson,239
+Franklin,WORTH 3-A,AYB,U.S. House,12,G,Joe Manchik,6
+Franklin,WORTH 3-A,AYB,U.S. House,12,D,Danny O'Connor,657
+Franklin,WORTH 3-B,AYC,U.S. House,12,R,Troy Balderson,168
+Franklin,WORTH 3-B,AYC,U.S. House,12,G,Joe Manchik,2
+Franklin,WORTH 3-B,AYC,U.S. House,12,D,Danny O'Connor,378
+Franklin,WORTH 4-A,AYF,U.S. House,12,R,Troy Balderson,103
+Franklin,WORTH 4-A,AYF,U.S. House,12,G,Joe Manchik,2
+Franklin,WORTH 4-A,AYF,U.S. House,12,D,Danny O'Connor,305
+Franklin,WORTH 4-B,AYG,U.S. House,12,R,Troy Balderson,141
+Franklin,WORTH 4-B,AYG,U.S. House,12,G,Joe Manchik,4
+Franklin,WORTH 4-B,AYG,U.S. House,12,D,Danny O'Connor,314
+Franklin,WORTH 4-C,AYH,U.S. House,12,R,Troy Balderson,108
+Franklin,WORTH 4-C,AYH,U.S. House,12,G,Joe Manchik,0
+Franklin,WORTH 4-C,AYH,U.S. House,12,D,Danny O'Connor,229
+Franklin,WORTH 4-D,AYI,U.S. House,12,R,Troy Balderson,94
+Franklin,WORTH 4-D,AYI,U.S. House,12,G,Joe Manchik,1
+Franklin,WORTH 4-D,AYI,U.S. House,12,D,Danny O'Connor,137
+Franklin,BLENDON-A,AYJ,U.S. House,12,R,Troy Balderson,0
+Franklin,BLENDON-A,AYJ,U.S. House,12,G,Joe Manchik,0
+Franklin,BLENDON-A,AYJ,U.S. House,12,D,Danny O'Connor,2
+Franklin,BLENDON-B,AYK,U.S. House,12,R,Troy Balderson,96
+Franklin,BLENDON-B,AYK,U.S. House,12,G,Joe Manchik,1
+Franklin,BLENDON-B,AYK,U.S. House,12,D,Danny O'Connor,79
+Franklin,BLENDON-D,AYM,U.S. House,12,R,Troy Balderson,39
+Franklin,BLENDON-D,AYM,U.S. House,12,G,Joe Manchik,0
+Franklin,BLENDON-D,AYM,U.S. House,12,D,Danny O'Connor,31
+Franklin,BROWN-B,AYS,U.S. House,12,R,Troy Balderson,0
+Franklin,BROWN-B,AYS,U.S. House,12,G,Joe Manchik,0
+Franklin,BROWN-B,AYS,U.S. House,12,D,Danny O'Connor,0
+Franklin,JEFFERSON-A,AZR,U.S. House,12,R,Troy Balderson,232
+Franklin,JEFFERSON-A,AZR,U.S. House,12,G,Joe Manchik,1
+Franklin,JEFFERSON-A,AZR,U.S. House,12,D,Danny O'Connor,207
+Franklin,JEFFERSON-B,AZS,U.S. House,12,R,Troy Balderson,229
+Franklin,JEFFERSON-B,AZS,U.S. House,12,G,Joe Manchik,3
+Franklin,JEFFERSON-B,AZS,U.S. House,12,D,Danny O'Connor,142
+Franklin,JEFFERSON-C,AZT,U.S. House,12,R,Troy Balderson,221
+Franklin,JEFFERSON-C,AZT,U.S. House,12,G,Joe Manchik,2
+Franklin,JEFFERSON-C,AZT,U.S. House,12,D,Danny O'Connor,221
+Franklin,MIFFLIN-A,BAJ,U.S. House,12,R,Troy Balderson,0
+Franklin,MIFFLIN-A,BAJ,U.S. House,12,G,Joe Manchik,0
+Franklin,MIFFLIN-A,BAJ,U.S. House,12,D,Danny O'Connor,0
+Franklin,PERRY-A,BAP,U.S. House,12,R,Troy Balderson,159
+Franklin,PERRY-A,BAP,U.S. House,12,G,Joe Manchik,3
+Franklin,PERRY-A,BAP,U.S. House,12,D,Danny O'Connor,253
+Franklin,PERRY-B,BAQ,U.S. House,12,R,Troy Balderson,191
+Franklin,PERRY-B,BAQ,U.S. House,12,G,Joe Manchik,2
+Franklin,PERRY-B,BAQ,U.S. House,12,D,Danny O'Connor,268
+Franklin,PERRY-C,BAR,U.S. House,12,R,Troy Balderson,28
+Franklin,PERRY-C,BAR,U.S. House,12,G,Joe Manchik,0
+Franklin,PERRY-C,BAR,U.S. House,12,D,Danny O'Connor,30
+Franklin,PERRY-D,BAS,U.S. House,12,R,Troy Balderson,261
+Franklin,PERRY-D,BAS,U.S. House,12,G,Joe Manchik,0
+Franklin,PERRY-D,BAS,U.S. House,12,D,Danny O'Connor,336
+Franklin,NEW ALBANY-A,BAT,U.S. House,12,R,Troy Balderson,140
+Franklin,NEW ALBANY-A,BAT,U.S. House,12,G,Joe Manchik,0
+Franklin,NEW ALBANY-A,BAT,U.S. House,12,D,Danny O'Connor,243
+Franklin,NEW ALBANY-B,BAU,U.S. House,12,R,Troy Balderson,227
+Franklin,NEW ALBANY-B,BAU,U.S. House,12,G,Joe Manchik,1
+Franklin,NEW ALBANY-B,BAU,U.S. House,12,D,Danny O'Connor,242
+Franklin,PLAIN-A,BAV,U.S. House,12,R,Troy Balderson,75
+Franklin,PLAIN-A,BAV,U.S. House,12,G,Joe Manchik,1
+Franklin,PLAIN-A,BAV,U.S. House,12,D,Danny O'Connor,68
+Franklin,PLAIN-B,BAW,U.S. House,12,R,Troy Balderson,280
+Franklin,PLAIN-B,BAW,U.S. House,12,G,Joe Manchik,5
+Franklin,PLAIN-B,BAW,U.S. House,12,D,Danny O'Connor,153
+Franklin,RIVERLEA-A,BBQ,U.S. House,12,R,Troy Balderson,61
+Franklin,RIVERLEA-A,BBQ,U.S. House,12,G,Joe Manchik,0
+Franklin,RIVERLEA-A,BBQ,U.S. House,12,D,Danny O'Connor,241
+Franklin,SHARON-A,BBR,U.S. House,12,R,Troy Balderson,148
+Franklin,SHARON-A,BBR,U.S. House,12,G,Joe Manchik,1
+Franklin,SHARON-A,BBR,U.S. House,12,D,Danny O'Connor,186
+Franklin,SHARON-B,BBS,U.S. House,12,R,Troy Balderson,116
+Franklin,SHARON-B,BBS,U.S. House,12,G,Joe Manchik,4
+Franklin,SHARON-B,BBS,U.S. House,12,D,Danny O'Connor,286
+Franklin,WASHINGTON-A,BBV,U.S. House,12,R,Troy Balderson,137
+Franklin,WASHINGTON-A,BBV,U.S. House,12,G,Joe Manchik,1
+Franklin,WASHINGTON-A,BBV,U.S. House,12,D,Danny O'Connor,86
+Franklin,DUB 4-F,BCE,U.S. House,12,R,Troy Balderson,231
+Franklin,DUB 4-F,BCE,U.S. House,12,G,Joe Manchik,0
+Franklin,DUB 4-F,BCE,U.S. House,12,D,Danny O'Connor,312
+Franklin,NEW ALBANY-C,BCF,U.S. House,12,R,Troy Balderson,255
+Franklin,NEW ALBANY-C,BCF,U.S. House,12,G,Joe Manchik,1
+Franklin,NEW ALBANY-C,BCF,U.S. House,12,D,Danny O'Connor,258
+Franklin,DUB 1-F,BCJ,U.S. House,12,R,Troy Balderson,151
+Franklin,DUB 1-F,BCJ,U.S. House,12,G,Joe Manchik,2
+Franklin,DUB 1-F,BCJ,U.S. House,12,D,Danny O'Connor,256
+Franklin,DUB 1-G,BCK,U.S. House,12,R,Troy Balderson,205
+Franklin,DUB 1-G,BCK,U.S. House,12,G,Joe Manchik,0
+Franklin,DUB 1-G,BCK,U.S. House,12,D,Danny O'Connor,248
+Franklin,WESTERVILLE 2-G,BDA,U.S. House,12,R,Troy Balderson,138
+Franklin,WESTERVILLE 2-G,BDA,U.S. House,12,G,Joe Manchik,1
+Franklin,WESTERVILLE 2-G,BDA,U.S. House,12,D,Danny O'Connor,192
+Franklin,GAH 2-F,BDB,U.S. House,12,R,Troy Balderson,101
+Franklin,GAH 2-F,BDB,U.S. House,12,G,Joe Manchik,2
+Franklin,GAH 2-F,BDB,U.S. House,12,D,Danny O'Connor,107
+Franklin,DUB 2-F,BDD,U.S. House,12,R,Troy Balderson,145
+Franklin,DUB 2-F,BDD,U.S. House,12,G,Joe Manchik,2
+Franklin,DUB 2-F,BDD,U.S. House,12,D,Danny O'Connor,176
+Franklin,DUB 3-B,BDE,U.S. House,12,R,Troy Balderson,260
+Franklin,DUB 3-B,BDE,U.S. House,12,G,Joe Manchik,1
+Franklin,DUB 3-B,BDE,U.S. House,12,D,Danny O'Connor,332
+Franklin,DUB 2-G,BDO,U.S. House,12,R,Troy Balderson,191
+Franklin,DUB 2-G,BDO,U.S. House,12,G,Joe Manchik,0
+Franklin,DUB 2-G,BDO,U.S. House,12,D,Danny O'Connor,220
+Franklin,DUB 2-H,BDP,U.S. House,12,R,Troy Balderson,92
+Franklin,DUB 2-H,BDP,U.S. House,12,G,Joe Manchik,1
+Franklin,DUB 2-H,BDP,U.S. House,12,D,Danny O'Connor,134
+Franklin,DUB 3-C,BDQ,U.S. House,12,R,Troy Balderson,234
+Franklin,DUB 3-C,BDQ,U.S. House,12,G,Joe Manchik,2
+Franklin,DUB 3-C,BDQ,U.S. House,12,D,Danny O'Connor,262
+Franklin,GAH 1-G,BDV,U.S. House,12,R,Troy Balderson,23
+Franklin,GAH 1-G,BDV,U.S. House,12,G,Joe Manchik,0
+Franklin,GAH 1-G,BDV,U.S. House,12,D,Danny O'Connor,36
+Franklin,GAH 2-I,BFN,U.S. House,12,R,Troy Balderson,8
+Franklin,GAH 2-I,BFN,U.S. House,12,G,Joe Manchik,0
+Franklin,GAH 2-I,BFN,U.S. House,12,D,Danny O'Connor,10
+Franklin,JEFFERSON-E,BFT,U.S. House,12,R,Troy Balderson,0
+Franklin,JEFFERSON-E,BFT,U.S. House,12,G,Joe Manchik,0
+Franklin,JEFFERSON-E,BFT,U.S. House,12,D,Danny O'Connor,0
+Franklin,NEW ALBANY-E,BFW,U.S. House,12,R,Troy Balderson,141
+Franklin,NEW ALBANY-E,BFW,U.S. House,12,G,Joe Manchik,0
+Franklin,NEW ALBANY-E,BFW,U.S. House,12,D,Danny O'Connor,160
+Franklin,NEW ALBANY-F,BFX,U.S. House,12,R,Troy Balderson,217
+Franklin,NEW ALBANY-F,BFX,U.S. House,12,G,Joe Manchik,1
+Franklin,NEW ALBANY-F,BFX,U.S. House,12,D,Danny O'Connor,317
+Franklin,COLS 77-F,BHE,U.S. House,12,R,Troy Balderson,0
+Franklin,COLS 77-F,BHE,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 77-F,BHE,U.S. House,12,D,Danny O'Connor,0
+Franklin,COLS 82-E,BHX,U.S. House,12,R,Troy Balderson,249
+Franklin,COLS 82-E,BHX,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 82-E,BHX,U.S. House,12,D,Danny O'Connor,351
+Franklin,COLS 82-F,BHY,U.S. House,12,R,Troy Balderson,132
+Franklin,COLS 82-F,BHY,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 82-F,BHY,U.S. House,12,D,Danny O'Connor,275
+Franklin,COLS 82-G,BHZ,U.S. House,12,R,Troy Balderson,145
+Franklin,COLS 82-G,BHZ,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 82-G,BHZ,U.S. House,12,D,Danny O'Connor,211
+Franklin,COLS 82-H,BIA,U.S. House,12,R,Troy Balderson,136
+Franklin,COLS 82-H,BIA,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 82-H,BIA,U.S. House,12,D,Danny O'Connor,228
+Franklin,HILL 2-E,BJD,U.S. House,12,R,Troy Balderson,73
+Franklin,HILL 2-E,BJD,U.S. House,12,G,Joe Manchik,0
+Franklin,HILL 2-E,BJD,U.S. House,12,D,Danny O'Connor,234
+Franklin,COLS 69-H,BJN,U.S. House,12,R,Troy Balderson,19
+Franklin,COLS 69-H,BJN,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 69-H,BJN,U.S. House,12,D,Danny O'Connor,69
+Franklin,COLS 69-I,BJO,U.S. House,12,R,Troy Balderson,120
+Franklin,COLS 69-I,BJO,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 69-I,BJO,U.S. House,12,D,Danny O'Connor,181
+Franklin,COLS 69-J,BJX,U.S. House,12,R,Troy Balderson,0
+Franklin,COLS 69-J,BJX,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 69-J,BJX,U.S. House,12,D,Danny O'Connor,0
+Franklin,DUB 2-I,BJZ,U.S. House,12,R,Troy Balderson,173
+Franklin,DUB 2-I,BJZ,U.S. House,12,G,Joe Manchik,1
+Franklin,DUB 2-I,BJZ,U.S. House,12,D,Danny O'Connor,175
+Franklin,DUB 1-H,BKF,U.S. House,12,R,Troy Balderson,136
+Franklin,DUB 1-H,BKF,U.S. House,12,G,Joe Manchik,2
+Franklin,DUB 1-H,BKF,U.S. House,12,D,Danny O'Connor,152
+Franklin,COLS 73-J,BKJ,U.S. House,12,R,Troy Balderson,2
+Franklin,COLS 73-J,BKJ,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 73-J,BKJ,U.S. House,12,D,Danny O'Connor,6
+Franklin,COLS 82-I,BKK,U.S. House,12,R,Troy Balderson,295
+Franklin,COLS 82-I,BKK,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 82-I,BKK,U.S. House,12,D,Danny O'Connor,313
+Franklin,COLS 82-J,BKL,U.S. House,12,R,Troy Balderson,100
+Franklin,COLS 82-J,BKL,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 82-J,BKL,U.S. House,12,D,Danny O'Connor,210
+Franklin,COLS 69-K,BKM,U.S. House,12,R,Troy Balderson,47
+Franklin,COLS 69-K,BKM,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 69-K,BKM,U.S. House,12,D,Danny O'Connor,91
+Franklin,COLS 72-G,BKR,U.S. House,12,R,Troy Balderson,123
+Franklin,COLS 72-G,BKR,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 72-G,BKR,U.S. House,12,D,Danny O'Connor,188
+Franklin,COLS 69-L,BKW,U.S. House,12,R,Troy Balderson,157
+Franklin,COLS 69-L,BKW,U.S. House,12,G,Joe Manchik,2
+Franklin,COLS 69-L,BKW,U.S. House,12,D,Danny O'Connor,241
+Franklin,COLS 69-M,BKX,U.S. House,12,R,Troy Balderson,78
+Franklin,COLS 69-M,BKX,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 69-M,BKX,U.S. House,12,D,Danny O'Connor,157
+Franklin,COLS 82-K,BLB,U.S. House,12,R,Troy Balderson,131
+Franklin,COLS 82-K,BLB,U.S. House,12,G,Joe Manchik,1
+Franklin,COLS 82-K,BLB,U.S. House,12,D,Danny O'Connor,183
+Franklin,COLS 82-L,BLC,U.S. House,12,R,Troy Balderson,230
+Franklin,COLS 82-L,BLC,U.S. House,12,G,Joe Manchik,5
+Franklin,COLS 82-L,BLC,U.S. House,12,D,Danny O'Connor,335
+Franklin,DUB 2-J,BLE,U.S. House,12,R,Troy Balderson,220
+Franklin,DUB 2-J,BLE,U.S. House,12,G,Joe Manchik,1
+Franklin,DUB 2-J,BLE,U.S. House,12,D,Danny O'Connor,242
+Franklin,COLS 59-F,BLO,U.S. House,12,R,Troy Balderson,35
+Franklin,COLS 59-F,BLO,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 59-F,BLO,U.S. House,12,D,Danny O'Connor,113
+Franklin,NEW ALBANY-G,BLP,U.S. House,12,R,Troy Balderson,124
+Franklin,NEW ALBANY-G,BLP,U.S. House,12,G,Joe Manchik,0
+Franklin,NEW ALBANY-G,BLP,U.S. House,12,D,Danny O'Connor,193
+Franklin,COLS 74-H,BMC,U.S. House,12,R,Troy Balderson,51
+Franklin,COLS 74-H,BMC,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 74-H,BMC,U.S. House,12,D,Danny O'Connor,104
+Franklin,COLS 82-M,BMJ,U.S. House,12,R,Troy Balderson,71
+Franklin,COLS 82-M,BMJ,U.S. House,12,G,Joe Manchik,0
+Franklin,COLS 82-M,BMJ,U.S. House,12,D,Danny O'Connor,152
+Franklin,WESTERVILLE 3-E,BML,U.S. House,12,R,Troy Balderson,135
+Franklin,WESTERVILLE 3-E,BML,U.S. House,12,G,Joe Manchik,2
+Franklin,WESTERVILLE 3-E,BML,U.S. House,12,D,Danny O'Connor,191
+Franklin,WORTH 3-C,BMM,U.S. House,12,R,Troy Balderson,114
+Franklin,WORTH 3-C,BMM,U.S. House,12,G,Joe Manchik,3
+Franklin,WORTH 3-C,BMM,U.S. House,12,D,Danny O'Connor,230
+Licking,HEATH 1-A,AAA,U.S. House,12,R,Troy Balderson,292
+Licking,HEATH 1-A,AAA,U.S. House,12,G,Joe Manchik,5
+Licking,HEATH 1-A,AAA,U.S. House,12,D,Danny O'Connor,187
+Licking,HEATH 1-B,AAB,U.S. House,12,R,Troy Balderson,148
+Licking,HEATH 1-B,AAB,U.S. House,12,G,Joe Manchik,6
+Licking,HEATH 1-B,AAB,U.S. House,12,D,Danny O'Connor,123
+Licking,HEATH 2-B,AAD,U.S. House,12,R,Troy Balderson,199
+Licking,HEATH 2-B,AAD,U.S. House,12,G,Joe Manchik,5
+Licking,HEATH 2-B,AAD,U.S. House,12,D,Danny O'Connor,104
+Licking,HEATH 2-A,AAE,U.S. House,12,R,Troy Balderson,243
+Licking,HEATH 2-A,AAE,U.S. House,12,G,Joe Manchik,1
+Licking,HEATH 2-A,AAE,U.S. House,12,D,Danny O'Connor,125
+Licking,HEATH 3-A,AAG,U.S. House,12,R,Troy Balderson,247
+Licking,HEATH 3-A,AAG,U.S. House,12,G,Joe Manchik,1
+Licking,HEATH 3-A,AAG,U.S. House,12,D,Danny O'Connor,128
+Licking,HEATH 3-B,AAH,U.S. House,12,R,Troy Balderson,307
+Licking,HEATH 3-B,AAH,U.S. House,12,G,Joe Manchik,2
+Licking,HEATH 3-B,AAH,U.S. House,12,D,Danny O'Connor,177
+Licking,NEWARK 1-A,AAJ,U.S. House,12,R,Troy Balderson,168
+Licking,NEWARK 1-A,AAJ,U.S. House,12,G,Joe Manchik,12
+Licking,NEWARK 1-A,AAJ,U.S. House,12,D,Danny O'Connor,135
+Licking,NEWARK 1-B,AAK,U.S. House,12,R,Troy Balderson,195
+Licking,NEWARK 1-B,AAK,U.S. House,12,G,Joe Manchik,4
+Licking,NEWARK 1-B,AAK,U.S. House,12,D,Danny O'Connor,141
+Licking,NEWARK 2-A,AAP,U.S. House,12,R,Troy Balderson,138
+Licking,NEWARK 2-A,AAP,U.S. House,12,G,Joe Manchik,3
+Licking,NEWARK 2-A,AAP,U.S. House,12,D,Danny O'Connor,115
+Licking,NEWARK 2-B,AAQ,U.S. House,12,R,Troy Balderson,146
+Licking,NEWARK 2-B,AAQ,U.S. House,12,G,Joe Manchik,3
+Licking,NEWARK 2-B,AAQ,U.S. House,12,D,Danny O'Connor,163
+Licking,NEWARK 2-C,AAS,U.S. House,12,R,Troy Balderson,72
+Licking,NEWARK 2-C,AAS,U.S. House,12,G,Joe Manchik,3
+Licking,NEWARK 2-C,AAS,U.S. House,12,D,Danny O'Connor,70
+Licking,NEWARK 3-A,AAW,U.S. House,12,R,Troy Balderson,318
+Licking,NEWARK 3-A,AAW,U.S. House,12,G,Joe Manchik,6
+Licking,NEWARK 3-A,AAW,U.S. House,12,D,Danny O'Connor,221
+Licking,NEWARK 3-B,AAX,U.S. House,12,R,Troy Balderson,332
+Licking,NEWARK 3-B,AAX,U.S. House,12,G,Joe Manchik,5
+Licking,NEWARK 3-B,AAX,U.S. House,12,D,Danny O'Connor,326
+Licking,NEWARK 3-C,AAY,U.S. House,12,R,Troy Balderson,167
+Licking,NEWARK 3-C,AAY,U.S. House,12,G,Joe Manchik,3
+Licking,NEWARK 3-C,AAY,U.S. House,12,D,Danny O'Connor,135
+Licking,NEWARK 4-A,ABB,U.S. House,12,R,Troy Balderson,246
+Licking,NEWARK 4-A,ABB,U.S. House,12,G,Joe Manchik,1
+Licking,NEWARK 4-A,ABB,U.S. House,12,D,Danny O'Connor,223
+Licking,NEWARK 4-B,ABC,U.S. House,12,R,Troy Balderson,228
+Licking,NEWARK 4-B,ABC,U.S. House,12,G,Joe Manchik,5
+Licking,NEWARK 4-B,ABC,U.S. House,12,D,Danny O'Connor,176
+Licking,NEWARK 4-C,ABE,U.S. House,12,R,Troy Balderson,220
+Licking,NEWARK 4-C,ABE,U.S. House,12,G,Joe Manchik,5
+Licking,NEWARK 4-C,ABE,U.S. House,12,D,Danny O'Connor,159
+Licking,NEWARK 4-D,ABF,U.S. House,12,R,Troy Balderson,174
+Licking,NEWARK 4-D,ABF,U.S. House,12,G,Joe Manchik,1
+Licking,NEWARK 4-D,ABF,U.S. House,12,D,Danny O'Connor,150
+Licking,NEWARK 5-A,ABJ,U.S. House,12,R,Troy Balderson,357
+Licking,NEWARK 5-A,ABJ,U.S. House,12,G,Joe Manchik,5
+Licking,NEWARK 5-A,ABJ,U.S. House,12,D,Danny O'Connor,196
+Licking,NEWARK 5-B,ABK,U.S. House,12,R,Troy Balderson,379
+Licking,NEWARK 5-B,ABK,U.S. House,12,G,Joe Manchik,1
+Licking,NEWARK 5-B,ABK,U.S. House,12,D,Danny O'Connor,201
+Licking,NEWARK 5-C,ABM,U.S. House,12,R,Troy Balderson,225
+Licking,NEWARK 5-C,ABM,U.S. House,12,G,Joe Manchik,2
+Licking,NEWARK 5-C,ABM,U.S. House,12,D,Danny O'Connor,171
+Licking,NEWARK 5-E,ABN,U.S. House,12,R,Troy Balderson,136
+Licking,NEWARK 5-E,ABN,U.S. House,12,G,Joe Manchik,3
+Licking,NEWARK 5-E,ABN,U.S. House,12,D,Danny O'Connor,98
+Licking,NEWARK 5-D,ABO,U.S. House,12,R,Troy Balderson,152
+Licking,NEWARK 5-D,ABO,U.S. House,12,G,Joe Manchik,7
+Licking,NEWARK 5-D,ABO,U.S. House,12,D,Danny O'Connor,129
+Licking,NEWARK 6-A,ABR,U.S. House,12,R,Troy Balderson,232
+Licking,NEWARK 6-A,ABR,U.S. House,12,G,Joe Manchik,2
+Licking,NEWARK 6-A,ABR,U.S. House,12,D,Danny O'Connor,172
+Licking,NEWARK 6-B,ABS,U.S. House,12,R,Troy Balderson,232
+Licking,NEWARK 6-B,ABS,U.S. House,12,G,Joe Manchik,7
+Licking,NEWARK 6-B,ABS,U.S. House,12,D,Danny O'Connor,166
+Licking,NEWARK 6-C,ABT,U.S. House,12,R,Troy Balderson,170
+Licking,NEWARK 6-C,ABT,U.S. House,12,G,Joe Manchik,4
+Licking,NEWARK 6-C,ABT,U.S. House,12,D,Danny O'Connor,133
+Licking,NEWARK 6-D,ABU,U.S. House,12,R,Troy Balderson,111
+Licking,NEWARK 6-D,ABU,U.S. House,12,G,Joe Manchik,0
+Licking,NEWARK 6-D,ABU,U.S. House,12,D,Danny O'Connor,88
+Licking,NEWARK 6-E,ABV,U.S. House,12,R,Troy Balderson,286
+Licking,NEWARK 6-E,ABV,U.S. House,12,G,Joe Manchik,0
+Licking,NEWARK 6-E,ABV,U.S. House,12,D,Danny O'Connor,144
+Licking,NEWARK 7-A,ABZ,U.S. House,12,R,Troy Balderson,114
+Licking,NEWARK 7-A,ABZ,U.S. House,12,G,Joe Manchik,4
+Licking,NEWARK 7-A,ABZ,U.S. House,12,D,Danny O'Connor,124
+Licking,NEWARK 7-B,ACA,U.S. House,12,R,Troy Balderson,171
+Licking,NEWARK 7-B,ACA,U.S. House,12,G,Joe Manchik,3
+Licking,NEWARK 7-B,ACA,U.S. House,12,D,Danny O'Connor,165
+Licking,NEWARK 7-C,ACB,U.S. House,12,R,Troy Balderson,154
+Licking,NEWARK 7-C,ACB,U.S. House,12,G,Joe Manchik,4
+Licking,NEWARK 7-C,ACB,U.S. House,12,D,Danny O'Connor,161
+Licking,BENNINGTON TOWNSHIP,ACJ,U.S. House,12,R,Troy Balderson,356
+Licking,BENNINGTON TOWNSHIP,ACJ,U.S. House,12,G,Joe Manchik,2
+Licking,BENNINGTON TOWNSHIP,ACJ,U.S. House,12,D,Danny O'Connor,129
+Licking,BOWLING GREEN TOWNSHIP,ACK,U.S. House,12,R,Troy Balderson,293
+Licking,BOWLING GREEN TOWNSHIP,ACK,U.S. House,12,G,Joe Manchik,1
+Licking,BOWLING GREEN TOWNSHIP,ACK,U.S. House,12,D,Danny O'Connor,111
+Licking,BURLINGTON TOWNSHIP,ACL,U.S. House,12,R,Troy Balderson,250
+Licking,BURLINGTON TOWNSHIP,ACL,U.S. House,12,G,Joe Manchik,2
+Licking,BURLINGTON TOWNSHIP,ACL,U.S. House,12,D,Danny O'Connor,99
+Licking,EDEN FALL TOWNSHIP,ACM,U.S. House,12,R,Troy Balderson,367
+Licking,EDEN FALL TOWNSHIP,ACM,U.S. House,12,G,Joe Manchik,4
+Licking,EDEN FALL TOWNSHIP,ACM,U.S. House,12,D,Danny O'Connor,126
+Licking,ETNA TOWNSHIP A,ACN,U.S. House,12,R,Troy Balderson,298
+Licking,ETNA TOWNSHIP A,ACN,U.S. House,12,G,Joe Manchik,2
+Licking,ETNA TOWNSHIP A,ACN,U.S. House,12,D,Danny O'Connor,188
+Licking,ETNA TOWNSHIP B,ACP,U.S. House,12,R,Troy Balderson,334
+Licking,ETNA TOWNSHIP B,ACP,U.S. House,12,G,Joe Manchik,1
+Licking,ETNA TOWNSHIP B,ACP,U.S. House,12,D,Danny O'Connor,178
+Licking,ETNA TOWNSHIP C,ACQ,U.S. House,12,R,Troy Balderson,330
+Licking,ETNA TOWNSHIP C,ACQ,U.S. House,12,G,Joe Manchik,1
+Licking,ETNA TOWNSHIP C,ACQ,U.S. House,12,D,Danny O'Connor,151
+Licking,ETNA TOWNSHIP D,ACR,U.S. House,12,R,Troy Balderson,300
+Licking,ETNA TOWNSHIP D,ACR,U.S. House,12,G,Joe Manchik,1
+Licking,ETNA TOWNSHIP D,ACR,U.S. House,12,D,Danny O'Connor,214
+Licking,FRANKLIN TOWNSHIP,ACT,U.S. House,12,R,Troy Balderson,380
+Licking,FRANKLIN TOWNSHIP,ACT,U.S. House,12,G,Joe Manchik,4
+Licking,FRANKLIN TOWNSHIP,ACT,U.S. House,12,D,Danny O'Connor,140
+Licking,GRANVILLE TOWNSHIP A,ACV,U.S. House,12,R,Troy Balderson,254
+Licking,GRANVILLE TOWNSHIP A,ACV,U.S. House,12,G,Joe Manchik,3
+Licking,GRANVILLE TOWNSHIP A,ACV,U.S. House,12,D,Danny O'Connor,233
+Licking,GRANVILLE TOWNSHIP B,ACW,U.S. House,12,R,Troy Balderson,230
+Licking,GRANVILLE TOWNSHIP B,ACW,U.S. House,12,G,Joe Manchik,1
+Licking,GRANVILLE TOWNSHIP B,ACW,U.S. House,12,D,Danny O'Connor,324
+Licking,GRANVILLE TOWNSHIP C,ACX,U.S. House,12,R,Troy Balderson,378
+Licking,GRANVILLE TOWNSHIP C,ACX,U.S. House,12,G,Joe Manchik,6
+Licking,GRANVILLE TOWNSHIP C,ACX,U.S. House,12,D,Danny O'Connor,392
+Licking,GRANVILLE VILLAGE A,ACZ,U.S. House,12,R,Troy Balderson,251
+Licking,GRANVILLE VILLAGE A,ACZ,U.S. House,12,G,Joe Manchik,4
+Licking,GRANVILLE VILLAGE A,ACZ,U.S. House,12,D,Danny O'Connor,458
+Licking,GRANVILLE VILLAGE B,ADB,U.S. House,12,R,Troy Balderson,337
+Licking,GRANVILLE VILLAGE B,ADB,U.S. House,12,G,Joe Manchik,3
+Licking,GRANVILLE VILLAGE B,ADB,U.S. House,12,D,Danny O'Connor,295
+Licking,GRANVILLE VILLAGE C,ADC,U.S. House,12,R,Troy Balderson,70
+Licking,GRANVILLE VILLAGE C,ADC,U.S. House,12,G,Joe Manchik,3
+Licking,GRANVILLE VILLAGE C,ADC,U.S. House,12,D,Danny O'Connor,201
+Licking,HANOVER VILLAGE,ADD,U.S. House,12,R,Troy Balderson,174
+Licking,HANOVER VILLAGE,ADD,U.S. House,12,G,Joe Manchik,5
+Licking,HANOVER VILLAGE,ADD,U.S. House,12,D,Danny O'Connor,69
+Licking,HANOVER TOWNSHIP,ADE,U.S. House,12,R,Troy Balderson,267
+Licking,HANOVER TOWNSHIP,ADE,U.S. House,12,G,Joe Manchik,1
+Licking,HANOVER TOWNSHIP,ADE,U.S. House,12,D,Danny O'Connor,115
+Licking,HARRISON TOWNSHIP A,ADH,U.S. House,12,R,Troy Balderson,251
+Licking,HARRISON TOWNSHIP A,ADH,U.S. House,12,G,Joe Manchik,1
+Licking,HARRISON TOWNSHIP A,ADH,U.S. House,12,D,Danny O'Connor,134
+Licking,HARRISON TWP B-KIRK,ADI,U.S. House,12,R,Troy Balderson,347
+Licking,HARRISON TWP B-KIRK,ADI,U.S. House,12,G,Joe Manchik,1
+Licking,HARRISON TWP B-KIRK,ADI,U.S. House,12,D,Danny O'Connor,174
+Licking,HARRISON TOWNSHIP C,ADJ,U.S. House,12,R,Troy Balderson,265
+Licking,HARRISON TOWNSHIP C,ADJ,U.S. House,12,G,Joe Manchik,2
+Licking,HARRISON TOWNSHIP C,ADJ,U.S. House,12,D,Danny O'Connor,123
+Licking,HARRISON TOWNSHIP D,ADK,U.S. House,12,R,Troy Balderson,390
+Licking,HARRISON TOWNSHIP D,ADK,U.S. House,12,G,Joe Manchik,3
+Licking,HARRISON TOWNSHIP D,ADK,U.S. House,12,D,Danny O'Connor,154
+Licking,HARRISON TOWNSHIP E,ADL,U.S. House,12,R,Troy Balderson,324
+Licking,HARRISON TOWNSHIP E,ADL,U.S. House,12,G,Joe Manchik,5
+Licking,HARRISON TOWNSHIP E,ADL,U.S. House,12,D,Danny O'Connor,135
+Licking,HARTFORD TWP-VLG,ADM,U.S. House,12,R,Troy Balderson,264
+Licking,HARTFORD TWP-VLG,ADM,U.S. House,12,G,Joe Manchik,6
+Licking,HARTFORD TWP-VLG,ADM,U.S. House,12,D,Danny O'Connor,75
+Licking,HOPEWELL TWP-GRATIOT VLG,ADO,U.S. House,12,R,Troy Balderson,249
+Licking,HOPEWELL TWP-GRATIOT VLG,ADO,U.S. House,12,G,Joe Manchik,4
+Licking,HOPEWELL TWP-GRATIOT VLG,ADO,U.S. House,12,D,Danny O'Connor,89
+Licking,JERSEY TOWNSHIP A,ADP,U.S. House,12,R,Troy Balderson,381
+Licking,JERSEY TOWNSHIP A,ADP,U.S. House,12,G,Joe Manchik,3
+Licking,JERSEY TOWNSHIP A,ADP,U.S. House,12,D,Danny O'Connor,114
+Licking,JERSEY TOWNSHIP B,ADQ,U.S. House,12,R,Troy Balderson,248
+Licking,JERSEY TOWNSHIP B,ADQ,U.S. House,12,G,Joe Manchik,1
+Licking,JERSEY TOWNSHIP B,ADQ,U.S. House,12,D,Danny O'Connor,95
+Licking,LIBERTY TOWNSHIP A,ADR,U.S. House,12,R,Troy Balderson,250
+Licking,LIBERTY TOWNSHIP A,ADR,U.S. House,12,G,Joe Manchik,8
+Licking,LIBERTY TOWNSHIP A,ADR,U.S. House,12,D,Danny O'Connor,93
+Licking,LIBERTY TOWNSHIP B,ADS,U.S. House,12,R,Troy Balderson,320
+Licking,LIBERTY TOWNSHIP B,ADS,U.S. House,12,G,Joe Manchik,5
+Licking,LIBERTY TOWNSHIP B,ADS,U.S. House,12,D,Danny O'Connor,95
+Licking,LICKING TOWNSHIP A,ADT,U.S. House,12,R,Troy Balderson,346
+Licking,LICKING TOWNSHIP A,ADT,U.S. House,12,G,Joe Manchik,5
+Licking,LICKING TOWNSHIP A,ADT,U.S. House,12,D,Danny O'Connor,140
+Licking,LICKING TOWNSHIP B,ADV,U.S. House,12,R,Troy Balderson,257
+Licking,LICKING TOWNSHIP B,ADV,U.S. House,12,G,Joe Manchik,1
+Licking,LICKING TOWNSHIP B,ADV,U.S. House,12,D,Danny O'Connor,112
+Licking,LICKING TOWNSHIP C,ADW,U.S. House,12,R,Troy Balderson,251
+Licking,LICKING TOWNSHIP C,ADW,U.S. House,12,G,Joe Manchik,3
+Licking,LICKING TOWNSHIP C,ADW,U.S. House,12,D,Danny O'Connor,88
+Licking,MADISON TOWNSHIP A,ADX,U.S. House,12,R,Troy Balderson,353
+Licking,MADISON TOWNSHIP A,ADX,U.S. House,12,G,Joe Manchik,2
+Licking,MADISON TOWNSHIP A,ADX,U.S. House,12,D,Danny O'Connor,121
+Licking,MADISON TOWNSHIP B,ADZ,U.S. House,12,R,Troy Balderson,177
+Licking,MADISON TOWNSHIP B,ADZ,U.S. House,12,G,Joe Manchik,2
+Licking,MADISON TOWNSHIP B,ADZ,U.S. House,12,D,Danny O'Connor,106
+Licking,MARY ANN TOWNSHIP,AEA,U.S. House,12,R,Troy Balderson,312
+Licking,MARY ANN TOWNSHIP,AEA,U.S. House,12,G,Joe Manchik,0
+Licking,MARY ANN TOWNSHIP,AEA,U.S. House,12,D,Danny O'Connor,97
+Licking,MCKEAN TOWNSHIP,AEC,U.S. House,12,R,Troy Balderson,356
+Licking,MCKEAN TOWNSHIP,AEC,U.S. House,12,G,Joe Manchik,2
+Licking,MCKEAN TOWNSHIP,AEC,U.S. House,12,D,Danny O'Connor,154
+Licking,MONROE TOWNSHIP A,AEE,U.S. House,12,R,Troy Balderson,228
+Licking,MONROE TOWNSHIP A,AEE,U.S. House,12,G,Joe Manchik,2
+Licking,MONROE TOWNSHIP A,AEE,U.S. House,12,D,Danny O'Connor,93
+Licking,MONROE TOWNSHIP B,AEF,U.S. House,12,R,Troy Balderson,284
+Licking,MONROE TOWNSHIP B,AEF,U.S. House,12,G,Joe Manchik,3
+Licking,MONROE TOWNSHIP B,AEF,U.S. House,12,D,Danny O'Connor,126
+Licking,JOHNSTOWN VILLAGE A,AEG,U.S. House,12,R,Troy Balderson,286
+Licking,JOHNSTOWN VILLAGE A,AEG,U.S. House,12,G,Joe Manchik,5
+Licking,JOHNSTOWN VILLAGE A,AEG,U.S. House,12,D,Danny O'Connor,136
+Licking,JOHNSTOWN VILLAGE B,AEI,U.S. House,12,R,Troy Balderson,170
+Licking,JOHNSTOWN VILLAGE B,AEI,U.S. House,12,G,Joe Manchik,2
+Licking,JOHNSTOWN VILLAGE B,AEI,U.S. House,12,D,Danny O'Connor,94
+Licking,NEWARK TOWNSHIP,AEK,U.S. House,12,R,Troy Balderson,449
+Licking,NEWARK TOWNSHIP,AEK,U.S. House,12,G,Joe Manchik,1
+Licking,NEWARK TOWNSHIP,AEK,U.S. House,12,D,Danny O'Connor,243
+Licking,NEWTON TWP A,AEO,U.S. House,12,R,Troy Balderson,330
+Licking,NEWTON TWP A,AEO,U.S. House,12,G,Joe Manchik,8
+Licking,NEWTON TWP A,AEO,U.S. House,12,D,Danny O'Connor,202
+Licking,NEWTON TWP B-ST LOU,AEQ,U.S. House,12,R,Troy Balderson,253
+Licking,NEWTON TWP B-ST LOU,AEQ,U.S. House,12,G,Joe Manchik,2
+Licking,NEWTON TWP B-ST LOU,AEQ,U.S. House,12,D,Danny O'Connor,87
+Licking,PATASKALA 1-A,AES,U.S. House,12,R,Troy Balderson,280
+Licking,PATASKALA 1-A,AES,U.S. House,12,G,Joe Manchik,4
+Licking,PATASKALA 1-A,AES,U.S. House,12,D,Danny O'Connor,140
+Licking,PATASKALA 1-B,AET,U.S. House,12,R,Troy Balderson,219
+Licking,PATASKALA 1-B,AET,U.S. House,12,G,Joe Manchik,3
+Licking,PATASKALA 1-B,AET,U.S. House,12,D,Danny O'Connor,216
+Licking,PATASKALA 2-A,AEU,U.S. House,12,R,Troy Balderson,224
+Licking,PATASKALA 2-A,AEU,U.S. House,12,G,Joe Manchik,4
+Licking,PATASKALA 2-A,AEU,U.S. House,12,D,Danny O'Connor,190
+Licking,PATASKALA 2-B,AEV,U.S. House,12,R,Troy Balderson,166
+Licking,PATASKALA 2-B,AEV,U.S. House,12,G,Joe Manchik,2
+Licking,PATASKALA 2-B,AEV,U.S. House,12,D,Danny O'Connor,165
+Licking,PATASKALA 3-A,AEW,U.S. House,12,R,Troy Balderson,283
+Licking,PATASKALA 3-A,AEW,U.S. House,12,G,Joe Manchik,6
+Licking,PATASKALA 3-A,AEW,U.S. House,12,D,Danny O'Connor,161
+Licking,PATASKALA 3-B,AEX,U.S. House,12,R,Troy Balderson,378
+Licking,PATASKALA 3-B,AEX,U.S. House,12,G,Joe Manchik,2
+Licking,PATASKALA 3-B,AEX,U.S. House,12,D,Danny O'Connor,213
+Licking,PATASKALA 4-A,AEY,U.S. House,12,R,Troy Balderson,227
+Licking,PATASKALA 4-A,AEY,U.S. House,12,G,Joe Manchik,1
+Licking,PATASKALA 4-A,AEY,U.S. House,12,D,Danny O'Connor,116
+Licking,PATASKALA 4-B,AEZ,U.S. House,12,R,Troy Balderson,300
+Licking,PATASKALA 4-B,AEZ,U.S. House,12,G,Joe Manchik,2
+Licking,PATASKALA 4-B,AEZ,U.S. House,12,D,Danny O'Connor,167
+Licking,PERRY TOWNSHIP,AFA,U.S. House,12,R,Troy Balderson,260
+Licking,PERRY TOWNSHIP,AFA,U.S. House,12,G,Joe Manchik,2
+Licking,PERRY TOWNSHIP,AFA,U.S. House,12,D,Danny O'Connor,75
+Licking,ST ALBANS TWP A,AFC,U.S. House,12,R,Troy Balderson,263
+Licking,ST ALBANS TWP A,AFC,U.S. House,12,G,Joe Manchik,3
+Licking,ST ALBANS TWP A,AFC,U.S. House,12,D,Danny O'Connor,107
+Licking,ST ALBANS TWP B-ALEX,AFD,U.S. House,12,R,Troy Balderson,329
+Licking,ST ALBANS TWP B-ALEX,AFD,U.S. House,12,G,Joe Manchik,3
+Licking,ST ALBANS TWP B-ALEX,AFD,U.S. House,12,D,Danny O'Connor,99
+Licking,UNION TOWNSHIP A,AFE,U.S. House,12,R,Troy Balderson,362
+Licking,UNION TOWNSHIP A,AFE,U.S. House,12,G,Joe Manchik,6
+Licking,UNION TOWNSHIP A,AFE,U.S. House,12,D,Danny O'Connor,273
+Licking,UNION TOWNSHIP B,AFF,U.S. House,12,R,Troy Balderson,384
+Licking,UNION TOWNSHIP B,AFF,U.S. House,12,G,Joe Manchik,7
+Licking,UNION TOWNSHIP B,AFF,U.S. House,12,D,Danny O'Connor,197
+Licking,HEBRON VILLAGE,AFH,U.S. House,12,R,Troy Balderson,255
+Licking,HEBRON VILLAGE,AFH,U.S. House,12,G,Joe Manchik,4
+Licking,HEBRON VILLAGE,AFH,U.S. House,12,D,Danny O'Connor,137
+Licking,BUCKEYE LAKE VILLAGE,AFJ,U.S. House,12,R,Troy Balderson,228
+Licking,BUCKEYE LAKE VILLAGE,AFJ,U.S. House,12,G,Joe Manchik,4
+Licking,BUCKEYE LAKE VILLAGE,AFJ,U.S. House,12,D,Danny O'Connor,143
+Licking,WASHINGTON TOWNSHIP,AFL,U.S. House,12,R,Troy Balderson,182
+Licking,WASHINGTON TOWNSHIP,AFL,U.S. House,12,G,Joe Manchik,2
+Licking,WASHINGTON TOWNSHIP,AFL,U.S. House,12,D,Danny O'Connor,56
+Licking,UTICA VILLAGE,AFM,U.S. House,12,R,Troy Balderson,218
+Licking,UTICA VILLAGE,AFM,U.S. House,12,G,Joe Manchik,2
+Licking,UTICA VILLAGE,AFM,U.S. House,12,D,Danny O'Connor,95
+Licking,REYNOLDSBURG 2-A,AFR,U.S. House,12,R,Troy Balderson,103
+Licking,REYNOLDSBURG 2-A,AFR,U.S. House,12,G,Joe Manchik,1
+Licking,REYNOLDSBURG 2-A,AFR,U.S. House,12,D,Danny O'Connor,216
+Licking,REYNOLDSBURG 3-A,AFS,U.S. House,12,R,Troy Balderson,221
+Licking,REYNOLDSBURG 3-A,AFS,U.S. House,12,G,Joe Manchik,4
+Licking,REYNOLDSBURG 3-A,AFS,U.S. House,12,D,Danny O'Connor,296
+Licking,REYNOLDSBURG 3-B,AFT,U.S. House,12,R,Troy Balderson,127
+Licking,REYNOLDSBURG 3-B,AFT,U.S. House,12,G,Joe Manchik,1
+Licking,REYNOLDSBURG 3-B,AFT,U.S. House,12,D,Danny O'Connor,195
+Licking,REYNOLDSBURG 3-C,AFU,U.S. House,12,R,Troy Balderson,159
+Licking,REYNOLDSBURG 3-C,AFU,U.S. House,12,G,Joe Manchik,1
+Licking,REYNOLDSBURG 3-C,AFU,U.S. House,12,D,Danny O'Connor,362
+Licking,REYNOLDSBURG 3-D,AFV,U.S. House,12,R,Troy Balderson,156
+Licking,REYNOLDSBURG 3-D,AFV,U.S. House,12,G,Joe Manchik,3
+Licking,REYNOLDSBURG 3-D,AFV,U.S. House,12,D,Danny O'Connor,404
+Licking,JOHNSTOWN VILLAGE C,AFZ,U.S. House,12,R,Troy Balderson,247
+Licking,JOHNSTOWN VILLAGE C,AFZ,U.S. House,12,G,Joe Manchik,3
+Licking,JOHNSTOWN VILLAGE C,AFZ,U.S. House,12,D,Danny O'Connor,111
+Marion,PRECINCT CLARIDON TWP A,ABX,U.S. House,12,R,Troy Balderson,17
+Marion,PRECINCT CLARIDON TWP A,ABX,U.S. House,12,G,Joe Manchik,1
+Marion,PRECINCT CLARIDON TWP A,ABX,U.S. House,12,D,Danny O'Connor,13
+Marion,PRECINCT CLARIDON TWP B,ABY,U.S. House,12,R,Troy Balderson,218
+Marion,PRECINCT CLARIDON TWP B,ABY,U.S. House,12,G,Joe Manchik,1
+Marion,PRECINCT CLARIDON TWP B,ABY,U.S. House,12,D,Danny O'Connor,106
+Marion,PRECINCT PLEASANT TWP E,ACY,U.S. House,12,R,Troy Balderson,133
+Marion,PRECINCT PLEASANT TWP E,ACY,U.S. House,12,G,Joe Manchik,1
+Marion,PRECINCT PLEASANT TWP E,ACY,U.S. House,12,D,Danny O'Connor,62
+Marion,PRECINCT PLEASANT TWP F,ACZ,U.S. House,12,R,Troy Balderson,105
+Marion,PRECINCT PLEASANT TWP F,ACZ,U.S. House,12,G,Joe Manchik,1
+Marion,PRECINCT PLEASANT TWP F,ACZ,U.S. House,12,D,Danny O'Connor,76
+Marion,PRECINCT PROSPECT TWP,ADA,U.S. House,12,R,Troy Balderson,151
+Marion,PRECINCT PROSPECT TWP,ADA,U.S. House,12,G,Joe Manchik,4
+Marion,PRECINCT PROSPECT TWP,ADA,U.S. House,12,D,Danny O'Connor,43
+Marion,PRECINCT PROSPECT VILLAGE,ADC,U.S. House,12,R,Troy Balderson,135
+Marion,PRECINCT PROSPECT VILLAGE,ADC,U.S. House,12,G,Joe Manchik,1
+Marion,PRECINCT PROSPECT VILLAGE,ADC,U.S. House,12,D,Danny O'Connor,49
+Marion,PRECINCT RICHLAND TWP A,ADE,U.S. House,12,R,Troy Balderson,127
+Marion,PRECINCT RICHLAND TWP A,ADE,U.S. House,12,G,Joe Manchik,2
+Marion,PRECINCT RICHLAND TWP A,ADE,U.S. House,12,D,Danny O'Connor,53
+Marion,PRECINCT RICHLAND TWP B,ADF,U.S. House,12,R,Troy Balderson,195
+Marion,PRECINCT RICHLAND TWP B,ADF,U.S. House,12,G,Joe Manchik,0
+Marion,PRECINCT RICHLAND TWP B,ADF,U.S. House,12,D,Danny O'Connor,91
+Marion,PRECINCT WALDO,ADK,U.S. House,12,R,Troy Balderson,155
+Marion,PRECINCT WALDO,ADK,U.S. House,12,G,Joe Manchik,2
+Marion,PRECINCT WALDO,ADK,U.S. House,12,D,Danny O'Connor,67
+Morrow,BENNINGTON TWP EAST,AAA,U.S. House,12,R,Troy Balderson,212
+Morrow,BENNINGTON TWP EAST,AAA,U.S. House,12,G,Joe Manchik,3
+Morrow,BENNINGTON TWP EAST,AAA,U.S. House,12,D,Danny O'Connor,103
+Morrow,BENNINGTON TWP WEST,AAC,U.S. House,12,R,Troy Balderson,251
+Morrow,BENNINGTON TWP WEST,AAC,U.S. House,12,G,Joe Manchik,4
+Morrow,BENNINGTON TWP WEST,AAC,U.S. House,12,D,Danny O'Connor,117
+Morrow,CANAAN TWP,AAD,U.S. House,12,R,Troy Balderson,144
+Morrow,CANAAN TWP,AAD,U.S. House,12,G,Joe Manchik,2
+Morrow,CANAAN TWP,AAD,U.S. House,12,D,Danny O'Connor,48
+Morrow,CARDINGTON TWP,AAE,U.S. House,12,R,Troy Balderson,182
+Morrow,CARDINGTON TWP,AAE,U.S. House,12,G,Joe Manchik,1
+Morrow,CARDINGTON TWP,AAE,U.S. House,12,D,Danny O'Connor,86
+Morrow,CARDINGTON VILLAGE E,AAF,U.S. House,12,R,Troy Balderson,91
+Morrow,CARDINGTON VILLAGE E,AAF,U.S. House,12,G,Joe Manchik,2
+Morrow,CARDINGTON VILLAGE E,AAF,U.S. House,12,D,Danny O'Connor,50
+Morrow,CARDINGTON VILLAGE W,AAG,U.S. House,12,R,Troy Balderson,86
+Morrow,CARDINGTON VILLAGE W,AAG,U.S. House,12,G,Joe Manchik,2
+Morrow,CARDINGTON VILLAGE W,AAG,U.S. House,12,D,Danny O'Connor,51
+Morrow,CHESTER TWP EAST,AAH,U.S. House,12,R,Troy Balderson,162
+Morrow,CHESTER TWP EAST,AAH,U.S. House,12,G,Joe Manchik,0
+Morrow,CHESTER TWP EAST,AAH,U.S. House,12,D,Danny O'Connor,42
+Morrow,CHESTER TWP WEST,AAI,U.S. House,12,R,Troy Balderson,105
+Morrow,CHESTER TWP WEST,AAI,U.S. House,12,G,Joe Manchik,3
+Morrow,CHESTER TWP WEST,AAI,U.S. House,12,D,Danny O'Connor,51
+Morrow,CONGRESS TWP EAST,AAJ,U.S. House,12,R,Troy Balderson,274
+Morrow,CONGRESS TWP EAST,AAJ,U.S. House,12,G,Joe Manchik,1
+Morrow,CONGRESS TWP EAST,AAJ,U.S. House,12,D,Danny O'Connor,59
+Morrow,CONGRESS TWP WEST,AAK,U.S. House,12,R,Troy Balderson,297
+Morrow,CONGRESS TWP WEST,AAK,U.S. House,12,G,Joe Manchik,4
+Morrow,CONGRESS TWP WEST,AAK,U.S. House,12,D,Danny O'Connor,119
+Morrow,FRANKLIN TWP,AAL,U.S. House,12,R,Troy Balderson,283
+Morrow,FRANKLIN TWP,AAL,U.S. House,12,G,Joe Manchik,5
+Morrow,FRANKLIN TWP,AAL,U.S. House,12,D,Danny O'Connor,98
+Morrow,EDISON VILLAGE,AAM,U.S. House,12,R,Troy Balderson,48
+Morrow,EDISON VILLAGE,AAM,U.S. House,12,G,Joe Manchik,1
+Morrow,EDISON VILLAGE,AAM,U.S. House,12,D,Danny O'Connor,26
+Morrow,GILEAD TWP NE,AAN,U.S. House,12,R,Troy Balderson,132
+Morrow,GILEAD TWP NE,AAN,U.S. House,12,G,Joe Manchik,0
+Morrow,GILEAD TWP NE,AAN,U.S. House,12,D,Danny O'Connor,42
+Morrow,GILEAD TWP SE,AAO,U.S. House,12,R,Troy Balderson,138
+Morrow,GILEAD TWP SE,AAO,U.S. House,12,G,Joe Manchik,2
+Morrow,GILEAD TWP SE,AAO,U.S. House,12,D,Danny O'Connor,67
+Morrow,GILEAD TWP W,AAP,U.S. House,12,R,Troy Balderson,154
+Morrow,GILEAD TWP W,AAP,U.S. House,12,G,Joe Manchik,1
+Morrow,GILEAD TWP W,AAP,U.S. House,12,D,Danny O'Connor,69
+Morrow,MT GILEAD VILLAGE E,AAQ,U.S. House,12,R,Troy Balderson,89
+Morrow,MT GILEAD VILLAGE E,AAQ,U.S. House,12,G,Joe Manchik,1
+Morrow,MT GILEAD VILLAGE E,AAQ,U.S. House,12,D,Danny O'Connor,58
+Morrow,MT GILEAD VILLAGE N,AAR,U.S. House,12,R,Troy Balderson,106
+Morrow,MT GILEAD VILLAGE N,AAR,U.S. House,12,G,Joe Manchik,2
+Morrow,MT GILEAD VILLAGE N,AAR,U.S. House,12,D,Danny O'Connor,74
+Morrow,MT GILEAD VILLAGE NW,AAS,U.S. House,12,R,Troy Balderson,134
+Morrow,MT GILEAD VILLAGE NW,AAS,U.S. House,12,G,Joe Manchik,1
+Morrow,MT GILEAD VILLAGE NW,AAS,U.S. House,12,D,Danny O'Connor,77
+Morrow,MT GILEAD VILLAGE SW,AAT,U.S. House,12,R,Troy Balderson,67
+Morrow,MT GILEAD VILLAGE SW,AAT,U.S. House,12,G,Joe Manchik,1
+Morrow,MT GILEAD VILLAGE SW,AAT,U.S. House,12,D,Danny O'Connor,36
+Morrow,HARMONY TWP N,AAV,U.S. House,12,R,Troy Balderson,158
+Morrow,HARMONY TWP N,AAV,U.S. House,12,G,Joe Manchik,1
+Morrow,HARMONY TWP N,AAV,U.S. House,12,D,Danny O'Connor,74
+Morrow,LINCOLN TWP E,AAW,U.S. House,12,R,Troy Balderson,107
+Morrow,LINCOLN TWP E,AAW,U.S. House,12,G,Joe Manchik,0
+Morrow,LINCOLN TWP E,AAW,U.S. House,12,D,Danny O'Connor,54
+Morrow,LINCOLN TWP W,AAX,U.S. House,12,R,Troy Balderson,138
+Morrow,LINCOLN TWP W,AAX,U.S. House,12,G,Joe Manchik,4
+Morrow,LINCOLN TWP W,AAX,U.S. House,12,D,Danny O'Connor,62
+Morrow,N BLOOMFIELD TWP E,AAY,U.S. House,12,R,Troy Balderson,151
+Morrow,N BLOOMFIELD TWP E,AAY,U.S. House,12,G,Joe Manchik,1
+Morrow,N BLOOMFIELD TWP E,AAY,U.S. House,12,D,Danny O'Connor,55
+Morrow,N BLOOMFIELD TWP W,AAZ,U.S. House,12,R,Troy Balderson,125
+Morrow,N BLOOMFIELD TWP W,AAZ,U.S. House,12,G,Joe Manchik,0
+Morrow,N BLOOMFIELD TWP W,AAZ,U.S. House,12,D,Danny O'Connor,40
+Morrow,PERRY TWP N,ABA,U.S. House,12,R,Troy Balderson,138
+Morrow,PERRY TWP N,ABA,U.S. House,12,G,Joe Manchik,0
+Morrow,PERRY TWP N,ABA,U.S. House,12,D,Danny O'Connor,37
+Morrow,PERRY TWP S,ABB,U.S. House,12,R,Troy Balderson,85
+Morrow,PERRY TWP S,ABB,U.S. House,12,G,Joe Manchik,0
+Morrow,PERRY TWP S,ABB,U.S. House,12,D,Danny O'Connor,31
+Morrow,PERU TWP,ABC,U.S. House,12,R,Troy Balderson,270
+Morrow,PERU TWP,ABC,U.S. House,12,G,Joe Manchik,7
+Morrow,PERU TWP,ABC,U.S. House,12,D,Danny O'Connor,105
+Morrow,S BLOOMFIELD TWP E,ABD,U.S. House,12,R,Troy Balderson,177
+Morrow,S BLOOMFIELD TWP E,ABD,U.S. House,12,G,Joe Manchik,1
+Morrow,S BLOOMFIELD TWP E,ABD,U.S. House,12,D,Danny O'Connor,49
+Morrow,S BLOOMFIELD TWP W,ABE,U.S. House,12,R,Troy Balderson,154
+Morrow,S BLOOMFIELD TWP W,ABE,U.S. House,12,G,Joe Manchik,4
+Morrow,S BLOOMFIELD TWP W,ABE,U.S. House,12,D,Danny O'Connor,63
+Morrow,TROY TWP,ABF,U.S. House,12,R,Troy Balderson,182
+Morrow,TROY TWP,ABF,U.S. House,12,G,Joe Manchik,5
+Morrow,TROY TWP,ABF,U.S. House,12,D,Danny O'Connor,73
+Morrow,WASHINGTON TWP,ABH,U.S. House,12,R,Troy Balderson,177
+Morrow,WASHINGTON TWP,ABH,U.S. House,12,G,Joe Manchik,0
+Morrow,WASHINGTON TWP,ABH,U.S. House,12,D,Danny O'Connor,78
+Morrow,WESTFIELD TWP,ABI,U.S. House,12,R,Troy Balderson,209
+Morrow,WESTFIELD TWP,ABI,U.S. House,12,G,Joe Manchik,1
+Morrow,WESTFIELD TWP,ABI,U.S. House,12,D,Danny O'Connor,87
+Morrow,HARMONY TWP S,ABJ,U.S. House,12,R,Troy Balderson,199
+Morrow,HARMONY TWP S,ABJ,U.S. House,12,G,Joe Manchik,7
+Morrow,HARMONY TWP S,ABJ,U.S. House,12,D,Danny O'Connor,92
+Muskingum,PRECINCT ZANESVILLE 1-A,AAA,U.S. House,12,R,Troy Balderson,103
+Muskingum,PRECINCT ZANESVILLE 1-A,AAA,U.S. House,12,G,Joe Manchik,3
+Muskingum,PRECINCT ZANESVILLE 1-A,AAA,U.S. House,12,D,Danny O'Connor,71
+Muskingum,PRECINCT ZANESVILLE 1-B,AAB,U.S. House,12,R,Troy Balderson,127
+Muskingum,PRECINCT ZANESVILLE 1-B,AAB,U.S. House,12,G,Joe Manchik,5
+Muskingum,PRECINCT ZANESVILLE 1-B,AAB,U.S. House,12,D,Danny O'Connor,92
+Muskingum,PRECINCT ZANESVILLE 2-A,AAE,U.S. House,12,R,Troy Balderson,184
+Muskingum,PRECINCT ZANESVILLE 2-A,AAE,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT ZANESVILLE 2-A,AAE,U.S. House,12,D,Danny O'Connor,125
+Muskingum,PRECINCT ZANESVILLE 2-B,AAF,U.S. House,12,R,Troy Balderson,96
+Muskingum,PRECINCT ZANESVILLE 2-B,AAF,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT ZANESVILLE 2-B,AAF,U.S. House,12,D,Danny O'Connor,128
+Muskingum,PRECINCT ZANESVILLE 3-A,AAI,U.S. House,12,R,Troy Balderson,108
+Muskingum,PRECINCT ZANESVILLE 3-A,AAI,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT ZANESVILLE 3-A,AAI,U.S. House,12,D,Danny O'Connor,101
+Muskingum,PRECINCT ZANESVILLE 3-B,AAJ,U.S. House,12,R,Troy Balderson,61
+Muskingum,PRECINCT ZANESVILLE 3-B,AAJ,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT ZANESVILLE 3-B,AAJ,U.S. House,12,D,Danny O'Connor,134
+Muskingum,PRECINCT ZANESVILLE 4-A,AAL,U.S. House,12,R,Troy Balderson,77
+Muskingum,PRECINCT ZANESVILLE 4-A,AAL,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT ZANESVILLE 4-A,AAL,U.S. House,12,D,Danny O'Connor,137
+Muskingum,PRECINCT ZANESVILLE 4-B,AAN,U.S. House,12,R,Troy Balderson,200
+Muskingum,PRECINCT ZANESVILLE 4-B,AAN,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT ZANESVILLE 4-B,AAN,U.S. House,12,D,Danny O'Connor,154
+Muskingum,PRECINCT ZANESVILLE 5-A,AAO,U.S. House,12,R,Troy Balderson,222
+Muskingum,PRECINCT ZANESVILLE 5-A,AAO,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT ZANESVILLE 5-A,AAO,U.S. House,12,D,Danny O'Connor,147
+Muskingum,PRECINCT ZANESVILLE 5-B,AAQ,U.S. House,12,R,Troy Balderson,107
+Muskingum,PRECINCT ZANESVILLE 5-B,AAQ,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT ZANESVILLE 5-B,AAQ,U.S. House,12,D,Danny O'Connor,92
+Muskingum,PRECINCT ZANESVILLE 6-A,AAS,U.S. House,12,R,Troy Balderson,156
+Muskingum,PRECINCT ZANESVILLE 6-A,AAS,U.S. House,12,G,Joe Manchik,6
+Muskingum,PRECINCT ZANESVILLE 6-A,AAS,U.S. House,12,D,Danny O'Connor,101
+Muskingum,PRECINCT ZANESVILLE 6-B,AAT,U.S. House,12,R,Troy Balderson,220
+Muskingum,PRECINCT ZANESVILLE 6-B,AAT,U.S. House,12,G,Joe Manchik,1
+Muskingum,PRECINCT ZANESVILLE 6-B,AAT,U.S. House,12,D,Danny O'Connor,156
+Muskingum,PRECINCT ZANESVILLE 6-C,AAU,U.S. House,12,R,Troy Balderson,233
+Muskingum,PRECINCT ZANESVILLE 6-C,AAU,U.S. House,12,G,Joe Manchik,3
+Muskingum,PRECINCT ZANESVILLE 6-C,AAU,U.S. House,12,D,Danny O'Connor,82
+Muskingum,PRECINCT BLUE ROCK,AAY,U.S. House,12,R,Troy Balderson,101
+Muskingum,PRECINCT BLUE ROCK,AAY,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT BLUE ROCK,AAY,U.S. House,12,D,Danny O'Connor,45
+Muskingum,PRECINCT BRUSH CREEK,AAZ,U.S. House,12,R,Troy Balderson,147
+Muskingum,PRECINCT BRUSH CREEK,AAZ,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT BRUSH CREEK,AAZ,U.S. House,12,D,Danny O'Connor,53
+Muskingum,PRECINCT CLAY,ABC,U.S. House,12,R,Troy Balderson,89
+Muskingum,PRECINCT CLAY,ABC,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT CLAY,ABC,U.S. House,12,D,Danny O'Connor,41
+Muskingum,PRECINCT FALLS A,ABD,U.S. House,12,R,Troy Balderson,250
+Muskingum,PRECINCT FALLS A,ABD,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT FALLS A,ABD,U.S. House,12,D,Danny O'Connor,110
+Muskingum,PRECINCT FALLS B,ABE,U.S. House,12,R,Troy Balderson,297
+Muskingum,PRECINCT FALLS B,ABE,U.S. House,12,G,Joe Manchik,3
+Muskingum,PRECINCT FALLS B,ABE,U.S. House,12,D,Danny O'Connor,147
+Muskingum,PRECINCT FALLS C,ABF,U.S. House,12,R,Troy Balderson,148
+Muskingum,PRECINCT FALLS C,ABF,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT FALLS C,ABF,U.S. House,12,D,Danny O'Connor,68
+Muskingum,PRECINCT FALLS D,ABG,U.S. House,12,R,Troy Balderson,429
+Muskingum,PRECINCT FALLS D,ABG,U.S. House,12,G,Joe Manchik,5
+Muskingum,PRECINCT FALLS D,ABG,U.S. House,12,D,Danny O'Connor,139
+Muskingum,PRECINCT FALLS E,ABH,U.S. House,12,R,Troy Balderson,307
+Muskingum,PRECINCT FALLS E,ABH,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT FALLS E,ABH,U.S. House,12,D,Danny O'Connor,145
+Muskingum,PRECINCT FALLS G,ABJ,U.S. House,12,R,Troy Balderson,178
+Muskingum,PRECINCT FALLS G,ABJ,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT FALLS G,ABJ,U.S. House,12,D,Danny O'Connor,71
+Muskingum,PRECINCT FALLS F,ABL,U.S. House,12,R,Troy Balderson,164
+Muskingum,PRECINCT FALLS F,ABL,U.S. House,12,G,Joe Manchik,1
+Muskingum,PRECINCT FALLS F,ABL,U.S. House,12,D,Danny O'Connor,62
+Muskingum,PRECINCT FALLS H,ABM,U.S. House,12,R,Troy Balderson,168
+Muskingum,PRECINCT FALLS H,ABM,U.S. House,12,G,Joe Manchik,1
+Muskingum,PRECINCT FALLS H,ABM,U.S. House,12,D,Danny O'Connor,79
+Muskingum,PRECINCT HARRISON,ABN,U.S. House,12,R,Troy Balderson,205
+Muskingum,PRECINCT HARRISON,ABN,U.S. House,12,G,Joe Manchik,5
+Muskingum,PRECINCT HARRISON,ABN,U.S. House,12,D,Danny O'Connor,68
+Muskingum,PRECINCT HOPEWELL A,ABQ,U.S. House,12,R,Troy Balderson,190
+Muskingum,PRECINCT HOPEWELL A,ABQ,U.S. House,12,G,Joe Manchik,6
+Muskingum,PRECINCT HOPEWELL A,ABQ,U.S. House,12,D,Danny O'Connor,59
+Muskingum,PRECINCT HOPEWELL B,ABR,U.S. House,12,R,Troy Balderson,195
+Muskingum,PRECINCT HOPEWELL B,ABR,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT HOPEWELL B,ABR,U.S. House,12,D,Danny O'Connor,76
+Muskingum,PRECINCT HOPEWELL C,ABS,U.S. House,12,R,Troy Balderson,238
+Muskingum,PRECINCT HOPEWELL C,ABS,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT HOPEWELL C,ABS,U.S. House,12,D,Danny O'Connor,71
+Muskingum,PRECINCT MEIGS,ACA,U.S. House,12,R,Troy Balderson,37
+Muskingum,PRECINCT MEIGS,ACA,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT MEIGS,ACA,U.S. House,12,D,Danny O'Connor,6
+Muskingum,PRECINCT FULTONHAM,ACF,U.S. House,12,R,Troy Balderson,108
+Muskingum,PRECINCT FULTONHAM,ACF,U.S. House,12,G,Joe Manchik,1
+Muskingum,PRECINCT FULTONHAM,ACF,U.S. House,12,D,Danny O'Connor,40
+Muskingum,PRECINCT IRONSPOT,ACG,U.S. House,12,R,Troy Balderson,63
+Muskingum,PRECINCT IRONSPOT,ACG,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT IRONSPOT,ACG,U.S. House,12,D,Danny O'Connor,23
+Muskingum,PRECINCT MOXAHALA,ACH,U.S. House,12,R,Troy Balderson,146
+Muskingum,PRECINCT MOXAHALA,ACH,U.S. House,12,G,Joe Manchik,3
+Muskingum,PRECINCT MOXAHALA,ACH,U.S. House,12,D,Danny O'Connor,63
+Muskingum,PRECINCT ROLLING PLAINS,ACI,U.S. House,12,R,Troy Balderson,187
+Muskingum,PRECINCT ROLLING PLAINS,ACI,U.S. House,12,G,Joe Manchik,1
+Muskingum,PRECINCT ROLLING PLAINS,ACI,U.S. House,12,D,Danny O'Connor,63
+Muskingum,PRECINCT WHITE COTTAGE,ACJ,U.S. House,12,R,Troy Balderson,206
+Muskingum,PRECINCT WHITE COTTAGE,ACJ,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT WHITE COTTAGE,ACJ,U.S. House,12,D,Danny O'Connor,48
+Muskingum,PRECINCT RICH HILL,ACM,U.S. House,12,R,Troy Balderson,120
+Muskingum,PRECINCT RICH HILL,ACM,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT RICH HILL,ACM,U.S. House,12,D,Danny O'Connor,29
+Muskingum,PRECINCT SALT CREEK,ACO,U.S. House,12,R,Troy Balderson,209
+Muskingum,PRECINCT SALT CREEK,ACO,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT SALT CREEK,ACO,U.S. House,12,D,Danny O'Connor,71
+Muskingum,PRECINCT SPRINGFIELD A,ACP,U.S. House,12,R,Troy Balderson,151
+Muskingum,PRECINCT SPRINGFIELD A,ACP,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT SPRINGFIELD A,ACP,U.S. House,12,D,Danny O'Connor,82
+Muskingum,PRECINCT SPRINGFIELD B,ACQ,U.S. House,12,R,Troy Balderson,257
+Muskingum,PRECINCT SPRINGFIELD B,ACQ,U.S. House,12,G,Joe Manchik,3
+Muskingum,PRECINCT SPRINGFIELD B,ACQ,U.S. House,12,D,Danny O'Connor,100
+Muskingum,PRECINCT SPRINGFIELD C,ACR,U.S. House,12,R,Troy Balderson,125
+Muskingum,PRECINCT SPRINGFIELD C,ACR,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT SPRINGFIELD C,ACR,U.S. House,12,D,Danny O'Connor,39
+Muskingum,PRECINCT SOUTH ZANESVILLE,ACT,U.S. House,12,R,Troy Balderson,167
+Muskingum,PRECINCT SOUTH ZANESVILLE,ACT,U.S. House,12,G,Joe Manchik,0
+Muskingum,PRECINCT SOUTH ZANESVILLE,ACT,U.S. House,12,D,Danny O'Connor,96
+Muskingum,PRECINCT DUNCAN FALLS,ADD,U.S. House,12,R,Troy Balderson,205
+Muskingum,PRECINCT DUNCAN FALLS,ADD,U.S. House,12,G,Joe Manchik,4
+Muskingum,PRECINCT DUNCAN FALLS,ADD,U.S. House,12,D,Danny O'Connor,98
+Muskingum,PRECINCT WAYNE A,ADE,U.S. House,12,R,Troy Balderson,117
+Muskingum,PRECINCT WAYNE A,ADE,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT WAYNE A,ADE,U.S. House,12,D,Danny O'Connor,63
+Muskingum,PRECINCT WAYNE B,ADF,U.S. House,12,R,Troy Balderson,231
+Muskingum,PRECINCT WAYNE B,ADF,U.S. House,12,G,Joe Manchik,1
+Muskingum,PRECINCT WAYNE B,ADF,U.S. House,12,D,Danny O'Connor,76
+Muskingum,PRECINCT WAYNE C,ADG,U.S. House,12,R,Troy Balderson,273
+Muskingum,PRECINCT WAYNE C,ADG,U.S. House,12,G,Joe Manchik,2
+Muskingum,PRECINCT WAYNE C,ADG,U.S. House,12,D,Danny O'Connor,74
+Muskingum,PRECINCT ZANESVILLE 5-C,ADH,U.S. House,12,R,Troy Balderson,326
+Muskingum,PRECINCT ZANESVILLE 5-C,ADH,U.S. House,12,G,Joe Manchik,1
+Muskingum,PRECINCT ZANESVILLE 5-C,ADH,U.S. House,12,D,Danny O'Connor,177
+Richland,MAN 1 - A,AAA,U.S. House,12,R,Troy Balderson,238
+Richland,MAN 1 - A,AAA,U.S. House,12,G,Joe Manchik,3
+Richland,MAN 1 - A,AAA,U.S. House,12,D,Danny O'Connor,113
+Richland,MAN 1 - B,AAB,U.S. House,12,R,Troy Balderson,257
+Richland,MAN 1 - B,AAB,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 1 - B,AAB,U.S. House,12,D,Danny O'Connor,110
+Richland,MAN 1 - C,AAC,U.S. House,12,R,Troy Balderson,133
+Richland,MAN 1 - C,AAC,U.S. House,12,G,Joe Manchik,0
+Richland,MAN 1 - C,AAC,U.S. House,12,D,Danny O'Connor,81
+Richland,MAN 1 - D,AAD,U.S. House,12,R,Troy Balderson,262
+Richland,MAN 1 - D,AAD,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 1 - D,AAD,U.S. House,12,D,Danny O'Connor,200
+Richland,MAN 1 - E,AAE,U.S. House,12,R,Troy Balderson,255
+Richland,MAN 1 - E,AAE,U.S. House,12,G,Joe Manchik,6
+Richland,MAN 1 - E,AAE,U.S. House,12,D,Danny O'Connor,179
+Richland,MAN 1 - F,AAF,U.S. House,12,R,Troy Balderson,158
+Richland,MAN 1 - F,AAF,U.S. House,12,G,Joe Manchik,4
+Richland,MAN 1 - F,AAF,U.S. House,12,D,Danny O'Connor,100
+Richland,MAN 2 - A,AAG,U.S. House,12,R,Troy Balderson,137
+Richland,MAN 2 - A,AAG,U.S. House,12,G,Joe Manchik,4
+Richland,MAN 2 - A,AAG,U.S. House,12,D,Danny O'Connor,122
+Richland,MAN 2 - B,AAH,U.S. House,12,R,Troy Balderson,114
+Richland,MAN 2 - B,AAH,U.S. House,12,G,Joe Manchik,5
+Richland,MAN 2 - B,AAH,U.S. House,12,D,Danny O'Connor,101
+Richland,MAN 2 - C,AAI,U.S. House,12,R,Troy Balderson,50
+Richland,MAN 2 - C,AAI,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 2 - C,AAI,U.S. House,12,D,Danny O'Connor,62
+Richland,MAN 2 - D,AAJ,U.S. House,12,R,Troy Balderson,274
+Richland,MAN 2 - D,AAJ,U.S. House,12,G,Joe Manchik,0
+Richland,MAN 2 - D,AAJ,U.S. House,12,D,Danny O'Connor,187
+Richland,MAN 2 - E,AAK,U.S. House,12,R,Troy Balderson,248
+Richland,MAN 2 - E,AAK,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 2 - E,AAK,U.S. House,12,D,Danny O'Connor,209
+Richland,MAN 2 - F,AAL,U.S. House,12,R,Troy Balderson,219
+Richland,MAN 2 - F,AAL,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 2 - F,AAL,U.S. House,12,D,Danny O'Connor,146
+Richland,MAN 3 - A,AAM,U.S. House,12,R,Troy Balderson,60
+Richland,MAN 3 - A,AAM,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 3 - A,AAM,U.S. House,12,D,Danny O'Connor,94
+Richland,MAN 3 - B,AAN,U.S. House,12,R,Troy Balderson,109
+Richland,MAN 3 - B,AAN,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 3 - B,AAN,U.S. House,12,D,Danny O'Connor,147
+Richland,MAN 3 - C,AAO,U.S. House,12,R,Troy Balderson,146
+Richland,MAN 3 - C,AAO,U.S. House,12,G,Joe Manchik,3
+Richland,MAN 3 - C,AAO,U.S. House,12,D,Danny O'Connor,170
+Richland,MAN 3 - D,AAP,U.S. House,12,R,Troy Balderson,136
+Richland,MAN 3 - D,AAP,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 3 - D,AAP,U.S. House,12,D,Danny O'Connor,205
+Richland,MAN 3 - E,AAQ,U.S. House,12,R,Troy Balderson,189
+Richland,MAN 3 - E,AAQ,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 3 - E,AAQ,U.S. House,12,D,Danny O'Connor,179
+Richland,MAN 4 - A,AAR,U.S. House,12,R,Troy Balderson,95
+Richland,MAN 4 - A,AAR,U.S. House,12,G,Joe Manchik,1
+Richland,MAN 4 - A,AAR,U.S. House,12,D,Danny O'Connor,69
+Richland,MAN 4 - B,AAS,U.S. House,12,R,Troy Balderson,70
+Richland,MAN 4 - B,AAS,U.S. House,12,G,Joe Manchik,4
+Richland,MAN 4 - B,AAS,U.S. House,12,D,Danny O'Connor,132
+Richland,MAN 4 - C,AAT,U.S. House,12,R,Troy Balderson,44
+Richland,MAN 4 - C,AAT,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 4 - C,AAT,U.S. House,12,D,Danny O'Connor,150
+Richland,MAN 4 - D,AAU,U.S. House,12,R,Troy Balderson,38
+Richland,MAN 4 - D,AAU,U.S. House,12,G,Joe Manchik,3
+Richland,MAN 4 - D,AAU,U.S. House,12,D,Danny O'Connor,97
+Richland,MAN 4 - E,AAV,U.S. House,12,R,Troy Balderson,32
+Richland,MAN 4 - E,AAV,U.S. House,12,G,Joe Manchik,3
+Richland,MAN 4 - E,AAV,U.S. House,12,D,Danny O'Connor,140
+Richland,MAN 5 - A,AAW,U.S. House,12,R,Troy Balderson,60
+Richland,MAN 5 - A,AAW,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 5 - A,AAW,U.S. House,12,D,Danny O'Connor,66
+Richland,MAN 5 - B,AAX,U.S. House,12,R,Troy Balderson,19
+Richland,MAN 5 - B,AAX,U.S. House,12,G,Joe Manchik,0
+Richland,MAN 5 - B,AAX,U.S. House,12,D,Danny O'Connor,112
+Richland,MAN 6 - A,AAY,U.S. House,12,R,Troy Balderson,37
+Richland,MAN 6 - A,AAY,U.S. House,12,G,Joe Manchik,2
+Richland,MAN 6 - A,AAY,U.S. House,12,D,Danny O'Connor,115
+Richland,MAN 6 - B,AAZ,U.S. House,12,R,Troy Balderson,29
+Richland,MAN 6 - B,AAZ,U.S. House,12,G,Joe Manchik,1
+Richland,MAN 6 - B,AAZ,U.S. House,12,D,Danny O'Connor,69
+Richland,MAN 6 - C,ABA,U.S. House,12,R,Troy Balderson,67
+Richland,MAN 6 - C,ABA,U.S. House,12,G,Joe Manchik,0
+Richland,MAN 6 - C,ABA,U.S. House,12,D,Danny O'Connor,49
+Richland,MAN 6 - D,ABB,U.S. House,12,R,Troy Balderson,78
+Richland,MAN 6 - D,ABB,U.S. House,12,G,Joe Manchik,1
+Richland,MAN 6 - D,ABB,U.S. House,12,D,Danny O'Connor,150
+Richland,MAN 6 - E,ABC,U.S. House,12,R,Troy Balderson,143
+Richland,MAN 6 - E,ABC,U.S. House,12,G,Joe Manchik,3
+Richland,MAN 6 - E,ABC,U.S. House,12,D,Danny O'Connor,115
+Richland,FRANK,ABO,U.S. House,12,R,Troy Balderson,0
+Richland,FRANK,ABO,U.S. House,12,G,Joe Manchik,0
+Richland,FRANK,ABO,U.S. House,12,D,Danny O'Connor,0
+Richland,JEFF A,ABR,U.S. House,12,R,Troy Balderson,372
+Richland,JEFF A,ABR,U.S. House,12,G,Joe Manchik,5
+Richland,JEFF A,ABR,U.S. House,12,D,Danny O'Connor,129
+Richland,JEFF C,ABS,U.S. House,12,R,Troy Balderson,207
+Richland,JEFF C,ABS,U.S. House,12,G,Joe Manchik,1
+Richland,JEFF C,ABS,U.S. House,12,D,Danny O'Connor,54
+Richland,JEFF D,ABT,U.S. House,12,R,Troy Balderson,300
+Richland,JEFF D,ABT,U.S. House,12,G,Joe Manchik,3
+Richland,JEFF D,ABT,U.S. House,12,D,Danny O'Connor,98
+Richland,MAD D,ABV,U.S. House,12,R,Troy Balderson,122
+Richland,MAD D,ABV,U.S. House,12,G,Joe Manchik,2
+Richland,MAD D,ABV,U.S. House,12,D,Danny O'Connor,71
+Richland,MAD E,ABW,U.S. House,12,R,Troy Balderson,19
+Richland,MAD E,ABW,U.S. House,12,G,Joe Manchik,0
+Richland,MAD E,ABW,U.S. House,12,D,Danny O'Connor,14
+Richland,MAD G,ABX,U.S. House,12,R,Troy Balderson,58
+Richland,MAD G,ABX,U.S. House,12,G,Joe Manchik,1
+Richland,MAD G,ABX,U.S. House,12,D,Danny O'Connor,37
+Richland,MAD I,ABY,U.S. House,12,R,Troy Balderson,71
+Richland,MAD I,ABY,U.S. House,12,G,Joe Manchik,1
+Richland,MAD I,ABY,U.S. House,12,D,Danny O'Connor,46
+Richland,PERRY,ACI,U.S. House,12,R,Troy Balderson,199
+Richland,PERRY,ACI,U.S. House,12,G,Joe Manchik,4
+Richland,PERRY,ACI,U.S. House,12,D,Danny O'Connor,49
+Richland,LEX B,ACU,U.S. House,12,R,Troy Balderson,180
+Richland,LEX B,ACU,U.S. House,12,G,Joe Manchik,5
+Richland,LEX B,ACU,U.S. House,12,D,Danny O'Connor,104
+Richland,LEX C,ACV,U.S. House,12,R,Troy Balderson,270
+Richland,LEX C,ACV,U.S. House,12,G,Joe Manchik,5
+Richland,LEX C,ACV,U.S. House,12,D,Danny O'Connor,87
+Richland,LEX E,ACW,U.S. House,12,R,Troy Balderson,281
+Richland,LEX E,ACW,U.S. House,12,G,Joe Manchik,2
+Richland,LEX E,ACW,U.S. House,12,D,Danny O'Connor,159
+Richland,TROY A,ACX,U.S. House,12,R,Troy Balderson,235
+Richland,TROY A,ACX,U.S. House,12,G,Joe Manchik,2
+Richland,TROY A,ACX,U.S. House,12,D,Danny O'Connor,89
+Richland,TROY B,ACY,U.S. House,12,R,Troy Balderson,270
+Richland,TROY B,ACY,U.S. House,12,G,Joe Manchik,5
+Richland,TROY B,ACY,U.S. House,12,D,Danny O'Connor,107
+Richland,WASH A,ACZ,U.S. House,12,R,Troy Balderson,208
+Richland,WASH A,ACZ,U.S. House,12,G,Joe Manchik,2
+Richland,WASH A,ACZ,U.S. House,12,D,Danny O'Connor,64
+Richland,WASH B,ADA,U.S. House,12,R,Troy Balderson,194
+Richland,WASH B,ADA,U.S. House,12,G,Joe Manchik,3
+Richland,WASH B,ADA,U.S. House,12,D,Danny O'Connor,113
+Richland,WASH C,ADB,U.S. House,12,R,Troy Balderson,255
+Richland,WASH C,ADB,U.S. House,12,G,Joe Manchik,1
+Richland,WASH C,ADB,U.S. House,12,D,Danny O'Connor,130
+Richland,WASH D,ADC,U.S. House,12,R,Troy Balderson,197
+Richland,WASH D,ADC,U.S. House,12,G,Joe Manchik,1
+Richland,WASH D,ADC,U.S. House,12,D,Danny O'Connor,84
+Richland,WASH F,ADE,U.S. House,12,R,Troy Balderson,285
+Richland,WASH F,ADE,U.S. House,12,G,Joe Manchik,0
+Richland,WASH F,ADE,U.S. House,12,D,Danny O'Connor,99
+Richland,WORTH A,ADG,U.S. House,12,R,Troy Balderson,113
+Richland,WORTH A,ADG,U.S. House,12,G,Joe Manchik,0
+Richland,WORTH A,ADG,U.S. House,12,D,Danny O'Connor,47
+Richland,WORTH B,ADH,U.S. House,12,R,Troy Balderson,281
+Richland,WORTH B,ADH,U.S. House,12,G,Joe Manchik,0
+Richland,WORTH B,ADH,U.S. House,12,D,Danny O'Connor,133
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Delaware,PRECINCT COLUMBUS CITY A,AAA,,,,Registered Voters,633
+Delaware,PRECINCT DELAWARE CITY 1-A,AAB,,,,Registered Voters,858
+Delaware,PRECINCT DELAWARE CITY 1-B,AAC,,,,Registered Voters,"1,220"
+Delaware,PRECINCT DELAWARE CITY 1-C,AAD,,,,Registered Voters,"1,152"
+Delaware,PRECINCT DELAWARE CITY 1-D,AAE,,,,Registered Voters,802
+Delaware,PRECINCT DELAWARE CITY 1-E,AAF,,,,Registered Voters,555
+Delaware,PRECINCT DELAWARE CITY 1-F,AAG,,,,Registered Voters,737
+Delaware,PRECINCT DELAWARE CITY 1-G,AAH,,,,Registered Voters,914
+Delaware,PRECINCT DELAWARE CITY 2-A,AAI,,,,Registered Voters,"1,259"
+Delaware,PRECINCT DELAWARE CITY 2-B,AAJ,,,,Registered Voters,"1,229"
+Delaware,PRECINCT DELAWARE CITY 2-C,AAK,,,,Registered Voters,969
+Delaware,PRECINCT DELAWARE CITY 2-D,AAL,,,,Registered Voters,726
+Delaware,PRECINCT DELAWARE CITY 3-A,AAM,,,,Registered Voters,"1,169"
+Delaware,PRECINCT DELAWARE CITY 3-B,AAN,,,,Registered Voters,"1,110"
+Delaware,PRECINCT DELAWARE CITY 3-C,AAO,,,,Registered Voters,765
+Delaware,PRECINCT DELAWARE CITY 3-D,AAP,,,,Registered Voters,887
+Delaware,PRECINCT DELAWARE CITY 3-E,AAQ,,,,Registered Voters,863
+Delaware,PRECINCT DELAWARE CITY 4-A,AAR,,,,Registered Voters,"1,104"
+Delaware,PRECINCT DELAWARE CITY 4-B,AAS,,,,Registered Voters,"1,033"
+Delaware,PRECINCT DELAWARE CITY 4-C,AAT,,,,Registered Voters,930
+Delaware,PRECINCT DELAWARE CITY 4-D,AAU,,,,Registered Voters,667
+Delaware,PRECINCT DELAWARE CITY 4-E,AAV,,,,Registered Voters,670
+Delaware,PRECINCT DELAWARE CITY 4-F,AAW,,,,Registered Voters,962
+Delaware,PRECINCT DUBLIN CITY A,AAY,,,,Registered Voters,669
+Delaware,PRECINCT DUBLIN CITY B,AAZ,,,,Registered Voters,701
+Delaware,PRECINCT DUBLIN CITY C,ABA,,,,Registered Voters,912
+Delaware,PRECINCT DUBLIN CITY D,ABB,,,,Registered Voters,943
+Delaware,PRECINCT WESTERVILLE CITY A,ABC,,,,Registered Voters,"1,136"
+Delaware,PRECINCT WESTERVILLE CITY B,ABD,,,,Registered Voters,651
+Delaware,PRECINCT WESTERVILLE CITY C,ABE,,,,Registered Voters,874
+Delaware,PRECINCT WESTERVILLE CITY D,ABF,,,,Registered Voters,993
+Delaware,PRECINCT WESTERVILLE CITY E,ABG,,,,Registered Voters,938
+Delaware,PRECINCT GALENA,ABH,,,,Registered Voters,625
+Delaware,PRECINCT BERKSHIRE A,ABI,,,,Registered Voters,498
+Delaware,PRECINCT BERKSHIRE B,ABJ,,,,Registered Voters,608
+Delaware,PRECINCT SUNBURY A,ABK,,,,Registered Voters,964
+Delaware,PRECINCT SUNBURY B,ABL,,,,Registered Voters,790
+Delaware,PRECINCT SUNBURY C,ABM,,,,Registered Voters,713
+Delaware,PRECINCT BERLIN A,ABN,,,,Registered Voters,"1,018"
+Delaware,PRECINCT BERLIN B,ABO,,,,Registered Voters,"1,278"
+Delaware,PRECINCT BERLIN C,ABP,,,,Registered Voters,707
+Delaware,PRECINCT BROWN,ABQ,,,,Registered Voters,"1,078"
+Delaware,PRECINCT CONCORD A,ABS,,,,Registered Voters,834
+Delaware,PRECINCT CONCORD B,ABT,,,,Registered Voters,774
+Delaware,PRECINCT CONCORD C,ABU,,,,Registered Voters,685
+Delaware,PRECINCT CONCORD D,ABV,,,,Registered Voters,410
+Delaware,PRECINCT SHAWNEE HILLS,ABW,,,,Registered Voters,604
+Delaware,PRECINCT DELAWARE A,ABX,,,,Registered Voters,562
+Delaware,PRECINCT DELAWARE B,ABY,,,,Registered Voters,"1,037"
+Delaware,PRECINCT GENOA A,ABZ,,,,Registered Voters,794
+Delaware,PRECINCT GENOA B,ACA,,,,Registered Voters,764
+Delaware,PRECINCT GENOA C,ACB,,,,Registered Voters,988
+Delaware,PRECINCT GENOA D,ACC,,,,Registered Voters,"1,065"
+Delaware,PRECINCT GENOA E,ACD,,,,Registered Voters,709
+Delaware,PRECINCT GENOA F,ACE,,,,Registered Voters,694
+Delaware,PRECINCT GENOA G,ACF,,,,Registered Voters,922
+Delaware,PRECINCT GENOA H,ACG,,,,Registered Voters,694
+Delaware,PRECINCT HARLEM A,ACH,,,,Registered Voters,851
+Delaware,PRECINCT HARLEM B,ACI,,,,Registered Voters,923
+Delaware,PRECINCT HARLEM C,ACJ,,,,Registered Voters,796
+Delaware,PRECINCT HARLEM D,ACK,,,,Registered Voters,500
+Delaware,PRECINCT KINGSTON A,ACL,,,,Registered Voters,863
+Delaware,PRECINCT KINGSTON B,ACM,,,,Registered Voters,812
+Delaware,PRECINCT LIBERTY A,ACN,,,,Registered Voters,"1,048"
+Delaware,PRECINCT LIBERTY B,ACO,,,,Registered Voters,703
+Delaware,PRECINCT LIBERTY C,ACP,,,,Registered Voters,850
+Delaware,PRECINCT LIBERTY D,ACQ,,,,Registered Voters,928
+Delaware,PRECINCT LIBERTY E,ACR,,,,Registered Voters,804
+Delaware,PRECINCT LIBERTY F,ACS,,,,Registered Voters,966
+Delaware,PRECINCT LIBERTY G,ACT,,,,Registered Voters,"1,231"
+Delaware,PRECINCT LIBERTY H,ACU,,,,Registered Voters,"1,200"
+Delaware,PRECINCT POWELL A,ACV,,,,Registered Voters,626
+Delaware,PRECINCT POWELL B,ACW,,,,Registered Voters,715
+Delaware,PRECINCT POWELL C,ACX,,,,Registered Voters,"1,046"
+Delaware,PRECINCT POWELL D,ACY,,,,Registered Voters,755
+Delaware,PRECINCT POWELL E,ACZ,,,,Registered Voters,"1,212"
+Delaware,PRECINCT MARLBORO,ADA,,,,Registered Voters,206
+Delaware,PRECINCT ORANGE A,ADB,,,,Registered Voters,900
+Delaware,PRECINCT ORANGE B,ADC,,,,Registered Voters,"1,039"
+Delaware,PRECINCT ORANGE C,ADD,,,,Registered Voters,794
+Delaware,PRECINCT ORANGE D,ADE,,,,Registered Voters,712
+Delaware,PRECINCT ORANGE E,ADF,,,,Registered Voters,913
+Delaware,PRECINCT ORANGE F,ADG,,,,Registered Voters,926
+Delaware,PRECINCT ORANGE G,ADH,,,,Registered Voters,"1,270"
+Delaware,PRECINCT ORANGE H,ADI,,,,Registered Voters,"1,161"
+Delaware,PRECINCT OXFORD,ADJ,,,,Registered Voters,646
+Delaware,PRECINCT ASHLEY,ADK,,,,Registered Voters,743
+Delaware,PRECINCT PORTER A,ADM,,,,Registered Voters,800
+Delaware,PRECINCT PORTER B,ADN,,,,Registered Voters,784
+Delaware,PRECINCT RADNOR,ADO,,,,Registered Voters,"1,210"
+Delaware,PRECINCT OSTRANDER,ADQ,,,,Registered Voters,603
+Delaware,PRECINCT SCIOTO A,ADR,,,,Registered Voters,"1,014"
+Delaware,PRECINCT SCIOTO B,ADS,,,,Registered Voters,917
+Delaware,PRECINCT THOMPSON,ADT,,,,Registered Voters,480
+Delaware,PRECINCT TRENTON A,ADU,,,,Registered Voters,785
+Delaware,PRECINCT TRENTON B,ADV,,,,Registered Voters,911
+Delaware,PRECINCT TROY A,ADW,,,,Registered Voters,676
+Delaware,PRECINCT TROY B,ADX,,,,Registered Voters,820
+Delaware,PRECINCT ORANGE I,ADZ,,,,Registered Voters,763
+Delaware,PRECINCT GENOA I,AEA,,,,Registered Voters,"1,132"
+Delaware,PRECINCT ORANGE J,AEB,,,,Registered Voters,"1,066"
+Delaware,PRECINCT COLUMBUS CITY B,AEC,,,,Registered Voters,981
+Delaware,PRECINCT WESTERVILLE CITY F,AED,,,,Registered Voters,653
+Delaware,PRECINCT GENOA J,AEE,,,,Registered Voters,870
+Delaware,PRECINCT GENOA K,AEF,,,,Registered Voters,"1,190"
+Delaware,PRECINCT LIBERTY I,AEG,,,,Registered Voters,673
+Delaware,PRECINCT COLUMBUS CITY C,AEH,,,,Registered Voters,"1,061"
+Delaware,PRECINCT GENOA L,AEI,,,,Registered Voters,"1,263"
+Delaware,PRECINCT GENOA M,AEJ,,,,Registered Voters,"1,212"
+Delaware,PRECINCT POWELL F,AEK,,,,Registered Voters,830
+Delaware,PRECINCT POWELL G,AEL,,,,Registered Voters,"1,128"
+Delaware,PRECINCT ORANGE K,AEM,,,,Registered Voters,764
+Delaware,PRECINCT BERLIN D,AEN,,,,Registered Voters,"1,048"
+Delaware,PRECINCT CONCORD E,AEO,,,,Registered Voters,628
+Delaware,PRECINCT LIBERTY J,AEP,,,,Registered Voters,728
+Delaware,PRECINCT LIBERTY K,AEQ,,,,Registered Voters,"1,018"
+Delaware,PRECINCT ORANGE L,AER,,,,Registered Voters,"1,075"
+Delaware,PRECINCT DELAWARE CITY 2-E,AES,,,,Registered Voters,528
+Delaware,PRECINCT DELAWARE CITY 2-F,AET,,,,Registered Voters,965
+Delaware,PRECINCT GENOA N,AEU,,,,Registered Voters,"1,121"
+Delaware,PRECINCT COLUMBUS CITY D,AEV,,,,Registered Voters,603
+Delaware,PRECINCT CONCORD F,AEW,,,,Registered Voters,"1,170"
+Delaware,PRECINCT GENOA O,AEX,,,,Registered Voters,982
+Delaware,PRECINCT POWELL H,AEY,,,,Registered Voters,861
+Delaware,PRECINCT ORANGE M,AEZ,,,,Registered Voters,669
+Delaware,PRECINCT ORANGE N,AFA,,,,Registered Voters,"1,033"
+Delaware,PRECINCT DELAWARE CITY 2-G,AFB,,,,Registered Voters,"1,071"
+Delaware,PRECINCT BERLIN E,AFC,,,,Registered Voters,916
+Delaware,PRECINCT DELAWARE CITY 3-F,AFE,,,,Registered Voters,"1,258"
+Delaware,PRECINCT GENOA P,AFF,,,,Registered Voters,"1,077"
+Delaware,PRECINCT CONCORD G,AFH,,,,Registered Voters,"1,047"
+Delaware,PRECINCT SUNBURY D,AFI,,,,Registered Voters,"1,164"
+Delaware,PRECINCT WESTERVILLE CITY G,AFJ,,,,Registered Voters,903
+Delaware,PRECINCT GENOA Q,AFK,,,,Registered Voters,"1,083"
+Delaware,PRECINCT LIBERTY L,AFL,,,,Registered Voters,"1,163"
+Delaware,PRECINCT ORANGE O,AFM,,,,Registered Voters,"1,016"
+Delaware,PRECINCT COLUMBUS CITY E,AFN,,,,Registered Voters,975
+Delaware,PRECINCT CONCORD H,AFO,,,,Registered Voters,934
+Delaware,PRECINCT GENOA R,AFQ,,,,Registered Voters,634
+Delaware,PRECINCT ORANGE P,AFR,,,,Registered Voters,829
+Delaware,PRECINCT ORANGE Q,AFS,,,,Registered Voters,938
+Delaware,PRECINCT POWELL I,AFT,,,,Registered Voters,"1,010"
+Delaware,PRECINCT POWELL J,AFU,,,,Registered Voters,"1,102"
+Delaware,PRECINCT GENOA S,AFV,,,,Registered Voters,574
+Delaware,PRECINCT COLUMBUS CITY F,AFW,,,,Registered Voters,978
+Delaware,PRECINCT CONCORD I,AFX,,,,Registered Voters,"1,095"
+Delaware,PRECINCT DELAWARE CITY 3-G,AFY,,,,Registered Voters,889
+Delaware,PRECINCT LIBERTY M,AFZ,,,,Registered Voters,507
+Delaware,PRECINCT ORANGE R,AGA,,,,Registered Voters,629
+Delaware,PRECINCT ORANGE S,AGB,,,,Registered Voters,967
+Delaware,PRECINCT WESTERVILLE CITY H,AGC,,,,Registered Voters,758
+Delaware,PRECINCT BERKSHIRE C,AGD,,,,Registered Voters,473
+Delaware,PRECINCT COLUMBUS CITY G,AGE,,,,Registered Voters,"1,060"
+Delaware,PRECINCT BERKSHIRE D,AGF,,,,Registered Voters,691
+Delaware,PRECINCT BERKSHIRE E,AGG,,,,Registered Voters,267
+Delaware,PRECINCT GENOA T,AGH,,,,Registered Voters,754
+Delaware,PRECINCT DELAWARE CITY 4-G,AGI,,,,Registered Voters,725
+Delaware,PRECINCT ORANGE T,AGJ,,,,Registered Voters,903
+Delaware,PRECINCT LIBERTY N,AGK,,,,Registered Voters,630
+Franklin,COLS 16-A,ADG,,,,Registered Voters,"1,263"
+Franklin,COLS 16-B,ADH,,,,Registered Voters,988
+Franklin,COLS 16-D,ADJ,,,,Registered Voters,262
+Franklin,COLS 16-E,ADK,,,,Registered Voters,"1,110"
+Franklin,COLS 18-A,ADQ,,,,Registered Voters,"1,285"
+Franklin,COLS 18-B,ADR,,,,Registered Voters,939
+Franklin,COLS 18-C,ADS,,,,Registered Voters,"1,372"
+Franklin,COLS 18-D,ADT,,,,Registered Voters,685
+Franklin,COLS 18-E,ADU,,,,Registered Voters,905
+Franklin,COLS 18-F,ADV,,,,Registered Voters,"1,089"
+Franklin,COLS 19-A,ADW,,,,Registered Voters,813
+Franklin,COLS 19-B,ADX,,,,Registered Voters,931
+Franklin,COLS 19-C,ADY,,,,Registered Voters,922
+Franklin,COLS 19-D,ADZ,,,,Registered Voters,"1,066"
+Franklin,COLS 19-E,AEA,,,,Registered Voters,778
+Franklin,COLS 19-F,AEB,,,,Registered Voters,810
+Franklin,COLS 19-G,AEC,,,,Registered Voters,867
+Franklin,COLS 19-H,AED,,,,Registered Voters,"1,111"
+Franklin,COLS 20-A,AEE,,,,Registered Voters,"1,422"
+Franklin,COLS 20-B,AEF,,,,Registered Voters,706
+Franklin,COLS 20-C,AEG,,,,Registered Voters,"1,123"
+Franklin,COLS 21-A,AEH,,,,Registered Voters,968
+Franklin,COLS 21-B,AEI,,,,Registered Voters,"1,468"
+Franklin,COLS 21-C,AEJ,,,,Registered Voters,"1,031"
+Franklin,COLS 21-D,AEK,,,,Registered Voters,"1,068"
+Franklin,COLS 21-E,AEL,,,,Registered Voters,"1,075"
+Franklin,COLS 21-F,AEM,,,,Registered Voters,916
+Franklin,COLS 22-A,AEN,,,,Registered Voters,"1,031"
+Franklin,COLS 22-B,AEO,,,,Registered Voters,829
+Franklin,COLS 22-C,AEP,,,,Registered Voters,"1,026"
+Franklin,COLS 22-G,AET,,,,Registered Voters,892
+Franklin,COLS 30-B,AGH,,,,Registered Voters,130
+Franklin,COLS 30-C,AGI,,,,Registered Voters,618
+Franklin,COLS 41-A,AIE,,,,Registered Voters,"1,058"
+Franklin,COLS 41-C,AIG,,,,Registered Voters,"1,403"
+Franklin,COLS 41-E,AII,,,,Registered Voters,477
+Franklin,COLS 59-C,AMX,,,,Registered Voters,"1,214"
+Franklin,COLS 60-A,ANB,,,,Registered Voters,"1,178"
+Franklin,COLS 60-B,ANC,,,,Registered Voters,"1,409"
+Franklin,COLS 60-C,AND,,,,Registered Voters,"1,191"
+Franklin,COLS 60-D,ANE,,,,Registered Voters,172
+Franklin,COLS 60-F,ANG,,,,Registered Voters,915
+Franklin,COLS 60-G,ANH,,,,Registered Voters,844
+Franklin,COLS 61-D,ANL,,,,Registered Voters,0
+Franklin,COLS 63-A,ANV,,,,Registered Voters,479
+Franklin,COLS 64-B,AOG,,,,Registered Voters,53
+Franklin,COLS 65-A,AOL,,,,Registered Voters,796
+Franklin,COLS 65-B,AOM,,,,Registered Voters,719
+Franklin,COLS 65-C,AON,,,,Registered Voters,"1,028"
+Franklin,COLS 65-D,AOO,,,,Registered Voters,"1,281"
+Franklin,COLS 65-E,AOP,,,,Registered Voters,"1,089"
+Franklin,COLS 65-F,AOQ,,,,Registered Voters,931
+Franklin,COLS 65-G,AOR,,,,Registered Voters,"1,060"
+Franklin,COLS 69-A,APL,,,,Registered Voters,"1,283"
+Franklin,COLS 69-F,APQ,,,,Registered Voters,770
+Franklin,COLS 69-G,APR,,,,Registered Voters,1
+Franklin,COLS 70-D,APX,,,,Registered Voters,"1,030"
+Franklin,COLS 70-E,APY,,,,Registered Voters,362
+Franklin,COLS 71-A,APZ,,,,Registered Voters,"1,495"
+Franklin,COLS 71-B,AQA,,,,Registered Voters,875
+Franklin,COLS 72-A,AQL,,,,Registered Voters,848
+Franklin,COLS 72-B,AQM,,,,Registered Voters,834
+Franklin,COLS 72-C,AQN,,,,Registered Voters,837
+Franklin,COLS 72-D,AQO,,,,Registered Voters,744
+Franklin,COLS 72-E,AQP,,,,Registered Voters,"1,134"
+Franklin,COLS 72-F,AQQ,,,,Registered Voters,"1,554"
+Franklin,COLS 74-A,AQY,,,,Registered Voters,939
+Franklin,COLS 74-B,AQZ,,,,Registered Voters,692
+Franklin,COLS 74-C,ARA,,,,Registered Voters,900
+Franklin,COLS 74-D,ARB,,,,Registered Voters,776
+Franklin,COLS 74-E,ARC,,,,Registered Voters,"1,262"
+Franklin,COLS 74-F,ARD,,,,Registered Voters,"1,084"
+Franklin,COLS 74-G,ARE,,,,Registered Voters,"1,156"
+Franklin,DUB 1-A,ARG,,,,Registered Voters,"1,571"
+Franklin,DUB 1-B,ARH,,,,Registered Voters,601
+Franklin,DUB 1-C,ARI,,,,Registered Voters,"1,135"
+Franklin,DUB 1-D,ARJ,,,,Registered Voters,848
+Franklin,DUB 1-E,ARK,,,,Registered Voters,"1,139"
+Franklin,DUB 2-A,ARL,,,,Registered Voters,741
+Franklin,DUB 2-B,ARM,,,,Registered Voters,580
+Franklin,DUB 2-C,ARN,,,,Registered Voters,535
+Franklin,DUB 2-D,ARO,,,,Registered Voters,"1,007"
+Franklin,DUB 2-E,ARP,,,,Registered Voters,"1,065"
+Franklin,DUB 3-A,ARQ,,,,Registered Voters,"1,398"
+Franklin,DUB 4-A,ARR,,,,Registered Voters,"1,183"
+Franklin,DUB 4-B,ARS,,,,Registered Voters,655
+Franklin,DUB 4-C,ART,,,,Registered Voters,745
+Franklin,DUB 4-D,ARU,,,,Registered Voters,"1,137"
+Franklin,DUB 4-E,ARV,,,,Registered Voters,788
+Franklin,GAH 1-A,ARW,,,,Registered Voters,"1,085"
+Franklin,GAH 2-A,ASC,,,,Registered Voters,903
+Franklin,GAH 2-D,ASF,,,,Registered Voters,622
+Franklin,GAH 2-E,ASG,,,,Registered Voters,424
+Franklin,GAH 3-B,ASI,,,,Registered Voters,750
+Franklin,GAH 3-E,ASL,,,,Registered Voters,975
+Franklin,GAH 4-A,ASN,,,,Registered Voters,130
+Franklin,GAH 4-B,ASO,,,,Registered Voters,666
+Franklin,GAH 4-D,ASQ,,,,Registered Voters,886
+Franklin,GAH 4-F,ASS,,,,Registered Voters,704
+Franklin,GAH 4-G,AST,,,,Registered Voters,940
+Franklin,HILL 4-A,AUD,,,,Registered Voters,21
+Franklin,WESTERVILLE 1-A,AWI,,,,Registered Voters,928
+Franklin,WESTERVILLE 1-B,AWJ,,,,Registered Voters,962
+Franklin,WESTERVILLE 1-C,AWK,,,,Registered Voters,771
+Franklin,WESTERVILLE 1-D,AWL,,,,Registered Voters,654
+Franklin,WESTERVILLE 1-E,AWM,,,,Registered Voters,948
+Franklin,WESTERVILLE 2-A,AWN,,,,Registered Voters,923
+Franklin,WESTERVILLE 2-B,AWO,,,,Registered Voters,"1,207"
+Franklin,WESTERVILLE 2-C,AWP,,,,Registered Voters,528
+Franklin,WESTERVILLE 2-D,AWQ,,,,Registered Voters,604
+Franklin,WESTERVILLE 2-E,AWR,,,,Registered Voters,874
+Franklin,WESTERVILLE 2-F,AWS,,,,Registered Voters,851
+Franklin,WESTERVILLE 3-A,AWT,,,,Registered Voters,638
+Franklin,WESTERVILLE 3-B,AWU,,,,Registered Voters,627
+Franklin,WESTERVILLE 3-C,AWV,,,,Registered Voters,438
+Franklin,WESTERVILLE 4-A,AWY,,,,Registered Voters,"1,007"
+Franklin,WESTERVILLE 4-B,AWZ,,,,Registered Voters,"1,444"
+Franklin,WESTERVILLE 4-C,AXA,,,,Registered Voters,958
+Franklin,WESTERVILLE 5-A,AXC,,,,Registered Voters,945
+Franklin,WESTERVILLE 5-B,AXD,,,,Registered Voters,384
+Franklin,WESTERVILLE 5-C,AXE,,,,Registered Voters,915
+Franklin,WESTERVILLE 5-D,AXF,,,,Registered Voters,785
+Franklin,WESTERVILLE 5-E,AXG,,,,Registered Voters,904
+Franklin,WORTH 1-A,AXU,,,,Registered Voters,909
+Franklin,WORTH 1-B,AXV,,,,Registered Voters,821
+Franklin,WORTH 1-C,AXW,,,,Registered Voters,950
+Franklin,WORTH 1-D,AXX,,,,Registered Voters,461
+Franklin,WORTH 2-A,AXY,,,,Registered Voters,935
+Franklin,WORTH 2-B,AXZ,,,,Registered Voters,899
+Franklin,WORTH 2-C,AYA,,,,Registered Voters,839
+Franklin,WORTH 3-A,AYB,,,,Registered Voters,"1,433"
+Franklin,WORTH 3-B,AYC,,,,Registered Voters,888
+Franklin,WORTH 4-A,AYF,,,,Registered Voters,750
+Franklin,WORTH 4-B,AYG,,,,Registered Voters,977
+Franklin,WORTH 4-C,AYH,,,,Registered Voters,588
+Franklin,WORTH 4-D,AYI,,,,Registered Voters,448
+Franklin,BLENDON-A,AYJ,,,,Registered Voters,9
+Franklin,BLENDON-B,AYK,,,,Registered Voters,368
+Franklin,BLENDON-D,AYM,,,,Registered Voters,163
+Franklin,BROWN-B,AYS,,,,Registered Voters,0
+Franklin,JEFFERSON-A,AZR,,,,Registered Voters,975
+Franklin,JEFFERSON-B,AZS,,,,Registered Voters,899
+Franklin,JEFFERSON-C,AZT,,,,Registered Voters,"1,084"
+Franklin,MIFFLIN-A,BAJ,,,,Registered Voters,0
+Franklin,PERRY-A,BAP,,,,Registered Voters,734
+Franklin,PERRY-B,BAQ,,,,Registered Voters,869
+Franklin,PERRY-C,BAR,,,,Registered Voters,96
+Franklin,PERRY-D,BAS,,,,Registered Voters,"1,126"
+Franklin,NEW ALBANY-A,BAT,,,,Registered Voters,"1,010"
+Franklin,NEW ALBANY-B,BAU,,,,Registered Voters,"1,149"
+Franklin,PLAIN-A,BAV,,,,Registered Voters,337
+Franklin,PLAIN-B,BAW,,,,Registered Voters,"1,144"
+Franklin,RIVERLEA-A,BBQ,,,,Registered Voters,476
+Franklin,SHARON-A,BBR,,,,Registered Voters,673
+Franklin,SHARON-B,BBS,,,,Registered Voters,807
+Franklin,WASHINGTON-A,BBV,,,,Registered Voters,617
+Franklin,DUB 4-F,BCE,,,,Registered Voters,"1,291"
+Franklin,NEW ALBANY-C,BCF,,,,Registered Voters,"1,122"
+Franklin,DUB 1-F,BCJ,,,,Registered Voters,"1,220"
+Franklin,DUB 1-G,BCK,,,,Registered Voters,981
+Franklin,WESTERVILLE 2-G,BDA,,,,Registered Voters,645
+Franklin,GAH 2-F,BDB,,,,Registered Voters,379
+Franklin,DUB 2-F,BDD,,,,Registered Voters,695
+Franklin,DUB 3-B,BDE,,,,Registered Voters,"1,414"
+Franklin,DUB 2-G,BDO,,,,Registered Voters,963
+Franklin,DUB 2-H,BDP,,,,Registered Voters,705
+Franklin,DUB 3-C,BDQ,,,,Registered Voters,"1,265"
+Franklin,GAH 1-G,BDV,,,,Registered Voters,147
+Franklin,GAH 2-I,BFN,,,,Registered Voters,59
+Franklin,JEFFERSON-E,BFT,,,,Registered Voters,0
+Franklin,NEW ALBANY-E,BFW,,,,Registered Voters,774
+Franklin,NEW ALBANY-F,BFX,,,,Registered Voters,"1,135"
+Franklin,COLS 77-F,BHE,,,,Registered Voters,0
+Franklin,COLS 82-E,BHX,,,,Registered Voters,"1,392"
+Franklin,COLS 82-F,BHY,,,,Registered Voters,"1,579"
+Franklin,COLS 82-G,BHZ,,,,Registered Voters,"1,155"
+Franklin,COLS 82-H,BIA,,,,Registered Voters,"1,297"
+Franklin,HILL 2-E,BJD,,,,Registered Voters,962
+Franklin,COLS 69-H,BJN,,,,Registered Voters,479
+Franklin,COLS 69-I,BJO,,,,Registered Voters,"1,156"
+Franklin,COLS 69-J,BJX,,,,Registered Voters,0
+Franklin,DUB 2-I,BJZ,,,,Registered Voters,844
+Franklin,DUB 1-H,BKF,,,,Registered Voters,702
+Franklin,COLS 73-J,BKJ,,,,Registered Voters,30
+Franklin,COLS 82-I,BKK,,,,Registered Voters,"1,572"
+Franklin,COLS 82-J,BKL,,,,Registered Voters,"1,189"
+Franklin,COLS 69-K,BKM,,,,Registered Voters,500
+Franklin,COLS 72-G,BKR,,,,Registered Voters,687
+Franklin,COLS 69-L,BKW,,,,Registered Voters,"1,292"
+Franklin,COLS 69-M,BKX,,,,Registered Voters,948
+Franklin,COLS 82-K,BLB,,,,Registered Voters,"1,160"
+Franklin,COLS 82-L,BLC,,,,Registered Voters,"1,429"
+Franklin,DUB 2-J,BLE,,,,Registered Voters,"1,094"
+Franklin,COLS 59-F,BLO,,,,Registered Voters,821
+Franklin,NEW ALBANY-G,BLP,,,,Registered Voters,767
+Franklin,COLS 74-H,BMC,,,,Registered Voters,671
+Franklin,COLS 82-M,BMJ,,,,Registered Voters,654
+Franklin,WESTERVILLE 3-E,BML,,,,Registered Voters,833
+Franklin,WORTH 3-C,BMM,,,,Registered Voters,627
+Licking,HEATH 1-A,AAA,,,,Registered Voters,"1,353"
+Licking,HEATH 1-B,AAB,,,,Registered Voters,"1,081"
+Licking,HEATH 2-B,AAD,,,,Registered Voters,"1,181"
+Licking,HEATH 2-A,AAE,,,,Registered Voters,"1,053"
+Licking,HEATH 3-A,AAG,,,,Registered Voters,"1,066"
+Licking,HEATH 3-B,AAH,,,,Registered Voters,"1,371"
+Licking,NEWARK 1-A,AAJ,,,,Registered Voters,"1,935"
+Licking,NEWARK 1-B,AAK,,,,Registered Voters,"1,831"
+Licking,NEWARK 2-A,AAP,,,,Registered Voters,"1,138"
+Licking,NEWARK 2-B,AAQ,,,,Registered Voters,"2,039"
+Licking,NEWARK 2-C,AAS,,,,Registered Voters,955
+Licking,NEWARK 3-A,AAW,,,,Registered Voters,"1,676"
+Licking,NEWARK 3-B,AAX,,,,Registered Voters,"1,771"
+Licking,NEWARK 3-C,AAY,,,,Registered Voters,"1,084"
+Licking,NEWARK 4-A,ABB,,,,Registered Voters,"1,528"
+Licking,NEWARK 4-B,ABC,,,,Registered Voters,"1,389"
+Licking,NEWARK 4-C,ABE,,,,Registered Voters,884
+Licking,NEWARK 4-D,ABF,,,,Registered Voters,962
+Licking,NEWARK 5-A,ABJ,,,,Registered Voters,"1,002"
+Licking,NEWARK 5-B,ABK,,,,Registered Voters,"1,331"
+Licking,NEWARK 5-C,ABM,,,,Registered Voters,969
+Licking,NEWARK 5-E,ABN,,,,Registered Voters,756
+Licking,NEWARK 5-D,ABO,,,,Registered Voters,962
+Licking,NEWARK 6-A,ABR,,,,Registered Voters,"1,118"
+Licking,NEWARK 6-B,ABS,,,,Registered Voters,"1,223"
+Licking,NEWARK 6-C,ABT,,,,Registered Voters,854
+Licking,NEWARK 6-D,ABU,,,,Registered Voters,939
+Licking,NEWARK 6-E,ABV,,,,Registered Voters,"1,060"
+Licking,NEWARK 7-A,ABZ,,,,Registered Voters,"1,226"
+Licking,NEWARK 7-B,ACA,,,,Registered Voters,"1,448"
+Licking,NEWARK 7-C,ACB,,,,Registered Voters,"1,402"
+Licking,BENNINGTON TOWNSHIP,ACJ,,,,Registered Voters,"1,238"
+Licking,BOWLING GREEN TOWNSHIP,ACK,,,,Registered Voters,"1,200"
+Licking,BURLINGTON TOWNSHIP,ACL,,,,Registered Voters,894
+Licking,EDEN FALL TOWNSHIP,ACM,,,,Registered Voters,"1,429"
+Licking,ETNA TOWNSHIP A,ACN,,,,Registered Voters,"1,430"
+Licking,ETNA TOWNSHIP B,ACP,,,,Registered Voters,"1,555"
+Licking,ETNA TOWNSHIP C,ACQ,,,,Registered Voters,"1,558"
+Licking,ETNA TOWNSHIP D,ACR,,,,Registered Voters,"1,751"
+Licking,FRANKLIN TOWNSHIP,ACT,,,,Registered Voters,"1,531"
+Licking,GRANVILLE TOWNSHIP A,ACV,,,,Registered Voters,"1,025"
+Licking,GRANVILLE TOWNSHIP B,ACW,,,,Registered Voters,953
+Licking,GRANVILLE TOWNSHIP C,ACX,,,,Registered Voters,"1,425"
+Licking,GRANVILLE VILLAGE A,ACZ,,,,Registered Voters,"1,397"
+Licking,GRANVILLE VILLAGE B,ADB,,,,Registered Voters,"1,224"
+Licking,GRANVILLE VILLAGE C,ADC,,,,Registered Voters,"2,365"
+Licking,HANOVER VILLAGE,ADD,,,,Registered Voters,783
+Licking,HANOVER TOWNSHIP,ADE,,,,Registered Voters,"1,234"
+Licking,HARRISON TOWNSHIP A,ADH,,,,Registered Voters,"1,063"
+Licking,HARRISON TWP B-KIRK,ADI,,,,Registered Voters,"1,365"
+Licking,HARRISON TOWNSHIP C,ADJ,,,,Registered Voters,921
+Licking,HARRISON TOWNSHIP D,ADK,,,,Registered Voters,"1,519"
+Licking,HARRISON TOWNSHIP E,ADL,,,,Registered Voters,"1,334"
+Licking,HARTFORD TWP-VLG,ADM,,,,Registered Voters,971
+Licking,HOPEWELL TWP-GRATIOT VLG,ADO,,,,Registered Voters,921
+Licking,JERSEY TOWNSHIP A,ADP,,,,Registered Voters,"1,219"
+Licking,JERSEY TOWNSHIP B,ADQ,,,,Registered Voters,846
+Licking,LIBERTY TOWNSHIP A,ADR,,,,Registered Voters,893
+Licking,LIBERTY TOWNSHIP B,ADS,,,,Registered Voters,"1,047"
+Licking,LICKING TOWNSHIP A,ADT,,,,Registered Voters,"1,578"
+Licking,LICKING TOWNSHIP B,ADV,,,,Registered Voters,909
+Licking,LICKING TOWNSHIP C,ADW,,,,Registered Voters,"1,033"
+Licking,MADISON TOWNSHIP A,ADX,,,,Registered Voters,"1,375"
+Licking,MADISON TOWNSHIP B,ADZ,,,,Registered Voters,878
+Licking,MARY ANN TOWNSHIP,AEA,,,,Registered Voters,"1,398"
+Licking,MCKEAN TOWNSHIP,AEC,,,,Registered Voters,"1,153"
+Licking,MONROE TOWNSHIP A,AEE,,,,Registered Voters,826
+Licking,MONROE TOWNSHIP B,AEF,,,,Registered Voters,941
+Licking,JOHNSTOWN VILLAGE A,AEG,,,,Registered Voters,"1,279"
+Licking,JOHNSTOWN VILLAGE B,AEI,,,,Registered Voters,930
+Licking,NEWARK TOWNSHIP,AEK,,,,Registered Voters,"1,590"
+Licking,NEWTON TWP A,AEO,,,,Registered Voters,"1,319"
+Licking,NEWTON TWP B-ST LOU,AEQ,,,,Registered Voters,883
+Licking,PATASKALA 1-A,AES,,,,Registered Voters,"1,382"
+Licking,PATASKALA 1-B,AET,,,,Registered Voters,"1,472"
+Licking,PATASKALA 2-A,AEU,,,,Registered Voters,"1,309"
+Licking,PATASKALA 2-B,AEV,,,,Registered Voters,"1,232"
+Licking,PATASKALA 3-A,AEW,,,,Registered Voters,"1,467"
+Licking,PATASKALA 3-B,AEX,,,,Registered Voters,"1,449"
+Licking,PATASKALA 4-A,AEY,,,,Registered Voters,"1,181"
+Licking,PATASKALA 4-B,AEZ,,,,Registered Voters,"1,492"
+Licking,PERRY TOWNSHIP,AFA,,,,Registered Voters,"1,054"
+Licking,ST ALBANS TWP A,AFC,,,,Registered Voters,876
+Licking,ST ALBANS TWP B-ALEX,AFD,,,,Registered Voters,"1,076"
+Licking,UNION TOWNSHIP A,AFE,,,,Registered Voters,"1,537"
+Licking,UNION TOWNSHIP B,AFF,,,,Registered Voters,"1,441"
+Licking,HEBRON VILLAGE,AFH,,,,Registered Voters,"1,495"
+Licking,BUCKEYE LAKE VILLAGE,AFJ,,,,Registered Voters,"1,678"
+Licking,WASHINGTON TOWNSHIP,AFL,,,,Registered Voters,661
+Licking,UTICA VILLAGE,AFM,,,,Registered Voters,"1,316"
+Licking,REYNOLDSBURG 2-A,AFR,,,,Registered Voters,"1,159"
+Licking,REYNOLDSBURG 3-A,AFS,,,,Registered Voters,"1,451"
+Licking,REYNOLDSBURG 3-B,AFT,,,,Registered Voters,"1,091"
+Licking,REYNOLDSBURG 3-C,AFU,,,,Registered Voters,"1,516"
+Licking,REYNOLDSBURG 3-D,AFV,,,,Registered Voters,"1,439"
+Licking,JOHNSTOWN VILLAGE C,AFZ,,,,Registered Voters,"1,159"
+Marion,PRECINCT CLARIDON TWP A,ABX,,,,Registered Voters,179
+Marion,PRECINCT CLARIDON TWP B,ABY,,,,Registered Voters,"1,004"
+Marion,PRECINCT PLEASANT TWP E,ACY,,,,Registered Voters,559
+Marion,PRECINCT PLEASANT TWP F,ACZ,,,,Registered Voters,533
+Marion,PRECINCT PROSPECT TWP,ADA,,,,Registered Voters,659
+Marion,PRECINCT PROSPECT VILLAGE,ADC,,,,Registered Voters,787
+Marion,PRECINCT RICHLAND TWP A,ADE,,,,Registered Voters,523
+Marion,PRECINCT RICHLAND TWP B,ADF,,,,Registered Voters,778
+Marion,PRECINCT WALDO,ADK,,,,Registered Voters,816
+Morrow,BENNINGTON TWP EAST,AAA,,,,Registered Voters,"1,029"
+Morrow,BENNINGTON TWP WEST,AAC,,,,Registered Voters,"1,294"
+Morrow,CANAAN TWP,AAD,,,,Registered Voters,681
+Morrow,CARDINGTON TWP,AAE,,,,Registered Voters,804
+Morrow,CARDINGTON VILLAGE E,AAF,,,,Registered Voters,727
+Morrow,CARDINGTON VILLAGE W,AAG,,,,Registered Voters,628
+Morrow,CHESTER TWP EAST,AAH,,,,Registered Voters,738
+Morrow,CHESTER TWP WEST,AAI,,,,Registered Voters,642
+Morrow,CONGRESS TWP EAST,AAJ,,,,Registered Voters,902
+Morrow,CONGRESS TWP WEST,AAK,,,,Registered Voters,"1,211"
+Morrow,FRANKLIN TWP,AAL,,,,Registered Voters,"1,182"
+Morrow,EDISON VILLAGE,AAM,,,,Registered Voters,297
+Morrow,GILEAD TWP NE,AAN,,,,Registered Voters,490
+Morrow,GILEAD TWP SE,AAO,,,,Registered Voters,569
+Morrow,GILEAD TWP W,AAP,,,,Registered Voters,575
+Morrow,MT GILEAD VILLAGE E,AAQ,,,,Registered Voters,503
+Morrow,MT GILEAD VILLAGE N,AAR,,,,Registered Voters,686
+Morrow,MT GILEAD VILLAGE NW,AAS,,,,Registered Voters,807
+Morrow,MT GILEAD VILLAGE SW,AAT,,,,Registered Voters,575
+Morrow,HARMONY TWP N,AAV,,,,Registered Voters,784
+Morrow,LINCOLN TWP E,AAW,,,,Registered Voters,618
+Morrow,LINCOLN TWP W,AAX,,,,Registered Voters,832
+Morrow,N BLOOMFIELD TWP E,AAY,,,,Registered Voters,764
+Morrow,N BLOOMFIELD TWP W,AAZ,,,,Registered Voters,605
+Morrow,PERRY TWP N,ABA,,,,Registered Voters,571
+Morrow,PERRY TWP S,ABB,,,,Registered Voters,364
+Morrow,PERU TWP,ABC,,,,Registered Voters,"1,177"
+Morrow,S BLOOMFIELD TWP E,ABD,,,,Registered Voters,683
+Morrow,S BLOOMFIELD TWP W,ABE,,,,Registered Voters,609
+Morrow,TROY TWP,ABF,,,,Registered Voters,849
+Morrow,WASHINGTON TWP,ABH,,,,Registered Voters,957
+Morrow,WESTFIELD TWP,ABI,,,,Registered Voters,870
+Morrow,HARMONY TWP S,ABJ,,,,Registered Voters,"1,104"
+Muskingum,PRECINCT ZANESVILLE 1-A,AAA,,,,Registered Voters,"1,041"
+Muskingum,PRECINCT ZANESVILLE 1-B,AAB,,,,Registered Voters,"1,136"
+Muskingum,PRECINCT ZANESVILLE 2-A,AAE,,,,Registered Voters,"1,153"
+Muskingum,PRECINCT ZANESVILLE 2-B,AAF,,,,Registered Voters,"1,203"
+Muskingum,PRECINCT ZANESVILLE 3-A,AAI,,,,Registered Voters,"1,133"
+Muskingum,PRECINCT ZANESVILLE 3-B,AAJ,,,,Registered Voters,"1,177"
+Muskingum,PRECINCT ZANESVILLE 4-A,AAL,,,,Registered Voters,"1,213"
+Muskingum,PRECINCT ZANESVILLE 4-B,AAN,,,,Registered Voters,"1,193"
+Muskingum,PRECINCT ZANESVILLE 5-A,AAO,,,,Registered Voters,927
+Muskingum,PRECINCT ZANESVILLE 5-B,AAQ,,,,Registered Voters,854
+Muskingum,PRECINCT ZANESVILLE 6-A,AAS,,,,Registered Voters,849
+Muskingum,PRECINCT ZANESVILLE 6-B,AAT,,,,Registered Voters,922
+Muskingum,PRECINCT ZANESVILLE 6-C,AAU,,,,Registered Voters,955
+Muskingum,PRECINCT BLUE ROCK,AAY,,,,Registered Voters,433
+Muskingum,PRECINCT BRUSH CREEK,AAZ,,,,Registered Voters,807
+Muskingum,PRECINCT CLAY,ABC,,,,Registered Voters,562
+Muskingum,PRECINCT FALLS A,ABD,,,,Registered Voters,764
+Muskingum,PRECINCT FALLS B,ABE,,,,Registered Voters,939
+Muskingum,PRECINCT FALLS C,ABF,,,,Registered Voters,661
+Muskingum,PRECINCT FALLS D,ABG,,,,Registered Voters,"1,228"
+Muskingum,PRECINCT FALLS E,ABH,,,,Registered Voters,873
+Muskingum,PRECINCT FALLS G,ABJ,,,,Registered Voters,573
+Muskingum,PRECINCT FALLS F,ABL,,,,Registered Voters,623
+Muskingum,PRECINCT FALLS H,ABM,,,,Registered Voters,495
+Muskingum,PRECINCT HARRISON,ABN,,,,Registered Voters,946
+Muskingum,PRECINCT HOPEWELL A,ABQ,,,,Registered Voters,643
+Muskingum,PRECINCT HOPEWELL B,ABR,,,,Registered Voters,742
+Muskingum,PRECINCT HOPEWELL C,ABS,,,,Registered Voters,711
+Muskingum,PRECINCT MEIGS,ACA,,,,Registered Voters,126
+Muskingum,PRECINCT FULTONHAM,ACF,,,,Registered Voters,616
+Muskingum,PRECINCT IRONSPOT,ACG,,,,Registered Voters,312
+Muskingum,PRECINCT MOXAHALA,ACH,,,,Registered Voters,814
+Muskingum,PRECINCT ROLLING PLAINS,ACI,,,,Registered Voters,841
+Muskingum,PRECINCT WHITE COTTAGE,ACJ,,,,Registered Voters,760
+Muskingum,PRECINCT RICH HILL,ACM,,,,Registered Voters,340
+Muskingum,PRECINCT SALT CREEK,ACO,,,,Registered Voters,713
+Muskingum,PRECINCT SPRINGFIELD A,ACP,,,,Registered Voters,731
+Muskingum,PRECINCT SPRINGFIELD B,ACQ,,,,Registered Voters,"1,120"
+Muskingum,PRECINCT SPRINGFIELD C,ACR,,,,Registered Voters,497
+Muskingum,PRECINCT SOUTH ZANESVILLE,ACT,,,,Registered Voters,"1,084"
+Muskingum,PRECINCT DUNCAN FALLS,ADD,,,,Registered Voters,860
+Muskingum,PRECINCT WAYNE A,ADE,,,,Registered Voters,614
+Muskingum,PRECINCT WAYNE B,ADF,,,,Registered Voters,875
+Muskingum,PRECINCT WAYNE C,ADG,,,,Registered Voters,876
+Muskingum,PRECINCT ZANESVILLE 5-C,ADH,,,,Registered Voters,"1,316"
+Richland,MAN 1 - A,AAA,,,,Registered Voters,996
+Richland,MAN 1 - B,AAB,,,,Registered Voters,934
+Richland,MAN 1 - C,AAC,,,,Registered Voters,987
+Richland,MAN 1 - D,AAD,,,,Registered Voters,"1,351"
+Richland,MAN 1 - E,AAE,,,,Registered Voters,"1,484"
+Richland,MAN 1 - F,AAF,,,,Registered Voters,641
+Richland,MAN 2 - A,AAG,,,,Registered Voters,884
+Richland,MAN 2 - B,AAH,,,,Registered Voters,944
+Richland,MAN 2 - C,AAI,,,,Registered Voters,986
+Richland,MAN 2 - D,AAJ,,,,Registered Voters,"1,081"
+Richland,MAN 2 - E,AAK,,,,Registered Voters,"1,106"
+Richland,MAN 2 - F,AAL,,,,Registered Voters,"1,135"
+Richland,MAN 3 - A,AAM,,,,Registered Voters,898
+Richland,MAN 3 - B,AAN,,,,Registered Voters,962
+Richland,MAN 3 - C,AAO,,,,Registered Voters,958
+Richland,MAN 3 - D,AAP,,,,Registered Voters,"1,147"
+Richland,MAN 3 - E,AAQ,,,,Registered Voters,"1,213"
+Richland,MAN 4 - A,AAR,,,,Registered Voters,966
+Richland,MAN 4 - B,AAS,,,,Registered Voters,"1,061"
+Richland,MAN 4 - C,AAT,,,,Registered Voters,"1,170"
+Richland,MAN 4 - D,AAU,,,,Registered Voters,797
+Richland,MAN 4 - E,AAV,,,,Registered Voters,"1,018"
+Richland,MAN 5 - A,AAW,,,,Registered Voters,908
+Richland,MAN 5 - B,AAX,,,,Registered Voters,919
+Richland,MAN 6 - A,AAY,,,,Registered Voters,"1,051"
+Richland,MAN 6 - B,AAZ,,,,Registered Voters,551
+Richland,MAN 6 - C,ABA,,,,Registered Voters,"1,066"
+Richland,MAN 6 - D,ABB,,,,Registered Voters,"1,011"
+Richland,MAN 6 - E,ABC,,,,Registered Voters,"1,197"
+Richland,FRANK,ABO,,,,Registered Voters,0
+Richland,JEFF A,ABR,,,,Registered Voters,"1,447"
+Richland,JEFF C,ABS,,,,Registered Voters,923
+Richland,JEFF D,ABT,,,,Registered Voters,"1,185"
+Richland,MAD D,ABV,,,,Registered Voters,"1,065"
+Richland,MAD E,ABW,,,,Registered Voters,139
+Richland,MAD G,ABX,,,,Registered Voters,625
+Richland,MAD I,ABY,,,,Registered Voters,751
+Richland,PERRY,ACI,,,,Registered Voters,861
+Richland,LEX B,ACU,,,,Registered Voters,"1,228"
+Richland,LEX C,ACV,,,,Registered Voters,989
+Richland,LEX E,ACW,,,,Registered Voters,"1,303"
+Richland,TROY A,ACX,,,,Registered Voters,882
+Richland,TROY B,ACY,,,,Registered Voters,"1,097"
+Richland,WASH A,ACZ,,,,Registered Voters,830
+Richland,WASH B,ADA,,,,Registered Voters,879
+Richland,WASH C,ADB,,,,Registered Voters,"1,082"
+Richland,WASH D,ADC,,,,Registered Voters,753
+Richland,WASH F,ADE,,,,Registered Voters,"1,197"
+Richland,WORTH A,ADG,,,,Registered Voters,585
+Richland,WORTH B,ADH,,,,Registered Voters,"1,380"
+Delaware,PRECINCT COLUMBUS CITY A,AAA,,,,Ballots Cast,216
+Delaware,PRECINCT DELAWARE CITY 1-A,AAB,,,,Ballots Cast,292
+Delaware,PRECINCT DELAWARE CITY 1-B,AAC,,,,Ballots Cast,530
+Delaware,PRECINCT DELAWARE CITY 1-C,AAD,,,,Ballots Cast,404
+Delaware,PRECINCT DELAWARE CITY 1-D,AAE,,,,Ballots Cast,292
+Delaware,PRECINCT DELAWARE CITY 1-E,AAF,,,,Ballots Cast,202
+Delaware,PRECINCT DELAWARE CITY 1-F,AAG,,,,Ballots Cast,362
+Delaware,PRECINCT DELAWARE CITY 1-G,AAH,,,,Ballots Cast,324
+Delaware,PRECINCT DELAWARE CITY 2-A,AAI,,,,Ballots Cast,498
+Delaware,PRECINCT DELAWARE CITY 2-B,AAJ,,,,Ballots Cast,478
+Delaware,PRECINCT DELAWARE CITY 2-C,AAK,,,,Ballots Cast,294
+Delaware,PRECINCT DELAWARE CITY 2-D,AAL,,,,Ballots Cast,247
+Delaware,PRECINCT DELAWARE CITY 3-A,AAM,,,,Ballots Cast,119
+Delaware,PRECINCT DELAWARE CITY 3-B,AAN,,,,Ballots Cast,234
+Delaware,PRECINCT DELAWARE CITY 3-C,AAO,,,,Ballots Cast,214
+Delaware,PRECINCT DELAWARE CITY 3-D,AAP,,,,Ballots Cast,449
+Delaware,PRECINCT DELAWARE CITY 3-E,AAQ,,,,Ballots Cast,389
+Delaware,PRECINCT DELAWARE CITY 4-A,AAR,,,,Ballots Cast,542
+Delaware,PRECINCT DELAWARE CITY 4-B,AAS,,,,Ballots Cast,489
+Delaware,PRECINCT DELAWARE CITY 4-C,AAT,,,,Ballots Cast,400
+Delaware,PRECINCT DELAWARE CITY 4-D,AAU,,,,Ballots Cast,180
+Delaware,PRECINCT DELAWARE CITY 4-E,AAV,,,,Ballots Cast,268
+Delaware,PRECINCT DELAWARE CITY 4-F,AAW,,,,Ballots Cast,301
+Delaware,PRECINCT DUBLIN CITY A,AAY,,,,Ballots Cast,342
+Delaware,PRECINCT DUBLIN CITY B,AAZ,,,,Ballots Cast,343
+Delaware,PRECINCT DUBLIN CITY C,ABA,,,,Ballots Cast,473
+Delaware,PRECINCT DUBLIN CITY D,ABB,,,,Ballots Cast,488
+Delaware,PRECINCT WESTERVILLE CITY A,ABC,,,,Ballots Cast,498
+Delaware,PRECINCT WESTERVILLE CITY B,ABD,,,,Ballots Cast,353
+Delaware,PRECINCT WESTERVILLE CITY C,ABE,,,,Ballots Cast,400
+Delaware,PRECINCT WESTERVILLE CITY D,ABF,,,,Ballots Cast,447
+Delaware,PRECINCT WESTERVILLE CITY E,ABG,,,,Ballots Cast,473
+Delaware,PRECINCT GALENA,ABH,,,,Ballots Cast,232
+Delaware,PRECINCT BERKSHIRE A,ABI,,,,Ballots Cast,219
+Delaware,PRECINCT BERKSHIRE B,ABJ,,,,Ballots Cast,259
+Delaware,PRECINCT SUNBURY A,ABK,,,,Ballots Cast,381
+Delaware,PRECINCT SUNBURY B,ABL,,,,Ballots Cast,287
+Delaware,PRECINCT SUNBURY C,ABM,,,,Ballots Cast,243
+Delaware,PRECINCT BERLIN A,ABN,,,,Ballots Cast,469
+Delaware,PRECINCT BERLIN B,ABO,,,,Ballots Cast,521
+Delaware,PRECINCT BERLIN C,ABP,,,,Ballots Cast,239
+Delaware,PRECINCT BROWN,ABQ,,,,Ballots Cast,524
+Delaware,PRECINCT CONCORD A,ABS,,,,Ballots Cast,402
+Delaware,PRECINCT CONCORD B,ABT,,,,Ballots Cast,310
+Delaware,PRECINCT CONCORD C,ABU,,,,Ballots Cast,341
+Delaware,PRECINCT CONCORD D,ABV,,,,Ballots Cast,213
+Delaware,PRECINCT SHAWNEE HILLS,ABW,,,,Ballots Cast,282
+Delaware,PRECINCT DELAWARE A,ABX,,,,Ballots Cast,228
+Delaware,PRECINCT DELAWARE B,ABY,,,,Ballots Cast,495
+Delaware,PRECINCT GENOA A,ABZ,,,,Ballots Cast,421
+Delaware,PRECINCT GENOA B,ACA,,,,Ballots Cast,373
+Delaware,PRECINCT GENOA C,ACB,,,,Ballots Cast,478
+Delaware,PRECINCT GENOA D,ACC,,,,Ballots Cast,501
+Delaware,PRECINCT GENOA E,ACD,,,,Ballots Cast,333
+Delaware,PRECINCT GENOA F,ACE,,,,Ballots Cast,391
+Delaware,PRECINCT GENOA G,ACF,,,,Ballots Cast,427
+Delaware,PRECINCT GENOA H,ACG,,,,Ballots Cast,366
+Delaware,PRECINCT HARLEM A,ACH,,,,Ballots Cast,424
+Delaware,PRECINCT HARLEM B,ACI,,,,Ballots Cast,468
+Delaware,PRECINCT HARLEM C,ACJ,,,,Ballots Cast,381
+Delaware,PRECINCT HARLEM D,ACK,,,,Ballots Cast,136
+Delaware,PRECINCT KINGSTON A,ACL,,,,Ballots Cast,418
+Delaware,PRECINCT KINGSTON B,ACM,,,,Ballots Cast,332
+Delaware,PRECINCT LIBERTY A,ACN,,,,Ballots Cast,507
+Delaware,PRECINCT LIBERTY B,ACO,,,,Ballots Cast,338
+Delaware,PRECINCT LIBERTY C,ACP,,,,Ballots Cast,397
+Delaware,PRECINCT LIBERTY D,ACQ,,,,Ballots Cast,455
+Delaware,PRECINCT LIBERTY E,ACR,,,,Ballots Cast,377
+Delaware,PRECINCT LIBERTY F,ACS,,,,Ballots Cast,430
+Delaware,PRECINCT LIBERTY G,ACT,,,,Ballots Cast,440
+Delaware,PRECINCT LIBERTY H,ACU,,,,Ballots Cast,585
+Delaware,PRECINCT POWELL A,ACV,,,,Ballots Cast,326
+Delaware,PRECINCT POWELL B,ACW,,,,Ballots Cast,355
+Delaware,PRECINCT POWELL C,ACX,,,,Ballots Cast,517
+Delaware,PRECINCT POWELL D,ACY,,,,Ballots Cast,367
+Delaware,PRECINCT POWELL E,ACZ,,,,Ballots Cast,600
+Delaware,PRECINCT MARLBORO,ADA,,,,Ballots Cast,117
+Delaware,PRECINCT ORANGE A,ADB,,,,Ballots Cast,393
+Delaware,PRECINCT ORANGE B,ADC,,,,Ballots Cast,531
+Delaware,PRECINCT ORANGE C,ADD,,,,Ballots Cast,376
+Delaware,PRECINCT ORANGE D,ADE,,,,Ballots Cast,341
+Delaware,PRECINCT ORANGE E,ADF,,,,Ballots Cast,468
+Delaware,PRECINCT ORANGE F,ADG,,,,Ballots Cast,466
+Delaware,PRECINCT ORANGE G,ADH,,,,Ballots Cast,397
+Delaware,PRECINCT ORANGE H,ADI,,,,Ballots Cast,502
+Delaware,PRECINCT OXFORD,ADJ,,,,Ballots Cast,272
+Delaware,PRECINCT ASHLEY,ADK,,,,Ballots Cast,192
+Delaware,PRECINCT PORTER A,ADM,,,,Ballots Cast,361
+Delaware,PRECINCT PORTER B,ADN,,,,Ballots Cast,413
+Delaware,PRECINCT RADNOR,ADO,,,,Ballots Cast,642
+Delaware,PRECINCT OSTRANDER,ADQ,,,,Ballots Cast,234
+Delaware,PRECINCT SCIOTO A,ADR,,,,Ballots Cast,455
+Delaware,PRECINCT SCIOTO B,ADS,,,,Ballots Cast,433
+Delaware,PRECINCT THOMPSON,ADT,,,,Ballots Cast,220
+Delaware,PRECINCT TRENTON A,ADU,,,,Ballots Cast,328
+Delaware,PRECINCT TRENTON B,ADV,,,,Ballots Cast,390
+Delaware,PRECINCT TROY A,ADW,,,,Ballots Cast,295
+Delaware,PRECINCT TROY B,ADX,,,,Ballots Cast,319
+Delaware,PRECINCT ORANGE I,ADZ,,,,Ballots Cast,342
+Delaware,PRECINCT GENOA I,AEA,,,,Ballots Cast,508
+Delaware,PRECINCT ORANGE J,AEB,,,,Ballots Cast,430
+Delaware,PRECINCT COLUMBUS CITY B,AEC,,,,Ballots Cast,356
+Delaware,PRECINCT WESTERVILLE CITY F,AED,,,,Ballots Cast,311
+Delaware,PRECINCT GENOA J,AEE,,,,Ballots Cast,379
+Delaware,PRECINCT GENOA K,AEF,,,,Ballots Cast,556
+Delaware,PRECINCT LIBERTY I,AEG,,,,Ballots Cast,296
+Delaware,PRECINCT COLUMBUS CITY C,AEH,,,,Ballots Cast,329
+Delaware,PRECINCT GENOA L,AEI,,,,Ballots Cast,563
+Delaware,PRECINCT GENOA M,AEJ,,,,Ballots Cast,599
+Delaware,PRECINCT POWELL F,AEK,,,,Ballots Cast,389
+Delaware,PRECINCT POWELL G,AEL,,,,Ballots Cast,493
+Delaware,PRECINCT ORANGE K,AEM,,,,Ballots Cast,406
+Delaware,PRECINCT BERLIN D,AEN,,,,Ballots Cast,507
+Delaware,PRECINCT CONCORD E,AEO,,,,Ballots Cast,310
+Delaware,PRECINCT LIBERTY J,AEP,,,,Ballots Cast,370
+Delaware,PRECINCT LIBERTY K,AEQ,,,,Ballots Cast,471
+Delaware,PRECINCT ORANGE L,AER,,,,Ballots Cast,490
+Delaware,PRECINCT DELAWARE CITY 2-E,AES,,,,Ballots Cast,104
+Delaware,PRECINCT DELAWARE CITY 2-F,AET,,,,Ballots Cast,323
+Delaware,PRECINCT GENOA N,AEU,,,,Ballots Cast,475
+Delaware,PRECINCT COLUMBUS CITY D,AEV,,,,Ballots Cast,181
+Delaware,PRECINCT CONCORD F,AEW,,,,Ballots Cast,460
+Delaware,PRECINCT GENOA O,AEX,,,,Ballots Cast,473
+Delaware,PRECINCT POWELL H,AEY,,,,Ballots Cast,406
+Delaware,PRECINCT ORANGE M,AEZ,,,,Ballots Cast,321
+Delaware,PRECINCT ORANGE N,AFA,,,,Ballots Cast,486
+Delaware,PRECINCT DELAWARE CITY 2-G,AFB,,,,Ballots Cast,431
+Delaware,PRECINCT BERLIN E,AFC,,,,Ballots Cast,471
+Delaware,PRECINCT DELAWARE CITY 3-F,AFE,,,,Ballots Cast,475
+Delaware,PRECINCT GENOA P,AFF,,,,Ballots Cast,501
+Delaware,PRECINCT CONCORD G,AFH,,,,Ballots Cast,465
+Delaware,PRECINCT SUNBURY D,AFI,,,,Ballots Cast,367
+Delaware,PRECINCT WESTERVILLE CITY G,AFJ,,,,Ballots Cast,441
+Delaware,PRECINCT GENOA Q,AFK,,,,Ballots Cast,485
+Delaware,PRECINCT LIBERTY L,AFL,,,,Ballots Cast,543
+Delaware,PRECINCT ORANGE O,AFM,,,,Ballots Cast,500
+Delaware,PRECINCT COLUMBUS CITY E,AFN,,,,Ballots Cast,339
+Delaware,PRECINCT CONCORD H,AFO,,,,Ballots Cast,445
+Delaware,PRECINCT GENOA R,AFQ,,,,Ballots Cast,320
+Delaware,PRECINCT ORANGE P,AFR,,,,Ballots Cast,374
+Delaware,PRECINCT ORANGE Q,AFS,,,,Ballots Cast,426
+Delaware,PRECINCT POWELL I,AFT,,,,Ballots Cast,432
+Delaware,PRECINCT POWELL J,AFU,,,,Ballots Cast,441
+Delaware,PRECINCT GENOA S,AFV,,,,Ballots Cast,279
+Delaware,PRECINCT COLUMBUS CITY F,AFW,,,,Ballots Cast,305
+Delaware,PRECINCT CONCORD I,AFX,,,,Ballots Cast,564
+Delaware,PRECINCT DELAWARE CITY 3-G,AFY,,,,Ballots Cast,332
+Delaware,PRECINCT LIBERTY M,AFZ,,,,Ballots Cast,234
+Delaware,PRECINCT ORANGE R,AGA,,,,Ballots Cast,300
+Delaware,PRECINCT ORANGE S,AGB,,,,Ballots Cast,458
+Delaware,PRECINCT WESTERVILLE CITY H,AGC,,,,Ballots Cast,379
+Delaware,PRECINCT BERKSHIRE C,AGD,,,,Ballots Cast,238
+Delaware,PRECINCT COLUMBUS CITY G,AGE,,,,Ballots Cast,322
+Delaware,PRECINCT BERKSHIRE D,AGF,,,,Ballots Cast,313
+Delaware,PRECINCT BERKSHIRE E,AGG,,,,Ballots Cast,123
+Delaware,PRECINCT GENOA T,AGH,,,,Ballots Cast,402
+Delaware,PRECINCT DELAWARE CITY 4-G,AGI,,,,Ballots Cast,215
+Delaware,PRECINCT ORANGE T,AGJ,,,,Ballots Cast,427
+Delaware,PRECINCT LIBERTY N,AGK,,,,Ballots Cast,265
+Franklin,COLS 16-A,ADG,,,,Ballots Cast,271
+Franklin,COLS 16-B,ADH,,,,Ballots Cast,218
+Franklin,COLS 16-D,ADJ,,,,Ballots Cast,30
+Franklin,COLS 16-E,ADK,,,,Ballots Cast,101
+Franklin,COLS 18-A,ADQ,,,,Ballots Cast,397
+Franklin,COLS 18-B,ADR,,,,Ballots Cast,476
+Franklin,COLS 18-C,ADS,,,,Ballots Cast,502
+Franklin,COLS 18-D,ADT,,,,Ballots Cast,430
+Franklin,COLS 18-E,ADU,,,,Ballots Cast,559
+Franklin,COLS 18-F,ADV,,,,Ballots Cast,408
+Franklin,COLS 19-A,ADW,,,,Ballots Cast,497
+Franklin,COLS 19-B,ADX,,,,Ballots Cast,566
+Franklin,COLS 19-C,ADY,,,,Ballots Cast,642
+Franklin,COLS 19-D,ADZ,,,,Ballots Cast,650
+Franklin,COLS 19-E,AEA,,,,Ballots Cast,513
+Franklin,COLS 19-F,AEB,,,,Ballots Cast,545
+Franklin,COLS 19-G,AEC,,,,Ballots Cast,561
+Franklin,COLS 19-H,AED,,,,Ballots Cast,682
+Franklin,COLS 20-A,AEE,,,,Ballots Cast,963
+Franklin,COLS 20-B,AEF,,,,Ballots Cast,314
+Franklin,COLS 20-C,AEG,,,,Ballots Cast,591
+Franklin,COLS 21-A,AEH,,,,Ballots Cast,521
+Franklin,COLS 21-B,AEI,,,,Ballots Cast,685
+Franklin,COLS 21-C,AEJ,,,,Ballots Cast,471
+Franklin,COLS 21-D,AEK,,,,Ballots Cast,212
+Franklin,COLS 21-E,AEL,,,,Ballots Cast,695
+Franklin,COLS 21-F,AEM,,,,Ballots Cast,573
+Franklin,COLS 22-A,AEN,,,,Ballots Cast,606
+Franklin,COLS 22-B,AEO,,,,Ballots Cast,479
+Franklin,COLS 22-C,AEP,,,,Ballots Cast,611
+Franklin,COLS 22-G,AET,,,,Ballots Cast,558
+Franklin,COLS 30-B,AGH,,,,Ballots Cast,51
+Franklin,COLS 30-C,AGI,,,,Ballots Cast,268
+Franklin,COLS 41-A,AIE,,,,Ballots Cast,49
+Franklin,COLS 41-C,AIG,,,,Ballots Cast,49
+Franklin,COLS 41-E,AII,,,,Ballots Cast,17
+Franklin,COLS 59-C,AMX,,,,Ballots Cast,411
+Franklin,COLS 60-A,ANB,,,,Ballots Cast,345
+Franklin,COLS 60-B,ANC,,,,Ballots Cast,388
+Franklin,COLS 60-C,AND,,,,Ballots Cast,493
+Franklin,COLS 60-D,ANE,,,,Ballots Cast,104
+Franklin,COLS 60-F,ANG,,,,Ballots Cast,528
+Franklin,COLS 60-G,ANH,,,,Ballots Cast,311
+Franklin,COLS 61-D,ANL,,,,Ballots Cast,0
+Franklin,COLS 63-A,ANV,,,,Ballots Cast,302
+Franklin,COLS 64-B,AOG,,,,Ballots Cast,32
+Franklin,COLS 65-A,AOL,,,,Ballots Cast,343
+Franklin,COLS 65-B,AOM,,,,Ballots Cast,344
+Franklin,COLS 65-C,AON,,,,Ballots Cast,408
+Franklin,COLS 65-D,AOO,,,,Ballots Cast,433
+Franklin,COLS 65-E,AOP,,,,Ballots Cast,390
+Franklin,COLS 65-F,AOQ,,,,Ballots Cast,337
+Franklin,COLS 65-G,AOR,,,,Ballots Cast,441
+Franklin,COLS 69-A,APL,,,,Ballots Cast,319
+Franklin,COLS 69-F,APQ,,,,Ballots Cast,353
+Franklin,COLS 69-G,APR,,,,Ballots Cast,0
+Franklin,COLS 70-D,APX,,,,Ballots Cast,506
+Franklin,COLS 70-E,APY,,,,Ballots Cast,168
+Franklin,COLS 71-A,APZ,,,,Ballots Cast,501
+Franklin,COLS 71-B,AQA,,,,Ballots Cast,258
+Franklin,COLS 72-A,AQL,,,,Ballots Cast,467
+Franklin,COLS 72-B,AQM,,,,Ballots Cast,449
+Franklin,COLS 72-C,AQN,,,,Ballots Cast,406
+Franklin,COLS 72-D,AQO,,,,Ballots Cast,455
+Franklin,COLS 72-E,AQP,,,,Ballots Cast,547
+Franklin,COLS 72-F,AQQ,,,,Ballots Cast,534
+Franklin,COLS 74-A,AQY,,,,Ballots Cast,403
+Franklin,COLS 74-B,AQZ,,,,Ballots Cast,322
+Franklin,COLS 74-C,ARA,,,,Ballots Cast,444
+Franklin,COLS 74-D,ARB,,,,Ballots Cast,247
+Franklin,COLS 74-E,ARC,,,,Ballots Cast,356
+Franklin,COLS 74-F,ARD,,,,Ballots Cast,271
+Franklin,COLS 74-G,ARE,,,,Ballots Cast,442
+Franklin,DUB 1-A,ARG,,,,Ballots Cast,625
+Franklin,DUB 1-B,ARH,,,,Ballots Cast,298
+Franklin,DUB 1-C,ARI,,,,Ballots Cast,498
+Franklin,DUB 1-D,ARJ,,,,Ballots Cast,392
+Franklin,DUB 1-E,ARK,,,,Ballots Cast,489
+Franklin,DUB 2-A,ARL,,,,Ballots Cast,384
+Franklin,DUB 2-B,ARM,,,,Ballots Cast,218
+Franklin,DUB 2-C,ARN,,,,Ballots Cast,229
+Franklin,DUB 2-D,ARO,,,,Ballots Cast,396
+Franklin,DUB 2-E,ARP,,,,Ballots Cast,369
+Franklin,DUB 3-A,ARQ,,,,Ballots Cast,646
+Franklin,DUB 4-A,ARR,,,,Ballots Cast,463
+Franklin,DUB 4-B,ARS,,,,Ballots Cast,298
+Franklin,DUB 4-C,ART,,,,Ballots Cast,330
+Franklin,DUB 4-D,ARU,,,,Ballots Cast,519
+Franklin,DUB 4-E,ARV,,,,Ballots Cast,419
+Franklin,GAH 1-A,ARW,,,,Ballots Cast,316
+Franklin,GAH 2-A,ASC,,,,Ballots Cast,389
+Franklin,GAH 2-D,ASF,,,,Ballots Cast,231
+Franklin,GAH 2-E,ASG,,,,Ballots Cast,194
+Franklin,GAH 3-B,ASI,,,,Ballots Cast,294
+Franklin,GAH 3-E,ASL,,,,Ballots Cast,408
+Franklin,GAH 4-A,ASN,,,,Ballots Cast,53
+Franklin,GAH 4-B,ASO,,,,Ballots Cast,266
+Franklin,GAH 4-D,ASQ,,,,Ballots Cast,497
+Franklin,GAH 4-F,ASS,,,,Ballots Cast,353
+Franklin,GAH 4-G,AST,,,,Ballots Cast,473
+Franklin,HILL 4-A,AUD,,,,Ballots Cast,5
+Franklin,WESTERVILLE 1-A,AWI,,,,Ballots Cast,350
+Franklin,WESTERVILLE 1-B,AWJ,,,,Ballots Cast,521
+Franklin,WESTERVILLE 1-C,AWK,,,,Ballots Cast,347
+Franklin,WESTERVILLE 1-D,AWL,,,,Ballots Cast,287
+Franklin,WESTERVILLE 1-E,AWM,,,,Ballots Cast,401
+Franklin,WESTERVILLE 2-A,AWN,,,,Ballots Cast,515
+Franklin,WESTERVILLE 2-B,AWO,,,,Ballots Cast,618
+Franklin,WESTERVILLE 2-C,AWP,,,,Ballots Cast,334
+Franklin,WESTERVILLE 2-D,AWQ,,,,Ballots Cast,353
+Franklin,WESTERVILLE 2-E,AWR,,,,Ballots Cast,476
+Franklin,WESTERVILLE 2-F,AWS,,,,Ballots Cast,441
+Franklin,WESTERVILLE 3-A,AWT,,,,Ballots Cast,339
+Franklin,WESTERVILLE 3-B,AWU,,,,Ballots Cast,236
+Franklin,WESTERVILLE 3-C,AWV,,,,Ballots Cast,211
+Franklin,WESTERVILLE 4-A,AWY,,,,Ballots Cast,530
+Franklin,WESTERVILLE 4-B,AWZ,,,,Ballots Cast,710
+Franklin,WESTERVILLE 4-C,AXA,,,,Ballots Cast,471
+Franklin,WESTERVILLE 5-A,AXC,,,,Ballots Cast,384
+Franklin,WESTERVILLE 5-B,AXD,,,,Ballots Cast,166
+Franklin,WESTERVILLE 5-C,AXE,,,,Ballots Cast,411
+Franklin,WESTERVILLE 5-D,AXF,,,,Ballots Cast,381
+Franklin,WESTERVILLE 5-E,AXG,,,,Ballots Cast,428
+Franklin,WORTH 1-A,AXU,,,,Ballots Cast,532
+Franklin,WORTH 1-B,AXV,,,,Ballots Cast,520
+Franklin,WORTH 1-C,AXW,,,,Ballots Cast,546
+Franklin,WORTH 1-D,AXX,,,,Ballots Cast,271
+Franklin,WORTH 2-A,AXY,,,,Ballots Cast,567
+Franklin,WORTH 2-B,AXZ,,,,Ballots Cast,492
+Franklin,WORTH 2-C,AYA,,,,Ballots Cast,514
+Franklin,WORTH 3-A,AYB,,,,Ballots Cast,902
+Franklin,WORTH 3-B,AYC,,,,Ballots Cast,549
+Franklin,WORTH 4-A,AYF,,,,Ballots Cast,410
+Franklin,WORTH 4-B,AYG,,,,Ballots Cast,460
+Franklin,WORTH 4-C,AYH,,,,Ballots Cast,337
+Franklin,WORTH 4-D,AYI,,,,Ballots Cast,232
+Franklin,BLENDON-A,AYJ,,,,Ballots Cast,2
+Franklin,BLENDON-B,AYK,,,,Ballots Cast,177
+Franklin,BLENDON-D,AYM,,,,Ballots Cast,70
+Franklin,BROWN-B,AYS,,,,Ballots Cast,0
+Franklin,JEFFERSON-A,AZR,,,,Ballots Cast,440
+Franklin,JEFFERSON-B,AZS,,,,Ballots Cast,374
+Franklin,JEFFERSON-C,AZT,,,,Ballots Cast,446
+Franklin,MIFFLIN-A,BAJ,,,,Ballots Cast,0
+Franklin,PERRY-A,BAP,,,,Ballots Cast,415
+Franklin,PERRY-B,BAQ,,,,Ballots Cast,461
+Franklin,PERRY-C,BAR,,,,Ballots Cast,58
+Franklin,PERRY-D,BAS,,,,Ballots Cast,597
+Franklin,NEW ALBANY-A,BAT,,,,Ballots Cast,384
+Franklin,NEW ALBANY-B,BAU,,,,Ballots Cast,470
+Franklin,PLAIN-A,BAV,,,,Ballots Cast,144
+Franklin,PLAIN-B,BAW,,,,Ballots Cast,438
+Franklin,RIVERLEA-A,BBQ,,,,Ballots Cast,302
+Franklin,SHARON-A,BBR,,,,Ballots Cast,335
+Franklin,SHARON-B,BBS,,,,Ballots Cast,406
+Franklin,WASHINGTON-A,BBV,,,,Ballots Cast,224
+Franklin,DUB 4-F,BCE,,,,Ballots Cast,543
+Franklin,NEW ALBANY-C,BCF,,,,Ballots Cast,514
+Franklin,DUB 1-F,BCJ,,,,Ballots Cast,411
+Franklin,DUB 1-G,BCK,,,,Ballots Cast,453
+Franklin,WESTERVILLE 2-G,BDA,,,,Ballots Cast,331
+Franklin,GAH 2-F,BDB,,,,Ballots Cast,211
+Franklin,DUB 2-F,BDD,,,,Ballots Cast,323
+Franklin,DUB 3-B,BDE,,,,Ballots Cast,593
+Franklin,DUB 2-G,BDO,,,,Ballots Cast,411
+Franklin,DUB 2-H,BDP,,,,Ballots Cast,227
+Franklin,DUB 3-C,BDQ,,,,Ballots Cast,498
+Franklin,GAH 1-G,BDV,,,,Ballots Cast,59
+Franklin,GAH 2-I,BFN,,,,Ballots Cast,18
+Franklin,JEFFERSON-E,BFT,,,,Ballots Cast,0
+Franklin,NEW ALBANY-E,BFW,,,,Ballots Cast,301
+Franklin,NEW ALBANY-F,BFX,,,,Ballots Cast,535
+Franklin,COLS 77-F,BHE,,,,Ballots Cast,0
+Franklin,COLS 82-E,BHX,,,,Ballots Cast,601
+Franklin,COLS 82-F,BHY,,,,Ballots Cast,408
+Franklin,COLS 82-G,BHZ,,,,Ballots Cast,358
+Franklin,COLS 82-H,BIA,,,,Ballots Cast,365
+Franklin,HILL 2-E,BJD,,,,Ballots Cast,307
+Franklin,COLS 69-H,BJN,,,,Ballots Cast,88
+Franklin,COLS 69-I,BJO,,,,Ballots Cast,303
+Franklin,COLS 69-J,BJX,,,,Ballots Cast,0
+Franklin,DUB 2-I,BJZ,,,,Ballots Cast,349
+Franklin,DUB 1-H,BKF,,,,Ballots Cast,291
+Franklin,COLS 73-J,BKJ,,,,Ballots Cast,8
+Franklin,COLS 82-I,BKK,,,,Ballots Cast,610
+Franklin,COLS 82-J,BKL,,,,Ballots Cast,311
+Franklin,COLS 69-K,BKM,,,,Ballots Cast,138
+Franklin,COLS 72-G,BKR,,,,Ballots Cast,311
+Franklin,COLS 69-L,BKW,,,,Ballots Cast,400
+Franklin,COLS 69-M,BKX,,,,Ballots Cast,235
+Franklin,COLS 82-K,BLB,,,,Ballots Cast,317
+Franklin,COLS 82-L,BLC,,,,Ballots Cast,572
+Franklin,DUB 2-J,BLE,,,,Ballots Cast,464
+Franklin,COLS 59-F,BLO,,,,Ballots Cast,148
+Franklin,NEW ALBANY-G,BLP,,,,Ballots Cast,317
+Franklin,COLS 74-H,BMC,,,,Ballots Cast,155
+Franklin,COLS 82-M,BMJ,,,,Ballots Cast,224
+Franklin,WESTERVILLE 3-E,BML,,,,Ballots Cast,328
+Franklin,WORTH 3-C,BMM,,,,Ballots Cast,348
+Licking,HEATH 1-A,AAA,,,,Ballots Cast,484
+Licking,HEATH 1-B,AAB,,,,Ballots Cast,277
+Licking,HEATH 2-B,AAD,,,,Ballots Cast,308
+Licking,HEATH 2-A,AAE,,,,Ballots Cast,370
+Licking,HEATH 3-A,AAG,,,,Ballots Cast,377
+Licking,HEATH 3-B,AAH,,,,Ballots Cast,487
+Licking,NEWARK 1-A,AAJ,,,,Ballots Cast,316
+Licking,NEWARK 1-B,AAK,,,,Ballots Cast,340
+Licking,NEWARK 2-A,AAP,,,,Ballots Cast,256
+Licking,NEWARK 2-B,AAQ,,,,Ballots Cast,312
+Licking,NEWARK 2-C,AAS,,,,Ballots Cast,145
+Licking,NEWARK 3-A,AAW,,,,Ballots Cast,545
+Licking,NEWARK 3-B,AAX,,,,Ballots Cast,663
+Licking,NEWARK 3-C,AAY,,,,Ballots Cast,305
+Licking,NEWARK 4-A,ABB,,,,Ballots Cast,470
+Licking,NEWARK 4-B,ABC,,,,Ballots Cast,409
+Licking,NEWARK 4-C,ABE,,,,Ballots Cast,386
+Licking,NEWARK 4-D,ABF,,,,Ballots Cast,325
+Licking,NEWARK 5-A,ABJ,,,,Ballots Cast,559
+Licking,NEWARK 5-B,ABK,,,,Ballots Cast,582
+Licking,NEWARK 5-C,ABM,,,,Ballots Cast,399
+Licking,NEWARK 5-E,ABN,,,,Ballots Cast,238
+Licking,NEWARK 5-D,ABO,,,,Ballots Cast,288
+Licking,NEWARK 6-A,ABR,,,,Ballots Cast,406
+Licking,NEWARK 6-B,ABS,,,,Ballots Cast,407
+Licking,NEWARK 6-C,ABT,,,,Ballots Cast,307
+Licking,NEWARK 6-D,ABU,,,,Ballots Cast,200
+Licking,NEWARK 6-E,ABV,,,,Ballots Cast,430
+Licking,NEWARK 7-A,ABZ,,,,Ballots Cast,242
+Licking,NEWARK 7-B,ACA,,,,Ballots Cast,339
+Licking,NEWARK 7-C,ACB,,,,Ballots Cast,320
+Licking,BENNINGTON TOWNSHIP,ACJ,,,,Ballots Cast,488
+Licking,BOWLING GREEN TOWNSHIP,ACK,,,,Ballots Cast,405
+Licking,BURLINGTON TOWNSHIP,ACL,,,,Ballots Cast,351
+Licking,EDEN FALL TOWNSHIP,ACM,,,,Ballots Cast,497
+Licking,ETNA TOWNSHIP A,ACN,,,,Ballots Cast,488
+Licking,ETNA TOWNSHIP B,ACP,,,,Ballots Cast,515
+Licking,ETNA TOWNSHIP C,ACQ,,,,Ballots Cast,482
+Licking,ETNA TOWNSHIP D,ACR,,,,Ballots Cast,515
+Licking,FRANKLIN TOWNSHIP,ACT,,,,Ballots Cast,525
+Licking,GRANVILLE TOWNSHIP A,ACV,,,,Ballots Cast,490
+Licking,GRANVILLE TOWNSHIP B,ACW,,,,Ballots Cast,555
+Licking,GRANVILLE TOWNSHIP C,ACX,,,,Ballots Cast,776
+Licking,GRANVILLE VILLAGE A,ACZ,,,,Ballots Cast,714
+Licking,GRANVILLE VILLAGE B,ADB,,,,Ballots Cast,635
+Licking,GRANVILLE VILLAGE C,ADC,,,,Ballots Cast,274
+Licking,HANOVER VILLAGE,ADD,,,,Ballots Cast,248
+Licking,HANOVER TOWNSHIP,ADE,,,,Ballots Cast,385
+Licking,HARRISON TOWNSHIP A,ADH,,,,Ballots Cast,386
+Licking,HARRISON TWP B-KIRK,ADI,,,,Ballots Cast,522
+Licking,HARRISON TOWNSHIP C,ADJ,,,,Ballots Cast,390
+Licking,HARRISON TOWNSHIP D,ADK,,,,Ballots Cast,547
+Licking,HARRISON TOWNSHIP E,ADL,,,,Ballots Cast,464
+Licking,HARTFORD TWP-VLG,ADM,,,,Ballots Cast,345
+Licking,HOPEWELL TWP-GRATIOT VLG,ADO,,,,Ballots Cast,342
+Licking,JERSEY TOWNSHIP A,ADP,,,,Ballots Cast,499
+Licking,JERSEY TOWNSHIP B,ADQ,,,,Ballots Cast,345
+Licking,LIBERTY TOWNSHIP A,ADR,,,,Ballots Cast,351
+Licking,LIBERTY TOWNSHIP B,ADS,,,,Ballots Cast,420
+Licking,LICKING TOWNSHIP A,ADT,,,,Ballots Cast,491
+Licking,LICKING TOWNSHIP B,ADV,,,,Ballots Cast,371
+Licking,LICKING TOWNSHIP C,ADW,,,,Ballots Cast,343
+Licking,MADISON TOWNSHIP A,ADX,,,,Ballots Cast,477
+Licking,MADISON TOWNSHIP B,ADZ,,,,Ballots Cast,285
+Licking,MARY ANN TOWNSHIP,AEA,,,,Ballots Cast,410
+Licking,MCKEAN TOWNSHIP,AEC,,,,Ballots Cast,512
+Licking,MONROE TOWNSHIP A,AEE,,,,Ballots Cast,323
+Licking,MONROE TOWNSHIP B,AEF,,,,Ballots Cast,413
+Licking,JOHNSTOWN VILLAGE A,AEG,,,,Ballots Cast,427
+Licking,JOHNSTOWN VILLAGE B,AEI,,,,Ballots Cast,266
+Licking,NEWARK TOWNSHIP,AEK,,,,Ballots Cast,695
+Licking,NEWTON TWP A,AEO,,,,Ballots Cast,540
+Licking,NEWTON TWP B-ST LOU,AEQ,,,,Ballots Cast,342
+Licking,PATASKALA 1-A,AES,,,,Ballots Cast,424
+Licking,PATASKALA 1-B,AET,,,,Ballots Cast,438
+Licking,PATASKALA 2-A,AEU,,,,Ballots Cast,418
+Licking,PATASKALA 2-B,AEV,,,,Ballots Cast,333
+Licking,PATASKALA 3-A,AEW,,,,Ballots Cast,450
+Licking,PATASKALA 3-B,AEX,,,,Ballots Cast,593
+Licking,PATASKALA 4-A,AEY,,,,Ballots Cast,344
+Licking,PATASKALA 4-B,AEZ,,,,Ballots Cast,469
+Licking,PERRY TOWNSHIP,AFA,,,,Ballots Cast,337
+Licking,ST ALBANS TWP A,AFC,,,,Ballots Cast,373
+Licking,ST ALBANS TWP B-ALEX,AFD,,,,Ballots Cast,432
+Licking,UNION TOWNSHIP A,AFE,,,,Ballots Cast,641
+Licking,UNION TOWNSHIP B,AFF,,,,Ballots Cast,588
+Licking,HEBRON VILLAGE,AFH,,,,Ballots Cast,396
+Licking,BUCKEYE LAKE VILLAGE,AFJ,,,,Ballots Cast,375
+Licking,WASHINGTON TOWNSHIP,AFL,,,,Ballots Cast,241
+Licking,UTICA VILLAGE,AFM,,,,Ballots Cast,315
+Licking,REYNOLDSBURG 2-A,AFR,,,,Ballots Cast,320
+Licking,REYNOLDSBURG 3-A,AFS,,,,Ballots Cast,521
+Licking,REYNOLDSBURG 3-B,AFT,,,,Ballots Cast,323
+Licking,REYNOLDSBURG 3-C,AFU,,,,Ballots Cast,522
+Licking,REYNOLDSBURG 3-D,AFV,,,,Ballots Cast,563
+Licking,JOHNSTOWN VILLAGE C,AFZ,,,,Ballots Cast,361
+Marion,PRECINCT CLARIDON TWP A,ABX,,,,Ballots Cast,31
+Marion,PRECINCT CLARIDON TWP B,ABY,,,,Ballots Cast,325
+Marion,PRECINCT PLEASANT TWP E,ACY,,,,Ballots Cast,196
+Marion,PRECINCT PLEASANT TWP F,ACZ,,,,Ballots Cast,182
+Marion,PRECINCT PROSPECT TWP,ADA,,,,Ballots Cast,199
+Marion,PRECINCT PROSPECT VILLAGE,ADC,,,,Ballots Cast,185
+Marion,PRECINCT RICHLAND TWP A,ADE,,,,Ballots Cast,182
+Marion,PRECINCT RICHLAND TWP B,ADF,,,,Ballots Cast,286
+Marion,PRECINCT WALDO,ADK,,,,Ballots Cast,224
+Morrow,BENNINGTON TWP EAST,AAA,,,,Ballots Cast,318
+Morrow,BENNINGTON TWP WEST,AAC,,,,Ballots Cast,372
+Morrow,CANAAN TWP,AAD,,,,Ballots Cast,195
+Morrow,CARDINGTON TWP,AAE,,,,Ballots Cast,269
+Morrow,CARDINGTON VILLAGE E,AAF,,,,Ballots Cast,146
+Morrow,CARDINGTON VILLAGE W,AAG,,,,Ballots Cast,139
+Morrow,CHESTER TWP EAST,AAH,,,,Ballots Cast,204
+Morrow,CHESTER TWP WEST,AAI,,,,Ballots Cast,159
+Morrow,CONGRESS TWP EAST,AAJ,,,,Ballots Cast,335
+Morrow,CONGRESS TWP WEST,AAK,,,,Ballots Cast,422
+Morrow,FRANKLIN TWP,AAL,,,,Ballots Cast,387
+Morrow,EDISON VILLAGE,AAM,,,,Ballots Cast,75
+Morrow,GILEAD TWP NE,AAN,,,,Ballots Cast,176
+Morrow,GILEAD TWP SE,AAO,,,,Ballots Cast,207
+Morrow,GILEAD TWP W,AAP,,,,Ballots Cast,224
+Morrow,MT GILEAD VILLAGE E,AAQ,,,,Ballots Cast,149
+Morrow,MT GILEAD VILLAGE N,AAR,,,,Ballots Cast,182
+Morrow,MT GILEAD VILLAGE NW,AAS,,,,Ballots Cast,213
+Morrow,MT GILEAD VILLAGE SW,AAT,,,,Ballots Cast,104
+Morrow,HARMONY TWP N,AAV,,,,Ballots Cast,233
+Morrow,LINCOLN TWP E,AAW,,,,Ballots Cast,161
+Morrow,LINCOLN TWP W,AAX,,,,Ballots Cast,204
+Morrow,N BLOOMFIELD TWP E,AAY,,,,Ballots Cast,207
+Morrow,N BLOOMFIELD TWP W,AAZ,,,,Ballots Cast,165
+Morrow,PERRY TWP N,ABA,,,,Ballots Cast,175
+Morrow,PERRY TWP S,ABB,,,,Ballots Cast,119
+Morrow,PERU TWP,ABC,,,,Ballots Cast,382
+Morrow,S BLOOMFIELD TWP E,ABD,,,,Ballots Cast,227
+Morrow,S BLOOMFIELD TWP W,ABE,,,,Ballots Cast,221
+Morrow,TROY TWP,ABF,,,,Ballots Cast,261
+Morrow,WASHINGTON TWP,ABH,,,,Ballots Cast,255
+Morrow,WESTFIELD TWP,ABI,,,,Ballots Cast,298
+Morrow,HARMONY TWP S,ABJ,,,,Ballots Cast,299
+Muskingum,PRECINCT ZANESVILLE 1-A,AAA,,,,Ballots Cast,177
+Muskingum,PRECINCT ZANESVILLE 1-B,AAB,,,,Ballots Cast,224
+Muskingum,PRECINCT ZANESVILLE 2-A,AAE,,,,Ballots Cast,311
+Muskingum,PRECINCT ZANESVILLE 2-B,AAF,,,,Ballots Cast,226
+Muskingum,PRECINCT ZANESVILLE 3-A,AAI,,,,Ballots Cast,213
+Muskingum,PRECINCT ZANESVILLE 3-B,AAJ,,,,Ballots Cast,200
+Muskingum,PRECINCT ZANESVILLE 4-A,AAL,,,,Ballots Cast,218
+Muskingum,PRECINCT ZANESVILLE 4-B,AAN,,,,Ballots Cast,358
+Muskingum,PRECINCT ZANESVILLE 5-A,AAO,,,,Ballots Cast,369
+Muskingum,PRECINCT ZANESVILLE 5-B,AAQ,,,,Ballots Cast,203
+Muskingum,PRECINCT ZANESVILLE 6-A,AAS,,,,Ballots Cast,263
+Muskingum,PRECINCT ZANESVILLE 6-B,AAT,,,,Ballots Cast,377
+Muskingum,PRECINCT ZANESVILLE 6-C,AAU,,,,Ballots Cast,319
+Muskingum,PRECINCT BLUE ROCK,AAY,,,,Ballots Cast,148
+Muskingum,PRECINCT BRUSH CREEK,AAZ,,,,Ballots Cast,201
+Muskingum,PRECINCT CLAY,ABC,,,,Ballots Cast,130
+Muskingum,PRECINCT FALLS A,ABD,,,,Ballots Cast,364
+Muskingum,PRECINCT FALLS B,ABE,,,,Ballots Cast,447
+Muskingum,PRECINCT FALLS C,ABF,,,,Ballots Cast,218
+Muskingum,PRECINCT FALLS D,ABG,,,,Ballots Cast,574
+Muskingum,PRECINCT FALLS E,ABH,,,,Ballots Cast,454
+Muskingum,PRECINCT FALLS G,ABJ,,,,Ballots Cast,253
+Muskingum,PRECINCT FALLS F,ABL,,,,Ballots Cast,228
+Muskingum,PRECINCT FALLS H,ABM,,,,Ballots Cast,248
+Muskingum,PRECINCT HARRISON,ABN,,,,Ballots Cast,278
+Muskingum,PRECINCT HOPEWELL A,ABQ,,,,Ballots Cast,255
+Muskingum,PRECINCT HOPEWELL B,ABR,,,,Ballots Cast,273
+Muskingum,PRECINCT HOPEWELL C,ABS,,,,Ballots Cast,313
+Muskingum,PRECINCT MEIGS,ACA,,,,Ballots Cast,43
+Muskingum,PRECINCT FULTONHAM,ACF,,,,Ballots Cast,149
+Muskingum,PRECINCT IRONSPOT,ACG,,,,Ballots Cast,86
+Muskingum,PRECINCT MOXAHALA,ACH,,,,Ballots Cast,212
+Muskingum,PRECINCT ROLLING PLAINS,ACI,,,,Ballots Cast,251
+Muskingum,PRECINCT WHITE COTTAGE,ACJ,,,,Ballots Cast,256
+Muskingum,PRECINCT RICH HILL,ACM,,,,Ballots Cast,150
+Muskingum,PRECINCT SALT CREEK,ACO,,,,Ballots Cast,280
+Muskingum,PRECINCT SPRINGFIELD A,ACP,,,,Ballots Cast,236
+Muskingum,PRECINCT SPRINGFIELD B,ACQ,,,,Ballots Cast,360
+Muskingum,PRECINCT SPRINGFIELD C,ACR,,,,Ballots Cast,164
+Muskingum,PRECINCT SOUTH ZANESVILLE,ACT,,,,Ballots Cast,263
+Muskingum,PRECINCT DUNCAN FALLS,ADD,,,,Ballots Cast,307
+Muskingum,PRECINCT WAYNE A,ADE,,,,Ballots Cast,182
+Muskingum,PRECINCT WAYNE B,ADF,,,,Ballots Cast,308
+Muskingum,PRECINCT WAYNE C,ADG,,,,Ballots Cast,349
+Muskingum,PRECINCT ZANESVILLE 5-C,ADH,,,,Ballots Cast,504
+Richland,MAN 1 - A,AAA,,,,Ballots Cast,355
+Richland,MAN 1 - B,AAB,,,,Ballots Cast,370
+Richland,MAN 1 - C,AAC,,,,Ballots Cast,215
+Richland,MAN 1 - D,AAD,,,,Ballots Cast,467
+Richland,MAN 1 - E,AAE,,,,Ballots Cast,443
+Richland,MAN 1 - F,AAF,,,,Ballots Cast,263
+Richland,MAN 2 - A,AAG,,,,Ballots Cast,263
+Richland,MAN 2 - B,AAH,,,,Ballots Cast,222
+Richland,MAN 2 - C,AAI,,,,Ballots Cast,114
+Richland,MAN 2 - D,AAJ,,,,Ballots Cast,461
+Richland,MAN 2 - E,AAK,,,,Ballots Cast,460
+Richland,MAN 2 - F,AAL,,,,Ballots Cast,368
+Richland,MAN 3 - A,AAM,,,,Ballots Cast,156
+Richland,MAN 3 - B,AAN,,,,Ballots Cast,259
+Richland,MAN 3 - C,AAO,,,,Ballots Cast,320
+Richland,MAN 3 - D,AAP,,,,Ballots Cast,346
+Richland,MAN 3 - E,AAQ,,,,Ballots Cast,371
+Richland,MAN 4 - A,AAR,,,,Ballots Cast,165
+Richland,MAN 4 - B,AAS,,,,Ballots Cast,206
+Richland,MAN 4 - C,AAT,,,,Ballots Cast,197
+Richland,MAN 4 - D,AAU,,,,Ballots Cast,138
+Richland,MAN 4 - E,AAV,,,,Ballots Cast,176
+Richland,MAN 5 - A,AAW,,,,Ballots Cast,128
+Richland,MAN 5 - B,AAX,,,,Ballots Cast,131
+Richland,MAN 6 - A,AAY,,,,Ballots Cast,156
+Richland,MAN 6 - B,AAZ,,,,Ballots Cast,100
+Richland,MAN 6 - C,ABA,,,,Ballots Cast,119
+Richland,MAN 6 - D,ABB,,,,Ballots Cast,234
+Richland,MAN 6 - E,ABC,,,,Ballots Cast,261
+Richland,FRANK,ABO,,,,Ballots Cast,0
+Richland,JEFF A,ABR,,,,Ballots Cast,508
+Richland,JEFF C,ABS,,,,Ballots Cast,263
+Richland,JEFF D,ABT,,,,Ballots Cast,402
+Richland,MAD D,ABV,,,,Ballots Cast,196
+Richland,MAD E,ABW,,,,Ballots Cast,33
+Richland,MAD G,ABX,,,,Ballots Cast,96
+Richland,MAD I,ABY,,,,Ballots Cast,118
+Richland,PERRY,ACI,,,,Ballots Cast,252
+Richland,LEX B,ACU,,,,Ballots Cast,289
+Richland,LEX C,ACV,,,,Ballots Cast,364
+Richland,LEX E,ACW,,,,Ballots Cast,442
+Richland,TROY A,ACX,,,,Ballots Cast,326
+Richland,TROY B,ACY,,,,Ballots Cast,382
+Richland,WASH A,ACZ,,,,Ballots Cast,275
+Richland,WASH B,ADA,,,,Ballots Cast,310
+Richland,WASH C,ADB,,,,Ballots Cast,387
+Richland,WASH D,ADC,,,,Ballots Cast,283
+Richland,WASH F,ADE,,,,Ballots Cast,388
+Richland,WORTH A,ADG,,,,Ballots Cast,160
+Richland,WORTH B,ADH,,,,Ballots Cast,416
