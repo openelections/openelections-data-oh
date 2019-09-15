@@ -5,8 +5,8 @@ COUNTIES = ['Adams','Allen','Ashland','Ashtabula','Athens','Auglaize','Belmont',
 
 districts = load_districts()
 
-with open('/Users/DW-Admin/Downloads/precinct.csv', 'rb') as csvfile:
-    filename = "20161108__oh__general__precinct.csv"
+with open('/Users/dwillis/Downloads/precinctgreen.csv', 'rb') as csvfile:
+    filename = "20180508__oh__primary__precinct_g.csv"
     reader = unicsv.UnicodeCSVReader(csvfile)
     offices = next(reader)
     fixed_offices = []
@@ -60,7 +60,7 @@ with open('/Users/DW-Admin/Downloads/precinct.csv', 'rb') as csvfile:
                     d = [int(x['district']) for x in county_districts if x['office'] == 'State Senate']
                     if int(district[0:2]) in d:
                         results.append([county, row[1], row[2], row[3], row[4], row[5], row[6], office, district, party, cand.split(' (')[0].replace('  ', ' '), votes])
-                elif office == 'President' or office == 'U.S. Senator':
+                elif office in ['President','U.S. Senator' ,'Governor and Lieutenant Governor', 'Attorney General', 'Auditor of State', 'Secretary of State', 'Treasurer of State']:
                     results.append([county, row[1], row[2], row[3], row[4], row[5], row[6], office, district, party, cand.split(' (')[0].replace('  ', ' '), votes])
                 else:
                     continue
