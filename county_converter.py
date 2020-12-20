@@ -1,4 +1,4 @@
-import unicsv
+import csv
 from districts import load_districts
 
 COUNTIES = ['Adams','Allen','Ashland','Ashtabula','Athens','Auglaize','Belmont','Brown','Butler','Carroll','Champaign','Clark','Clermont','Clinton','Columbiana','Coshocton','Crawford','Cuyahoga','Darke','Defiance','Delaware','Erie','Fairfield','Fayette','Franklin','Fulton','Gallia','Geauga','Greene','Guernsey','Hamilton','Hancock','Hardin','Harrison','Henry','Highland','Hocking','Holmes','Huron','Jackson','Jefferson','Knox','Lake','Lawrence','Licking','Logan','Lorain','Lucas','Madison','Mahoning','Marion','Medina','Meigs','Mercer','Miami','Monroe','Montgomery','Morgan','Morrow','Muskingum','Noble','Ottawa','Paulding','Perry','Pickaway','Pike','Portage','Preble','Putnam','Richland','Ross','Sandusky','Scioto','Seneca','Shelby','Stark','Summit','Trumbull','Tuscarawas','Union','Van Wert','Vinton','Warren','Washington','Wayne','Williams','Wood','Wyandot']
@@ -7,7 +7,7 @@ districts = load_districts()
 
 with open('/Users/DW-Admin/Downloads/county.csv', 'rb') as csvfile:
     filename = "20161108__oh__general.csv"
-    reader = unicsv.UnicodeCSVReader(csvfile)
+    reader = csv.DictReader(csvfile)
     offices = next(reader)
     fixed_offices = []
     for office in offices[6:]:

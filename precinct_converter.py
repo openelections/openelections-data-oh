@@ -1,15 +1,13 @@
 import csv
 from districts import load_districts
 
-#COUNTIES = ['Adams','Allen','Ashland','Ashtabula','Athens','Auglaize','Belmont','Brown','Butler','Carroll','Champaign','Clark','Clermont','Clinton','Columbiana','Coshocton','Crawford','Cuyahoga','Darke','Defiance','Delaware','Erie','Fairfield','Fayette','Franklin','Fulton','Gallia','Geauga','Greene','Guernsey','Hamilton','Hancock','Hardin','Harrison','Henry','Highland','Hocking','Holmes','Huron','Jackson','Jefferson','Knox','Lake','Lawrence','Licking','Logan','Lorain','Lucas','Madison','Mahoning','Marion','Medina','Meigs','Mercer','Miami','Monroe','Montgomery','Morgan','Morrow','Muskingum','Noble','Ottawa','Paulding','Perry','Pickaway','Pike','Portage','Preble','Putnam','Richland','Ross','Sandusky','Scioto','Seneca','Shelby','Stark','Summit','Trumbull','Tuscarawas','Union','Van Wert','Vinton','Warren','Washington','Wayne','Williams','Wood','Wyandot']
-
-COUNTIES = ['Delaware', 'Franklin', 'Licking', 'Marion', 'Morrow', 'Muskingum', 'Richland']
+COUNTIES = ['Adams','Allen','Ashland','Ashtabula','Athens','Auglaize','Belmont','Brown','Butler','Carroll','Champaign','Clark','Clermont','Clinton','Columbiana','Coshocton','Crawford','Cuyahoga','Darke','Defiance','Delaware','Erie','Fairfield','Fayette','Franklin','Fulton','Gallia','Geauga','Greene','Guernsey','Hamilton','Hancock','Hardin','Harrison','Henry','Highland','Hocking','Holmes','Huron','Jackson','Jefferson','Knox','Lake','Lawrence','Licking','Logan','Lorain','Lucas','Madison','Mahoning','Marion','Medina','Meigs','Mercer','Miami','Monroe','Montgomery','Morgan','Morrow','Muskingum','Noble','Ottawa','Paulding','Perry','Pickaway','Pike','Portage','Preble','Putnam','Richland','Ross','Sandusky','Scioto','Seneca','Shelby','Stark','Summit','Trumbull','Tuscarawas','Union','Van Wert','Vinton','Warren','Washington','Wayne','Williams','Wood','Wyandot']
 
 districts = load_districts()
 
-with open('/Users/dwillis/Downloads/precinctgreen.csv', 'rb') as csvfile:
-    filename = "20180508__oh__primary__precinct_g.csv"
-    reader = unicsv.UnicodeCSVReader(csvfile)
+with open('/Users/derekwillis/code/openelections-data-oh/president.csv', 'r') as csvfile:
+    filename = "20201103__oh__general__precinct.csv"
+    reader = csv.DictReader(csvfile)
     offices = next(reader)
     fixed_offices = ['Representative to Congress'] * 3
 #        if office != '':
@@ -26,7 +24,6 @@ with open('/Users/dwillis/Downloads/precinctgreen.csv', 'rb') as csvfile:
     for county in COUNTIES:
         county_districts = [d for d in districts if d['county'] == county]
         results = []
-        filename = "20180807__oh__special__general__%s__precinct.csv" % county.lower()
         rows = [x for x in l if x[0] == county]
         for row in rows:
             county = row[0].strip()
@@ -58,7 +55,7 @@ with open('/Users/dwillis/Downloads/precinctgreen.csv', 'rb') as csvfile:
                 else:
                     continue
 
-        with open(filename, 'w') as outfile:
-            writer = csv.writer(outfile)
-            writer.writerow(fixed_cols)
-            writer.writerows(results)
+    with open(filename, 'w') as outfile:
+        writer = csv.writer(outfile)
+        writer.writerow(fixed_cols)
+        writer.writerows(results)
