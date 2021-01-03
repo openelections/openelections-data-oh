@@ -1,0 +1,770 @@
+county,office,district,party,candidate,votes,region,media_market
+Adams,U.S. House,2,D,Jaime M. Castle,2121,Southwest,Cincinnati
+Adams,U.S. House,2,,James J. Condit Jr,0,Southwest,Cincinnati
+Adams,U.S. House,2,R,Brad Wenstrup,9752,Southwest,Cincinnati
+Adams,State Senate,14,R,Terry A. Johnson,9576,Southwest,Cincinnati
+Adams,State Senate,14,D,Ryan Ottney,2112,Southwest,Cincinnati
+Adams,State House,90,R,Brian Baldridge,10010,Southwest,Cincinnati
+Allen,U.S. House,4,D,Shannon M. Freshour,13080,West,Lima
+Allen,U.S. House,4,R,Jim Jordan,33201,West,Lima
+Allen,U.S. House,4,I,Steve Perkins,1164,West,Lima
+Allen,State Senate,12,R,Matt Huffman,34303,West,Lima
+Allen,State Senate,12,D,Ken Poling,12645,West,Lima
+Allen,State House,4,R,Bob Cupp,38882,West,Lima
+Ashland,U.S. House,7,R,Bob Gibbs,19699,Northeast,Cleveland
+Ashland,U.S. House,7,I,Brandon Lape,985,Northeast,Cleveland
+Ashland,U.S. House,7,D,Quentin Potter,5195,Northeast,Cleveland
+Ashland,State Senate,22,D,Ryan Hunger,5991,Northeast,Cleveland
+Ashland,State Senate,22,R,Mark Romanchuk,19517,Northeast,Cleveland
+Ashland,State House,70,D,Kevin Barnet,5910,Northeast,Cleveland
+Ashland,State House,70,R,Darrell D. Kick,19687,Northeast,Cleveland
+Ashtabula,U.S. House,14,R,David P. Joyce,27955,Northeast,Cleveland
+Ashtabula,U.S. House,14,D,Hillary O'Connor Mueri,15088,Northeast,Cleveland
+Ashtabula,State Senate,32,R,Sandra O'Brien,25636,Northeast,Cleveland
+Ashtabula,State Senate,32,D,Sean J. O'Brien,17331,Northeast,Cleveland
+Ashtabula,State House,64,D,Michael J. O'Brien,1324,Northeast,Cleveland
+Ashtabula,State House,64,R,Martha Yoder,2994,Northeast,Cleveland
+Ashtabula,State House,99,,Kyle Bruckman,147,Northeast,Cleveland
+Ashtabula,State House,99,D,Richard Dana,17000,Northeast,Cleveland
+Ashtabula,State House,99,R,Sarah Fowler Arthur,21495,Northeast,Cleveland
+Athens,U.S. House,6,R,Bill Johnson,1518,Southeast,Charleston
+Athens,U.S. House,6,D,Shawna Roberts,461,Southeast,Charleston
+Athens,U.S. House,15,,Shane Hoffman,5,Southeast,Charleston
+Athens,U.S. House,15,D,Joel Newby,13512,Southeast,Charleston
+Athens,U.S. House,15,R,Steve Stivers,9809,Southeast,Charleston
+Athens,State Senate,20,D,Christian N. Johnson,776,Southeast,Charleston
+Athens,State Senate,20,R,Tim Schaffer,859,Southeast,Charleston
+Athens,State Senate,30,D,Michael Fletcher,13937,Southeast,Charleston
+Athens,State Senate,30,R,Frank Hoagland,9267,Southeast,Charleston
+Athens,State House,78,D,Charlotte Owens,773,Southeast,Charleston
+Athens,State House,78,R,Brian S. Stewart,853,Southeast,Charleston
+Athens,State House,94,R,Jay Edwards,10564,Southeast,Charleston
+Athens,State House,94,D,Katie O'Neill,13328,Southeast,Charleston
+Auglaize,U.S. House,4,D,Shannon M. Freshour,4192,West,Dayton
+Auglaize,U.S. House,4,R,Jim Jordan,20835,West,Dayton
+Auglaize,U.S. House,4,I,Steve Perkins,458,West,Dayton
+Auglaize,State Senate,12,R,Matt Huffman,11425,West,Dayton
+Auglaize,State Senate,12,D,Ken Poling,1935,West,Dayton
+Auglaize,State House,82,R,Craig S. Riedel,10004,West,Dayton
+Auglaize,State House,82,,Elecia Wobler,125,West,Dayton
+Auglaize,State House,84,R,Susan Manchester,11547,West,Dayton
+Auglaize,State House,84,D,Joseph A. Monbeck,1831,West,Dayton
+Belmont,U.S. House,6,R,Bill Johnson,23191,Southeast,Wheeling
+Belmont,U.S. House,6,D,Shawna Roberts,8552,Southeast,Wheeling
+Belmont,State Senate,30,D,Michael Fletcher,9726,Southeast,Wheeling
+Belmont,State Senate,30,R,Frank Hoagland,22376,Southeast,Wheeling
+Belmont,State House,95,R,Don Jones,12628,Southeast,Wheeling
+Belmont,State House,96,R,Ron Ferguson,10814,Southeast,Wheeling
+Belmont,State House,96,I,Oscar Herrera,483,Southeast,Wheeling
+Belmont,State House,96,D,Richard A. Olivito,5424,Southeast,Wheeling
+Brown,U.S. House,2,D,Jaime M. Castle,3980,Southwest,Cincinnati
+Brown,U.S. House,2,,James J. Condit Jr,1,Southwest,Cincinnati
+Brown,U.S. House,2,R,Brad Wenstrup,16698,Southwest,Cincinnati
+Brown,State Senate,14,R,Terry A. Johnson,15976,Southwest,Cincinnati
+Brown,State Senate,14,D,Ryan Ottney,4357,Southwest,Cincinnati
+Brown,State House,66,R,Adam C. Bird,17734,Southwest,Cincinnati
+Brown,State House,66,,Alicia Gee,383,Southwest,Cincinnati
+Butler,U.S. House,8,R,Warren Davidson,115747,Southwest,Cincinnati
+Butler,U.S. House,8,D,Vanessa Enoch,64380,Southwest,Cincinnati
+Butler,U.S. House,8,,Isaac Reed,64,Southwest,Cincinnati
+Butler,State Senate,4,,Kent Keller,1126,Southwest,Cincinnati
+Butler,State Senate,4,R,George F. Lang,106021,Southwest,Cincinnati
+Butler,State Senate,4,D,Kathy Wyenandt,68000,Southwest,Cincinnati
+Butler,State House,51,R,Sara P. Carruthers,35533,Southwest,Cincinnati
+Butler,State House,51,,Johnny H. Hamilton,2514,Southwest,Cincinnati
+Butler,State House,52,R,Jennifer L. Gross,44953,Southwest,Cincinnati
+Butler,State House,52,D,Chuck Horn,26019,Southwest,Cincinnati
+Butler,State House,53,R,Thomas Hall,36768,Southwest,Cincinnati
+Butler,State House,53,D,Michelle E. Novak,17106,Southwest,Cincinnati
+Butler,State House,54,D,Morgan Showen,2290,Southwest,Cincinnati
+Butler,State House,54,R,Paul Zeltwanger,3364,Southwest,Cincinnati
+Carroll,U.S. House,6,R,Bill Johnson,10506,Northeast,Cleveland
+Carroll,U.S. House,6,D,Shawna Roberts,3107,Northeast,Cleveland
+Carroll,State Senate,30,D,Michael Fletcher,3342,Northeast,Cleveland
+Carroll,State Senate,30,R,Frank Hoagland,10371,Northeast,Cleveland
+Carroll,State House,95,R,Don Jones,11424,Northeast,Cleveland
+Champaign,U.S. House,4,D,Shannon M. Freshour,4569,West,Dayton
+Champaign,U.S. House,4,R,Jim Jordan,14766,West,Dayton
+Champaign,U.S. House,4,I,Steve Perkins,480,West,Dayton
+Champaign,State Senate,12,R,Matt Huffman,14632,West,Dayton
+Champaign,State Senate,12,D,Ken Poling,4567,West,Dayton
+Champaign,State House,85,,Ted Greek,2158,West,Dayton
+Champaign,State House,85,R,Nino Vitale,13924,West,Dayton
+Clark,U.S. House,8,R,Warren Davidson,39767,West,Dayton
+Clark,U.S. House,8,D,Vanessa Enoch,22759,West,Dayton
+Clark,U.S. House,8,,Isaac Reed,33,West,Dayton
+Clark,State Senate,10,D,Charles Ballard,22045,West,Dayton
+Clark,State Senate,10,R,Robert D. Hackett,40079,West,Dayton
+Clark,State House,74,R,Bill Dean,8796,West,Dayton
+Clark,State House,74,,Michael Johnson,53,West,Dayton
+Clark,State House,74,,Ted McClenen,480,West,Dayton
+Clark,State House,79,R,Kyle Koehler,32705,West,Dayton
+Clark,State House,79,D,Cynthia Richards,19127,West,Dayton
+Clermont,U.S. House,2,D,Jaime M. Castle,29366,Southwest,Cincinnati
+Clermont,U.S. House,2,,James J. Condit Jr,8,Southwest,Cincinnati
+Clermont,U.S. House,2,R,Brad Wenstrup,78985,Southwest,Cincinnati
+Clermont,State Senate,14,R,Terry A. Johnson,75051,Southwest,Cincinnati
+Clermont,State Senate,14,D,Ryan Ottney,31089,Southwest,Cincinnati
+Clermont,State House,65,D,Alan Darnowsky,23019,Southwest,Cincinnati
+Clermont,State House,65,,Jim Lewis,506,Southwest,Cincinnati
+Clermont,State House,65,R,Jean Schmidt,44435,Southwest,Cincinnati
+Clermont,State House,66,R,Adam C. Bird,30976,Southwest,Cincinnati
+Clermont,State House,66,,Alicia Gee,1713,Southwest,Cincinnati
+Clinton,U.S. House,15,,Shane Hoffman,5,Southwest,Cincinnati
+Clinton,U.S. House,15,D,Joel Newby,4153,Southwest,Cincinnati
+Clinton,U.S. House,15,R,Steve Stivers,15876,Southwest,Cincinnati
+Clinton,State House,91,D,Scott M. Dailey,4344,Southwest,Cincinnati
+Clinton,State House,91,R,Shane Wilkin,15499,Southwest,Cincinnati
+Columbiana,U.S. House,6,R,Bill Johnson,36472,Northeast,Youngstown
+Columbiana,U.S. House,6,D,Shawna Roberts,12546,Northeast,Youngstown
+Columbiana,State House,5,R,Tim Ginter,36243,Northeast,Youngstown
+Columbiana,State House,5,D,Daniel Winston,12554,Northeast,Youngstown
+Coshocton,U.S. House,7,R,Bob Gibbs,12268,Central,Columbus
+Coshocton,U.S. House,7,I,Brandon Lape,586,Central,Columbus
+Coshocton,U.S. House,7,D,Quentin Potter,3371,Central,Columbus
+Coshocton,State House,72,,Kaitlyn Clark,573,Central,Columbus
+Coshocton,State House,72,,Jay A. Conrad,716,Central,Columbus
+Coshocton,State House,72,R,Larry Householder,7507,Central,Columbus
+Coshocton,State House,72,,Robert Leist,1853,Central,Columbus
+Coshocton,State House,72,,Marci McCaulay,1411,Central,Columbus
+Crawford,U.S. House,4,D,Shannon M. Freshour,4557,Central,Columbus
+Crawford,U.S. House,4,R,Jim Jordan,15260,Central,Columbus
+Crawford,U.S. House,4,I,Steve Perkins,623,Central,Columbus
+Crawford,State Senate,26,R,Bill Reineke,14730,Central,Columbus
+Crawford,State Senate,26,D,Craig Swartz,4861,Central,Columbus
+Crawford,State Senate,26,,Robert Taylor,542,Central,Columbus
+Crawford,State House,87,D,Nicholas Barnes,5004,Central,Columbus
+Crawford,State House,87,R,Riordan T. McClain,15063,Central,Columbus
+Cuyahoga,U.S. House,9,D,Marcy Kaptur,76793,Northeast,Cleveland
+Cuyahoga,U.S. House,9,,McKenzie Levindofske,30,Northeast,Cleveland
+Cuyahoga,U.S. House,9,R,Rob Weber,43885,Northeast,Cleveland
+Cuyahoga,U.S. House,11,D,Marcia L. Fudge,212304,Northeast,Cleveland
+Cuyahoga,U.S. House,11,R,Laverne Gore,48297,Northeast,Cleveland
+Cuyahoga,U.S. House,14,R,David P. Joyce,32288,Northeast,Cleveland
+Cuyahoga,U.S. House,14,D,Hillary O'Connor Mueri,31316,Northeast,Cleveland
+Cuyahoga,U.S. House,16,D,Aaron Paul Godfrey,61715,Northeast,Cleveland
+Cuyahoga,U.S. House,16,R,Anthony Gonzalez,83354,Northeast,Cleveland
+Cuyahoga,State Senate,8,R,Louis W. Blessing III,0,Northeast,Cleveland
+Cuyahoga,State Senate,8,D,Daniel Brown,0,Northeast,Cleveland
+Cuyahoga,State Senate,24,R,Matt Dolan,112609,Northeast,Cleveland
+Cuyahoga,State Senate,24,D,Tom Jackson,94633,Northeast,Cleveland
+Cuyahoga,State House,6,R,Shay Hawkins,35982,Northeast,Cleveland
+Cuyahoga,State House,6,D,Phil Robinson,37995,Northeast,Cleveland
+Cuyahoga,State House,7,R,Thomas F. Patton,37493,Northeast,Cleveland
+Cuyahoga,State House,7,D,Joan T. Sweeny,26922,Northeast,Cleveland
+Cuyahoga,State House,8,D,Kent Smith,41159,Northeast,Cleveland
+Cuyahoga,State House,9,D,Janine Boyd,50894,Northeast,Cleveland
+Cuyahoga,State House,9,R,Dustin D. Russell,7868,Northeast,Cleveland
+Cuyahoga,State House,10,D,Terrence Upchurch,28453,Northeast,Cleveland
+Cuyahoga,State House,11,D,Stephanie Howse,27346,Northeast,Cleveland
+Cuyahoga,State House,12,D,Juanita Brent,43247,Northeast,Cleveland
+Cuyahoga,State House,12,R,Jerry V. Powell,9342,Northeast,Cleveland
+Cuyahoga,State House,13,R,Daniel Harrington,11621,Northeast,Cleveland
+Cuyahoga,State House,13,D,Michael J. Skindell,33647,Northeast,Cleveland
+Cuyahoga,State House,14,R,Lynn McMahan,19643,Northeast,Cleveland
+Cuyahoga,State House,14,D,Bride Rose Sweeney,27618,Northeast,Cleveland
+Cuyahoga,State House,15,D,Jeffrey A. Crossman,24020,Northeast,Cleveland
+Cuyahoga,State House,15,R,Kevin C. Kussmaul,22018,Northeast,Cleveland
+Cuyahoga,State House,16,R,Dave Greenspan,34075,Northeast,Cleveland
+Cuyahoga,State House,16,D,Monique Smith,35013,Northeast,Cleveland
+Darke,U.S. House,8,R,Warren Davidson,22249,West,Dayton
+Darke,U.S. House,8,D,Vanessa Enoch,4387,West,Dayton
+Darke,U.S. House,8,,Isaac Reed,4,West,Dayton
+Darke,State Senate,12,R,Matt Huffman,13869,West,Dayton
+Darke,State Senate,12,D,Ken Poling,2826,West,Dayton
+Darke,State House,80,D,Ted Jones,1538,West,Dayton
+Darke,State House,80,R,Jena Powell,8412,West,Dayton
+Darke,State House,84,R,Susan Manchester,13758,West,Dayton
+Darke,State House,84,D,Joseph A. Monbeck,2867,West,Dayton
+Defiance,U.S. House,5,R,Bob Latta,14024,Northwest,Toledo
+Defiance,U.S. House,5,D,Nick Rubando,5152,Northwest,Toledo
+Defiance,State House,82,R,Craig S. Riedel,15248,Northwest,Toledo
+Defiance,State House,82,,Elecia Wobler,584,Northwest,Toledo
+Delaware,U.S. House,12,R,Troy Balderson,70080,Central,Columbus
+Delaware,U.S. House,12,D,Alaina Shearer,50212,Central,Columbus
+Delaware,U.S. House,12,I,John S. Stewart,3424,Central,Columbus
+Delaware,State House,67,R,Kris Jordan,44960,Central,Columbus
+Delaware,State House,67,D,Rachael Morocco,35866,Central,Columbus
+Delaware,State House,68,R,Rick Carfagna,26084,Central,Columbus
+Delaware,State House,68,D,Steven F. Mount,15187,Central,Columbus
+Erie,U.S. House,4,D,Shannon M. Freshour,2091,Northeast,Cleveland
+Erie,U.S. House,4,R,Jim Jordan,4374,Northeast,Cleveland
+Erie,U.S. House,4,I,Steve Perkins,202,Northeast,Cleveland
+Erie,U.S. House,9,D,Marcy Kaptur,17253,Northeast,Cleveland
+Erie,U.S. House,9,,McKenzie Levindofske,0,Northeast,Cleveland
+Erie,U.S. House,9,R,Rob Weber,15581,Northeast,Cleveland
+Erie,State Senate,2,R,Theresa Gavarone,22519,Northeast,Cleveland
+Erie,State Senate,2,D,Joel O'Dorisio,15982,Northeast,Cleveland
+Erie,State House,89,D,Alexis Miller,17520,Northeast,Cleveland
+Erie,State House,89,R,D.J. Swearingen,21476,Northeast,Cleveland
+Fairfield,U.S. House,15,,Shane Hoffman,7,Central,Columbus
+Fairfield,U.S. House,15,D,Joel Newby,25825,Central,Columbus
+Fairfield,U.S. House,15,R,Steve Stivers,54998,Central,Columbus
+Fairfield,State Senate,20,D,Christian N. Johnson,27164,Central,Columbus
+Fairfield,State Senate,20,R,Tim Schaffer,53699,Central,Columbus
+Fairfield,State House,77,R,Jeff LaRe,38059,Central,Columbus
+Fairfield,State House,77,D,Melissa Wilde,25268,Central,Columbus
+Fairfield,State House,78,D,Charlotte Owens,4254,Central,Columbus
+Fairfield,State House,78,R,Brian S. Stewart,12593,Central,Columbus
+Fayette,U.S. House,10,D,Desiree Tims,2292,Central,Columbus
+Fayette,U.S. House,10,R,Mike Turner,7610,Central,Columbus
+Fayette,U.S. House,15,,Shane Hoffman,0,Central,Columbus
+Fayette,U.S. House,15,D,Joel Newby,309,Central,Columbus
+Fayette,U.S. House,15,R,Steve Stivers,1949,Central,Columbus
+Fayette,State House,92,R,Mark Johnson,9059,Central,Columbus
+Fayette,State House,92,D,Beth Workman,3034,Central,Columbus
+Franklin,U.S. House,3,D,Joyce Beatty,227420,Central,Columbus
+Franklin,U.S. House,3,,Angela Davis,11,Central,Columbus
+Franklin,U.S. House,3,,Nicholas D. Moss,92,Central,Columbus
+Franklin,U.S. House,3,R,Mark F. Richardson,93569,Central,Columbus
+Franklin,U.S. House,12,R,Troy Balderson,54750,Central,Columbus
+Franklin,U.S. House,12,D,Alaina Shearer,80740,Central,Columbus
+Franklin,U.S. House,12,I,John S. Stewart,3905,Central,Columbus
+Franklin,U.S. House,15,,Shane Hoffman,28,Central,Columbus
+Franklin,U.S. House,15,D,Joel Newby,72694,Central,Columbus
+Franklin,U.S. House,15,R,Steve Stivers,80384,Central,Columbus
+Franklin,State Senate,16,R,Stephanie L. Kunze,106053,Central,Columbus
+Franklin,State Senate,16,D,Crystal Lett,105937,Central,Columbus
+Franklin,State House,17,R,Tim D. Haske,16588,Central,Columbus
+Franklin,State House,17,D,Adam C. Miller,21664,Central,Columbus
+Franklin,State House,18,D,Kristin Boggs,45861,Central,Columbus
+Franklin,State House,18,R,Kayla Anne Packard,13007,Central,Columbus
+Franklin,State House,19,R,Meredith Freedhoff,32950,Central,Columbus
+Franklin,State House,19,D,Mary Lightbody,42267,Central,Columbus
+Franklin,State House,20,R,Chris Baer,24928,Central,Columbus
+Franklin,State House,20,D,Richard Brown,36330,Central,Columbus
+Franklin,State House,21,R,Mehek Cooke,32756,Central,Columbus
+Franklin,State House,21,D,Beth Liston,42990,Central,Columbus
+Franklin,State House,22,D,David Leland,45754,Central,Columbus
+Franklin,State House,23,D,Nancy Day-Achauer,27532,Central,Columbus
+Franklin,State House,23,R,Laura Lanese,34275,Central,Columbus
+Franklin,State House,24,R,Pat Manley,31202,Central,Columbus
+Franklin,State House,24,D,Allison Russo,42935,Central,Columbus
+Franklin,State House,25,R,Jim Burgess,8870,Central,Columbus
+Franklin,State House,25,D,Dontavius Jarrells,41312,Central,Columbus
+Franklin,State House,26,D,Erica C. Crawley,45350,Central,Columbus
+Fulton,U.S. House,5,R,Bob Latta,16945,Northwest,Toledo
+Fulton,U.S. House,5,D,Nick Rubando,5409,Northwest,Toledo
+Fulton,State Senate,2,R,Theresa Gavarone,11195,Northwest,Toledo
+Fulton,State Senate,2,D,Joel O'Dorisio,3418,Northwest,Toledo
+Fulton,State House,47,D,Nancy Larson,3896,Northwest,Toledo
+Fulton,State House,47,R,Derek Merrin,10752,Northwest,Toledo
+Fulton,State House,81,,Janet Breneman,161,Northwest,Toledo
+Fulton,State House,81,R,James M. Hoops,5876,Northwest,Toledo
+Gallia,U.S. House,6,R,Bill Johnson,10504,Southeast,Charleston
+Gallia,U.S. House,6,D,Shawna Roberts,2803,Southeast,Charleston
+Gallia,State House,93,,Tad Saunders,378,Southeast,Charleston
+Gallia,State House,93,R,Jason Stephens,10910,Southeast,Charleston
+Geauga,U.S. House,14,R,David P. Joyce,37098,Northeast,Cleveland
+Geauga,U.S. House,14,D,Hillary O'Connor Mueri,17450,Northeast,Cleveland
+Geauga,State Senate,18,R,Jerry Cirino,27229,Northeast,Cleveland
+Geauga,State Senate,18,D,Betsy Rader,16248,Northeast,Cleveland
+Geauga,State Senate,32,R,Sandra O'Brien,7494,Northeast,Cleveland
+Geauga,State Senate,32,D,Sean J. O'Brien,3284,Northeast,Cleveland
+Geauga,State House,76,R,Diane V. Grendell,25780,Northeast,Cleveland
+Geauga,State House,76,D,Garrett Westhoven,16825,Northeast,Cleveland
+Geauga,State House,99,,Kyle Bruckman,3,Northeast,Cleveland
+Geauga,State House,99,D,Richard Dana,3356,Northeast,Cleveland
+Geauga,State House,99,R,Sarah Fowler Arthur,7423,Northeast,Cleveland
+Greene,U.S. House,10,D,Desiree Tims,29909,West,Dayton
+Greene,U.S. House,10,R,Mike Turner,58298,West,Dayton
+Greene,State Senate,10,D,Charles Ballard,31337,West,Dayton
+Greene,State Senate,10,R,Robert D. Hackett,55043,West,Dayton
+Greene,State House,73,R,Brian Lampton,36523,West,Dayton
+Greene,State House,73,D,Kim McCarthy,26969,West,Dayton
+Greene,State House,74,R,Bill Dean,18347,West,Dayton
+Greene,State House,74,,Michael Johnson,63,West,Dayton
+Greene,State House,74,,Ted McClenen,1068,West,Dayton
+Guernsey,U.S. House,6,R,Bill Johnson,13444,Southeast,Wheeling
+Guernsey,U.S. House,6,D,Shawna Roberts,4195,Southeast,Wheeling
+Guernsey,State Senate,20,D,Christian N. Johnson,4642,Southeast,Wheeling
+Guernsey,State Senate,20,R,Tim Schaffer,12601,Southeast,Wheeling
+Guernsey,State House,97,R,Adam Holmes,12469,Southeast,Wheeling
+Guernsey,State House,97,D,Alaina Swope,4720,Southeast,Wheeling
+Hamilton,U.S. House,1,R,Steve Chabot,112489,Southwest,Cincinnati
+Hamilton,U.S. House,1,I,Kevin David Kahn,8557,Southwest,Cincinnati
+Hamilton,U.S. House,1,,Kiumars Kiani,7,Southwest,Cincinnati
+Hamilton,U.S. House,1,D,Kate Schroder,130362,Southwest,Cincinnati
+Hamilton,U.S. House,2,D,Jaime M. Castle,93554,Southwest,Cincinnati
+Hamilton,U.S. House,2,,James J. Condit Jr,25,Southwest,Cincinnati
+Hamilton,U.S. House,2,R,Brad Wenstrup,79319,Southwest,Cincinnati
+Hamilton,State Senate,8,R,Louis W. Blessing III,112313,Southwest,Cincinnati
+Hamilton,State Senate,8,D,Daniel Brown,74565,Southwest,Cincinnati
+Hamilton,State House,27,D,Sara Bitter,33339,Southwest,Cincinnati
+Hamilton,State House,27,R,Tom Brinkman,37723,Southwest,Cincinnati
+Hamilton,State House,28,D,Jessica E. Miranda,35353,Southwest,Cincinnati
+Hamilton,State House,28,R,Chris Monzel,33039,Southwest,Cincinnati
+Hamilton,State House,29,R,Cindy Abrams,43320,Southwest,Cincinnati
+Hamilton,State House,29,,Harrison T. Stanley,792,Southwest,Cincinnati
+Hamilton,State House,30,I,Tom Roll,16426,Southwest,Cincinnati
+Hamilton,State House,30,R,Bill Seitz,42269,Southwest,Cincinnati
+Hamilton,State House,31,D,Brigid Kelly,42180,Southwest,Cincinnati
+Hamilton,State House,32,D,Catherine D. Ingram,42055,Southwest,Cincinnati
+Hamilton,State House,33,D,Sedrick Denson,41500,Southwest,Cincinnati
+Hamilton,State House,33,R,Mary L. Hill,13901,Southwest,Cincinnati
+Hancock,U.S. House,5,R,Bob Latta,27919,Northwest,Toledo
+Hancock,U.S. House,5,D,Nick Rubando,9972,Northwest,Toledo
+Hancock,State House,83,R,Jon Cross,29118,Northwest,Toledo
+Hancock,State House,83,,Mary E. Harshfield,1317,Northwest,Toledo
+Hardin,U.S. House,5,R,Bob Latta,10063,Central,Columbus
+Hardin,U.S. House,5,D,Nick Rubando,2773,Central,Columbus
+Hardin,State House,83,R,Jon Cross,10335,Central,Columbus
+Hardin,State House,83,,Mary E. Harshfield,487,Central,Columbus
+Harrison,U.S. House,6,R,Bill Johnson,5568,Southeast,Wheeling
+Harrison,U.S. House,6,D,Shawna Roberts,1704,Southeast,Wheeling
+Harrison,State Senate,30,D,Michael Fletcher,1829,Southeast,Wheeling
+Harrison,State Senate,30,R,Frank Hoagland,5591,Southeast,Wheeling
+Harrison,State House,95,R,Don Jones,6355,Southeast,Wheeling
+Henry,U.S. House,5,R,Bob Latta,11423,Northwest,Toledo
+Henry,U.S. House,5,D,Nick Rubando,3236,Northwest,Toledo
+Henry,State House,81,,Janet Breneman,72,Northwest,Toledo
+Henry,State House,81,R,James M. Hoops,12827,Northwest,Toledo
+Highland,U.S. House,2,D,Jaime M. Castle,3353,Southwest,Cincinnati
+Highland,U.S. House,2,,James J. Condit Jr,2,Southwest,Cincinnati
+Highland,U.S. House,2,R,Brad Wenstrup,15834,Southwest,Cincinnati
+Highland,State House,91,D,Scott M. Dailey,3695,Southwest,Cincinnati
+Highland,State House,91,R,Shane Wilkin,15257,Southwest,Cincinnati
+Hocking,U.S. House,15,,Shane Hoffman,4,Central,Columbus
+Hocking,U.S. House,15,D,Joel Newby,3477,Central,Columbus
+Hocking,U.S. House,15,R,Steve Stivers,10082,Central,Columbus
+Hocking,State Senate,20,D,Christian N. Johnson,3823,Central,Columbus
+Hocking,State Senate,20,R,Tim Schaffer,9552,Central,Columbus
+Hocking,State House,78,D,Charlotte Owens,3936,Central,Columbus
+Hocking,State House,78,R,Brian S. Stewart,9252,Central,Columbus
+Holmes,U.S. House,7,R,Bob Gibbs,10776,Northeast,Cleveland
+Holmes,U.S. House,7,I,Brandon Lape,354,Northeast,Cleveland
+Holmes,U.S. House,7,D,Quentin Potter,1428,Northeast,Cleveland
+Holmes,State Senate,22,D,Ryan Hunger,896,Northeast,Cleveland
+Holmes,State Senate,22,R,Mark Romanchuk,3931,Northeast,Cleveland
+Holmes,State House,70,D,Kevin Barnet,840,Northeast,Cleveland
+Holmes,State House,70,R,Darrell D. Kick,4041,Northeast,Cleveland
+Holmes,State House,98,D,Todd E. Beegle,854,Northeast,Cleveland
+Holmes,State House,98,R,Brett Hudson Hillyer,6293,Northeast,Cleveland
+Huron,U.S. House,4,D,Shannon M. Freshour,4508,Northeast,Cleveland
+Huron,U.S. House,4,R,Jim Jordan,9025,Northeast,Cleveland
+Huron,U.S. House,4,I,Steve Perkins,487,Northeast,Cleveland
+Huron,U.S. House,7,R,Bob Gibbs,9158,Northeast,Cleveland
+Huron,U.S. House,7,I,Brandon Lape,392,Northeast,Cleveland
+Huron,U.S. House,7,D,Quentin Potter,2494,Northeast,Cleveland
+Huron,State House,57,D,Dara Adkison,7098,Northeast,Cleveland
+Huron,State House,57,R,Dick Stein,19266,Northeast,Cleveland
+Jackson,U.S. House,6,R,Bill Johnson,10839,Southeast,Charleston
+Jackson,U.S. House,6,D,Shawna Roberts,3120,Southeast,Charleston
+Jackson,State House,93,,Tad Saunders,78,Southeast,Charleston
+Jackson,State House,93,R,Jason Stephens,11268,Southeast,Charleston
+Jefferson,U.S. House,6,R,Bill Johnson,23264,Southeast,Wheeling
+Jefferson,U.S. House,6,D,Shawna Roberts,9432,Southeast,Wheeling
+Jefferson,State Senate,30,D,Michael Fletcher,10194,Southeast,Wheeling
+Jefferson,State Senate,30,R,Frank Hoagland,22098,Southeast,Wheeling
+Jefferson,State House,96,R,Ron Ferguson,21474,Southeast,Wheeling
+Jefferson,State House,96,I,Oscar Herrera,1162,Southeast,Wheeling
+Jefferson,State House,96,D,Richard A. Olivito,9961,Southeast,Wheeling
+Knox,U.S. House,7,R,Bob Gibbs,21803,Central,Columbus
+Knox,U.S. House,7,I,Brandon Lape,1336,Central,Columbus
+Knox,U.S. House,7,D,Quentin Potter,7264,Central,Columbus
+Knox,State House,68,R,Rick Carfagna,22522,Central,Columbus
+Knox,State House,68,D,Steven F. Mount,7746,Central,Columbus
+Lake,U.S. House,14,R,David P. Joyce,78171,Northeast,Cleveland
+Lake,U.S. House,14,D,Hillary O'Connor Mueri,47173,Northeast,Cleveland
+Lake,State Senate,18,R,Jerry Cirino,44126,Northeast,Cleveland
+Lake,State Senate,18,D,Betsy Rader,25010,Northeast,Cleveland
+Lake,State House,60,R,George M. Phillips,27623,Northeast,Cleveland
+Lake,State House,60,D,Daniel P. Troy,28421,Northeast,Cleveland
+Lake,State House,61,R,Jamie Callender,41658,Northeast,Cleveland
+Lake,State House,61,D,Adam Dudziak,26378,Northeast,Cleveland
+Lawrence,U.S. House,6,R,Bill Johnson,20310,Southeast,Charleston
+Lawrence,U.S. House,6,D,Shawna Roberts,7399,Southeast,Charleston
+Lawrence,State Senate,14,R,Terry A. Johnson,3949,Southeast,Charleston
+Lawrence,State Senate,14,D,Ryan Ottney,1922,Southeast,Charleston
+Lawrence,State House,90,R,Brian Baldridge,4725,Southeast,Charleston
+Lawrence,State House,93,,Tad Saunders,277,Southeast,Charleston
+Lawrence,State House,93,R,Jason Stephens,18932,Southeast,Charleston
+Licking,U.S. House,12,R,Troy Balderson,60087,Central,Columbus
+Licking,U.S. House,12,D,Alaina Shearer,29381,Central,Columbus
+Licking,U.S. House,12,I,John S. Stewart,3152,Central,Columbus
+Licking,State House,71,D,Mark Carr,23254,Central,Columbus
+Licking,State House,71,R,Mark D. Fraizer,39667,Central,Columbus
+Licking,State House,72,,Kaitlyn Clark,116,Central,Columbus
+Licking,State House,72,,Jay A. Conrad,1797,Central,Columbus
+Licking,State House,72,R,Larry Householder,16115,Central,Columbus
+Licking,State House,72,,Robert Leist,269,Central,Columbus
+Licking,State House,72,,Marci McCaulay,2547,Central,Columbus
+Logan,U.S. House,4,D,Shannon M. Freshour,4559,West,Dayton
+Logan,U.S. House,4,R,Jim Jordan,18121,West,Dayton
+Logan,U.S. House,4,I,Steve Perkins,518,West,Dayton
+Logan,State Senate,12,R,Matt Huffman,15531,West,Dayton
+Logan,State Senate,12,D,Ken Poling,4116,West,Dayton
+Logan,State House,83,R,Jon Cross,2692,West,Dayton
+Logan,State House,83,,Mary E. Harshfield,99,West,Dayton
+Logan,State House,85,,Ted Greek,1318,West,Dayton
+Logan,State House,85,R,Nino Vitale,15464,West,Dayton
+Lorain,U.S. House,4,D,Shannon M. Freshour,26237,Northeast,Cleveland
+Lorain,U.S. House,4,R,Jim Jordan,25245,Northeast,Cleveland
+Lorain,U.S. House,4,I,Steve Perkins,1747,Northeast,Cleveland
+Lorain,U.S. House,7,R,Bob Gibbs,31245,Northeast,Cleveland
+Lorain,U.S. House,7,I,Brandon Lape,1540,Northeast,Cleveland
+Lorain,U.S. House,7,D,Quentin Potter,18258,Northeast,Cleveland
+Lorain,U.S. House,9,D,Marcy Kaptur,27263,Northeast,Cleveland
+Lorain,U.S. House,9,,McKenzie Levindofske,4,Northeast,Cleveland
+Lorain,U.S. House,9,R,Rob Weber,21185,Northeast,Cleveland
+Lorain,State House,55,R,Gayle L. Manning,34200,Northeast,Cleveland
+Lorain,State House,55,,Dale Stein,56,Northeast,Cleveland
+Lorain,State House,55,D,Zach Stepp,26682,Northeast,Cleveland
+Lorain,State House,56,R,Bradley A. Lacko,22157,Northeast,Cleveland
+Lorain,State House,56,D,Joe Miller,32298,Northeast,Cleveland
+Lorain,State House,57,D,Dara Adkison,13656,Northeast,Cleveland
+Lorain,State House,57,R,Dick Stein,23122,Northeast,Cleveland
+Lucas,U.S. House,5,R,Bob Latta,60942,Northwest,Toledo
+Lucas,U.S. House,5,D,Nick Rubando,49604,Northwest,Toledo
+Lucas,U.S. House,9,D,Marcy Kaptur,63350,Northwest,Toledo
+Lucas,U.S. House,9,,McKenzie Levindofske,3,Northwest,Toledo
+Lucas,U.S. House,9,R,Rob Weber,23565,Northwest,Toledo
+Lucas,State Senate,2,R,Theresa Gavarone,32460,Northwest,Toledo
+Lucas,State Senate,2,D,Joel O'Dorisio,21811,Northwest,Toledo
+Lucas,State House,44,D,Paula Hicks-Hudson,32101,Northwest,Toledo
+Lucas,State House,44,R,Robert McMahon,8511,Northwest,Toledo
+Lucas,State House,45,R,Shane Logan,17282,Northwest,Toledo
+Lucas,State House,45,D,Lisa A. Sobecki,27776,Northwest,Toledo
+Lucas,State House,46,R,Steven R. Salander,22870,Northwest,Toledo
+Lucas,State House,46,D,Michael P. Sheehy,31088,Northwest,Toledo
+Lucas,State House,47,D,Nancy Larson,24642,Northwest,Toledo
+Lucas,State House,47,R,Derek Merrin,29693,Northwest,Toledo
+Madison,U.S. House,15,,Shane Hoffman,12,Central,Columbus
+Madison,U.S. House,15,D,Joel Newby,4537,Central,Columbus
+Madison,U.S. House,15,R,Steve Stivers,14811,Central,Columbus
+Madison,State Senate,10,D,Charles Ballard,4744,Central,Columbus
+Madison,State Senate,10,R,Robert D. Hackett,14334,Central,Columbus
+Madison,State House,74,R,Bill Dean,15151,Central,Columbus
+Madison,State House,74,,Michael Johnson,38,Central,Columbus
+Madison,State House,74,,Ted McClenen,417,Central,Columbus
+Mahoning,U.S. House,6,R,Bill Johnson,21061,Northeast,Youngstown
+Mahoning,U.S. House,6,D,Shawna Roberts,8873,Northeast,Youngstown
+Mahoning,U.S. House,13,I,Michael Fricke,2017,Northeast,Youngstown
+Mahoning,U.S. House,13,R,Christina M. Hagan,36475,Northeast,Youngstown
+Mahoning,U.S. House,13,D,Tim Ryan,48663,Northeast,Youngstown
+Mahoning,State House,58,D,Michele Lepore Hagan,32218,Northeast,Youngstown
+Mahoning,State House,58,R,David T. Simon,15556,Northeast,Youngstown
+Mahoning,State House,59,R,Al Cutrona,40993,Northeast,Youngstown
+Mahoning,State House,59,D,Chris Stanley,26423,Northeast,Youngstown
+Marion,U.S. House,4,D,Shannon M. Freshour,6822,Central,Columbus
+Marion,U.S. House,4,R,Jim Jordan,15118,Central,Columbus
+Marion,U.S. House,4,I,Steve Perkins,712,Central,Columbus
+Marion,U.S. House,12,R,Troy Balderson,3555,Central,Columbus
+Marion,U.S. House,12,D,Alaina Shearer,1080,Central,Columbus
+Marion,U.S. House,12,I,John S. Stewart,140,Central,Columbus
+Marion,State Senate,26,R,Bill Reineke,18454,Central,Columbus
+Marion,State Senate,26,D,Craig Swartz,8464,Central,Columbus
+Marion,State Senate,26,,Robert Taylor,29,Central,Columbus
+Marion,State House,86,R,Tracy Richardson,16285,Central,Columbus
+Marion,State House,86,D,Tiffanie Roberts,7225,Central,Columbus
+Marion,State House,87,D,Nicholas Barnes,808,Central,Columbus
+Marion,State House,87,R,Riordan T. McClain,2761,Central,Columbus
+Medina,U.S. House,7,R,Bob Gibbs,23956,Northeast,Cleveland
+Medina,U.S. House,7,I,Brandon Lape,1127,Northeast,Cleveland
+Medina,U.S. House,7,D,Quentin Potter,10847,Northeast,Cleveland
+Medina,U.S. House,16,D,Aaron Paul Godfrey,23036,Northeast,Cleveland
+Medina,U.S. House,16,R,Anthony Gonzalez,43311,Northeast,Cleveland
+Medina,State Senate,22,D,Ryan Hunger,36015,Northeast,Cleveland
+Medina,State Senate,22,R,Mark Romanchuk,64900,Northeast,Cleveland
+Medina,State House,69,D,Donna Beheydt,25074,Northeast,Cleveland
+Medina,State House,69,R,Sharon A. Ray,46103,Northeast,Cleveland
+Medina,State House,70,D,Kevin Barnet,10911,Northeast,Cleveland
+Medina,State House,70,R,Darrell D. Kick,18823,Northeast,Cleveland
+Meigs,U.S. House,6,R,Bill Johnson,8274,Southeast,Charleston
+Meigs,U.S. House,6,D,Shawna Roberts,2415,Southeast,Charleston
+Meigs,State Senate,30,D,Michael Fletcher,2601,Southeast,Charleston
+Meigs,State Senate,30,R,Frank Hoagland,7874,Southeast,Charleston
+Meigs,State House,94,R,Jay Edwards,8544,Southeast,Charleston
+Meigs,State House,94,D,Katie O'Neill,2278,Southeast,Charleston
+Mercer,U.S. House,4,D,Shannon M. Freshour,355,West,Dayton
+Mercer,U.S. House,4,R,Jim Jordan,1588,West,Dayton
+Mercer,U.S. House,4,I,Steve Perkins,42,West,Dayton
+Mercer,U.S. House,5,R,Bob Latta,8821,West,Dayton
+Mercer,U.S. House,5,D,Nick Rubando,2126,West,Dayton
+Mercer,U.S. House,8,R,Warren Davidson,9303,West,Dayton
+Mercer,U.S. House,8,D,Vanessa Enoch,1128,West,Dayton
+Mercer,U.S. House,8,,Isaac Reed,1,West,Dayton
+Mercer,State Senate,12,R,Matt Huffman,19631,West,Dayton
+Mercer,State Senate,12,D,Ken Poling,3664,West,Dayton
+Mercer,State House,84,R,Susan Manchester,19772,West,Dayton
+Mercer,State House,84,D,Joseph A. Monbeck,3583,West,Dayton
+Miami,U.S. House,8,R,Warren Davidson,42298,West,Dayton
+Miami,U.S. House,8,D,Vanessa Enoch,13918,West,Dayton
+Miami,U.S. House,8,,Isaac Reed,11,West,Dayton
+Miami,State House,80,D,Ted Jones,14395,West,Dayton
+Miami,State House,80,R,Jena Powell,42166,West,Dayton
+Monroe,U.S. House,6,R,Bill Johnson,5317,Southeast,Wheeling
+Monroe,U.S. House,6,D,Shawna Roberts,1688,Southeast,Wheeling
+Monroe,State Senate,30,D,Michael Fletcher,1921,Southeast,Wheeling
+Monroe,State Senate,30,R,Frank Hoagland,4972,Southeast,Wheeling
+Monroe,State House,96,R,Ron Ferguson,5059,Southeast,Wheeling
+Monroe,State House,96,I,Oscar Herrera,173,Southeast,Wheeling
+Monroe,State House,96,D,Richard A. Olivito,1719,Southeast,Wheeling
+Montgomery,U.S. House,10,D,Desiree Tims,119775,West,Dayton
+Montgomery,U.S. House,10,R,Mike Turner,147064,West,Dayton
+Montgomery,State Senate,6,R,Niraj Antani,99096,West,Dayton
+Montgomery,State Senate,6,D,Mark Fogel,87280,West,Dayton
+Montgomery,State House,39,D,Willis E. Blackshear Jr,31583,West,Dayton
+Montgomery,State House,39,R,John Ferrell Mullins III,8269,West,Dayton
+Montgomery,State House,40,D,Leronda Jackson,20543,West,Dayton
+Montgomery,State House,40,R,Phil Plummer,38318,West,Dayton
+Montgomery,State House,41,D,Cate Berger,28314,West,Dayton
+Montgomery,State House,41,R,Andrea White,37172,West,Dayton
+Montgomery,State House,42,R,Tom Young,48394,West,Dayton
+Montgomery,State House,43,D,Amy Cox,21542,West,Dayton
+Montgomery,State House,43,R,Rodney Creech,14879,West,Dayton
+Morgan,U.S. House,15,,Shane Hoffman,1,Central,Columbus
+Morgan,U.S. House,15,D,Joel Newby,1381,Central,Columbus
+Morgan,U.S. House,15,R,Steve Stivers,5146,Central,Columbus
+Morgan,State Senate,20,D,Christian N. Johnson,1590,Central,Columbus
+Morgan,State Senate,20,R,Tim Schaffer,4891,Central,Columbus
+Morgan,State House,78,D,Charlotte Owens,1613,Central,Columbus
+Morgan,State House,78,R,Brian S. Stewart,4799,Central,Columbus
+Morrow,U.S. House,12,R,Troy Balderson,13768,Central,Columbus
+Morrow,U.S. House,12,D,Alaina Shearer,3757,Central,Columbus
+Morrow,U.S. House,12,I,John S. Stewart,560,Central,Columbus
+Morrow,State Senate,26,R,Bill Reineke,13745,Central,Columbus
+Morrow,State Senate,26,D,Craig Swartz,3949,Central,Columbus
+Morrow,State Senate,26,,Robert Taylor,52,Central,Columbus
+Morrow,State House,87,D,Nicholas Barnes,4082,Central,Columbus
+Morrow,State House,87,R,Riordan T. McClain,13580,Central,Columbus
+Muskingum,U.S. House,6,R,Bill Johnson,10634,Central,Zanesville
+Muskingum,U.S. House,6,D,Shawna Roberts,3123,Central,Zanesville
+Muskingum,U.S. House,12,R,Troy Balderson,18486,Central,Zanesville
+Muskingum,U.S. House,12,D,Alaina Shearer,7094,Central,Zanesville
+Muskingum,U.S. House,12,I,John S. Stewart,683,Central,Zanesville
+Muskingum,State Senate,20,D,Christian N. Johnson,11223,Central,Zanesville
+Muskingum,State Senate,20,R,Tim Schaffer,27802,Central,Zanesville
+Muskingum,State House,78,D,Charlotte Owens,860,Central,Zanesville
+Muskingum,State House,78,R,Brian S. Stewart,2529,Central,Zanesville
+Muskingum,State House,97,R,Adam Holmes,24455,Central,Zanesville
+Muskingum,State House,97,D,Alaina Swope,11359,Central,Zanesville
+Noble,U.S. House,6,R,Bill Johnson,5002,Southeast,Wheeling
+Noble,U.S. House,6,D,Shawna Roberts,1136,Southeast,Wheeling
+Noble,State Senate,30,D,Michael Fletcher,1274,Southeast,Wheeling
+Noble,State Senate,30,R,Frank Hoagland,4658,Southeast,Wheeling
+Noble,State House,95,R,Don Jones,4929,Southeast,Wheeling
+Ottawa,U.S. House,5,R,Bob Latta,7546,Northwest,Toledo
+Ottawa,U.S. House,5,D,Nick Rubando,3363,Northwest,Toledo
+Ottawa,U.S. House,9,D,Marcy Kaptur,5669,Northwest,Toledo
+Ottawa,U.S. House,9,,McKenzie Levindofske,2,Northwest,Toledo
+Ottawa,U.S. House,9,R,Rob Weber,7169,Northwest,Toledo
+Ottawa,State Senate,2,R,Theresa Gavarone,15499,Northwest,Toledo
+Ottawa,State Senate,2,D,Joel O'Dorisio,7851,Northwest,Toledo
+Ottawa,State House,89,D,Alexis Miller,9060,Northwest,Toledo
+Ottawa,State House,89,R,D.J. Swearingen,14199,Northwest,Toledo
+Paulding,U.S. House,5,R,Bob Latta,7154,West,Ft. Wayne
+Paulding,U.S. House,5,D,Nick Rubando,2035,West,Ft. Wayne
+Paulding,State House,82,R,Craig S. Riedel,7522,West,Ft. Wayne
+Paulding,State House,82,,Elecia Wobler,431,West,Ft. Wayne
+Perry,U.S. House,15,,Shane Hoffman,5,Central,Columbus
+Perry,U.S. House,15,D,Joel Newby,3479,Central,Columbus
+Perry,U.S. House,15,R,Steve Stivers,12683,Central,Columbus
+Perry,State House,72,,Kaitlyn Clark,53,Central,Columbus
+Perry,State House,72,,Jay A. Conrad,1533,Central,Columbus
+Perry,State House,72,R,Larry Householder,8085,Central,Columbus
+Perry,State House,72,,Robert Leist,190,Central,Columbus
+Perry,State House,72,,Marci McCaulay,1864,Central,Columbus
+Pickaway,U.S. House,15,,Shane Hoffman,4,Central,Columbus
+Pickaway,U.S. House,15,D,Joel Newby,6035,Central,Columbus
+Pickaway,U.S. House,15,R,Steve Stivers,21701,Central,Columbus
+Pickaway,State Senate,20,D,Christian N. Johnson,4259,Central,Columbus
+Pickaway,State Senate,20,R,Tim Schaffer,12440,Central,Columbus
+Pickaway,State House,78,D,Charlotte Owens,4442,Central,Columbus
+Pickaway,State House,78,R,Brian S. Stewart,12288,Central,Columbus
+Pickaway,State House,92,R,Mark Johnson,7687,Central,Columbus
+Pickaway,State House,92,D,Beth Workman,2935,Central,Columbus
+Pike,U.S. House,2,D,Jaime M. Castle,3232,Central,Columbus
+Pike,U.S. House,2,,James J. Condit Jr,0,Central,Columbus
+Pike,U.S. House,2,R,Brad Wenstrup,8534,Central,Columbus
+Pike,State House,91,D,Scott M. Dailey,3620,Central,Columbus
+Pike,State House,91,R,Shane Wilkin,8132,Central,Columbus
+Portage,U.S. House,13,I,Michael Fricke,1189,Northeast,Cleveland
+Portage,U.S. House,13,R,Christina M. Hagan,19324,Northeast,Cleveland
+Portage,U.S. House,13,D,Tim Ryan,20424,Northeast,Cleveland
+Portage,U.S. House,14,R,David P. Joyce,13521,Northeast,Cleveland
+Portage,U.S. House,14,D,Hillary O'Connor Mueri,7254,Northeast,Cleveland
+Portage,U.S. House,16,D,Aaron Paul Godfrey,6054,Northeast,Cleveland
+Portage,U.S. House,16,R,Anthony Gonzalez,12010,Northeast,Cleveland
+Portage,State Senate,18,R,Jerry Cirino,44399,Northeast,Cleveland
+Portage,State Senate,18,D,Betsy Rader,34277,Northeast,Cleveland
+Portage,State House,75,D,Randi Clites,27151,Northeast,Cleveland
+Portage,State House,75,R,Gail Pavliga,28330,Northeast,Cleveland
+Portage,State House,76,R,Diane V. Grendell,15124,Northeast,Cleveland
+Portage,State House,76,D,Garrett Westhoven,8316,Northeast,Cleveland
+Preble,U.S. House,8,R,Warren Davidson,16913,West,Dayton
+Preble,U.S. House,8,D,Vanessa Enoch,4194,West,Dayton
+Preble,U.S. House,8,,Isaac Reed,1,West,Dayton
+Preble,State House,43,D,Amy Cox,5010,West,Dayton
+Preble,State House,43,R,Rodney Creech,16584,West,Dayton
+Putnam,U.S. House,5,R,Bob Latta,16935,Northwest,Toledo
+Putnam,U.S. House,5,D,Nick Rubando,2461,Northwest,Toledo
+Putnam,State House,81,,Janet Breneman,309,Northwest,Toledo
+Putnam,State House,81,R,James M. Hoops,16878,Northwest,Toledo
+Richland,U.S. House,7,R,Bob Gibbs,19129,Northeast,Cleveland
+Richland,U.S. House,7,I,Brandon Lape,821,Northeast,Cleveland
+Richland,U.S. House,7,D,Quentin Potter,5411,Northeast,Cleveland
+Richland,U.S. House,12,R,Troy Balderson,21064,Northeast,Cleveland
+Richland,U.S. House,12,D,Alaina Shearer,10583,Northeast,Cleveland
+Richland,U.S. House,12,I,John S. Stewart,1171,Northeast,Cleveland
+Richland,State Senate,22,D,Ryan Hunger,16022,Northeast,Cleveland
+Richland,State Senate,22,R,Mark Romanchuk,41925,Northeast,Cleveland
+Richland,State House,2,D,Sam Grady,16440,Northeast,Cleveland
+Richland,State House,2,R,Marilyn John,41102,Northeast,Cleveland
+Ross,U.S. House,2,D,Jaime M. Castle,6129,Central,Columbus
+Ross,U.S. House,2,,James J. Condit Jr,0,Central,Columbus
+Ross,U.S. House,2,R,Brad Wenstrup,11539,Central,Columbus
+Ross,U.S. House,15,,Shane Hoffman,1,Central,Columbus
+Ross,U.S. House,15,D,Joel Newby,3551,Central,Columbus
+Ross,U.S. House,15,R,Steve Stivers,11220,Central,Columbus
+Ross,State House,91,D,Scott M. Dailey,796,Central,Columbus
+Ross,State House,91,R,Shane Wilkin,2255,Central,Columbus
+Ross,State House,92,R,Mark Johnson,18138,Central,Columbus
+Ross,State House,92,D,Beth Workman,11196,Central,Columbus
+Sandusky,U.S. House,4,D,Shannon M. Freshour,9598,Northwest,Toledo
+Sandusky,U.S. House,4,R,Jim Jordan,18766,Northwest,Toledo
+Sandusky,U.S. House,4,I,Steve Perkins,1063,Northwest,Toledo
+Sandusky,State Senate,26,R,Bill Reineke,19427,Northwest,Toledo
+Sandusky,State Senate,26,D,Craig Swartz,9739,Northwest,Toledo
+Sandusky,State Senate,26,,Robert Taylor,37,Northwest,Toledo
+Sandusky,State House,88,R,Gary N. Click,17703,Northwest,Toledo
+Sandusky,State House,88,D,Chris Liebold,11377,Northwest,Toledo
+Scioto,U.S. House,2,D,Jaime M. Castle,5046,Southeast,Charleston
+Scioto,U.S. House,2,,James J. Condit Jr,1,Southeast,Charleston
+Scioto,U.S. House,2,R,Brad Wenstrup,9769,Southeast,Charleston
+Scioto,U.S. House,6,R,Bill Johnson,12457,Southeast,Charleston
+Scioto,U.S. House,6,D,Shawna Roberts,3707,Southeast,Charleston
+Scioto,State Senate,14,R,Terry A. Johnson,23036,Southeast,Charleston
+Scioto,State Senate,14,D,Ryan Ottney,8363,Southeast,Charleston
+Scioto,State House,90,R,Brian Baldridge,25044,Southeast,Charleston
+Seneca,U.S. House,4,D,Shannon M. Freshour,7548,Northwest,Toledo
+Seneca,U.S. House,4,R,Jim Jordan,17115,Northwest,Toledo
+Seneca,U.S. House,4,I,Steve Perkins,838,Northwest,Toledo
+Seneca,State Senate,26,R,Bill Reineke,18037,Northwest,Toledo
+Seneca,State Senate,26,D,Craig Swartz,7222,Northwest,Toledo
+Seneca,State Senate,26,,Robert Taylor,48,Northwest,Toledo
+Seneca,State House,87,D,Nicholas Barnes,468,Northwest,Toledo
+Seneca,State House,87,R,Riordan T. McClain,1512,Northwest,Toledo
+Seneca,State House,88,R,Gary N. Click,15120,Northwest,Toledo
+Seneca,State House,88,D,Chris Liebold,7982,Northwest,Toledo
+Shelby,U.S. House,4,D,Shannon M. Freshour,3926,West,Dayton
+Shelby,U.S. House,4,R,Jim Jordan,20483,West,Dayton
+Shelby,U.S. House,4,I,Steve Perkins,509,West,Dayton
+Shelby,State Senate,12,R,Matt Huffman,19827,West,Dayton
+Shelby,State Senate,12,D,Ken Poling,4047,West,Dayton
+Shelby,State House,84,R,Susan Manchester,9095,West,Dayton
+Shelby,State House,84,D,Joseph A. Monbeck,1292,West,Dayton
+Shelby,State House,85,,Ted Greek,457,West,Dayton
+Shelby,State House,85,R,Nino Vitale,11437,West,Dayton
+Stark,U.S. House,7,R,Bob Gibbs,65431,Northeast,Cleveland
+Stark,U.S. House,7,I,Brandon Lape,3606,Northeast,Cleveland
+Stark,U.S. House,7,D,Quentin Potter,39882,Northeast,Cleveland
+Stark,U.S. House,13,I,Michael Fricke,280,Northeast,Cleveland
+Stark,U.S. House,13,R,Christina M. Hagan,6120,Northeast,Cleveland
+Stark,U.S. House,13,D,Tim Ryan,4222,Northeast,Cleveland
+Stark,U.S. House,16,D,Aaron Paul Godfrey,21345,Northeast,Cleveland
+Stark,U.S. House,16,R,Anthony Gonzalez,41979,Northeast,Cleveland
+Stark,State House,38,D,Joe Campbell,5019,Northeast,Cleveland
+Stark,State House,38,R,Bill Roemer,11244,Northeast,Cleveland
+Stark,State House,48,,Jean Mastin,1361,Northeast,Cleveland
+Stark,State House,48,R,Scott Oelslager,50815,Northeast,Cleveland
+Stark,State House,49,R,James Haavisto,20416,Northeast,Cleveland
+Stark,State House,49,D,Thomas E. West,24305,Northeast,Cleveland
+Stark,State House,50,D,Brian K Simeone,18197,Northeast,Cleveland
+Stark,State House,50,R,Reggie Stoltzfus,39192,Northeast,Cleveland
+Summit,U.S. House,11,D,Marcia L. Fudge,29794,Northeast,Cleveland
+Summit,U.S. House,11,R,Laverne Gore,12026,Northeast,Cleveland
+Summit,U.S. House,13,I,Michael Fricke,2903,Northeast,Cleveland
+Summit,U.S. House,13,R,Christina M. Hagan,42032,Northeast,Cleveland
+Summit,U.S. House,13,D,Tim Ryan,56748,Northeast,Cleveland
+Summit,U.S. House,14,R,David P. Joyce,42679,Northeast,Cleveland
+Summit,U.S. House,14,D,Hillary O'Connor Mueri,37842,Northeast,Cleveland
+Summit,U.S. House,16,D,Aaron Paul Godfrey,17540,Northeast,Cleveland
+Summit,U.S. House,16,R,Anthony Gonzalez,28646,Northeast,Cleveland
+Summit,State Senate,28,R,Michael Downey,59701,Northeast,Cleveland
+Summit,State Senate,28,D,Vernon Sykes,88929,Northeast,Cleveland
+Summit,State House,34,D,Emilia Sykes,36251,Northeast,Cleveland
+Summit,State House,34,R,Henry Todd,10926,Northeast,Cleveland
+Summit,State House,35,D,Tavia Galonski,22341,Northeast,Cleveland
+Summit,State House,35,R,Jodi Sarver,17210,Northeast,Cleveland
+Summit,State House,36,D,Matt Shaughnessy,29441,Northeast,Cleveland
+Summit,State House,36,R,Bob Young,32294,Northeast,Cleveland
+Summit,State House,37,R,Beth Bigham,34776,Northeast,Cleveland
+Summit,State House,37,D,Casey Weinstein,36789,Northeast,Cleveland
+Summit,State House,38,D,Joe Campbell,20172,Northeast,Cleveland
+Summit,State House,38,R,Bill Roemer,27425,Northeast,Cleveland
+Trumbull,U.S. House,13,I,Michael Fricke,2133,Northeast,Youngstown
+Trumbull,U.S. House,13,R,Christina M. Hagan,44697,Northeast,Youngstown
+Trumbull,U.S. House,13,D,Tim Ryan,43574,Northeast,Youngstown
+Trumbull,U.S. House,14,R,David P. Joyce,7152,Northeast,Youngstown
+Trumbull,U.S. House,14,D,Hillary O'Connor Mueri,2463,Northeast,Youngstown
+Trumbull,State Senate,32,R,Sandra O'Brien,44274,Northeast,Youngstown
+Trumbull,State Senate,32,D,Sean J. O'Brien,53752,Northeast,Youngstown
+Trumbull,State House,63,D,Gil Blair,25379,Northeast,Youngstown
+Trumbull,State House,63,R,Mike Loychik,29999,Northeast,Youngstown
+Trumbull,State House,64,D,Michael J. O'Brien,22229,Northeast,Youngstown
+Trumbull,State House,64,R,Martha Yoder,20215,Northeast,Youngstown
+Tuscarawas,U.S. House,6,R,Bill Johnson,7784,Northeast,Cleveland
+Tuscarawas,U.S. House,6,D,Shawna Roberts,2906,Northeast,Cleveland
+Tuscarawas,U.S. House,7,R,Bob Gibbs,23142,Northeast,Cleveland
+Tuscarawas,U.S. House,7,I,Brandon Lape,924,Northeast,Cleveland
+Tuscarawas,U.S. House,7,D,Quentin Potter,8121,Northeast,Cleveland
+Tuscarawas,State House,98,D,Todd E. Beegle,11478,Northeast,Cleveland
+Tuscarawas,State House,98,R,Brett Hudson Hillyer,31085,Northeast,Cleveland
+Union,U.S. House,4,D,Shannon M. Freshour,9855,Central,Columbus
+Union,U.S. House,4,R,Jim Jordan,21978,Central,Columbus
+Union,U.S. House,4,I,Steve Perkins,1011,Central,Columbus
+Union,State Senate,26,R,Bill Reineke,22313,Central,Columbus
+Union,State Senate,26,D,Craig Swartz,9913,Central,Columbus
+Union,State Senate,26,,Robert Taylor,26,Central,Columbus
+Union,State House,86,R,Tracy Richardson,23225,Central,Columbus
+Union,State House,86,D,Tiffanie Roberts,9410,Central,Columbus
+Van Wert,U.S. House,5,R,Bob Latta,11928,West,Ft. Wayne
+Van Wert,U.S. House,5,D,Nick Rubando,2626,West,Ft. Wayne
+Van Wert,State House,82,R,Craig S. Riedel,12285,West,Ft. Wayne
+Van Wert,State House,82,,Elecia Wobler,322,West,Ft. Wayne
+Vinton,U.S. House,15,,Shane Hoffman,3,Southeast,Charleston
+Vinton,U.S. House,15,D,Joel Newby,1230,Southeast,Charleston
+Vinton,U.S. House,15,R,Steve Stivers,4444,Southeast,Charleston
+Vinton,State Senate,30,D,Michael Fletcher,616,Southeast,Charleston
+Vinton,State Senate,30,R,Frank Hoagland,1470,Southeast,Charleston
+Vinton,State House,93,,Tad Saunders,105,Southeast,Charleston
+Vinton,State House,93,R,Jason Stephens,2827,Southeast,Charleston
+Vinton,State House,94,R,Jay Edwards,1544,Southeast,Charleston
+Vinton,State House,94,D,Katie O'Neill,580,Southeast,Charleston
+Warren,U.S. House,1,R,Steve Chabot,87071,Southwest,Cincinnati
+Warren,U.S. House,1,I,Kevin David Kahn,5135,Southwest,Cincinnati
+Warren,U.S. House,1,,Kiumars Kiani,4,Southwest,Cincinnati
+Warren,U.S. House,1,D,Kate Schroder,41660,Southwest,Cincinnati
+Warren,State House,54,D,Morgan Showen,22261,Southwest,Cincinnati
+Warren,State House,54,R,Paul Zeltwanger,36261,Southwest,Cincinnati
+Warren,State House,62,R,Scott Lipps,54802,Southwest,Cincinnati
+Warren,State House,62,D,Erin Rosiello,18596,Southwest,Cincinnati
+Washington,U.S. House,6,R,Bill Johnson,22985,Southeast,Parkersburg
+Washington,U.S. House,6,D,Shawna Roberts,8494,Southeast,Parkersburg
+Washington,State Senate,30,D,Michael Fletcher,9254,Southeast,Parkersburg
+Washington,State Senate,30,R,Frank Hoagland,21566,Southeast,Parkersburg
+Washington,State House,94,R,Jay Edwards,10932,Southeast,Parkersburg
+Washington,State House,94,D,Katie O'Neill,4533,Southeast,Parkersburg
+Washington,State House,95,R,Don Jones,12888,Southeast,Parkersburg
+Wayne,U.S. House,16,D,Aaron Paul Godfrey,14381,Northeast,Cleveland
+Wayne,U.S. House,16,R,Anthony Gonzalez,38035,Northeast,Cleveland
+Wayne,State House,1,D,Alison Theiss,15836,Northeast,Cleveland
+Wayne,State House,1,R,Scott Wiggam,36730,Northeast,Cleveland
+Williams,U.S. House,5,R,Bob Latta,14163,Northwest,Toledo
+Williams,U.S. House,5,D,Nick Rubando,3999,Northwest,Toledo
+Williams,State House,81,,Janet Breneman,707,Northwest,Toledo
+Williams,State House,81,R,James M. Hoops,14299,Northwest,Toledo
+Wood,U.S. House,5,R,Bob Latta,40267,Northwest,Toledo
+Wood,U.S. House,5,D,Nick Rubando,25859,Northwest,Toledo
+Wood,State Senate,2,R,Theresa Gavarone,40411,Northwest,Toledo
+Wood,State Senate,2,D,Joel O'Dorisio,25178,Northwest,Toledo
+Wood,State House,3,R,Haraz N. Ghanbari,37677,Northwest,Toledo
+Wood,State House,3,D,Laurel Johnson,27094,Northwest,Toledo
+Wyandot,U.S. House,5,R,Bob Latta,8889,Northwest,Toledo
+Wyandot,U.S. House,5,D,Nick Rubando,2347,Northwest,Toledo
+Wyandot,State Senate,26,R,Bill Reineke,8070,Northwest,Toledo
+Wyandot,State Senate,26,D,Craig Swartz,2902,Northwest,Toledo
+Wyandot,State Senate,26,,Robert Taylor,90,Northwest,Toledo
+Wyandot,State House,87,D,Nicholas Barnes,2615,Northwest,Toledo
+Wyandot,State House,87,R,Riordan T. McClain,8524,Northwest,Toledo
