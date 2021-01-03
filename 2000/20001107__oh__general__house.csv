@@ -1,1 +1,389 @@
-county,candidate,party,office,district ,votesHamilton,Steve Chabot,R,U.S. House,1,116768Hamilton,John Cranley,D,U.S. House,1,98328Hamilton,David Groshoff,L,U.S. House,1,3399Hamilton,Richard Stevenson,N,U.S. House,2,1933Hamilton,Robert Bidwell,L,U.S. House,2,5154Hamilton,Rob Portman,R,U.S. House,2,109387Hamilton,Charles Sanders,D,U.S. House,2,33740Adams,Robert Bidwell,L,U.S. House,2,250Adams,Rob Portman,R,U.S. House,2,6977Adams,Charles Sanders,D,U.S. House,2,2618Brown,Robert Bidwell,L,U.S. House,2,426Brown,Rob Portman,R,U.S. House,2,11178Brown,Charles Sanders,D,U.S. House,2,4177Clermont,Robert Bidwell,L,U.S. House,2,2259Clermont,Rob Portman,R,U.S. House,2,50524Clermont,Charles Sanders,D,U.S. House,2,15644Warren,Robert Bidwell,L,U.S. House,2,1177Warren,Rob Portman,R,U.S. House,2,26118Warren,Charles Sanders,D,U.S. House,2,7912Montgomery,Regina Burch,N,U.S. House,3,36516Montgomery,Tony Hall,D,U.S. House,3,177731Allen,Daniel Dickman,D,U.S. House,4,11409Allen,Ralph Mullinger,L,U.S. House,4,1295Allen,Michael Oxley,R,U.S. House,4,30155Auglaize,Daniel Dickman,D,U.S. House,4,3067Auglaize,Ralph Mullinger,L,U.S. House,4,418Auglaize,Michael Oxley,R,U.S. House,4,10413Crawford,Daniel Dickman,D,U.S. House,4,5118Crawford,Ralph Mullinger,L,U.S. House,4,519Crawford,Michael Oxley,R,U.S. House,4,13156Hancock,Daniel Dickman,D,U.S. House,4,6613Hancock,Ralph Mullinger,L,U.S. House,4,1475Hancock,Michael Oxley,R,U.S. House,4,21479Hardin,Daniel Dickman,D,U.S. House,4,3094Hardin,Ralph Mullinger,L,U.S. House,4,687Hardin,Michael Oxley,R,U.S. House,4,7468Knox,Daniel Dickman,D,U.S. House,4,2099Knox,Ralph Mullinger,L,U.S. House,4,355Knox,Michael Oxley,R,U.S. House,4,7652Logan,Daniel Dickman,D,U.S. House,4,2155Logan,Ralph Mullinger,L,U.S. House,4,347Logan,Michael Oxley,R,U.S. House,4,6321Marion,Daniel Dickman,D,U.S. House,4,8154Marion,Ralph Mullinger,L,U.S. House,4,935Marion,Michael Oxley,R,U.S. House,4,14653Morrow,Daniel Dickman,D,U.S. House,4,3559Morrow,Ralph Mullinger,L,U.S. House,4,536Morrow,Michael Oxley,R,U.S. House,4,8103Richland,Daniel Dickman,D,U.S. House,4,19794Richland,Ralph Mullinger,L,U.S. House,4,1281Richland,Michael Oxley,R,U.S. House,4,30199Wyandot,Daniel Dickman,D,U.S. House,4,2268Wyandot,Ralph Mullinger,L,U.S. House,4,430Wyandot,Michael Oxley,R,U.S. House,4,6911Defiance,Dannie Edmon,D,U.S. House,5,4054Defiance,Paul Gillmor ,R,U.S. House,5,10935Defiance,John Green,L,U.S. House,5,339Defiance,David Schaffer ,N,U.S. House,5,359Erie,Dannie Edmon,D,U.S. House,5,12166Erie,Paul Gillmor ,R,U.S. House,5,20265Erie,John Green,L,U.S. House,5,532Erie,David Schaffer ,N,U.S. House,5,668Henry,Dannie Edmon,D,U.S. House,5,2341Henry,Paul Gillmor ,R,U.S. House,5,9927Henry,John Green,L,U.S. House,5,370Henry,David Schaffer ,N,U.S. House,5,218Huron,Dannie Edmon,D,U.S. House,5,5156Huron,Paul Gillmor ,R,U.S. House,5,13862Huron,John Green,L,U.S. House,5,464Huron,David Schaffer ,N,U.S. House,5,740Lorain,Dannie Edmon,D,U.S. House,5,4913Lorain,Paul Gillmor ,R,U.S. House,5,9498Lorain,John Green,L,U.S. House,5,511Lorain,David Schaffer ,N,U.S. House,5,699Mercer,Dannie Edmon,D,U.S. House,5,541Mercer,Paul Gillmor ,R,U.S. House,5,1559Mercer,John Green,L,U.S. House,5,52Mercer,David Schaffer ,N,U.S. House,5,63Ottawa,Dannie Edmon,D,U.S. House,5,3530Ottawa,Paul Gillmor ,R,U.S. House,5,8460Ottawa,John Green,L,U.S. House,5,195Ottawa,David Schaffer ,N,U.S. House,5,165Paulding,Dannie Edmon,D,U.S. House,5,2380Paulding,Paul Gillmor ,R,U.S. House,5,5803Paulding,John Green,L,U.S. House,5,227Paulding,David Schaffer ,N,U.S. House,5,207Putnam,Dannie Edmon,D,U.S. House,5,2620Putnam,Paul Gillmor ,R,U.S. House,5,13368Putnam,John Green,L,U.S. House,5,313Putnam,David Schaffer ,N,U.S. House,5,348Sandusky,Dannie Edmon,D,U.S. House,5,6439Sandusky,Paul Gillmor ,R,U.S. House,5,17508Sandusky,John Green,L,U.S. House,5,556Sandusky,David Schaffer ,N,U.S. House,5,616Seneca,Dannie Edmon,D,U.S. House,5,4991Seneca,Paul Gillmor ,R,U.S. House,5,17682Seneca,John Green,L,U.S. House,5,543Seneca,David Schaffer ,N,U.S. House,5,603Van Wert,Dannie Edmon,D,U.S. House,5,2818Van Wert,Paul Gillmor ,R,U.S. House,5,9396Van Wert,John Green,L,U.S. House,5,269Van Wert,David Schaffer ,N,U.S. House,5,232Williams,Dannie Edmon,D,U.S. House,5,3077Williams,Paul Gillmor ,R,U.S. House,5,11373Williams,John Green,L,U.S. House,5,318Williams,David Schaffer ,N,U.S. House,5,404Wood,Dannie Edmon,D,U.S. House,5,7112Wood,Paul Gillmor ,R,U.S. House,5,20221Wood,John Green,L,U.S. House,5,775Wood,David Schaffer ,N,U.S. House,5,559Athens,Mike Azinger,R,U.S. House,6,6518Athens,Kenneth Maccutcheon,L,U.S. House,6,784Athens,Ted Strickland,D,U.S. House,6,17060Clinton,Mike Azinger,R,U.S. House,6,7426Clinton,Kenneth Maccutcheon,L,U.S. House,6,296Clinton,Ted Strickland,D,U.S. House,6,6950Gallia,Mike Azinger,R,U.S. House,6,5388Gallia,Kenneth Maccutcheon,L,U.S. House,6,226Gallia,Ted Strickland,D,U.S. House,6,6959Highland,Mike Azinger,R,U.S. House,6,7008Highland,Kenneth Maccutcheon,L,U.S. House,6,324Highland,Ted Strickland,D,U.S. House,6,7829Hocking,Mike Azinger,R,U.S. House,6,3870Hocking,Kenneth Maccutcheon,L,U.S. House,6,287Hocking,Ted Strickland,D,U.S. House,6,6314Jackson,Mike Azinger,R,U.S. House,6,5059Jackson,Kenneth Maccutcheon,L,U.S. House,6,180Jackson,Ted Strickland,D,U.S. House,6,7099Lawrence,Mike Azinger,R,U.S. House,6,8224Lawrence,Kenneth Maccutcheon,L,U.S. House,6,424Lawrence,Ted Strickland,D,U.S. House,6,15248Meigs,Mike Azinger,R,U.S. House,6,4238Meigs,Kenneth Maccutcheon,L,U.S. House,6,177Meigs,Ted Strickland,D,U.S. House,6,5221Pike,Mike Azinger,R,U.S. House,6,3501Pike,Kenneth Maccutcheon,L,U.S. House,6,147Pike,Ted Strickland,D,U.S. House,6,6953Ross,Mike Azinger,R,U.S. House,6,5291Ross,Kenneth Maccutcheon,L,U.S. House,6,226Ross,Ted Strickland,D,U.S. House,6,9806Scioto,Mike Azinger,R,U.S. House,6,7510Scioto,Kenneth Maccutcheon,L,U.S. House,6,344Scioto,Ted Strickland,D,U.S. House,6,22077Vinton,Mike Azinger,R,U.S. House,6,1754Vinton,Kenneth Maccutcheon,L,U.S. House,6,92Vinton,Ted Strickland,D,U.S. House,6,2976Warren,Mike Azinger,R,U.S. House,6,19756Warren,Kenneth Maccutcheon,L,U.S. House,6,823Warren,Ted Strickland,D,U.S. House,6,9936Washington,Mike Azinger,R,U.S. House,6,11423Washington,Kenneth Maccutcheon,L,U.S. House,6,429Washington,Ted Strickland,D,U.S. House,6,14421Champaign,Dave Hobson,R,U.S. House,7,10265Champaign,Donald Minor,D,U.S. House,7,3460Champaign,John Mitchell,I,U.S. House,7,1133Champaign,Jack Null,L,U.S. House,7,244Clark,Dave Hobson,R,U.S. House,7,36942Clark,Donald Minor,D,U.S. House,7,15660Clark,John Mitchell,I,U.S. House,7,2481Clark,Jack Null,L,U.S. House,7,789Fairfield,Dave Hobson,R,U.S. House,7,34318Fairfield,Donald Minor,D,U.S. House,7,12839Fairfield,John Mitchell,I,U.S. House,7,2683Fairfield,Jack Null,L,U.S. House,7,848Fayette,Dave Hobson,R,U.S. House,7,6500Fayette,Donald Minor,D,U.S. House,7,1811Fayette,John Mitchell,I,U.S. House,7,436Fayette,Jack Null,L,U.S. House,7,127Greene,Dave Hobson,R,U.S. House,7,42679Greene,Donald Minor,D,U.S. House,7,14460Greene,John Mitchell,I,U.S. House,7,4206Greene,Jack Null,L,U.S. House,7,996Logan,Dave Hobson,R,U.S. House,7,6630Logan,Donald Minor,D,U.S. House,7,1737Logan,John Mitchell,I,U.S. House,7,581Logan,Jack Null,L,U.S. House,7,124Pickaway,Dave Hobson,R,U.S. House,7,9272Pickaway,Donald Minor,D,U.S. House,7,4357Pickaway,John Mitchell,I,U.S. House,7,816Pickaway,Jack Null,L,U.S. House,7,215Ross,Dave Hobson,R,U.S. House,7,5746Ross,Donald Minor,D,U.S. House,7,3097Ross,John Mitchell,I,U.S. House,7,475Ross,Jack Null,L,U.S. House,7,117Union,Dave Hobson,R,U.S. House,7,11294Union,Donald Minor,D,U.S. House,7,3334Union,John Mitchell,I,U.S. House,7,1172Union,Jack Null,L,U.S. House,7,342Auglaize,John Boehner,R,U.S. House,8,4335Auglaize,John Parks,D,U.S. House,8,1002Auglaize,David Shock,L,U.S. House,8,117Butler,John Boehner,R,U.S. House,8,90309Butler,John Parks,D,U.S. House,8,36509Butler,David Shock,L,U.S. House,8,3640Darke,John Boehner,R,U.S. House,8,16786Darke,John Parks,D,U.S. House,8,5287Darke,David Shock,L,U.S. House,8,460Mercer,John Boehner,R,U.S. House,8,11970Mercer,John Parks,D,U.S. House,8,3369Mercer,David Shock,L,U.S. House,8,359Miami,John Boehner,R,U.S. House,8,29904Miami,John Parks,D,U.S. House,8,10309Miami,David Shock,L,U.S. House,8,1351Montgomery,John Boehner,R,U.S. House,8,899Montgomery,John Parks,D,U.S. House,8,401Montgomery,David Shock,L,U.S. House,8,57Preble,John Boehner,R,U.S. House,8,11949Preble,John Parks,D,U.S. House,8,4841Preble,David Shock,L,U.S. House,8,669Shelby,John Boehner,R,U.S. House,8,13604Shelby,John Parks,D,U.S. House,8,4575Shelby,David Shock,L,U.S. House,8,601Fulton,Dwight Bryan ,R,U.S. House,9,6338Fulton,Galen Fries,L,U.S. House,9,215Fulton,Marcy Kaptur ,D,U.S. House,9,11908Fulton,Dennis Slotnick,N,U.S. House,9,126Lucas,Dwight Bryan ,R,U.S. House,9,36256Lucas,Galen Fries,L,U.S. House,9,3576Lucas,Marcy Kaptur ,D,U.S. House,9,136488Lucas,Dennis Slotnick,N,U.S. House,9,2601Ottawa,Dwight Bryan ,R,U.S. House,9,1720Ottawa,Galen Fries,L,U.S. House,9,83Ottawa,Marcy Kaptur ,D,U.S. House,9,5234Ottawa,Dennis Slotnick,N,U.S. House,9,150Wood,Dwight Bryan ,R,U.S. House,9,5132Wood,Galen Fries,L,U.S. House,9,365Wood,Marcy Kaptur ,D,U.S. House,9,14917Wood,Dennis Slotnick,N,U.S. House,9,219Cuyahoga,Dennis Kucinich,D,U.S. House,10,167093Cuyahoga,Ron Petrie,L,U.S. House,10,6761Cuyahoga,Bill Smith,R,U.S. House,10,48940Cuyahoga,Sonja Glavina,N,U.S. House,11,3555Cuyahoga,Stephanie Jones ,D,U.S. House,11,166691Cuyahoga,James Sykora,R,U.S. House,11,22324Cuyahoga,Joel Turner,L,U.S. House,11,4289Delaware,Nick Hogan,L,U.S. House,12,890Delaware,Charles Jordan ,,U.S. House,12,261Delaware,Maryellen O'Shaughnessy,D,U.S. House,12,15954Delaware,Gregory Richey,N,U.S. House,12,507Delaware,Pat Tiberi ,R,U.S. House,12,36539Franklin,Nick Hogan,L,U.S. House,12,3061Franklin,Charles Jordan ,,U.S. House,12,1086Franklin,Maryellen O'Shaughnessy,D,U.S. House,12,87255Franklin,Gregory Richey,N,U.S. House,12,1648Franklin,Pat Tiberi ,R,U.S. House,12,79289Licking,Nick Hogan,L,U.S. House,12,595Licking,Charles Jordan ,,U.S. House,12,219Licking,Maryellen O'Shaughnessy,D,U.S. House,12,12223Licking,Gregory Richey,N,U.S. House,12,445Licking,Pat Tiberi ,R,U.S. House,12,23414Cuyahoga,Sherrod Brown ,D,U.S. House,13,4902Cuyahoga,Michael Chmura,L,U.S. House,13,246Cuyahoga,Rick Jeric ,R,U.S. House,13,3209Cuyahoga,David Kluter ,N,U.S. House,13,120Geauga,Sherrod Brown ,D,U.S. House,13,21193Geauga,Michael Chmura,L,U.S. House,13,892Geauga,Rick Jeric ,R,U.S. House,13,17939Geauga,David Kluter ,N,U.S. House,13,351Lorain,Sherrod Brown ,D,U.S. House,13,68039Lorain,Michael Chmura,L,U.S. House,13,1670Lorain,Rick Jeric ,R,U.S. House,13,21554Lorain,David Kluter ,N,U.S. House,13,955Medina,Sherrod Brown ,D,U.S. House,13,38798Medina,Michael Chmura,L,U.S. House,13,1621Medina,Rick Jeric ,R,U.S. House,13,22437Medina,David Kluter ,N,U.S. House,13,735Portage,Sherrod Brown ,D,U.S. House,13,15726Portage,Michael Chmura,L,U.S. House,13,711Portage,Rick Jeric ,R,U.S. House,13,8962Portage,David Kluter ,N,U.S. House,13,497Summit,Sherrod Brown ,D,U.S. House,13,13697Summit,Michael Chmura,L,U.S. House,13,445Summit,Rick Jeric ,R,U.S. House,13,7208Summit,David Kluter ,N,U.S. House,13,231Trumbull,Sherrod Brown ,D,U.S. House,13,7704Trumbull,Michael Chmura,L,U.S. House,13,252Trumbull,Rick Jeric ,R,U.S. House,13,2986Trumbull,David Kluter ,N,U.S. House,13,219Portage,Walter Keith,N,U.S. House,14,680Portage,"William Mcdaniel, Jr. ",L,U.S. House,14,1089Portage,Thomas Sawyer,D,U.S. House,14,22129Portage,Rick Wood,R,U.S. House,14,9314Stark,Walter Keith,N,U.S. House,14,27Stark,"William Mcdaniel, Jr. ",L,U.S. House,14,53Stark,Thomas Sawyer,D,U.S. House,14,1002Stark,Rick Wood,R,U.S. House,14,562Summit,Walter Keith,N,U.S. House,14,3162Summit,"William Mcdaniel, Jr. ",L,U.S. House,14,4461Summit,Thomas Sawyer,D,U.S. House,14,126053Summit,Rick Wood,R,U.S. House,14,61556Franklin,Bill Buckel ,D,U.S. House,15,61453Franklin,Deborah Pryce ,R,U.S. House,15,145166Franklin,Scott Smith ,L,U.S. House,15,9923Madison,Bill Buckel ,D,U.S. House,15,2943Madison,Deborah Pryce ,R,U.S. House,15,10354Madison,Scott Smith ,L,U.S. House,15,691Pickaway,Bill Buckel ,D,U.S. House,15,409Pickaway,Deborah Pryce ,R,U.S. House,15,1272Pickaway,Scott Smith ,L,U.S. House,15,86Ashland,Brad Graef,N,U.S. House,16,257Ashland,Ralph Regula ,R,U.S. House,16,14497Ashland,Richard Shetler,L,U.S. House,16,696Ashland,William Smith ,D,U.S. House,16,4716Holmes,Brad Graef,N,U.S. House,16,116Holmes,Ralph Regula ,R,U.S. House,16,7235Holmes,Richard Shetler,L,U.S. House,16,263Holmes,William Smith ,D,U.S. House,16,1335Knox,Brad Graef,N,U.S. House,16,201Knox,Ralph Regula ,R,U.S. House,16,5663Knox,Richard Shetler,L,U.S. House,16,277Knox,William Smith ,D,U.S. House,16,3190Stark,Brad Graef,N,U.S. House,16,2126Stark,Ralph Regula ,R,U.S. House,16,104042Stark,Richard Shetler,L,U.S. House,16,3959Stark,William Smith ,D,U.S. House,16,44704Wayne,Brad Graef,N,U.S. House,16,531Wayne,Ralph Regula ,R,U.S. House,16,30857Wayne,Richard Shetler,L,U.S. House,16,971Wayne,William Smith ,D,U.S. House,16,8764Columbiana,Paul Alberty,R,U.S. House,17,10822Columbiana,Lou D`Apolito ,,U.S. House,17,869Columbiana,Carol Mccoy,N,U.S. House,17,856Columbiana,Milton Norris,L,U.S. House,17,292Columbiana,James Traficant,D,U.S. House,17,22260Columbiana,Randy Walter ,,U.S. House,17,8234Mahoning,Paul Alberty,R,U.S. House,17,25790Mahoning,Lou D`Apolito ,,U.S. House,17,6020Mahoning,Carol Mccoy,N,U.S. House,17,1229Mahoning,Milton Norris,L,U.S. House,17,499Mahoning,James Traficant,D,U.S. House,17,55881Mahoning,Randy Walter ,,U.S. House,17,24024Trumbull,Paul Alberty,R,U.S. House,17,18139Trumbull,Lou D`Apolito ,,U.S. House,17,2679Trumbull,Carol Mccoy,N,U.S. House,17,1069Trumbull,Milton Norris,L,U.S. House,17,487Trumbull,James Traficant,D,U.S. House,17,42192Trumbull,Randy Walter ,,U.S. House,17,19535Belmont,"John Bargar, Sr.",L,U.S. House,18,393Belmont,Marc Guthrie,D,U.S. House,18,10653Belmont,Bob Ney ,R,U.S. House,18,19047Carroll,"John Bargar, Sr.",L,U.S. House,18,307Carroll,Marc Guthrie,D,U.S. House,18,3488Carroll,Bob Ney ,R,U.S. House,18,8126Columbiana,"John Bargar, Sr.",L,U.S. House,18,27Columbiana,Marc Guthrie,D,U.S. House,18,264Columbiana,Bob Ney ,R,U.S. House,18,283Coshocton,"John Bargar, Sr.",L,U.S. House,18,249Coshocton,Marc Guthrie,D,U.S. House,18,3970Coshocton,Bob Ney ,R,U.S. House,18,9783Guernsey,"John Bargar, Sr.",L,U.S. House,18,245Guernsey,Marc Guthrie,D,U.S. House,18,4609Guernsey,Bob Ney ,R,U.S. House,18,10370Harrison,"John Bargar, Sr.",L,U.S. House,18,141Harrison,Marc Guthrie,D,U.S. House,18,2384Harrison,Bob Ney ,R,U.S. House,18,4573Jefferson,"John Bargar, Sr.",L,U.S. House,18,617Jefferson,Marc Guthrie,D,U.S. House,18,10895Jefferson,Bob Ney ,R,U.S. House,18,22589Licking,"John Bargar, Sr.",L,U.S. House,18,713Licking,Marc Guthrie,D,U.S. House,18,11052Licking,Bob Ney ,R,U.S. House,18,12769Monroe,"John Bargar, Sr.",L,U.S. House,18,89Monroe,Marc Guthrie,D,U.S. House,18,2483Monroe,Bob Ney ,R,U.S. House,18,4471Morgan,"John Bargar, Sr.",L,U.S. House,18,150Morgan,Marc Guthrie,D,U.S. House,18,1521Morgan,Bob Ney ,R,U.S. House,18,4130Muskingum,"John Bargar, Sr.",L,U.S. House,18,715Muskingum,Marc Guthrie,D,U.S. House,18,10049Muskingum,Bob Ney ,R,U.S. House,18,21194Noble,"John Bargar, Sr.",L,U.S. House,18,112Noble,Marc Guthrie,D,U.S. House,18,1451Noble,Bob Ney ,R,U.S. House,18,4297Perry,"John Bargar, Sr.",L,U.S. House,18,359Perry,Marc Guthrie,D,U.S. House,18,5096Perry,Bob Ney ,R,U.S. House,18,6909Tuscarawas,"John Bargar, Sr.",L,U.S. House,18,831Tuscarawas,Marc Guthrie,D,U.S. House,18,11317Tuscarawas,Bob Ney ,R,U.S. House,18,23784Ashtabula,Dale Blanchard ,D,U.S. House,19,11460Ashtabula,Steven Latourette ,R,U.S. House,19,24983Ashtabula,Sid Stone ,L,U.S. House,19,1377Cuyahoga,Dale Blanchard ,D,U.S. House,19,38503Cuyahoga,Steven Latourette ,R,U.S. House,19,77210Cuyahoga,Sid Stone ,L,U.S. House,19,3492Lake,Dale Blanchard ,D,U.S. House,19,20466Lake,Steven Latourette ,R,U.S. House,19,72069Lake,Sid Stone ,L,U.S. House,19,2088
+county,candidate,party,office,district ,votes
+Hamilton,Steve Chabot,R,U.S. House,1,116768
+Hamilton,John Cranley,D,U.S. House,1,98328
+Hamilton,David Groshoff,L,U.S. House,1,3399
+Hamilton,Richard Stevenson,N,U.S. House,2,1933
+Hamilton,Robert Bidwell,L,U.S. House,2,5154
+Hamilton,Rob Portman,R,U.S. House,2,109387
+Hamilton,Charles Sanders,D,U.S. House,2,33740
+Adams,Robert Bidwell,L,U.S. House,2,250
+Adams,Rob Portman,R,U.S. House,2,6977
+Adams,Charles Sanders,D,U.S. House,2,2618
+Brown,Robert Bidwell,L,U.S. House,2,426
+Brown,Rob Portman,R,U.S. House,2,11178
+Brown,Charles Sanders,D,U.S. House,2,4177
+Clermont,Robert Bidwell,L,U.S. House,2,2259
+Clermont,Rob Portman,R,U.S. House,2,50524
+Clermont,Charles Sanders,D,U.S. House,2,15644
+Warren,Robert Bidwell,L,U.S. House,2,1177
+Warren,Rob Portman,R,U.S. House,2,26118
+Warren,Charles Sanders,D,U.S. House,2,7912
+Montgomery,Regina Burch,N,U.S. House,3,36516
+Montgomery,Tony Hall,D,U.S. House,3,177731
+Allen,Daniel Dickman,D,U.S. House,4,11409
+Allen,Ralph Mullinger,L,U.S. House,4,1295
+Allen,Michael Oxley,R,U.S. House,4,30155
+Auglaize,Daniel Dickman,D,U.S. House,4,3067
+Auglaize,Ralph Mullinger,L,U.S. House,4,418
+Auglaize,Michael Oxley,R,U.S. House,4,10413
+Crawford,Daniel Dickman,D,U.S. House,4,5118
+Crawford,Ralph Mullinger,L,U.S. House,4,519
+Crawford,Michael Oxley,R,U.S. House,4,13156
+Hancock,Daniel Dickman,D,U.S. House,4,6613
+Hancock,Ralph Mullinger,L,U.S. House,4,1475
+Hancock,Michael Oxley,R,U.S. House,4,21479
+Hardin,Daniel Dickman,D,U.S. House,4,3094
+Hardin,Ralph Mullinger,L,U.S. House,4,687
+Hardin,Michael Oxley,R,U.S. House,4,7468
+Knox,Daniel Dickman,D,U.S. House,4,2099
+Knox,Ralph Mullinger,L,U.S. House,4,355
+Knox,Michael Oxley,R,U.S. House,4,7652
+Logan,Daniel Dickman,D,U.S. House,4,2155
+Logan,Ralph Mullinger,L,U.S. House,4,347
+Logan,Michael Oxley,R,U.S. House,4,6321
+Marion,Daniel Dickman,D,U.S. House,4,8154
+Marion,Ralph Mullinger,L,U.S. House,4,935
+Marion,Michael Oxley,R,U.S. House,4,14653
+Morrow,Daniel Dickman,D,U.S. House,4,3559
+Morrow,Ralph Mullinger,L,U.S. House,4,536
+Morrow,Michael Oxley,R,U.S. House,4,8103
+Richland,Daniel Dickman,D,U.S. House,4,19794
+Richland,Ralph Mullinger,L,U.S. House,4,1281
+Richland,Michael Oxley,R,U.S. House,4,30199
+Wyandot,Daniel Dickman,D,U.S. House,4,2268
+Wyandot,Ralph Mullinger,L,U.S. House,4,430
+Wyandot,Michael Oxley,R,U.S. House,4,6911
+Defiance,Dannie Edmon,D,U.S. House,5,4054
+Defiance,Paul Gillmor ,R,U.S. House,5,10935
+Defiance,John Green,L,U.S. House,5,339
+Defiance,David Schaffer ,N,U.S. House,5,359
+Erie,Dannie Edmon,D,U.S. House,5,12166
+Erie,Paul Gillmor ,R,U.S. House,5,20265
+Erie,John Green,L,U.S. House,5,532
+Erie,David Schaffer ,N,U.S. House,5,668
+Henry,Dannie Edmon,D,U.S. House,5,2341
+Henry,Paul Gillmor ,R,U.S. House,5,9927
+Henry,John Green,L,U.S. House,5,370
+Henry,David Schaffer ,N,U.S. House,5,218
+Huron,Dannie Edmon,D,U.S. House,5,5156
+Huron,Paul Gillmor ,R,U.S. House,5,13862
+Huron,John Green,L,U.S. House,5,464
+Huron,David Schaffer ,N,U.S. House,5,740
+Lorain,Dannie Edmon,D,U.S. House,5,4913
+Lorain,Paul Gillmor ,R,U.S. House,5,9498
+Lorain,John Green,L,U.S. House,5,511
+Lorain,David Schaffer ,N,U.S. House,5,699
+Mercer,Dannie Edmon,D,U.S. House,5,541
+Mercer,Paul Gillmor ,R,U.S. House,5,1559
+Mercer,John Green,L,U.S. House,5,52
+Mercer,David Schaffer ,N,U.S. House,5,63
+Ottawa,Dannie Edmon,D,U.S. House,5,3530
+Ottawa,Paul Gillmor ,R,U.S. House,5,8460
+Ottawa,John Green,L,U.S. House,5,195
+Ottawa,David Schaffer ,N,U.S. House,5,165
+Paulding,Dannie Edmon,D,U.S. House,5,2380
+Paulding,Paul Gillmor ,R,U.S. House,5,5803
+Paulding,John Green,L,U.S. House,5,227
+Paulding,David Schaffer ,N,U.S. House,5,207
+Putnam,Dannie Edmon,D,U.S. House,5,2620
+Putnam,Paul Gillmor ,R,U.S. House,5,13368
+Putnam,John Green,L,U.S. House,5,313
+Putnam,David Schaffer ,N,U.S. House,5,348
+Sandusky,Dannie Edmon,D,U.S. House,5,6439
+Sandusky,Paul Gillmor ,R,U.S. House,5,17508
+Sandusky,John Green,L,U.S. House,5,556
+Sandusky,David Schaffer ,N,U.S. House,5,616
+Seneca,Dannie Edmon,D,U.S. House,5,4991
+Seneca,Paul Gillmor ,R,U.S. House,5,17682
+Seneca,John Green,L,U.S. House,5,543
+Seneca,David Schaffer ,N,U.S. House,5,603
+Van Wert,Dannie Edmon,D,U.S. House,5,2818
+Van Wert,Paul Gillmor ,R,U.S. House,5,9396
+Van Wert,John Green,L,U.S. House,5,269
+Van Wert,David Schaffer ,N,U.S. House,5,232
+Williams,Dannie Edmon,D,U.S. House,5,3077
+Williams,Paul Gillmor ,R,U.S. House,5,11373
+Williams,John Green,L,U.S. House,5,318
+Williams,David Schaffer ,N,U.S. House,5,404
+Wood,Dannie Edmon,D,U.S. House,5,7112
+Wood,Paul Gillmor ,R,U.S. House,5,20221
+Wood,John Green,L,U.S. House,5,775
+Wood,David Schaffer ,N,U.S. House,5,559
+Athens,Mike Azinger,R,U.S. House,6,6518
+Athens,Kenneth Maccutcheon,L,U.S. House,6,784
+Athens,Ted Strickland,D,U.S. House,6,17060
+Clinton,Mike Azinger,R,U.S. House,6,7426
+Clinton,Kenneth Maccutcheon,L,U.S. House,6,296
+Clinton,Ted Strickland,D,U.S. House,6,6950
+Gallia,Mike Azinger,R,U.S. House,6,5388
+Gallia,Kenneth Maccutcheon,L,U.S. House,6,226
+Gallia,Ted Strickland,D,U.S. House,6,6959
+Highland,Mike Azinger,R,U.S. House,6,7008
+Highland,Kenneth Maccutcheon,L,U.S. House,6,324
+Highland,Ted Strickland,D,U.S. House,6,7829
+Hocking,Mike Azinger,R,U.S. House,6,3870
+Hocking,Kenneth Maccutcheon,L,U.S. House,6,287
+Hocking,Ted Strickland,D,U.S. House,6,6314
+Jackson,Mike Azinger,R,U.S. House,6,5059
+Jackson,Kenneth Maccutcheon,L,U.S. House,6,180
+Jackson,Ted Strickland,D,U.S. House,6,7099
+Lawrence,Mike Azinger,R,U.S. House,6,8224
+Lawrence,Kenneth Maccutcheon,L,U.S. House,6,424
+Lawrence,Ted Strickland,D,U.S. House,6,15248
+Meigs,Mike Azinger,R,U.S. House,6,4238
+Meigs,Kenneth Maccutcheon,L,U.S. House,6,177
+Meigs,Ted Strickland,D,U.S. House,6,5221
+Pike,Mike Azinger,R,U.S. House,6,3501
+Pike,Kenneth Maccutcheon,L,U.S. House,6,147
+Pike,Ted Strickland,D,U.S. House,6,6953
+Ross,Mike Azinger,R,U.S. House,6,5291
+Ross,Kenneth Maccutcheon,L,U.S. House,6,226
+Ross,Ted Strickland,D,U.S. House,6,9806
+Scioto,Mike Azinger,R,U.S. House,6,7510
+Scioto,Kenneth Maccutcheon,L,U.S. House,6,344
+Scioto,Ted Strickland,D,U.S. House,6,22077
+Vinton,Mike Azinger,R,U.S. House,6,1754
+Vinton,Kenneth Maccutcheon,L,U.S. House,6,92
+Vinton,Ted Strickland,D,U.S. House,6,2976
+Warren,Mike Azinger,R,U.S. House,6,19756
+Warren,Kenneth Maccutcheon,L,U.S. House,6,823
+Warren,Ted Strickland,D,U.S. House,6,9936
+Washington,Mike Azinger,R,U.S. House,6,11423
+Washington,Kenneth Maccutcheon,L,U.S. House,6,429
+Washington,Ted Strickland,D,U.S. House,6,14421
+Champaign,Dave Hobson,R,U.S. House,7,10265
+Champaign,Donald Minor,D,U.S. House,7,3460
+Champaign,John Mitchell,I,U.S. House,7,1133
+Champaign,Jack Null,L,U.S. House,7,244
+Clark,Dave Hobson,R,U.S. House,7,36942
+Clark,Donald Minor,D,U.S. House,7,15660
+Clark,John Mitchell,I,U.S. House,7,2481
+Clark,Jack Null,L,U.S. House,7,789
+Fairfield,Dave Hobson,R,U.S. House,7,34318
+Fairfield,Donald Minor,D,U.S. House,7,12839
+Fairfield,John Mitchell,I,U.S. House,7,2683
+Fairfield,Jack Null,L,U.S. House,7,848
+Fayette,Dave Hobson,R,U.S. House,7,6500
+Fayette,Donald Minor,D,U.S. House,7,1811
+Fayette,John Mitchell,I,U.S. House,7,436
+Fayette,Jack Null,L,U.S. House,7,127
+Greene,Dave Hobson,R,U.S. House,7,42679
+Greene,Donald Minor,D,U.S. House,7,14460
+Greene,John Mitchell,I,U.S. House,7,4206
+Greene,Jack Null,L,U.S. House,7,996
+Logan,Dave Hobson,R,U.S. House,7,6630
+Logan,Donald Minor,D,U.S. House,7,1737
+Logan,John Mitchell,I,U.S. House,7,581
+Logan,Jack Null,L,U.S. House,7,124
+Pickaway,Dave Hobson,R,U.S. House,7,9272
+Pickaway,Donald Minor,D,U.S. House,7,4357
+Pickaway,John Mitchell,I,U.S. House,7,816
+Pickaway,Jack Null,L,U.S. House,7,215
+Ross,Dave Hobson,R,U.S. House,7,5746
+Ross,Donald Minor,D,U.S. House,7,3097
+Ross,John Mitchell,I,U.S. House,7,475
+Ross,Jack Null,L,U.S. House,7,117
+Union,Dave Hobson,R,U.S. House,7,11294
+Union,Donald Minor,D,U.S. House,7,3334
+Union,John Mitchell,I,U.S. House,7,1172
+Union,Jack Null,L,U.S. House,7,342
+Auglaize,John Boehner,R,U.S. House,8,4335
+Auglaize,John Parks,D,U.S. House,8,1002
+Auglaize,David Shock,L,U.S. House,8,117
+Butler,John Boehner,R,U.S. House,8,90309
+Butler,John Parks,D,U.S. House,8,36509
+Butler,David Shock,L,U.S. House,8,3640
+Darke,John Boehner,R,U.S. House,8,16786
+Darke,John Parks,D,U.S. House,8,5287
+Darke,David Shock,L,U.S. House,8,460
+Mercer,John Boehner,R,U.S. House,8,11970
+Mercer,John Parks,D,U.S. House,8,3369
+Mercer,David Shock,L,U.S. House,8,359
+Miami,John Boehner,R,U.S. House,8,29904
+Miami,John Parks,D,U.S. House,8,10309
+Miami,David Shock,L,U.S. House,8,1351
+Montgomery,John Boehner,R,U.S. House,8,899
+Montgomery,John Parks,D,U.S. House,8,401
+Montgomery,David Shock,L,U.S. House,8,57
+Preble,John Boehner,R,U.S. House,8,11949
+Preble,John Parks,D,U.S. House,8,4841
+Preble,David Shock,L,U.S. House,8,669
+Shelby,John Boehner,R,U.S. House,8,13604
+Shelby,John Parks,D,U.S. House,8,4575
+Shelby,David Shock,L,U.S. House,8,601
+Fulton,Dwight Bryan ,R,U.S. House,9,6338
+Fulton,Galen Fries,L,U.S. House,9,215
+Fulton,Marcy Kaptur ,D,U.S. House,9,11908
+Fulton,Dennis Slotnick,N,U.S. House,9,126
+Lucas,Dwight Bryan ,R,U.S. House,9,36256
+Lucas,Galen Fries,L,U.S. House,9,3576
+Lucas,Marcy Kaptur ,D,U.S. House,9,136488
+Lucas,Dennis Slotnick,N,U.S. House,9,2601
+Ottawa,Dwight Bryan ,R,U.S. House,9,1720
+Ottawa,Galen Fries,L,U.S. House,9,83
+Ottawa,Marcy Kaptur ,D,U.S. House,9,5234
+Ottawa,Dennis Slotnick,N,U.S. House,9,150
+Wood,Dwight Bryan ,R,U.S. House,9,5132
+Wood,Galen Fries,L,U.S. House,9,365
+Wood,Marcy Kaptur ,D,U.S. House,9,14917
+Wood,Dennis Slotnick,N,U.S. House,9,219
+Cuyahoga,Dennis Kucinich,D,U.S. House,10,167093
+Cuyahoga,Ron Petrie,L,U.S. House,10,6761
+Cuyahoga,Bill Smith,R,U.S. House,10,48940
+Cuyahoga,Sonja Glavina,N,U.S. House,11,3555
+Cuyahoga,Stephanie Jones ,D,U.S. House,11,166691
+Cuyahoga,James Sykora,R,U.S. House,11,22324
+Cuyahoga,Joel Turner,L,U.S. House,11,4289
+Delaware,Nick Hogan,L,U.S. House,12,890
+Delaware,Charles Jordan√ä,,U.S. House,12,261
+Delaware,Maryellen O'Shaughnessy,D,U.S. House,12,15954
+Delaware,Gregory Richey,N,U.S. House,12,507
+Delaware,Pat Tiberi ,R,U.S. House,12,36539
+Franklin,Nick Hogan,L,U.S. House,12,3061
+Franklin,Charles Jordan√ä,,U.S. House,12,1086
+Franklin,Maryellen O'Shaughnessy,D,U.S. House,12,87255
+Franklin,Gregory Richey,N,U.S. House,12,1648
+Franklin,Pat Tiberi ,R,U.S. House,12,79289
+Licking,Nick Hogan,L,U.S. House,12,595
+Licking,Charles Jordan√ä,,U.S. House,12,219
+Licking,Maryellen O'Shaughnessy,D,U.S. House,12,12223
+Licking,Gregory Richey,N,U.S. House,12,445
+Licking,Pat Tiberi ,R,U.S. House,12,23414
+Cuyahoga,Sherrod Brown ,D,U.S. House,13,4902
+Cuyahoga,Michael Chmura,L,U.S. House,13,246
+Cuyahoga,Rick Jeric ,R,U.S. House,13,3209
+Cuyahoga,David Kluter ,N,U.S. House,13,120
+Geauga,Sherrod Brown ,D,U.S. House,13,21193
+Geauga,Michael Chmura,L,U.S. House,13,892
+Geauga,Rick Jeric ,R,U.S. House,13,17939
+Geauga,David Kluter ,N,U.S. House,13,351
+Lorain,Sherrod Brown ,D,U.S. House,13,68039
+Lorain,Michael Chmura,L,U.S. House,13,1670
+Lorain,Rick Jeric ,R,U.S. House,13,21554
+Lorain,David Kluter ,N,U.S. House,13,955
+Medina,Sherrod Brown ,D,U.S. House,13,38798
+Medina,Michael Chmura,L,U.S. House,13,1621
+Medina,Rick Jeric ,R,U.S. House,13,22437
+Medina,David Kluter ,N,U.S. House,13,735
+Portage,Sherrod Brown ,D,U.S. House,13,15726
+Portage,Michael Chmura,L,U.S. House,13,711
+Portage,Rick Jeric ,R,U.S. House,13,8962
+Portage,David Kluter ,N,U.S. House,13,497
+Summit,Sherrod Brown ,D,U.S. House,13,13697
+Summit,Michael Chmura,L,U.S. House,13,445
+Summit,Rick Jeric ,R,U.S. House,13,7208
+Summit,David Kluter ,N,U.S. House,13,231
+Trumbull,Sherrod Brown ,D,U.S. House,13,7704
+Trumbull,Michael Chmura,L,U.S. House,13,252
+Trumbull,Rick Jeric ,R,U.S. House,13,2986
+Trumbull,David Kluter ,N,U.S. House,13,219
+Portage,Walter Keith,N,U.S. House,14,680
+Portage,"William Mcdaniel, Jr. ",L,U.S. House,14,1089
+Portage,Thomas Sawyer,D,U.S. House,14,22129
+Portage,Rick Wood,R,U.S. House,14,9314
+Stark,Walter Keith,N,U.S. House,14,27
+Stark,"William Mcdaniel, Jr. ",L,U.S. House,14,53
+Stark,Thomas Sawyer,D,U.S. House,14,1002
+Stark,Rick Wood,R,U.S. House,14,562
+Summit,Walter Keith,N,U.S. House,14,3162
+Summit,"William Mcdaniel, Jr. ",L,U.S. House,14,4461
+Summit,Thomas Sawyer,D,U.S. House,14,126053
+Summit,Rick Wood,R,U.S. House,14,61556
+Franklin,Bill Buckel ,D,U.S. House,15,61453
+Franklin,Deborah Pryce ,R,U.S. House,15,145166
+Franklin,Scott Smith ,L,U.S. House,15,9923
+Madison,Bill Buckel ,D,U.S. House,15,2943
+Madison,Deborah Pryce ,R,U.S. House,15,10354
+Madison,Scott Smith ,L,U.S. House,15,691
+Pickaway,Bill Buckel ,D,U.S. House,15,409
+Pickaway,Deborah Pryce ,R,U.S. House,15,1272
+Pickaway,Scott Smith ,L,U.S. House,15,86
+Ashland,Brad Graef,N,U.S. House,16,257
+Ashland,Ralph Regula ,R,U.S. House,16,14497
+Ashland,Richard Shetler,L,U.S. House,16,696
+Ashland,William Smith ,D,U.S. House,16,4716
+Holmes,Brad Graef,N,U.S. House,16,116
+Holmes,Ralph Regula ,R,U.S. House,16,7235
+Holmes,Richard Shetler,L,U.S. House,16,263
+Holmes,William Smith ,D,U.S. House,16,1335
+Knox,Brad Graef,N,U.S. House,16,201
+Knox,Ralph Regula ,R,U.S. House,16,5663
+Knox,Richard Shetler,L,U.S. House,16,277
+Knox,William Smith ,D,U.S. House,16,3190
+Stark,Brad Graef,N,U.S. House,16,2126
+Stark,Ralph Regula ,R,U.S. House,16,104042
+Stark,Richard Shetler,L,U.S. House,16,3959
+Stark,William Smith ,D,U.S. House,16,44704
+Wayne,Brad Graef,N,U.S. House,16,531
+Wayne,Ralph Regula ,R,U.S. House,16,30857
+Wayne,Richard Shetler,L,U.S. House,16,971
+Wayne,William Smith ,D,U.S. House,16,8764
+Columbiana,Paul Alberty,R,U.S. House,17,10822
+Columbiana,Lou D`Apolito√ä,,U.S. House,17,869
+Columbiana,Carol Mccoy,N,U.S. House,17,856
+Columbiana,Milton Norris,L,U.S. House,17,292
+Columbiana,James Traficant,D,U.S. House,17,22260
+Columbiana,Randy Walter√ä,,U.S. House,17,8234
+Mahoning,Paul Alberty,R,U.S. House,17,25790
+Mahoning,Lou D`Apolito√ä,,U.S. House,17,6020
+Mahoning,Carol Mccoy,N,U.S. House,17,1229
+Mahoning,Milton Norris,L,U.S. House,17,499
+Mahoning,James Traficant,D,U.S. House,17,55881
+Mahoning,Randy Walter√ä,,U.S. House,17,24024
+Trumbull,Paul Alberty,R,U.S. House,17,18139
+Trumbull,Lou D`Apolito√ä,,U.S. House,17,2679
+Trumbull,Carol Mccoy,N,U.S. House,17,1069
+Trumbull,Milton Norris,L,U.S. House,17,487
+Trumbull,James Traficant,D,U.S. House,17,42192
+Trumbull,Randy Walter√ä,,U.S. House,17,19535
+Belmont,"John Bargar, Sr.",L,U.S. House,18,393
+Belmont,Marc Guthrie,D,U.S. House,18,10653
+Belmont,Bob Ney ,R,U.S. House,18,19047
+Carroll,"John Bargar, Sr.",L,U.S. House,18,307
+Carroll,Marc Guthrie,D,U.S. House,18,3488
+Carroll,Bob Ney ,R,U.S. House,18,8126
+Columbiana,"John Bargar, Sr.",L,U.S. House,18,27
+Columbiana,Marc Guthrie,D,U.S. House,18,264
+Columbiana,Bob Ney ,R,U.S. House,18,283
+Coshocton,"John Bargar, Sr.",L,U.S. House,18,249
+Coshocton,Marc Guthrie,D,U.S. House,18,3970
+Coshocton,Bob Ney ,R,U.S. House,18,9783
+Guernsey,"John Bargar, Sr.",L,U.S. House,18,245
+Guernsey,Marc Guthrie,D,U.S. House,18,4609
+Guernsey,Bob Ney ,R,U.S. House,18,10370
+Harrison,"John Bargar, Sr.",L,U.S. House,18,141
+Harrison,Marc Guthrie,D,U.S. House,18,2384
+Harrison,Bob Ney ,R,U.S. House,18,4573
+Jefferson,"John Bargar, Sr.",L,U.S. House,18,617
+Jefferson,Marc Guthrie,D,U.S. House,18,10895
+Jefferson,Bob Ney ,R,U.S. House,18,22589
+Licking,"John Bargar, Sr.",L,U.S. House,18,713
+Licking,Marc Guthrie,D,U.S. House,18,11052
+Licking,Bob Ney ,R,U.S. House,18,12769
+Monroe,"John Bargar, Sr.",L,U.S. House,18,89
+Monroe,Marc Guthrie,D,U.S. House,18,2483
+Monroe,Bob Ney ,R,U.S. House,18,4471
+Morgan,"John Bargar, Sr.",L,U.S. House,18,150
+Morgan,Marc Guthrie,D,U.S. House,18,1521
+Morgan,Bob Ney ,R,U.S. House,18,4130
+Muskingum,"John Bargar, Sr.",L,U.S. House,18,715
+Muskingum,Marc Guthrie,D,U.S. House,18,10049
+Muskingum,Bob Ney ,R,U.S. House,18,21194
+Noble,"John Bargar, Sr.",L,U.S. House,18,112
+Noble,Marc Guthrie,D,U.S. House,18,1451
+Noble,Bob Ney ,R,U.S. House,18,4297
+Perry,"John Bargar, Sr.",L,U.S. House,18,359
+Perry,Marc Guthrie,D,U.S. House,18,5096
+Perry,Bob Ney ,R,U.S. House,18,6909
+Tuscarawas,"John Bargar, Sr.",L,U.S. House,18,831
+Tuscarawas,Marc Guthrie,D,U.S. House,18,11317
+Tuscarawas,Bob Ney ,R,U.S. House,18,23784
+Ashtabula,Dale Blanchard ,D,U.S. House,19,11460
+Ashtabula,Steven Latourette ,R,U.S. House,19,24983
+Ashtabula,Sid Stone ,L,U.S. House,19,1377
+Cuyahoga,Dale Blanchard ,D,U.S. House,19,38503
+Cuyahoga,Steven Latourette ,R,U.S. House,19,77210
+Cuyahoga,Sid Stone ,L,U.S. House,19,3492
+Lake,Dale Blanchard ,D,U.S. House,19,20466
+Lake,Steven Latourette ,R,U.S. House,19,72069
+Lake,Sid Stone ,L,U.S. House,19,2088
