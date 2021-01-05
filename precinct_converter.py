@@ -5,23 +5,17 @@ COUNTIES = ['Adams','Allen','Ashland','Ashtabula','Athens','Auglaize','Belmont',
 
 districts = load_districts()
 
-<<<<<<< HEAD
-with open('/Users/dwillis/Downloads/statewideresultsbyprecinct.csv', 'r') as csvfile:
+with open('/Users/dwillis/code/openelections-data-oh/statewideresultsbyprecinct.csv', 'r') as csvfile:
     filename = "20201103__oh__general__precinct.csv"
     reader = csv.reader(csvfile)
-=======
-with open('/Users/derekwillis/code/openelections-data-oh/president.csv', 'r') as csvfile:
-    filename = "20201103__oh__general__precinct.csv"
-    reader = csv.DictReader(csvfile)
->>>>>>> 879d2a854f5f9ae2cbf9e1b8260fb3e58c49ad30
     offices = next(reader)
     fixed_offices = []
-    for office in offices[6:]:
+    for office in offices[8:]:
         if office != '':
             o = office.strip()
-            fixed_offices.append(office.strip())
+            fixed_offices.append(o)
         else:
-            fixed_offices.append(office.strip())
+            fixed_offices.append(o)
     headers = next(reader)
     fixed_cols = headers[0:8]
     fixed_cols.extend(['office', 'district', 'party', 'candidate', 'votes'])
@@ -30,7 +24,6 @@ with open('/Users/derekwillis/code/openelections-data-oh/president.csv', 'r') as
     results = []
     for county in COUNTIES:
         county_districts = [d for d in districts if d['county'] == county]
-        results = []
         rows = [x for x in l if x[0] == county]
         for row in rows:
             county = row[0].strip()
@@ -72,7 +65,7 @@ with open('/Users/derekwillis/code/openelections-data-oh/president.csv', 'r') as
                 else:
                     continue
 
-    with open(filename, 'w') as outfile:
-        writer = csv.writer(outfile)
-        writer.writerow(fixed_cols)
-        writer.writerows(results)
+with open(filename, 'w') as outfile:
+    writer = csv.writer(outfile)
+    writer.writerow(fixed_cols)
+    writer.writerows(results)
