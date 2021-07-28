@@ -1,4 +1,4 @@
-# OpenElections Data Ohio
+# OpenElections Data Ohio [![Build Status](https://github.com/openelections/openelections-data-oh/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-oh/actions)
 
 This repository contains pre-processed election results from Ohio, formatted to be ingested into the OpenElections [processing pipeline](http://docs.openelections.net/guide/). It contains mostly CSV files converted from HTML tables. Interested in contributing? We have a bunch of [easy tasks](https://github.com/openelections/openelections-data-oh/labels/easy%20task) for you to tackle.
 
